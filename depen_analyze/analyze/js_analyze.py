@@ -6,13 +6,24 @@ import json
 import os
 
 from depen_analyze.constant import path
-from depen_analyze.utils import js_util, private_analyzer, cdn_util, chrome_driver, base_util
+from depen_analyze.utils import (
+    js_util,
+    private_analyzer,
+    cdn_util,
+    chrome_driver,
+    base_util,
+)
+
 
 class JsBaseAnalyzer:
     def __init__(self):
         self.target_rank_list = [100, 1000, 10000, 20000]
 
-    def get_third_js_ratio(self, src: str = path.DEST_JS_PATH + "all_js.json", dest: str = path.DEST_JS_ANALYZE_PATH + "third_js_ratio.json"):
+    def get_third_js_ratio(
+        self,
+        src: str = path.DEST_JS_PATH + "all_js.json",
+        dest: str = path.DEST_JS_ANALYZE_PATH + "third_js_ratio.json",
+    ):
         with open(src, "r") as f:
             js_data = json.load(f)
         third_set, all_set = set(), set()
@@ -23,29 +34,37 @@ class JsBaseAnalyzer:
             all_set = all_set.union(set(js_info["third"] + js_info["private"]))
             if int(js_info["rank"]) in self.target_rank_list:
                 result[js_info["rank"]] = len(third_set) / len(all_set)
-        
-        with open(dest, "w") as f:
-            json.dump(result, f, indent = 2)
 
-    def get_js_cnt_cdf(self, src: str = path.DEST_JS_PATH + "all_js.json", dest: str = path.DEST_JS_ANALYZE_PATH + "js_cnt_cdf.json"):
+        with open(dest, "w") as f:
+            json.dump(result, f, indent=2)
+
+    def get_js_cnt_cdf(
+        self,
+        src: str = path.DEST_JS_PATH + "all_js.json",
+        dest: str = path.DEST_JS_ANALYZE_PATH + "js_cnt_cdf.json",
+    ):
         with open(src, "r") as f:
             js_data = json.load(f)
-        cnt_dict  = defaultdict(int)
+        cnt_dict = defaultdict(int)
         result = {}
 
         for _, js_info in js_data.items():
             cnt_dict[len(js_info["third"])] += 1
 
         domain_sum = 0
-        cnt_dict = dict(sorted(cnt_dict.items(), key=lambda x:x[0]))
+        cnt_dict = dict(sorted(cnt_dict.items(), key=lambda x: x[0]))
         for rank, cnt in cnt_dict.items():
             domain_sum += cnt
             result[rank] = domain_sum
 
         with open(dest, "w") as f:
-            json.dump(result, f, indent = 2)
+            json.dump(result, f, indent=2)
 
-    def get_js_concen(self, src: str = path.DEST_JS_PATH + "all_js.json", dest:str = path.DEST_JS_ANALYZE_PATH + "js_concen.json"):
+    def get_js_concen(
+        self,
+        src: str = path.DEST_JS_PATH + "all_js.json",
+        dest: str = path.DEST_JS_ANALYZE_PATH + "js_concen.json",
+    ):
         with open(src, "r") as f:
             js_data = json.load(f)
         result = defaultdict(int)
@@ -53,15 +72,16 @@ class JsBaseAnalyzer:
         for _, js_info in js_data.items():
             for js_url in js_info["third"]:
                 result[js_url] += 1
-        
-        result = dict(sorted(result.items(), key=lambda x:x[1], reverse=True))
+
+        result = dict(sorted(result.items(), key=lambda x: x[1], reverse=True))
         with open(dest, "w") as f:
-            json.dump(result,f,indent=2)
+            json.dump(result, f, indent=2)
 
     def analyze(self):
         self.get_third_js_ratio()
         self.get_js_cnt_cdf()
         self.get_js_concen()
+
 
 class JsReliabilityAnalyzer:
     def __init__(self):
@@ -94,31 +114,38 @@ class JsReliabilityAnalyzer:
         except:
             return 0
 
-    def get_js_self_reliability(self, driver,url, js_url):
+    def get_js_self_reliability(self, driver, url, js_url):
         try:
             score = js_util.get_js_dom_change_score(driver, url, js_url)
             return score
         except:
             return 0
-    
+
     def get_all_js_self_reliability(self, driver, all_js):
         all_js_dom_change_score = {}  # {js_url: [ domain_cnt, score_sum ]}
-        with tqdm(total = len(all_js)) as pbar:
+        with tqdm(total=len(all_js)) as pbar:
             pbar.set_description("get js self reliability")
             for domain, js_info in all_js.items():
                 for js_url in js_info["third"]:
                     if js_url not in all_js_dom_change_score:
                         all_js_dom_change_score[js_url] = [0, 0]
-                        dom_score = self.get_js_self_reliability(driver, "http://"+domain, js_url)
+                        dom_score = self.get_js_self_reliability(
+                            driver, "http://" + domain, js_url
+                        )
                     all_js_dom_change_score[js_url][0] += 1
                     all_js_dom_change_score[js_url][1] += dom_score
                 pbar.update(1)
 
         for key, score_list in all_js_dom_change_score.items():
-            all_js_dom_change_score[key] = score_list[1]/score_list[0]
+            all_js_dom_change_score[key] = score_list[1] / score_list[0]
         return all_js_dom_change_score
 
-    def get_js_reliability(self, all_js_src = path.DEST_JS_PATH + "all_js.json", js_score_src = path.DEST_JS_PATH + "js_score.json", dest = path.DEST_JS_ANALYZE_PATH + "all_js_reliability.json"):
+    def get_js_reliability(
+        self,
+        all_js_src=path.DEST_JS_PATH + "all_js.json",
+        js_score_src=path.DEST_JS_PATH + "js_score.json",
+        dest=path.DEST_JS_ANALYZE_PATH + "all_js_reliability.json",
+    ):
         try:
             with open(js_score_src, "r") as f:
                 all_js_score = json.load(f)
@@ -128,23 +155,25 @@ class JsReliabilityAnalyzer:
             driver = chrome_driver.get_driver()
         except:
             return
-        
+
         with tqdm(total=len(all_js_score)) as pbar:
             pbar.set_description("get js reliablity")
             for js_url, _ in all_js_score.items():
-                    host_reli = self.get_js_host_reliability(js_url, priv_analyzer, obtainer, extractor)
-                    try:
-                        resp = requests.get(js_url)
-                        if resp.status_code == 200:
-                            trans_reli = self.get_js_trans_reliability(resp)
-                            code_reli = self.get_js_code_reliability(resp)
-                    except:
-                        pass
-                    # all_js_score[js_url] = (host_reli + trans_reli + 0.5*code_reli) / 3
-                    score = 0.6*host_reli + 0.1*trans_reli + 0.3*code_reli
-                    # print(js_url, score)
-                    all_js_score[js_url] = score
-                    pbar.update(1)
+                host_reli = self.get_js_host_reliability(
+                    js_url, priv_analyzer, obtainer, extractor
+                )
+                try:
+                    resp = requests.get(js_url)
+                    if resp.status_code == 200:
+                        trans_reli = self.get_js_trans_reliability(resp)
+                        code_reli = self.get_js_code_reliability(resp)
+                except:
+                    pass
+                # all_js_score[js_url] = (host_reli + trans_reli + 0.5*code_reli) / 3
+                score = 0.6 * host_reli + 0.1 * trans_reli + 0.3 * code_reli
+                # print(js_url, score)
+                all_js_score[js_url] = score
+                pbar.update(1)
 
         # try:
         #     with open(all_js_src, "r") as f:
@@ -152,46 +181,53 @@ class JsReliabilityAnalyzer:
         #     all_js_self_reli = self.get_all_js_self_reliability(driver, all_js)
         # except:
         #     all_js_self_reli = {}
-        
+
         # if not all_js_self_reli:
         #     return all_js_score
-        
+
         # for js_url, score in all_js_score.items():
         #     if js_url in all_js_self_reli:
         #         all_js_score[js_url] = (score + all_js_self_reli[js_url]) / 2
         return all_js_score
-    
-    def analyze(self, all_js_src = path.DEST_JS_PATH + "all_js.json", js_score_src = path.DEST_JS_PATH + "js_score.json", dest = path.DEST_JS_ANALYZE_PATH + "all_js_reliability.json"):
+
+    def analyze(
+        self,
+        all_js_src=path.DEST_JS_PATH + "all_js.json",
+        js_score_src=path.DEST_JS_PATH + "js_score.json",
+        dest=path.DEST_JS_ANALYZE_PATH + "all_js_reliability.json",
+    ):
         all_js_reliability = self.get_js_reliability(all_js_src, js_score_src, dest)
         with open(dest, "w") as f:
             json.dump(all_js_reliability, f, indent=2)
 
-def get_all_ns(src: str, dest: str, start: int=1) -> None:
+
+def get_all_ns(src: str, dest: str, start: int = 1) -> None:
     result = {}
-    dest_filename = dest+"all_ns.json"
     priv_analyzer = private_analyzer.PrivateAnalyzer()
     with open(src, "r") as f:
         js_data = json.load(f)
-    with tqdm(total = len(js_data)) as pbar:
+    with tqdm(total=len(js_data)) as pbar:
         pbar.set_description("get all ns of js")
         for rank, js_url in js_data.items():
             pbar.update(1)
             if int(rank) < start:
                 continue
             private, third = js_util.get_js_ns(priv_analyzer, js_url)
-            result[js_url] = {
-                "private" : private,
-                "third": third
-            }
+            result[js_url] = {"private": private, "third": third}
+            if int(rank) % 100 == 0:
+                filename = f"{dest}ns_{start}_{rank}.json"
+                with open(filename, "w") as f:
+                    json.dump(result, f, indent=2)
     if not os.path.exists(dest):
         os.makedirs(dest)
+    dest_filename = f"{dest}all_ns_start{start}.json"
     with open(dest_filename, "w") as f:
         json.dump(result, f, indent=2)
-    base_util.notify("JS的NS获取完毕")
+    # base_util.notify("JS的NS获取完毕")
+
 
 def get_all_cdn(src: str, dest: str, start: int = 1) -> None:
     result = {}
-    dest_filename = f"{dest}all_cdn_start{start}.json"
     obtainer = cdn_util.InternalUrlObtainer()
     extractor = cdn_util.CdnExtractor()
     with open(src, "r") as f:
@@ -203,43 +239,52 @@ def get_all_cdn(src: str, dest: str, start: int = 1) -> None:
             if int(rank) < start:
                 continue
             cdns = js_util.get_js_cdn(obtainer, extractor, js_url)
-            result[js_url] = cdns
+            result[js_url] = {"rank": rank, "cdns": cdns}
+            if int(rank) % 100 == 0:
+                filename = f"{dest}cdn_{start}_{rank}.json"
+                with open(filename, "w") as f:
+                    json.dump(result, f, indent=2)
     if not os.path.exists(dest):
         os.makedirs(dest)
+    dest_filename = f"{dest}all_cdn_start{start}.json"
     with open(dest_filename, "w") as f:
         json.dump(result, f, indent=2)
-    base_util.notify("JS的CDN获取完毕")
+    # base_util.notify("JS的CDN获取完毕")
 
-def get_all_https(src: str, dest: str, start: int=1) -> None:
+
+def get_all_https(src: str, dest: str, start: int = 1) -> None:
     result = {}
-    dest_filename = dest+"all_https.json"
+
     with open(src, "r") as f:
         js_data = json.load(f)
     with tqdm(total=len(js_data)) as pbar:
         pbar.set_description("get https of js")
-        for rank, js_url  in js_data.items():
+        for rank, js_url in js_data.items():
             pbar.update(1)
             if int(rank) < start:
                 continue
             support_https = js_util.is_js_support_https(js_url)
             support_ocsp = js_util.is_support_ocsp(js_url)
-            result[js_url] = {
-                "https": support_https,
-                "ocsp": support_ocsp
-            }
+            result[js_url] = {"https": support_https, "ocsp": support_ocsp}
+            if int(rank) % 100 == 0:
+                filename = f"{dest}https_{start}_{rank}.json"
+                with open(filename, "w") as f:
+                    json.dump(result, f, indent=2)
     if not os.path.exists(dest):
         os.makedirs(dest)
+    dest_filename = f"{dest}all_https_start{start}.json"
     with open(dest_filename, "w") as f:
         json.dump(result, f, indent=2)
-    base_util.notify("JS的HTTPS获取完毕")
+    # base_util.notify("JS的HTTPS获取完毕")
+
 
 def get_trans(src: str, dest: str, start: int) -> None:
     result = {}
-    dest_filename = dest+"trans.json"
-    with open(src,"r") as f:
+
+    with open(src, "r") as f:
         js_data = json.load(f)
     with tqdm(total=len(js_data)) as pbar:
-        for rank, js_url  in js_data.items():
+        for rank, js_url in js_data.items():
             pbar.update(1)
             if int(rank) < start:
                 continue
@@ -251,24 +296,31 @@ def get_trans(src: str, dest: str, start: int) -> None:
                     x_content_type = js_util.get_x_content_type(resp)
             except:
                 pass
-            result[js_url]={
+            result[js_url] = {
+                "rank": rank,
                 "x_xss": x_xss,
                 "csp": csp,
-                "x_content_type": x_content_type
+                "x_content_type": x_content_type,
             }
+            if int(rank) % 100 == 0:
+                filename = f"{dest}trans_{start}_{rank}.json"
+                with open(filename, "w") as f:
+                    json.dump(result, f, indent=2)
     if not os.path.exists(dest):
         os.makedirs(dest)
+    dest_filename = f"{dest}all_trans_start{start}.json"
     with open(dest_filename, "w") as f:
         json.dump(result, f, indent=2)
-    base_util.notify("JS的HTTP安全头获取完毕")
+    # base_util.notify("JS的HTTP安全头获取完毕")
+
 
 def get_eval_docwrite(src: str, dest: str, start: int) -> None:
     result = {}
-    dest_filename = dest+"eva_docwrite.json"
-    with open(src,"r") as f:
+
+    with open(src, "r") as f:
         js_data = json.load(f)
     with tqdm(total=len(js_data)) as pbar:
-        for rank, js_url  in js_data.items():
+        for rank, js_url in js_data.items():
             pbar.update(1)
             if int(rank) < start:
                 continue
@@ -278,15 +330,18 @@ def get_eval_docwrite(src: str, dest: str, start: int) -> None:
                     eval_cnt, doc_write_cnt = js_util.get_outdated_js_api(resp)
             except:
                 pass
-            result[js_url]={
-                "eval": eval_cnt,
-                "doc_write": doc_write_cnt
-            }
+            result[js_url] = {"rank": rank, "eval": eval_cnt, "doc_write": doc_write_cnt}
+            if int(rank) % 100 == 0:
+                filename = f"{dest}eval_doc_{start}_{rank}.json"
+                with open(filename, "w") as f:
+                    json.dump(result, f, indent=2)
     if not os.path.exists(dest):
         os.makedirs(dest)
+    dest_filename = f"{dest}all_eval_doc_start{start}.json"
     with open(dest_filename, "w") as f:
         json.dump(result, f, indent=2)
-    base_util.notify("JS的eval获取完毕")
+    # base_util.notify("JS的eval获取完毕")
+
 
 def get_dependency(src: str, dest: str, start: int):
     with open(src, "r") as f:
