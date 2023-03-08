@@ -1,0 +1,796 @@
+{
+  "www.citibus.fr": {
+    "rank": "801",
+    "private": [
+      "https://www.citibus.fr/js/textsizer.js",
+      "https://www.citibus.fr/js/bootstrap-carousel.js",
+      "https://www.citibus.fr/js/jquery.li-scroller.1.0.js",
+      "https://www.citibus.fr/assets/js/modernizr-2.6.2-respond-1.1.0.min.js",
+      "https://www.citibus.fr/include/fonctions.js",
+      "https://www.citibus.fr/module/itineraire/jquery.autocomplete.min.js",
+      "https://www.citibus.fr/assets/js/bootstrap.min.js",
+      "https://www.citibus.fr/assets/js/plugins.js",
+      "https://www.citibus.fr/assets/js/classie.js",
+      "https://www.citibus.fr/js/jquery.cookie.js",
+      "https://cdn.actipage.net/tarteaucitron/tarteaucitron.js",
+      "https://www.citibus.fr/js/fonctions.js"
+    ],
+    "third": [
+      "https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js",
+      "https://translate.google.com/translate_a/element.js"
+    ]
+  },
+  "www.andrewbrooksphotography.com": {
+    "rank": "802",
+    "private": [],
+    "third": [
+      "https://assets.squarespace.com/@sqs/polyfiller/1.6/modern.js",
+      "https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-f9b67b092b83798ea51d6-min.en-US.js",
+      "https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js",
+      "https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-56fdc0b6309d3f37f75e8-min.en-US.js",
+      "https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-0fda8ea0a0cf92af6b92e-min.en-US.js",
+      "https://assets.squarespace.com/universal/scripts-compressed/common-vendors-d4c8824f34d7c03a6c155-min.en-US.js",
+      "https://assets.squarespace.com/universal/scripts-compressed/common-2aa3b3e4ef45de1c28a90-min.en-US.js",
+      "https://assets.squarespace.com/universal/scripts-compressed/commerce-271f4b5d8c9762b6c3953-min.en-US.js",
+      "https://assets.squarespace.com/universal/scripts-compressed/performance-28e7aebe94225014d2fdc-min.en-US.js",
+      "https://static1.squarespace.com/static/ta/55dccaa0e4b0f748d9f6f215/962/scripts/site-bundle.js"
+    ]
+  },
+  "www.torrent-francais.com": {
+    "rank": "804",
+    "private": [],
+    "third": [
+      "http://parking.parklogic.com/page/enhance.js"
+    ]
+  },
+  "www.xwiki.org": {
+    "rank": "805",
+    "private": [
+      "http://www.xwiki.org/xwiki/webjars/wiki%3Axwiki/requirejs/2.3.6/require.min.js",
+      "http://www.xwiki.org/xwiki/resources/uicomponents/tools/pageReady.min.js",
+      "http://www.xwiki.org/xwiki/resources/js/xwiki/prototypeJSPatches.min.js",
+      "http://www.xwiki.org/xwiki/webjars/wiki%3Axwiki/prototype/1.7.3.0/prototype.js",
+      "http://www.xwiki.org/xwiki/resources/uicomponents/model/entityReference.min.js",
+      "http://www.xwiki.org/xwiki/resources/js/xwiki/table/tablefilterNsort.min.js",
+      "http://www.xwiki.org/xwiki/bin/skin/resources/js/xwiki/xwiki.bundle.min.js",
+      "http://www.xwiki.org/xwiki/bin/skin/skins/flamingo/flamingo.min.js",
+      "http://www.xwiki.org/xwiki/bin/skin/resources/uicomponents/search/searchSuggest.min.js",
+      "http://www.xwiki.org/xwiki/bin/skin/resources/uicomponents/async/async.min.js",
+      "http://www.xwiki.org/xwiki/bin/skin/resources/uicomponents/hierarchy/hierarchy.min.js",
+      "http://www.xwiki.org/xwiki/bin/skin/resources/uicomponents/widgets/tree.min.js",
+      "http://www.xwiki.org/xwiki/bin/skin/resources/uicomponents/exporter/exporter.min.js",
+      "http://www.xwiki.org/xwiki/bin/skin/resources/uicomponents/viewers/tags.min.js",
+      "http://www.xwiki.org/xwiki/skins/flamingo/js/scriptaculous/effects.js",
+      "http://www.xwiki.org/xwiki/resources/js/xwiki/compatibility.min.js",
+      "http://www.xwiki.org/xwiki/resources/js/xwiki/markerScript.min.js",
+      "http://www.xwiki.org/xwiki/webjars/wiki%3Axwiki/jquery-migrate/3.3.2/jquery-migrate.min.js",
+      "http://www.xwiki.org/xwiki/webjars/wiki%3Axwiki/iscroll/5.2.0/build/iscroll-lite.js",
+      "http://www.xwiki.org/xwiki/webjars/wiki%3Axwiki/drawer/3.2.2/js/drawer.min.js",
+      "http://www.xwiki.org/xwiki/resources/js/xwiki/meta.min.js",
+      "http://www.xwiki.org/xwiki/resources/js/xwiki/eventsBridge.min.js",
+      "http://www.xwiki.org/xwiki/webjars/wiki%3Axwiki/xwiki-platform-tree-webjar/14.4.6/require-config.min.js",
+      "http://www.xwiki.org/xwiki/resources/uicomponents/require/deferred.min.js",
+      "http://www.xwiki.org/xwiki/resources/uicomponents/suggest/suggestUsersAndGroups.min.js",
+      "http://www.xwiki.org/xwiki/webjars/wiki%3Axwiki/xwiki-platform-image-lightbox-webjar/14.4.6/lightbox.min.js",
+      "http://www.xwiki.org/xwiki/webjars/wiki%3Axwiki/Keypress/2.1.5/keypress.min.js",
+      "http://www.xwiki.org/xwiki/webjars/wiki%3Axwiki/jquery/3.6.0/jquery.min.js",
+      "http://www.xwiki.org/xwiki/webjars/wiki%3Axwiki/bootstrap/3.4.1/js/bootstrap.min.js",
+      "http://www.xwiki.org/xwiki/webjars/wiki%3Axwiki/fast-diff/1.2.0/diff.js",
+      "http://www.xwiki.org/xwiki/webjars/wiki%3Axwiki/xwiki-platform-tree-webjar/14.4.6/tree.min.js",
+      "http://www.xwiki.org/xwiki/resources/uicomponents/suggest/xwiki.selectize.min.js",
+      "http://www.xwiki.org/xwiki/webjars/wiki%3Axwiki/xwiki-platform-localization-webjar/14.4.6/l10n.min.js",
+      "http://www.xwiki.org/xwiki/webjars/wiki%3Axwiki/momentjs/2.29.1/min/moment.min.js",
+      "http://www.xwiki.org/xwiki/webjars/wiki%3Axwiki/moment-jdateformatparser/1.2.1/moment-jdateformatparser.min.js",
+      "http://www.xwiki.org/xwiki/webjars/wiki%3Axwiki/moment-timezone/0.5.34/builds/moment-timezone-with-data.min.js",
+      "http://www.xwiki.org/xwiki/webjars/wiki%3Axwiki/webjar-blueimp-gallery/3.4.0/js/blueimp-gallery-bundle.min.js",
+      "http://www.xwiki.org/xwiki/webjars/wiki%3Axwiki/selectize.js/0.13.3/js/standalone/selectize.min.js",
+      "http://www.xwiki.org/xwiki/webjars/wiki%3Axwiki/xwiki-platform-job-webjar/14.4.6/jobRunner.min.js",
+      "http://www.xwiki.org/xwiki/webjars/wiki%3Axwiki/xwiki-platform-tree-webjar/14.4.6/finder.min.js",
+      "http://www.xwiki.org/xwiki/webjars/wiki%3Axwiki/jstree/3.3.12/jstree.min.js"
+    ],
+    "third": [
+      "http://www.google-analytics.com/analytics.js",
+      "http://cdn.mouseflow.com/projects/72d20ebd-a6f8-48f6-b211-3cf36eadb0ee.js"
+    ]
+  },
+  "voydod.uz": {
+    "rank": "807",
+    "private": [
+      "http://voydod.uz/js/parking.2.103.1.js"
+    ],
+    "third": [
+      "https://www.google.com/adsense/domains/caf.js"
+    ]
+  },
+  "www.webcalc.com.br": {
+    "rank": "808",
+    "private": [
+      "http://webcalc.com.br/public/assets/js/libraries/FormatWbc.js",
+      "http://webcalc.com.br/public/assets/js/libraries/modernizr-2.6.2.min.js",
+      "http://webcalc.com.br/public/assets/js/libraries/selectivizr.js",
+      "http://webcalc.com.br/public/assets/js/libraries/jquery-1.10.2.min.js",
+      "http://webcalc.com.br/public/assets/sass/biblioteca/bootstrap/javascripts/bootstrap.min.js",
+      "http://webcalc.com.br/public/assets/js/libraries/jPushMenu.js",
+      "http://webcalc.com.br/public/assets/js/controllers/bootstrap.js",
+      "http://webcalc.com.br/public/assets/js/libraries/sweetalert.min.js",
+      "http://webcalc.com.br/public/assets/js/controllers/calc/integra_num.js",
+      "http://webcalc.com.br/public/assets/js/controllers/calc/func_esp.js",
+      "http://webcalc.com.br/public/assets/js/script.js"
+    ],
+    "third": [
+      "https://www.google-analytics.com/analytics.js",
+      "http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202302210101/show_ads_impl.js",
+      "https://partner.googleadservices.com/gampad/cookie.js",
+      "https://adservice.google.com/adsid/integrator.js"
+    ]
+  },
+  "www.ted.com": {
+    "rank": "810",
+    "private": [
+      "https://www.ted.com/_next/static/chunks/webpack-56c425570c5200926e22.js",
+      "https://www.ted.com/_next/static/chunks/framework.6b6111387a62b3fef567.js",
+      "https://www.ted.com/_next/static/chunks/main-dd859311dae6006fa181.js",
+      "https://www.ted.com/_next/static/chunks/commons.4d214e9f75ddf74af2a5.js",
+      "https://www.ted.com/_next/static/chunks/29107295.ce0b5291aac41ed110e6.js",
+      "https://www.ted.com/_next/static/chunks/c0d53ec4.171f1bb3b5022a7ef67e.js",
+      "https://www.ted.com/_next/static/chunks/1631291a185b443584f34f3cfd911127b6f96a41.e45e59080c9022ebb91a.js",
+      "https://www.ted.com/_next/static/chunks/a02dcf5accd932f4b27eba033ad056d82765dc15.9059a56fda60a2a9ff98.js",
+      "https://www.ted.com/_next/static/chunks/58e370716906736de417af730b2605b6614a2ac3.8768e8a2d7e805b65716.js",
+      "https://www.ted.com/_next/static/chunks/64621e4eaf9ccd336652463bae6dfd77be318e36.1a2b43066811c815d080.js",
+      "https://www.ted.com/_next/static/chunks/441f2a2c52d0d95918af3f1311de8f5b192a28ad.d6d3d53ce4a9bf0b59d9.js",
+      "https://www.ted.com/_next/static/chunks/120d0b8a5f5a653e3d7df32b053a3d8e6dc18dc3_CSS.093638bde8598decefe4.js",
+      "https://www.ted.com/_next/static/chunks/120d0b8a5f5a653e3d7df32b053a3d8e6dc18dc3.6d7de7c6fc6df9815a77.js",
+      "https://www.ted.com/_next/static/chunks/pages/_app-e5b3603a9863728a833b.js",
+      "https://www.ted.com/_next/static/chunks/0fae5b1a6339200722ae5820faa47c97db636477.15feef62c25577eb9f93.js",
+      "https://www.ted.com/_next/static/chunks/2e12c0655e70cf32a8f54f4a2068a6ff77f4be0b.01c41d188c4da809d56f.js",
+      "https://www.ted.com/_next/static/chunks/076f2764bd9886a1e1fd130916cb9da09528e7dc.cda7a1acbb2e3950dbfa.js",
+      "https://www.ted.com/_next/static/chunks/f726570c7ee46e8f151ee0ee2efde58faa476c05.5434847611f42833b549.js",
+      "https://www.ted.com/_next/static/chunks/a77dcb1209eac79dffe91efac99650db28c465b8.53174b034786936e7335.js",
+      "https://www.ted.com/_next/static/chunks/a77c070e5c2265a4180828b7b03e50613fbcf5a5.90e08873c89b502c7049.js",
+      "https://www.ted.com/_next/static/chunks/pages/index-ea17c40005a1281b7444.js",
+      "https://www.ted.com/_next/static/5rvO7I5SQtP4uMH95K6kg/_buildManifest.js",
+      "https://www.ted.com/_next/static/5rvO7I5SQtP4uMH95K6kg/_ssgManifest.js",
+      "https://www.ted.com/_next/static/chunks/20.eb4817e98f2f9624a5e5.js",
+      "https://www.ted.com/_next/static/chunks/0fae5b1a6339200722ae5820faa47c97db636477.15feef62c25577eb9f93.js",
+      "https://www.ted.com/_next/static/chunks/2e12c0655e70cf32a8f54f4a2068a6ff77f4be0b.01c41d188c4da809d56f.js",
+      "https://www.ted.com/_next/static/chunks/26edd995e4eff006552fd48d0827db72c730c7b3.8c587c84c295b0b11463.js",
+      "https://www.ted.com/_next/static/chunks/pages/membership-45287d56074d0dffb837.js",
+      "https://www.ted.com/_next/static/chunks/076f2764bd9886a1e1fd130916cb9da09528e7dc.cda7a1acbb2e3950dbfa.js",
+      "https://www.ted.com/_next/static/chunks/a77dcb1209eac79dffe91efac99650db28c465b8.53174b034786936e7335.js",
+      "https://www.ted.com/_next/static/chunks/f726570c7ee46e8f151ee0ee2efde58faa476c05.5434847611f42833b549.js",
+      "https://www.ted.com/_next/static/chunks/a77c070e5c2265a4180828b7b03e50613fbcf5a5.90e08873c89b502c7049.js",
+      "https://www.ted.com/_next/static/chunks/pages/index-ea17c40005a1281b7444.js",
+      "https://www.ted.com/_next/static/chunks/26edd995e4eff006552fd48d0827db72c730c7b3.8c587c84c295b0b11463.js",
+      "https://www.ted.com/_next/static/chunks/pages/membership-45287d56074d0dffb837.js"
+    ],
+    "third": [
+      "https://cdn.cookielaw.org/consent/eb3a3101-85ef-45e5-a75f-dbd35e8d0b4d/OtAutoBlock.js",
+      "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+      "https://www.googleoptimize.com/optimize.js",
+      "https://ak.sail-horizon.com/spm/spm.v1.min.js",
+      "https://cdn.cookielaw.org/scripttemplates/6.31.0/otBannerSdk.js",
+      "https://dev.visualwebsiteoptimizer.com/web/djIkdGU6Ny4wOmFzeW5jJWdxdWVyeQ==/tag-da6c39e713a39821a0c4553df2493592.js",
+      "https://static-cdn.spot.im/production/launcher/tags/v3.2.2/launcher/971-bundle.js",
+      "https://static-cdn.spot.im/production/launcher/tags/v3.2.2/launcher/561-bundle.js",
+      "https://static-cdn.spot.im/production/launcher/tags/v3.2.2/launcher/830-bundle.js",
+      "https://static-cdn.spot.im/production/launcher/tags/v3.2.2/launcher/initial-bundle.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "https://hbx.media.net/bidexchange.js",
+      "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2023022102.js",
+      "https://adservice.google.com/adsid/integrator.js",
+      "https://contextual.media.net/tcb.js",
+      "https://dev.visualwebsiteoptimizer.com/settings.js"
+    ]
+  },
+  "www.masht-gov.net": {
+    "rank": "811",
+    "private": [
+      "https://www.masht-gov.net/wp-content/themes/twentytwenty/assets/js/index.js",
+      "https://www.masht-gov.net/wp-includes/js/wp-embed.min.js",
+      "https://www.masht-gov.net/wp-includes/js/wp-emoji-release.min.js"
+    ],
+    "third": []
+  },
+  "www.ferrari.com": {
+    "rank": "812",
+    "private": [
+      "https://www.ferrari.com/ruxitagentjs_ICA27NVfqrux_10259230120101641.js",
+      "https://www.ferrari.com/_next/static/7T9o-YKgiupcNbbV9A5cs/pages/index.js",
+      "https://www.ferrari.com/_next/static/7T9o-YKgiupcNbbV9A5cs/pages/_app.js",
+      "https://www.ferrari.com/_next/static/runtime/webpack-4b444dab214c6491079c.js",
+      "https://www.ferrari.com/_next/static/chunks/framework.4627232918288795dbae.js",
+      "https://www.ferrari.com/_next/static/chunks/36a89214.a1697d3eacfb324966b8.js",
+      "https://www.ferrari.com/_next/static/chunks/commons.6176a172b10ba5e0611e.js",
+      "https://www.ferrari.com/_next/static/runtime/main-bd1214b9c7e32d723fcc.js",
+      "https://www.ferrari.com/_next/static/chunks/9b01cbd9.f1cdc4596b28395972b5.js",
+      "https://www.ferrari.com/_next/static/chunks/a1b77c74.2a3d32f5473379fb8f2c.js",
+      "https://www.ferrari.com/_next/static/chunks/ac1c44fc.5122c7c585b57d85df58.js",
+      "https://www.ferrari.com/_next/static/chunks/b637e9a5.68c1d6d1c5b4545503d4.js",
+      "https://www.ferrari.com/_next/static/chunks/5fcd5e32.38ce6c8083a17cfa08a2.js",
+      "https://www.ferrari.com/_next/static/chunks/ae0ce6ff.562073a3fe3e8a8fd4d3.js",
+      "https://www.ferrari.com/_next/static/chunks/5ce6bf4a.81b0a0d43e312c346293.js",
+      "https://www.ferrari.com/_next/static/chunks/a4f625ce6f9343af41f13e02b74c0daf0b50449d.234349023fcd14a440bb.js",
+      "https://www.ferrari.com/_next/static/chunks/246ed3603096acdbee65a52ed9ad7649a10f92b6.6f14992a58e4c7dbc90f.js",
+      "https://www.ferrari.com/_next/static/chunks/5f7217bd3b44df4a602002c14d29ba593c50a172.e1444d43017e8a80f556.js",
+      "https://www.ferrari.com/_next/static/chunks/9bc648a76e7de5f08ba1445bf8fa528959415a79.73c77ddb5e19bcab2209.js",
+      "https://www.ferrari.com/_next/static/7T9o-YKgiupcNbbV9A5cs/_buildManifest.js"
+    ],
+    "third": [
+      "https://service.maxymiser.net/api/eu/ferrari.com/c580a3/mmapi.js",
+      "https://polyfill.io/v3/polyfill.min.js",
+      "https://ferrari-cdn.thron.com/shared/plugins/tracking/current/bootstrapper-min.js",
+      "https://ferrari-cdn.thron.com/shared/plugins/tracking/current/tracking-library-min.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://unpkg.com/web-vitals/dist/web-vitals.iife.js",
+      "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+      "https://cdn.cookielaw.org/scripttemplates/6.37.0/otBannerSdk.js",
+      "https://ferrari-cdn.thron.com/shared/ce/bootstrap/1/scripts/embeds-min.js"
+    ]
+  },
+  "news.adidas.com": {
+    "rank": "813",
+    "private": [
+      "https://news.adidas.com/Scripts/vendor/jquery-3.3.1.min.js",
+      "https://news.adidas.com/Scripts/custom/controllers/shared/imagesloaded.pkgd.min.js",
+      "https://news.adidas.com/Scripts/bundles/vendor-bundle-c6afb7667effc647aff6.js",
+      "https://news.adidas.com/Scripts/bundles/custom-bundle-c6afb7667effc647aff6.js"
+    ],
+    "third": [
+      "https://cdn.onesignal.com/sdks/OneSignalSDK.js",
+      "https://www.google.com/recaptcha/api.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://mp.thenewsmarket.com/MediaPanel/1.7.1.4/1.0.0.13/swfobject.js",
+      "https://mp.thenewsmarket.com/MediaPanel/1.7.1.4/1.0.0.13/htmlamp.js",
+      "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js",
+      "https://www.google-analytics.com/analytics.js"
+    ]
+  },
+  "gaia.esa.int": {
+    "rank": "816",
+    "private": [
+      "https://cdn.sci.esa.int/o/esa-science-theme/js/lazysizes.min.js",
+      "https://cdn.sci.esa.int/o/esa-science-theme/js/side-navigation.js",
+      "https://cdn.sci.esa.int/o/esa-science-theme/js/main.js"
+    ],
+    "third": [
+      "https://platform.twitter.com/widgets.js"
+    ]
+  },
+  "www.beretta.com": {
+    "rank": "818",
+    "private": [],
+    "third": []
+  },
+  "www.floodsmart.gov": {
+    "rank": "823",
+    "private": [],
+    "third": []
+  },
+  "earthdata.nasa.gov": {
+    "rank": "827",
+    "private": [
+      "https://www.earthdata.nasa.gov/s3fs-public/js/js_OjTLiimmGzO8fQT0OdX2VuzljtqLW1C6POMpz9y3EBU.js",
+      "https://www.earthdata.nasa.gov/s3fs-public/js/js_qnBhz36fVpMPXctWcF6hYP0MjE67yiqA_Q_M2Oybods.js",
+      "https://www.earthdata.nasa.gov/s3fs-public/js/js_azBlJXrDcGXIbRw5nR23VW3mbRyMoXfBj0GbLtj4q3Q.js",
+      "https://www.earthdata.nasa.gov/s3fs-public/js/js_8eGuGlx0nPVrxZpqhITlc671LIJ1uQ9fWcQQ5K8M5cQ.js",
+      "https://www.earthdata.nasa.gov/s3fs-public/js/js_Bfzz0x_4S1BMB4B9JYytM91QPmv9rOMCl0oFDiigK0k.js"
+    ],
+    "third": [
+      "https://script.crazyegg.com/pages/scripts/0013/2090.js",
+      "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js",
+      "https://static.addtoany.com/menu/page.js",
+      "https://unpkg.com/slide-element@2/dist/index.umd.js",
+      "https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js",
+      "https://static.ctctcdn.com/js/signup-form-widget/current/signup-form-widget.min.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://unpkg.com/web-vitals/dist/web-vitals.iife.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://static.addtoany.com/menu/modules/core.26680508.js",
+      "https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js",
+      "https://www.google.com/recaptcha/api.js"
+    ]
+  },
+  "www.contag.de": {
+    "rank": "828",
+    "private": [
+      "http://www.contag.de/includes/functions.js"
+    ],
+    "third": []
+  },
+  "top-media.de": {
+    "rank": "829",
+    "private": [],
+    "third": []
+  },
+  "acehprov.go.id": {
+    "rank": "830",
+    "private": [
+      "https://acehprov.go.id/themes/meuligoe/dist/js/jquery-3.4.1.min.js",
+      "https://acehprov.go.id/themes/meuligoe/dist/js/popper.min.js",
+      "https://acehprov.go.id/themes/meuligoe/dist/js/bootstrap.min.js",
+      "https://acehprov.go.id/themes/meuligoe/dist/js/plugin/slick.min.js",
+      "https://acehprov.go.id/themes/meuligoe/dist/js/all.js",
+      "https://acehprov.go.id/themes/meuligoe/script.js",
+      "https://acehprov.go.id/acehcms.js",
+      "https://acehprov.go.id/widgets.js",
+      "https://acehprov.go.id/custom.js",
+      "https://acehprov.go.id/themes/meuligoe/dist/js/plugin/jquery.backstretch.min.js",
+      "https://acehprov.go.id/themes/meuligoe/dist/js/plugin/jquery.touchSwipe.min.js",
+      "https://acehprov.go.id/themes/meuligoe/dist/js/plugin/jquery_magnific_popup/jquery.magnific-popup.min.js",
+      "https://acehprov.go.id/themes/meuligoe/dist/js/home.js",
+      "https://gpr.acehprov.go.id/gpr-aceh.js"
+    ],
+    "third": [
+      "https://cdn.jsdelivr.net/npm/progressive-image.js/dist/progressive-image.js",
+      "https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js",
+      "https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js",
+      "https://unpkg.com/ionicons@5.0.0/dist/ionicons/ionicons.esm.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://unpkg.com/ionicons@5.0.0/dist/ionicons/p-af480238.js",
+      "https://unpkg.com/ionicons@5.0.0/dist/ionicons/p-vsz5ekad.entry.js",
+      "https://unpkg.com/ionicons@5.0.0/dist/ionicons/p-763ce0c6.js",
+      "https://code.jquery.com/jquery-3.1.1.min.js"
+    ]
+  },
+  "www2.hu-berlin.de": {
+    "rank": "836",
+    "private": [
+      "https://web-support.hu-berlin.de/++plone++production/++unique++2023-02-06T18:39:28.048778/default.js",
+      "https://web-support.hu-berlin.de/++resource++collective.lazysizes/lazysizes-d6d7324.js",
+      "https://web-support.hu-berlin.de/++plone++static/++unique++2021-09-07%2015%3A37%3A32.865834/collective-faq.min.js",
+      "https://web-support.hu-berlin.de/++resource++hu_okz_widget/hu_okz_widget.js",
+      "https://web-support.hu-berlin.de/++resource++humboldt.folderimage/folderimage.js",
+      "https://web-support.hu-berlin.de/++resource++humboldt.frontpageslider.js/jquerybxslider/jquery.bxslider.min.js",
+      "https://web-support.hu-berlin.de/++resource++humboldt.menus/javascript/menus.js",
+      "https://web-support.hu-berlin.de/++resource++humboldt.tablesorter/TableSort.js",
+      "https://web-support.hu-berlin.de//++theme++humboldt.theme/dist/humboldt.theme.js",
+      "https://web-support.hu-berlin.de/++resource++kitconcept.glossary/glossary-5968e5a.js",
+      "https://web-support.hu-berlin.de/++plone++static/components/moment/locale/de.js"
+    ],
+    "third": []
+  },
+  "torrentleech.org": {
+    "rank": "837",
+    "private": [
+      "https://www.torrentleech.org/common.33d14f80695ed59a028c.js",
+      "https://www.torrentleech.org/access.4b061073ce1daf51d263.js"
+    ],
+    "third": [
+      "https://www.google.com/recaptcha/api.js"
+    ]
+  },
+  "www2.portoalegre.rs.gov.br": {
+    "rank": "842",
+    "private": [],
+    "third": []
+  },
+  "webapp.etsi.org": {
+    "rank": "844",
+    "private": [],
+    "third": []
+  },
+  "etsi-eshop.etsi.org": {
+    "rank": "845",
+    "private": [],
+    "third": []
+  },
+  "www.java.com": {
+    "rank": "846",
+    "private": [],
+    "third": [
+      "https://static.ocecdn.oraclecloud.com/cdn/cec/v23.2.2.3/_sitesclouddelivery/renderer/controller.js"
+    ]
+  },
+  "developers.sun.com": {
+    "rank": "847",
+    "private": [
+      "https://www.oracle.com/asset/web/js/ocom-v1-base.js",
+      "https://www.oracle.com/asset/web/js/ocom-v1-lib.js",
+      "https://www.oracle.com/asset/web/js/jquery-min.js",
+      "https://tms.oracle.com/main/prod/utag.sync.js",
+      "https://www.oracle.com/us/assets/metrics/ora_ocom.js",
+      "https://tms.oracle.com/main/prod/utag.js",
+      "https://tms.oracle.com/main/prod/utag.5.js",
+      "https://tms.oracle.com/main/prod/utag.14.js",
+      "https://www.oracle.com/asset/web/js/handlebars-ocom.js",
+      "https://www.oracle.com/asset/web/analytics/infinity_common.js",
+      "https://www.oracle.com/asset/web/analytics/infinity_click_tracking_ocom.js"
+    ],
+    "third": [
+      "https://tags.tiqcdn.com/utag/tiqapp/utag.v.js",
+      "https://www.oracleimg.com/us/assets/metrics/ora_code_ocom.js",
+      "https://www.oracleimg.com/us/assets/metrics/ora_code.js",
+      "https://d.oracleinfinity.io/infy/acs/account/wh3g12c3gg/js/oracle/odc.js",
+      "https://d.oracleinfinity.io/infy/acs/common/js/1.3.45/common.js",
+      "https://d.oracleinfinity.io/infy/acs/account/wh3g12c3gg/js/oracle/analytics-production/analytics.js"
+    ]
+  },
+  "java.sun.com": {
+    "rank": "848",
+    "private": [
+      "https://www.oracle.com/asset/web/js/ocom-v1-base.js",
+      "https://www.oracle.com/asset/web/js/ocom-v1-lib.js",
+      "https://www.oracle.com/asset/web/js/jquery-min.js",
+      "https://tms.oracle.com/main/prod/utag.sync.js",
+      "https://www.oracle.com/us/assets/metrics/ora_ocom.js",
+      "https://tms.oracle.com/main/prod/utag.js",
+      "https://tms.oracle.com/main/prod/utag.5.js",
+      "https://tms.oracle.com/main/prod/utag.14.js",
+      "https://www.oracle.com/asset/web/js/handlebars-ocom.js",
+      "https://www.oracle.com/asset/web/analytics/infinity_common.js",
+      "https://www.oracle.com/asset/web/analytics/infinity_click_tracking_ocom.js"
+    ],
+    "third": [
+      "https://www.oracleimg.com/us/assets/metrics/ora_code_ocom.js",
+      "https://www.oracleimg.com/us/assets/metrics/ora_code.js",
+      "https://d.oracleinfinity.io/infy/acs/account/wh3g12c3gg/js/oracle/odc.js",
+      "https://d.oracleinfinity.io/infy/acs/common/js/1.3.45/common.js",
+      "https://d.oracleinfinity.io/infy/acs/account/wh3g12c3gg/js/oracle/analytics-production/analytics.js"
+    ]
+  },
+  "www.nero.com": {
+    "rank": "849",
+    "private": [
+      "https://www.nero.com/nero-com-wGlobal/wGlobal/layout/scripts/nero/chat/freshchat.js",
+      "https://www.nero.com/nero-com-wGlobal/wGlobal/layout/scripts/ui-1_index.js",
+      "https://www.nero.com/nero-com-wGlobal/wGlobal/layout/scripts/design-1_index.js",
+      "https://www.nero.com/nero-com-wGlobal/wGlobal/layout/scripts/bootstrap/bootstrap.min.js",
+      "https://www.nero.com/nero-com-wGlobal/wGlobal/layout/scripts/nero/cookiebar/cookiebar-latest.min.js"
+    ],
+    "third": [
+      "https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+      "https://cdn.jsdelivr.net/jquery.migrate/1.4.1/jquery-migrate.min.js",
+      "https://cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js",
+      "https://cdn.jsdelivr.net/modernizr/2.8.3/modernizr.min.js",
+      "https://www.googletagmanager.com/gtm.js"
+    ]
+  },
+  "www.i12.ch": {
+    "rank": "850",
+    "private": [],
+    "third": []
+  },
+  "www.e-soft24.com": {
+    "rank": "851",
+    "private": [
+      "http://www.e-soft24.com/easyslider1.7/js/jquery.js",
+      "http://www.e-soft24.com/easyslider1.7/js/easySlider1.7.js"
+    ],
+    "third": []
+  },
+  "www.inbumtv.com": {
+    "rank": "855",
+    "private": [],
+    "third": [
+      "https://static.hugedomains.com/js/hdv3-js/jquery.min.js",
+      "https://www.google.com/recaptcha/enterprise.js",
+      "https://static.hugedomains.com/js/hdv3-js/intlTelInput.js",
+      "https://static.hugedomains.com/js/hdv3-js/script.js",
+      "https://static.hugedomains.com/js/hdv3-js/common.js",
+      "https://static.hugedomains.com/js/hdv3-js/hd-js.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://www.google-analytics.com/plugins/ua/ec.js"
+    ]
+  },
+  "www.unice.fr": {
+    "rank": "857",
+    "private": [
+      "https://unice.fr/wro/scripts/895dc6fdbd4d6fe2fc75bfe133204293fa327e7d.js",
+      "https://unice.fr/wro/scriptsFo_en/2bef43cdf70d8b42d8134c47014f998245ba76d.js",
+      "https://unice.fr/wro/jQuery/1a9d25ca9b563dddf928f5a15391b78165f3f96d.js"
+    ],
+    "third": [
+      "https://www.google-analytics.com/analytics.js"
+    ]
+  },
+  "www.seoulsemicon.co.kr": {
+    "rank": "858",
+    "private": [],
+    "third": []
+  },
+  "www.ime.unicamp.br": {
+    "rank": "859",
+    "private": [
+      "https://www.ime.unicamp.br/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js",
+      "https://www.ime.unicamp.br/misc/jquery-extend-3.4.0.js",
+      "https://www.ime.unicamp.br/misc/jquery-html-prefilter-3.5.0-backport.js",
+      "https://www.ime.unicamp.br/misc/jquery.once.js",
+      "https://www.ime.unicamp.br/misc/drupal.js",
+      "https://www.ime.unicamp.br/sites/all/modules/jquery_update/replace/ui/external/jquery.cookie.js",
+      "https://www.ime.unicamp.br/sites/all/modules/jquery_update/replace/misc/jquery.form.min.js",
+      "https://www.ime.unicamp.br/misc/ajax.js",
+      "https://www.ime.unicamp.br/sites/all/modules/jquery_update/js/jquery_update.js",
+      "https://www.ime.unicamp.br/sites/all/modules/imecc/imecc_tabstyles/js/imecc_tabstyles.js",
+      "https://www.ime.unicamp.br/sites/default/files/languages/pt-br__dZDlsxQZhbk0aixyYVo13CkKuzVhZ1e1G3nlboae7k.js",
+      "https://www.ime.unicamp.br/sites/all/themes/bootstrap/js/misc/_progress.js",
+      "https://www.ime.unicamp.br/sites/all/modules/bootstrap_login_modal/js/bootstrap_login_modal.js",
+      "https://www.ime.unicamp.br/sites/all/modules/views/js/base.js",
+      "https://www.ime.unicamp.br/sites/all/modules/qtip/modules/qtip_views/js/qtip_views.js",
+      "https://www.ime.unicamp.br/sites/all/modules/google_analytics/googleanalytics.js",
+      "https://www.ime.unicamp.br/sites/all/modules/views/js/ajax_view.js",
+      "https://www.ime.unicamp.br/sites/all/modules/qtip/js/qtip.js",
+      "https://www.ime.unicamp.br/sites/default/themes/imecc/bootstrap/js/affix.js",
+      "https://www.ime.unicamp.br/sites/default/themes/imecc/bootstrap/js/alert.js",
+      "https://www.ime.unicamp.br/sites/default/themes/imecc/bootstrap/js/button.js",
+      "https://www.ime.unicamp.br/sites/default/themes/imecc/bootstrap/js/carousel.js",
+      "https://www.ime.unicamp.br/sites/default/themes/imecc/bootstrap/js/collapse.js",
+      "https://www.ime.unicamp.br/sites/default/themes/imecc/bootstrap/js/dropdown.js",
+      "https://www.ime.unicamp.br/sites/default/themes/imecc/bootstrap/js/modal.js",
+      "https://www.ime.unicamp.br/sites/default/themes/imecc/bootstrap/js/tooltip.js",
+      "https://www.ime.unicamp.br/sites/default/themes/imecc/bootstrap/js/popover.js",
+      "https://www.ime.unicamp.br/sites/default/themes/imecc/bootstrap/js/scrollspy.js",
+      "https://www.ime.unicamp.br/sites/default/themes/imecc/bootstrap/js/tab.js",
+      "https://www.ime.unicamp.br/sites/default/themes/imecc/bootstrap/js/transition.js",
+      "https://www.ime.unicamp.br/sites/default/themes/imecc/js/imecc.js",
+      "https://www.ime.unicamp.br/sites/default/themes/imecc/js/jquery.smartmenus.bootstrap.js",
+      "https://www.ime.unicamp.br/sites/default/themes/imecc/js/jquery.smartmenus.js",
+      "https://www.ime.unicamp.br/sites/all/themes/bootstrap/js/modules/views/js/ajax_view.js",
+      "https://www.ime.unicamp.br/sites/all/themes/bootstrap/js/misc/ajax.js",
+      "https://www.ime.unicamp.br/sites/all/libraries/owl-carousel/owl.carousel.min.js",
+      "https://www.ime.unicamp.br/sites/all/modules/owlcarousel/includes/js/owlcarousel.settings.js",
+      "https://www.ime.unicamp.br/sites/all/themes/bootstrap/js/bootstrap.js"
+    ],
+    "third": [
+      "https://cdn.jsdelivr.net/qtip2/3.0.3/jquery.qtip.min.js",
+      "https://www.google-analytics.com/analytics.js"
+    ]
+  },
+  "www.math.u-bordeaux1.fr": {
+    "rank": "862",
+    "private": [],
+    "third": [
+      "https://www.math.u-bordeaux.fr/MathJax/MathJax.js",
+      "https://www.math.u-bordeaux.fr/MathJax/config/TeX-AMS_HTML-full.js",
+      "https://www.math.u-bordeaux.fr/MathJax/jax/output/HTML-CSS/fonts/STIX/fontdata.js"
+    ]
+  },
+  "www.driver-support.eu": {
+    "rank": "864",
+    "private": [
+      "http://www.driver-support.eu/wp-includes/js/jquery/jquery.min.js",
+      "http://www.driver-support.eu/wp-includes/js/jquery/jquery-migrate.min.js",
+      "http://www.driver-support.eu/wp-content/themes/twentysixteen/js/skip-link-focus-fix.js",
+      "http://www.driver-support.eu/wp-content/themes/twentysixteen/js/functions.js",
+      "http://www.driver-support.eu/wp-includes/js/wp-emoji-release.min.js"
+    ],
+    "third": []
+  },
+  "www.atnf.csiro.au": {
+    "rank": "865",
+    "private": [
+      "https://www.atnf.csiro.au/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js",
+      "https://www.atnf.csiro.au/misc/jquery-extend-3.4.0.js",
+      "https://www.atnf.csiro.au/misc/jquery-html-prefilter-3.5.0-backport.js",
+      "https://www.atnf.csiro.au/misc/jquery.once.js",
+      "https://www.atnf.csiro.au/misc/drupal.js",
+      "https://www.atnf.csiro.au/sites/all/modules/jquery_update/replace/ui/external/jquery.cookie.js",
+      "https://www.atnf.csiro.au/sites/all/modules/views_slideshow/js/views_slideshow.js",
+      "https://www.atnf.csiro.au/sites/all/themes/atnf/script/script.js",
+      "https://www.atnf.csiro.au/sites/all/themes/atnf/script/menu2.js",
+      "https://www.atnf.csiro.au/sites/all/libraries/jquery.cycle/jquery.cycle.all.js",
+      "https://www.atnf.csiro.au/sites/all/modules/views_slideshow/contrib/views_slideshow_cycle/js/views_slideshow_cycle.js",
+      "https://www.atnf.csiro.au/sites/all/modules/a11y/a11y.js",
+      "https://www.atnf.csiro.au/sites/all/modules/a11y/plugins/contrast/contrast.js",
+      "https://www.atnf.csiro.au/sites/all/modules/a11y/plugins/opendyslexic/opendyslexic.js",
+      "https://www.atnf.csiro.au/sites/all/modules/a11y/plugins/textsize/textsize.js",
+      "https://www.atnf.csiro.au/sites/all/modules/a11y/plugins/animation/animation.js"
+    ],
+    "third": [
+      "https://www.google-analytics.com/analytics.js"
+    ]
+  },
+  "www.ctp2.info": {
+    "rank": "867",
+    "private": [
+      "http://www.ctp2.info/js/bertlib/common.js",
+      "http://www.ctp2.info/js/bertlib/ticker.js",
+      "http://www.ctp2.info/js/bertlib/windowfiles/dhtmlwindow.js",
+      "http://www.ctp2.info/js/menu/menu_vars.js",
+      "http://www.ctp2.info/js/menu/menu_level0.js",
+      "http://www.ctp2.info/js/menu/menu_com.js",
+      "http://www.ctp2.info/js/bertlib/goodshare.min.js",
+      "http://piwik.zoechling.org/piwik.js"
+    ],
+    "third": [
+      "http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"
+    ]
+  },
+  "www.mnf.uzh.ch": {
+    "rank": "869",
+    "private": [
+      "https://www.mnf.uzh.ch/terrific/assets/incl/jquery-3.3.1.min.js",
+      "https://www.mnf.uzh.ch/terrific/assets/incl/jquery-migrate-3.0.0.js",
+      "https://www.mnf.uzh.ch/terrific/50/app.js",
+      "https://webstats.uzh.ch/piwik.js"
+    ],
+    "third": []
+  },
+  "www.irrlicht3d.org": {
+    "rank": "870",
+    "private": [],
+    "third": []
+  },
+  "www.labri.fr": {
+    "rank": "873",
+    "private": [
+      "https://www.labri.fr/sites/default/files/js/js_Ry6B736Rppdd9BPQORzbVlFCA-Og8RqRHjdqcMyqs8Q.js",
+      "https://www.labri.fr/sites/default/files/js/js_TiCky9jroyUO0n1ZK32xoVmP4sHRQ_CbL6TpVTxsPpU.js"
+    ],
+    "third": []
+  },
+  "fluid.media.mit.edu": {
+    "rank": "874",
+    "private": [
+      "https://www.media.mit.edu/static/scripts/bundles/common.b388f008d87b.js"
+    ],
+    "third": [
+      "https://www.google-analytics.com/analytics.js"
+    ]
+  },
+  "doumenc.org": {
+    "rank": "878",
+    "private": [],
+    "third": []
+  },
+  "www.carmster.com": {
+    "rank": "879",
+    "private": [
+      "https://carmster.com/wordpress/wp-includes/js/jquery/jquery.js",
+      "https://carmster.com/wordpress/wp-includes/js/jquery/jquery-migrate.min.js",
+      "https://carmster.com/wordpress/wp-includes/js/wp-emoji-release.min.js",
+      "https://carmster.com/wordpress/wp-content/themes/passage/js/plugins.js",
+      "https://carmster.com/wordpress/wp-content/themes/passage/js/default.min.js",
+      "https://carmster.com/wordpress/wp-includes/js/comment-reply.min.js",
+      "https://carmster.com/wordpress/wp-content/themes/passage/js/ajax.min.js",
+      "https://carmster.com/wordpress/wp-includes/js/wp-embed.min.js"
+    ],
+    "third": []
+  },
+  "it-claim.ru": {
+    "rank": "880",
+    "private": [],
+    "third": [
+      "http://yandex.st/share/share.js",
+      "http://connect.facebook.net/en_US/all.js",
+      "http://an.yandex.ru/resource/context.js",
+      "https://connect.facebook.net/en_US/all.js",
+      "https://yandex.ru/ads/system/context.js",
+      "http://www.google-analytics.com/ga.js",
+      "http://openstat.net/cnt.js",
+      "http://mc.yandex.ru/metrika/watch.js",
+      "https://yastatic.net/partner-code-bundles/727564/1c0942547d39e10f5f56.js",
+      "https://yastatic.net/partner-code-bundles/727564/d364402d7edefb765ad8.js",
+      "https://yastatic.net/safeframe-bundles/0.83/host.js",
+      "https://yastatic.net/partner-code-bundles/727564/07cea2bf8567304efc16.js",
+      "https://yastatic.net/partner-code-bundles/727564/2ec9a88e40a26b53acde.js",
+      "https://yastatic.net/partner-code-bundles/727564/251572a9306992a54da8.js"
+    ]
+  },
+  "www.amwf.net": {
+    "rank": "883",
+    "private": [],
+    "third": [
+      "http://www.google-analytics.com/urchin.js",
+      "http://spa.snap.com/snap_preview_anywhere.js",
+      "http://crazyegg.com/pages/scripts/0003/5672.js"
+    ]
+  },
+  "atlaswww.hep.anl.gov": {
+    "rank": "886",
+    "private": [],
+    "third": []
+  },
+  "mleg.cse.sc.edu": {
+    "rank": "888",
+    "private": [
+      "http://mleg.cse.sc.edu/app.js"
+    ],
+    "third": [
+      "https://apis.google.com/js/api:client.js",
+      "https://code.jquery.com/jquery-3.6.0.js",
+      "https://cdn.datatables.net/v/bs4/jq-3.3.1/dt-1.10.21/af-2.3.5/b-1.6.2/b-colvis-1.6.2/cr-1.5.2/fc-3.3.1/kt-2.5.2/r-2.2.5/rg-1.1.2/rr-1.2.7/sp-1.1.1/sl-1.3.1/datatables.min.js",
+      "https://cdn.datatables.net/buttons/1.3.1/js/dataTables.buttons.min.js",
+      "https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js",
+      "https://cdnjs.cloudflare.com/ajax/libs/croppie/2.6.5/croppie.min.js",
+      "http://cdn.quilljs.com/1.3.6/quill.js",
+      "http://cdn.quilljs.com/1.3.6/quill.min.js",
+      "https://apis.google.com/js/platform.js",
+      "https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+    ]
+  },
+  "weblab.reliablehosting.com": {
+    "rank": "889",
+    "private": [
+      "https://reliablehosting.com/assets/js/main-bundle-5688f776d9.js",
+      "https://reliablehosting.com/assets/js/jquery-bundle-407dd82e47.js"
+    ],
+    "third": []
+  },
+  "groups.csail.mit.edu": {
+    "rank": "890",
+    "private": [
+      "https://www.csail.mit.edu/sites/default/files/js/js_Q4-jWXe7O-KnT9fpwXn3XP9YrMbtFsEivqfb7_HJGcU.js"
+    ],
+    "third": [
+      "https://www.google-analytics.com/analytics.js"
+    ]
+  },
+  "www.redaxo.org": {
+    "rank": "891",
+    "private": [
+      "https://www.redaxo.org/assets/scripts/script.js"
+    ],
+    "third": [
+      "https://redaxo.containers.piwik.pro/bb40a835-3db2-4988-84a6-bc48b1acc11a.js",
+      "https://redaxo.containers.piwik.pro/ppms.js"
+    ]
+  },
+  "www.adriano.it": {
+    "rank": "893",
+    "private": [],
+    "third": []
+  },
+  "www.gordoman.de": {
+    "rank": "895",
+    "private": [],
+    "third": []
+  },
+  "www.nooreg.no": {
+    "rank": "896",
+    "private": [
+      "http://nooreg.no/wp-includes/js/wp-emoji-release.min.js",
+      "http://nooreg.no/wp-includes/js/jquery/jquery.min.js",
+      "http://nooreg.no/wp-includes/js/jquery/jquery-migrate.min.js",
+      "http://nooreg.no/wp-content/plugins/login-with-ajax/widget/login-with-ajax.js",
+      "http://nooreg.no/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js",
+      "http://nooreg.no/wp-content/plugins/download-manager/assets/bootstrap/js/popper.min.js",
+      "http://nooreg.no/wp-content/plugins/download-manager/assets/bootstrap/js/bootstrap.min.js",
+      "http://nooreg.no/wp-content/plugins/download-manager/assets/js/front.js",
+      "http://nooreg.no/wp-includes/js/dist/vendor/regenerator-runtime.min.js",
+      "http://nooreg.no/wp-includes/js/dist/vendor/wp-polyfill.min.js",
+      "http://nooreg.no/wp-includes/js/dist/hooks.min.js",
+      "http://nooreg.no/wp-includes/js/dist/i18n.min.js",
+      "http://nooreg.no/wp-includes/js/jquery/jquery.form.min.js",
+      "http://nooreg.no/wp-content/plugins/revslider/public/assets/js/rbtools.min.js",
+      "http://nooreg.no/wp-content/plugins/revslider/public/assets/js/rs6.min.js",
+      "http://nooreg.no/wp-content/themes/twentyfourteen/js/functions.js",
+      "http://nooreg.no/wp-includes/js/wp-embed.min.js"
+    ],
+    "third": [
+      "https://www.google-analytics.com/analytics.js"
+    ]
+  },
+  "geeks.ues.edu.sv": {
+    "rank": "897",
+    "private": [],
+    "third": []
+  },
+  "saloweb.nl": {
+    "rank": "898",
+    "private": [],
+    "third": []
+  },
+  "people.na.infn.it": {
+    "rank": "899",
+    "private": [],
+    "third": [
+      "http://code.jquery.com/jquery-latest.min.js"
+    ]
+  },
+  "offshorelm.com": {
+    "rank": "900",
+    "private": [],
+    "third": [
+      "http://static.ysjianzhan.cn/website/plugin/sidebar/js/rightmenu.js",
+      "http://static.ysjianzhan.cn/website/plugin/sidebar/js/side_cart_browser.js",
+      "http://static.ysjianzhan.cn/website/script/usermanagemob/clipboard.js",
+      "http://static.ysjianzhan.cn/website/plugin/lantern/js/lrscroll.js",
+      "http://push.zhanzhang.baidu.com/push.js",
+      "http://static.ysjianzhan.cn/website/plugin/customerservices/js/floating.js"
+    ]
+  }
+}

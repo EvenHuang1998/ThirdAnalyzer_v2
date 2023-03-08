@@ -1,0 +1,10 @@
+
+{
+    "example.com":{
+        "rank": 1,
+        "critical": true,
+        "private": [ "ns.google.com" ],
+        "third": []
+    }
+}
+

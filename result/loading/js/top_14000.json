@@ -1,0 +1,1223 @@
+{
+  "chinateacher.com.cn": {
+    "rank": "13901",
+    "private": [
+      "http://www.chinateacher.com.cn/zgjsb/tplimg/mpcore.js",
+      "http://www.chinateacher.com.cn/zgjsb/tplimg/formap.js",
+      "http://www.chinateacher.com.cn/zgjsb/tplimg/period.js",
+      "http://www.chinateacher.com.cn/zgjsb/tplimg/calendarp.js",
+      "http://www.chinateacher.com.cn/zgjsb/tplimg/jquery132min.js",
+      "http://www.chinateacher.com.cn/zgjsb/tplimg/jquery.mousewheel.js"
+    ],
+    "third": []
+  },
+  "takesurveysforcash.com": {
+    "rank": "13902",
+    "private": [],
+    "third": [
+      "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js",
+      "https://www.realmoneystreams.com/js/jquery-1.11.2.min.js",
+      "https://www.realmoneystreams.com/js/jquery.main.js",
+      "https://www.realmoneystreams.com/js/jquery.easing.1.3.js",
+      "https://www.realmoneystreams.com/js/jquery.main.rms.js",
+      "https://d197d5i9qk1okw.cloudfront.net/js/jquery-1.8.3.min.js",
+      "https://www.google-analytics.com/analytics.js"
+    ]
+  },
+  "jynews.net": {
+    "rank": "13903",
+    "private": [
+      "https://www.jynews.net/static/js/jquery.min.js",
+      "https://www.jynews.net/static/js/jquery.superslide.min.js"
+    ],
+    "third": [
+      "https://hm.baidu.com/hm.js"
+    ]
+  },
+  "udk-berlin.de": {
+    "rank": "13904",
+    "private": [
+      "https://www.udk-berlin.de/typo3temp/assets/js/5508b6c4f0.js",
+      "https://www.udk-berlin.de/assets/1.4.0/www.udk-berlin.de/javascripts/main-head.js",
+      "https://www.udk-berlin.de/typo3conf/ext/dreipc_udk/Resources/Public/Frontend/Build/bundle.js",
+      "https://www.udk-berlin.de/assets/1.4.0/www.udk-berlin.de/components/requirejs/require.js",
+      "https://tuvok.udk-berlin.de/piwik/piwik.js",
+      "https://www.udk-berlin.de/typo3conf/ext/dreipc_udk/Resources/Public/Frontend/Build/assets/main.js",
+      "https://www.udk-berlin.de/typo3conf/ext/dreipc_udk/Resources/Public/Frontend/Build/assets/nls/de/application.js"
+    ],
+    "third": []
+  },
+  "shaoxing.com.cn": {
+    "rank": "13906",
+    "private": [
+      "http://res.shaoxing.com.cn/t/site/10001/96327661cc97e5745b5d6409f7e777fc/assets/js/jqurey-1.4.2.min.js",
+      "http://res.shaoxing.com.cn/t/site/10001/96327661cc97e5745b5d6409f7e777fc/assets/js/idangerous.swiper.min.js"
+    ],
+    "third": []
+  },
+  "cpnn.com.cn": {
+    "rank": "13908",
+    "private": [
+      "https://www.cpnn.com.cn/images20210524/jquery-1.7.2.min.js",
+      "https://www.cpnn.com.cn/images20210524/jquery.SuperSlide.js",
+      "https://www.cpnn.com.cn/images20210524/jquery.scrollbar.js",
+      "https://www.cpnn.com.cn/images/index.js"
+    ],
+    "third": [
+      "https://hm.baidu.com/hm.js"
+    ]
+  },
+  "msubmit.net": {
+    "rank": "13909",
+    "private": [],
+    "third": []
+  },
+  "enel.com": {
+    "rank": "13912",
+    "private": [
+      "https://www.enel.com/etc.clientlibs/enel-common/clientlibs/clientlib-bundle.lc-b8fa0f33f265eda43cd0532e1fcbdc48-lc.min.js",
+      "https://www.enel.com/etc.clientlibs/clientlibs/granite/jquery/granite/csrf.lc-652a558c3774088b61b0530c184710d1-lc.min.js"
+    ],
+    "third": [
+      "https://assets.adobedtm.com/launch-ENb531171bce964c769bfc582af650ee4a.js",
+      "https://assets.adobedtm.com/extensions/EPbf7b42aa08bc4f10879b1484195e80d1/AppMeasurement.js",
+      "https://assets.adobedtm.com/extensions/EPbf7b42aa08bc4f10879b1484195e80d1/AppMeasurement_Module_ActivityMap.js",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://connect.facebook.net/signals/plugins/identity.js",
+      "https://assets.adobedtm.com/58373ae8f4f6/1c927e7a32ab/7d24c21e5469/RCdcc61a84fcd84b068d2c39576dedf22d-source.js",
+      "https://assets.adobedtm.com/58373ae8f4f6/1c927e7a32ab/7d24c21e5469/RCe768bf6d8eff4ea495cab6f62f470268-source.js",
+      "https://assets.adobedtm.com/58373ae8f4f6/1c927e7a32ab/7d24c21e5469/RC55bde6401ead4a4fa876d7cc79846f03-source.js",
+      "https://assets.adobedtm.com/58373ae8f4f6/1c927e7a32ab/7d24c21e5469/RCa0a5da05ba72409f80fbab3695cab9bd-source.js",
+      "https://assets.adobedtm.com/58373ae8f4f6/1c927e7a32ab/7d24c21e5469/RCbbb3bceb7c7442a7b33d466ca39f4946-source.js"
+    ]
+  },
+  "techbang.com": {
+    "rank": "13913",
+    "private": [
+      "https://cdn1.techbang.com/assets/application-c7955dce6b4d140b5e0ff3c16b747645d305922a5385c542fe0f20d5b7c1cca4.js",
+      "https://cdn0.techbang.com/assets/welcome_posts-a80d84b98f367da84cf37521b9020acce7f0732278903213970e837d749db6cf.js",
+      "https://cdn2.techbang.com/assets/jquery.min-1cf6658c89e17f16d20781930997de7d88cf312203ded8c5afce765e0e1ae20a.js"
+    ],
+    "third": [
+      "https://anymind360.com/js/6237/ats.js",
+      "https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js",
+      "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://www.googletagservices.com/tag/js/gpt.js",
+      "https://d31qbv1cthcecs.cloudfront.net/atrk.js",
+      "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2023021301.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://sb.scorecardresearch.com/beacon.js",
+      "https://apis.google.com/js/platform.js",
+      "https://d.line-scdn.net/n/line_tag/public/release/v1/lt.js",
+      "https://track.instag.ai/track.min.js",
+      "https://adservice.google.com/adsid/integrator.js",
+      "https://cdn.aralego.net/xpush/sdk.js",
+      "https://connect.facebook.net/zh_TW/sdk.js",
+      "https://connect.facebook.net/zh_TW/sdk.js"
+    ]
+  },
+  "aaas.org": {
+    "rank": "13915",
+    "private": [],
+    "third": [
+      "https://static.ads-twitter.com/uwt.js",
+      "https://bat.bing.com/bat.js",
+      "https://secure.quantserve.com/quant.js",
+      "https://assets.adobedtm.com/a48c09ba9d50/1e36ca10b673/cd8966b8cf6b/RC36fccf0b32f4429a9fb1b5b7c0214da4-source.min.js",
+      "https://bat.bing.com/p/action/5934168.js",
+      "https://rules.quantcount.com/rules-p-gEksb-MVdYXWu.js"
+    ]
+  },
+  "ama-assn.org": {
+    "rank": "13916",
+    "private": [
+      "https://www.ama-assn.org/sites/ama-assn.org/files/google_tag/primary/google_tag.script.js",
+      "https://www.ama-assn.org/sites/ama-assn.org/files/js/js_0pFx3hcDzZu5KJB4mtRdqg_d_K2lRo9y0tfmx-UrFPg.js",
+      "https://www.ama-assn.org/sites/ama-assn.org/files/js/js_7lHKVViqMH58lCdTiajX8982RQpW3EtjXalWr_mw8T8.js",
+      "https://www.ama-assn.org/sites/ama-assn.org/files/js/js_eJHXusMlW4jvnZj6hBdh5jOXMqnvVqzLnRBTyViqW7M.js",
+      "https://www.ama-assn.org/sites/ama-assn.org/files/js/js_yirbS2CUMA3WZ3qX2EytfK2NwaPVXeNCNp-F_uO4YsY.js",
+      "https://www.ama-assn.org/sites/ama-assn.org/files/js/js_VH62PbmggDghBbDAOFLLtAZCR0k1inrzMTzy2p_8PBE.js",
+      "https://www.ama-assn.org/sites/ama-assn.org/files/js/js_U5uNG7srzqgSTMY4JGNIoTbvmb630oix9GLqGB_chrw.js",
+      "https://www.ama-assn.org/sites/ama-assn.org/files/js/js_OcnB9_6EFvED3l2k492FPeYh2nk712xjGdacU4Ym0UY.js"
+    ],
+    "third": [
+      "https://marvel-b2-cdn.bc0a.com/marvel.js",
+      "https://builder.lift.acquia.com/lift.js",
+      "https://cdn.optimizely.com/js/1063362107.js",
+      "https://players.brightcove.net/6265598906001/experience_6351ad4367ea2d001fc9d4d4/live.js",
+      "https://static.addtoany.com/menu/page.js",
+      "https://cdn.aimtell.com/sdk/aimtell-worker-sdk.js",
+      "https://cdn.jsdelivr.net/npm/jquery-validation@1.17.0/dist/jquery.validate.min.js",
+      "https://players.brightcove.net/6265598906001/default_default/index.min.js",
+      "https://cdn.b0e8.com/conv_v3.js",
+      "https://static.addtoany.com/menu/modules/core.26680508.js",
+      "https://s3.amazonaws.com/cdn.aimtell.com/trackpush/trackpush.min.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://static.ads-twitter.com/uwt.js",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+      "https://cdn.quantummetric.com/qscripts/quantum-ama.js",
+      "https://bat.bing.com/bat.js",
+      "https://cdn.inpwrd.net/track/1.0.0/bundle.min.js",
+      "https://up.pixel.ad/assets/up.js",
+      "https://tags.srv.stackadapt.com/events.js",
+      "https://cdn.gbqofs.com/mt/ama/p/detector-dom.min.js",
+      "https://analytics.tiktok.com/i18n/pixel/events.js",
+      "https://connect.facebook.net/signals/plugins/identity.js",
+      "https://bat.bing.com/p/action/25011715.js",
+      "https://s.yimg.com/wi/ytc.js"
+    ]
+  },
+  "cnenergy.org": {
+    "rank": "13917",
+    "private": [
+      "http://www.cnenergy.org/kaifamei/static/dist/js/common.7206d.js",
+      "http://www.cnenergy.org/kaifamei/static/js/jQuery.js",
+      "http://www.cnenergy.org/kaifamei/static/dist/js/lazy.7206d.js",
+      "http://www.cnenergy.org/kaifamei/static/dist/js/index.7206d.js"
+    ],
+    "third": [
+      "https://hm.baidu.com/hm.js"
+    ]
+  },
+  "the-aps.org": {
+    "rank": "13918",
+    "private": [],
+    "third": [
+      "https://www.physiology.org/ResourcePackages/APS/assets/scripts/polyfills.min.js",
+      "https://www.physiology.org/ResourcePackages/APS/assets/scripts/lodash.custom.min.js",
+      "https://www.physiology.org/ResourcePackages/APS/assets/scripts/prism.min.js",
+      "https://www.physiology.org/ResourcePackages/APS/assets/scripts/scripts.js",
+      "https://www.physiology.org/Mvc/Scripts/RDLoginLogoutStatus/login-status.js",
+      "https://cdn.feathr.co/js/boomerang.min.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://apsoc.informz.net/web_trk/sp.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://script.crazyegg.com/pages/scripts/0103/9167.js",
+      "https://polo.feathr.co/v1/analytics/match/script.js",
+      "https://polo.feathr.co/v1/accounts/5d766564d3708f035ccbc131/pixel.js",
+      "https://polo.feathr.co/v1/accounts/5b9ff69bf474f4202a87289b/pixel.js",
+      "https://polo.feathr.co/v1/analytics/match/script.js"
+    ]
+  },
+  "nejm.org": {
+    "rank": "13919",
+    "private": [],
+    "third": [
+      "https://challenges.cloudflare.com/turnstile/v0/api.js"
+    ]
+  },
+  "highsnobiety.com": {
+    "rank": "13922",
+    "private": [],
+    "third": []
+  },
+  "piwik.pro": {
+    "rank": "13923",
+    "private": [
+      "https://piwik.pro/wp-content/plugins/stop-user-enumeration/frontend/js/frontend.js",
+      "https://piwik.pro/wp-content/plugins/cc-detect-adblock/xads.js",
+      "https://piwik.pro/wp-content/assets/js/script.js",
+      "https://piwik.pro/containers/819958cc-4f49-11e7-963e-000d3a2a450a.js",
+      "https://piwik.pro/pp.js",
+      "https://piwik.pro/pp-success.js"
+    ],
+    "third": []
+  },
+  "ibm.net": {
+    "rank": "13924",
+    "private": [],
+    "third": [
+      "https://1.www.s81c.com/common/stats/ibm-common.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/masthead.min.js",
+      "https://1.www.s81c.com/common/v18/drupal/js/www.js",
+      "https://1.www.s81c.com/common/carbon/plex/load-non-latin-plex.js",
+      "https://1.www.s81c.com/common/v19a/js/www.js",
+      "https://1.www.s81c.com/common/v18/drupal/js/dyntabs.js",
+      "https://1.cms.s81c.com/modules/contrib/hc_fractal/dist/js/navs/dds-masthead-locales.js",
+      "https://1.cms.s81c.com/modules/contrib/hc_fractal/dist/js/navs/dds-masthead-scroll.js",
+      "https://1.cms.s81c.com/sites/default/files/js/js_MBS8K-blEL7eJtUI5wIevFj94VKl9VNirlgXkiwzAtA.js",
+      "https://www.ibm.com/common/digitaladvisor/cm-app/latest/cm-app.min.js",
+      "https://1.www.s81c.com/common/v18/drupal/js/tables.js",
+      "https://1.cms.s81c.com/modules/contrib/hc_fractal/dist/js/interactions.js",
+      "https://1.cms.s81c.com/modules/contrib/hc_fractal/dist/js/background-image-lazy-load.js",
+      "https://1.cms.s81c.com/modules/contrib/hc_fractal/dist/js/v18-widgets.js",
+      "https://1.www.s81c.com/common/js/tactic.js",
+      "https://1.cms.s81c.com/sites/default/files/js/js_BRA5GjSDQY6Bvtcfnd7MymhklYPqPv2yNfHseaJIdo4.js",
+      "https://1.www.s81c.com/common/js/tacticbindlinks.js",
+      "https://1.cms.s81c.com/modules/contrib/hc_fractal/dist/js/slick-sliders.js",
+      "https://1.cms.s81c.com/modules/contrib/hc_fractal/dist/js/plugins/picturefill-background.js",
+      "https://1.cms.s81c.com/sites/default/files/js/js_KNIVC2Lzjyr94kWASBwmNff0_0lPKu1bHoCPmLOhlVw.js",
+      "https://cdn.jsdelivr.net/npm/react@17/umd/react.production.min.js",
+      "https://cdn.jsdelivr.net/npm/react-dom@17/umd/react-dom.production.min.js",
+      "https://cdn.jsdelivr.net/npm/react-intl@5/dist/react-intl.min.js",
+      "https://1.cms.s81c.com/modules/contrib/hc_fractal/dist/js/mobile-accordion-item.js",
+      "https://1.cms.s81c.com/modules/contrib/hc_fractal/dist/js/tabs.js",
+      "https://hybrid-cloud-widgets-production.s3.us.cloud-object-storage.appdomain.cloud/widgets/product-explorer-main-offerings/js/main.35adfed1.js",
+      "https://1.cms.s81c.com/sites/default/files/js/js_-Myjg-IhJ4RjBOd2_jdgMWU1ah7QVioXJPtsMA5QVwk.js",
+      "https://www.ibm.com/_sec/cp_challenge/sec-cpt-3-9.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/masthead-container.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/pickBy.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/toNumber.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/store.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/index.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/_commonjsHelpers.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/host-listener.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/on.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/lit-element.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/settings.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/localeAPI.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/js.cookie.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/translateAPI.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/index2.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/masthead-composite.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/if-defined.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/spread.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/global.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/if-non-null.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/Analytics.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/dropdown.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/focus.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/settings2.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/class-map.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/163.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/validity.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/form.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/collection-helpers2.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/link.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/feature-flags.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/stable-selector.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/StickyHeader.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/index3.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/button.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/defs.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/203.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/get.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/20.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/collection-helpers.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/202.js",
+      "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/search-with-typeahead.js",
+      "https://www.ibm.com/common/v18/js/data/cnzh.js",
+      "https://1.www.s81c.com/common/js/dynamicnav/www/countrylist/usen-utf8.js",
+      "https://tags.tiqcdn.cn/dle/ibm/web/p_b8270e42987abf2fdde0104e93644f330b209d46cf2dc9c182b24b6417e8f1d3.js",
+      "https://tags.tiqcdn.cn/utag/ibm/web/prod/utag.js",
+      "https://lpcdn.lpsnmedia.net/api/chat/public/lpChat.min.js",
+      "https://www.ibm.com/common/noticechoice/vendor/notice_choice_v18_vendor.js",
+      "https://tags.tiqcdn.cn/utag/tiqapp/utag.v.js"
+    ]
+  },
+  "chinacqsb.com": {
+    "rank": "13926",
+    "private": [
+      "https://www.chinacqsb.com/resource/public/jquery.min.js",
+      "https://www.chinacqsb.com/resource/js/index.js",
+      "https://www.chinacqsb.com/resource/js/qrcode.js",
+      "https://www.chinacqsb.com/resource/public/slider/slider.js",
+      "https://www.chinacqsb.com/resource/js/main.js",
+      "https://www.chinacqsb.com/resource/public/swiper/swiper-bundle.min.js"
+    ],
+    "third": []
+  },
+  "littleducks.cn": {
+    "rank": "13927",
+    "private": [
+      "http://www.littleducks.cn/images/js/j.js",
+      "http://www.littleducks.cn/include/dedeajax2.js"
+    ],
+    "third": [
+      "https://hm.baidu.com/hm.js"
+    ]
+  },
+  "xkb.com.cn": {
+    "rank": "13928",
+    "private": [
+      "https://www.xkb.com.cn/static/index/js/jquery.min.js",
+      "https://www.xkb.com.cn/static/index/js/public.js",
+      "https://www.xkb.com.cn/static/index/js/swiper/swiper-2.7.6.min.js",
+      "https://www.xkb.com.cn/static/index/js/sortable/masonry.pkgd.js",
+      "https://www.xkb.com.cn/static/index/js/sortable/imagesLoaded.min.js",
+      "https://www.xkb.com.cn/static/index/js/layui/layui.js",
+      "https://www.xkb.com.cn/static/index/js/share/social-share.min.js",
+      "https://www.xkb.com.cn/static/index/js/xkb.js"
+    ],
+    "third": [
+      "https://res.wx.qq.com/connect/zh_CN/htmledition/js/wxLogin.js",
+      "https://hm.baidu.com/hm.js",
+      "https://s.union.360.cn/486570.js",
+      "https://hmcdn.baidu.com/static/tongji/plugins/UrlChangeTracker.js",
+      "https://e.so.com/search/c.js"
+    ]
+  },
+  "xxsb.com": {
+    "rank": "13929",
+    "private": [
+      "https://www.xxsb.com/js/jquery_002.js",
+      "https://www.xxsb.com/js/fun.js",
+      "https://www.xxsb.com/js/main.js",
+      "https://www.xxsb.com/js/jquery.js"
+    ],
+    "third": []
+  },
+  "chng.com.cn": {
+    "rank": "13930",
+    "private": [
+      "https://www.chng.com.cn/cms-chng-theme/js/lib/jquery.min.js",
+      "https://www.chng.com.cn/cms-chng-theme/js/lib/swipe/idangerous.swiper.min.js",
+      "https://www.chng.com.cn/cms-chng-theme/js/timer-es5.js",
+      "https://www.chng.com.cn/cms-chng-theme/js/lib/Tween.js",
+      "https://www.chng.com.cn/cms-chng-theme/js/lib/three.min.js",
+      "https://www.chng.com.cn/cms-chng-theme/js/lib/Carousel.js",
+      "https://www.chng.com.cn/cms-chng-theme/js/lib/CarouselApplication.js",
+      "https://www.chng.com.cn/cms-chng-theme/js/index.js",
+      "https://www.chng.com.cn/cms-chng-theme/js/lib/bootstrap.min.js",
+      "https://www.chng.com.cn/cms-chng-theme/js/lib/qrcode.min.js",
+      "https://www.chng.com.cn/cms-chng-theme/js/lib/headroom.min.js",
+      "https://www.chng.com.cn/cms-chng-theme/js/lib/rem.min.js",
+      "https://www.chng.com.cn/cms-chng-theme/js/lib/jquery.qrcode.min.js",
+      "https://www.chng.com.cn/cms-chng-theme/js/zh.js",
+      "https://www.chng.com.cn/cms-chng-theme/js/common/common.js",
+      "https://www.chng.com.cn/cms-chng-theme/js/lib/jquery.lazyload.js",
+      "https://www.chng.com.cn/cms-chng-theme/js/xss.js"
+    ],
+    "third": []
+  },
+  "edf.com": {
+    "rank": "13931",
+    "private": [
+      "https://www.edf.fr/sites/groupe/files/js/js_oMRoPTqhQ92cyvwR6xaKgB6aOBRVaCF_KHYOzDG38mk.js",
+      "https://www.edf.fr/sites/groupe/files/js/js_euOzOxjhc0MozlsWtNE9KTX_iPoYi6HZBLSlzcVEEuI.js",
+      "https://www.edf.fr/sites/groupe/files/js/js_qt8wqsSJ43ICbCySbgCnYeEtRBkhWBAxeqTZxybvWjo.js"
+    ],
+    "third": [
+      "https://cdn.tagcommander.com/1922/tc_edfgroupe_1.js",
+      "https://cdn.tagcommander.com/1922/tc_edfgroupe_3.js",
+      "https://cdn.trustcommander.net/iab-tcfapi/tcfapi.js",
+      "https://tag.aticdn.net/piano-analytics.js",
+      "https://cdn.trustcommander.net/privacy/1922/privacy_v2_17.js",
+      "https://ws.facil-iti.com/tag/faciliti-tag.min.js"
+    ]
+  },
+  "edf.fr": {
+    "rank": "13932",
+    "private": [
+      "https://www.edf.fr/sites/groupe/files/js/js_oMRoPTqhQ92cyvwR6xaKgB6aOBRVaCF_KHYOzDG38mk.js",
+      "https://www.edf.fr/sites/groupe/files/js/js_euOzOxjhc0MozlsWtNE9KTX_iPoYi6HZBLSlzcVEEuI.js",
+      "https://www.edf.fr/sites/groupe/files/js/js_qt8wqsSJ43ICbCySbgCnYeEtRBkhWBAxeqTZxybvWjo.js"
+    ],
+    "third": [
+      "https://cdn.tagcommander.com/1922/tc_edfgroupe_1.js",
+      "https://cdn.tagcommander.com/1922/tc_edfgroupe_3.js",
+      "https://cdn.trustcommander.net/iab-tcfapi/tcfapi.js",
+      "https://tag.aticdn.net/piano-analytics.js",
+      "https://cdn.trustcommander.net/privacy/1922/privacy_v2_17.js",
+      "https://ws.facil-iti.com/tag/faciliti-tag.min.js"
+    ]
+  },
+  "udacity.com": {
+    "rank": "13934",
+    "private": [
+      "https://www.udacity.com/_next/static/chunks/9733.8d345c8fe89a3ed2.js",
+      "https://www.udacity.com/_next/static/chunks/4417-0162c73d406d44d6.js",
+      "https://www.udacity.com/_next/static/chunks/2649.6957dea022e20e57.js",
+      "https://www.udacity.com/_next/static/chunks/620-2d29f0c8a939538d.js",
+      "https://www.udacity.com/_next/static/chunks/6.f4f3f824ede903e8.js",
+      "https://www.udacity.com/_next/static/chunks/webpack-9e73826764c701c1.js",
+      "https://www.udacity.com/_next/static/chunks/framework-c884002d97941d1f.js",
+      "https://www.udacity.com/_next/static/chunks/main-496304d8e0dd1ecb.js",
+      "https://www.udacity.com/_next/static/chunks/3f2dd09b-abc91775efe8a719.js",
+      "https://www.udacity.com/_next/static/chunks/pages/_app-254417853aa491c0.js",
+      "https://www.udacity.com/_next/static/chunks/4442-c61c219381aaedfb.js",
+      "https://www.udacity.com/_next/static/chunks/3527-c379094abcb3c7a8.js",
+      "https://www.udacity.com/_next/static/chunks/647-bc8e5dab06ed9d4f.js",
+      "https://www.udacity.com/_next/static/chunks/4523-9578d39d1763a0c0.js",
+      "https://www.udacity.com/_next/static/chunks/3380-7c4f33460d755477.js",
+      "https://www.udacity.com/_next/static/chunks/589-129f8026524567bf.js",
+      "https://www.udacity.com/_next/static/chunks/6513-8521b850953abc2b.js",
+      "https://www.udacity.com/_next/static/chunks/5052-b20b77b7d6de06b4.js",
+      "https://www.udacity.com/_next/static/chunks/3438-7073abb7ec0c0bc2.js",
+      "https://www.udacity.com/_next/static/chunks/pages/index-3aa1fcd63091021e.js",
+      "https://www.udacity.com/_next/static/chunks/8223-4844be739a252cde.js",
+      "https://www.udacity.com/_next/static/54ce2fea/_buildManifest.js",
+      "https://www.udacity.com/_next/static/chunks/1794-9d5048aa212ddcf5.js",
+      "https://www.udacity.com/_next/static/54ce2fea/_ssgManifest.js",
+      "https://sgmt.udacity.com/analytics.js/v1/oP3ZXzj7KM9lvyAXexoorjH0YbvawAKg/analytics.min.js",
+      "https://sgmt.udacity.com/analytics-next/bundles/ajs-destination.bundle.2cd9e450202b69d545a3.js",
+      "https://sgmt.udacity.com/analytics-next/bundles/schemaFilter.bundle.d0fc84c62e956d168cce.js"
+    ],
+    "third": [
+      "https://stats.g.doubleclick.net/dc.js",
+      "https://cdn.amplitude.com/libs/amplitude-5.2.2-min.gz.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.googleadservices.com/pagead/conversion_async.js",
+      "https://cdn.getblueshift.com/blueshift.js",
+      "https://www.google-analytics.com/plugins/ga/inpage_linkid.js",
+      "https://d.impactradius-event.com/A2196549-ea12-4308-bf0b-5abde092433a1.js",
+      "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://munchkin.marketo.net/munchkin.js",
+      "https://static.hotjar.com/c/hotjar-350428.js",
+      "https://lltrck.com/scripts/lt-v3.js",
+      "https://ext.chtbl.com/trackable.js",
+      "https://munchkin.marketo.net/162/munchkin.js",
+      "https://connect.facebook.net/signals/plugins/identity.js"
+    ]
+  },
+  "cggc.cn": {
+    "rank": "13935",
+    "private": [
+      "http://www.cggc.cn/module/jslib/jquery/jquery.js",
+      "http://www.cggc.cn/module/jslib/urite/urite.min.js",
+      "http://www.cggc.cn/module/jslib/multiline/bt_multilineText.js",
+      "http://www.cggc.cn/images/3491/jquery.SuperSlide.2.1.js",
+      "http://www.cggc.cn/images/3491/swiper.min.js",
+      "http://www.cggc.cn/images/3491/size.js",
+      "http://www.cggc.cn/script/0/1632966005609.js",
+      "http://www.cggc.cn/images/3491/index.js",
+      "http://www.cggc.cn/script/0/1632966005614.js",
+      "http://www.cggc.cn/module/jslib/accessiblereading/load.js",
+      "http://www.cggc.cn/script/web_front.js",
+      "http://www.cggc.cn/module/jslib/gtb/language.js",
+      "http://www.cggc.cn/module/jslib/accessiblereading/js/EasyReader.min.js",
+      "http://www.cggc.cn/module/jslib/accessiblereading/js/barrierfree.js",
+      "http://www.cggc.cn/module/jslib/accessiblereading/js/jquery.cookie.js",
+      "http://www.cggc.cn/module/jslib/accessiblereading/js/jquery.jplayer.min.js",
+      "http://www.cggc.cn/module/jslib/accessiblereading/js/jquery.md5.min.js",
+      "http://www.cggc.cn/module/jslib/accessiblereading/js/jsbrowser.js",
+      "http://www.cggc.cn/module/jslib/accessiblereading/js/barrierfree.js"
+    ],
+    "third": []
+  },
+  "bp.com": {
+    "rank": "13936",
+    "private": [
+      "https://www.bp.com/globalnavapps-ssr/custom-svg/assets/modulepreload-polyfill.b7f2da20.js",
+      "https://www.bp.com/globalnavapps-ssr/custom-svg/assets/index.fe3724a1.js",
+      "https://www.bp.com/globalnavapps-ssr/custom-svg/assets/theme.css.c6a3dc36.js",
+      "https://www.bp.com/etc.clientlibs/clientlibs/granite/jquery/granite/csrf.js",
+      "https://www.bp.com/apps/settings/wcm/designs/refresh/bp/assets.js"
+    ],
+    "third": [
+      "https://www.googletagmanager.com/gtm.js",
+      "https://ds-aksb-a.akamaihd.net/aksb.min.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.googletagmanager.com/gtm.js"
+    ]
+  },
+  "cnnc.com.cn": {
+    "rank": "13937",
+    "private": [
+      "https://www.cnnc.com.cn/cnnc/uiFramework/huilan-jquery-ui/js/huilan-jquery-ui.js",
+      "https://www.cnnc.com.cn/cnnc/template/cnnc.js",
+      "https://www.cnnc.com.cn/cnnc/uiFramework/js/counting/chanelCounting.js",
+      "https://www.cnnc.com.cn/cnnc/uiFramework/commonResource/js/idangerous.swiper.js",
+      "https://www.cnnc.com.cn/cnnc/uiFramework/commonResource/js/owl.carousel.min.js"
+    ],
+    "third": []
+  },
+  "hivestreaming.com": {
+    "rank": "13938",
+    "private": [
+      "https://www.hivestreaming.com/_nuxt/e69eecc.js",
+      "https://www.hivestreaming.com/_nuxt/25de2a7.js",
+      "https://www.hivestreaming.com/_nuxt/c41bb86.js",
+      "https://www.hivestreaming.com/_nuxt/92956bd.js",
+      "https://www.hivestreaming.com/_nuxt/1cfa233.js",
+      "https://www.hivestreaming.com/_nuxt/59cac76.js",
+      "https://www.hivestreaming.com/_nuxt/e7a35a7.js",
+      "https://www.hivestreaming.com/_nuxt/5f135bb.js",
+      "https://www.hivestreaming.com/_nuxt/f378d61.js",
+      "https://www.hivestreaming.com/_nuxt/1831c32.js",
+      "https://www.hivestreaming.com/_nuxt/f5f7e1f.js",
+      "https://www.hivestreaming.com/_nuxt/f9a3343.js",
+      "https://www.hivestreaming.com/_nuxt/3e97990.js",
+      "https://www.hivestreaming.com/_nuxt/c3c6f1e.js",
+      "https://www.hivestreaming.com/_nuxt/b0dc9d1.js",
+      "https://www.hivestreaming.com/_nuxt/e6148d3.js"
+    ],
+    "third": [
+      "https://www.googletagmanager.com/gtm.js",
+      "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+      "https://static.hotjar.com/c/hotjar-2834507.js",
+      "https://bat.bing.com/bat.js",
+      "https://js.hs-scripts.com/3401573.js",
+      "https://code.visitor-track.com/VisitorTrack2.js",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://8ab0a26cb0027939bcf5-49c99c3c0c9c98b3365b710757036e1b.ssl.cf5.rackcdn.com/11680.js",
+      "https://hivestreaming.wpengine.com/js/localstorage-gau.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://js.hsadspixel.net/fb.js",
+      "https://js.hs-banner.com/3401573.js",
+      "https://js.hscollectedforms.net/collectedforms.js",
+      "https://js.usemessages.com/conversations-embed.js",
+      "https://js.hs-analytics.net/analytics/1676519400000/3401573.js",
+      "https://js.hsleadflows.net/leadflows.js",
+      "https://www.recaptcha.net/recaptcha/api.js",
+      "https://www.gstatic.cn/recaptcha/releases/O4xzMiFqEvA4YhWjk5t8Xuas/recaptcha__en.js"
+    ]
+  },
+  "morrisonexpress.com": {
+    "rank": "13939",
+    "private": [
+      "https://www.morrisonexpress.com/media/syw_jqueryeasy/js/jquerynoconflict.js",
+      "https://www.morrisonexpress.com/media/system/js/core.js",
+      "https://www.morrisonexpress.com/media/jui/js/bootstrap.min.js",
+      "https://www.morrisonexpress.com/libraries/fsj_core/assets/js/jquery/jquery.fsj_tooltip.js",
+      "https://www.morrisonexpress.com/libraries/fsj_core/assets/js/fsj/fsj.core.js",
+      "https://www.morrisonexpress.com/media/mod_zentools2/js/animation/wow.min.js",
+      "https://www.morrisonexpress.com/media/mod_zentools2/js/animation/wow-init.js",
+      "https://www.morrisonexpress.com/media/mod_zentools2/js/jquery.matchHeight-min.js",
+      "https://www.morrisonexpress.com/media/mod_zentools2/js/social/facebook.js",
+      "https://www.morrisonexpress.com/media/mod_zentools2/js/owl.carousel.min.js",
+      "https://www.morrisonexpress.com/plugins/system/gdpr/assets/js/jquery.fancybox.min.js",
+      "https://www.morrisonexpress.com/plugins/system/gdpr/assets/js/cookieconsent.min.js",
+      "https://www.morrisonexpress.com/plugins/system/gdpr/assets/js/init.js",
+      "https://www./gtm.js",
+      "https://www./analytics.js"
+    ],
+    "third": [
+      "https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js",
+      "https://connect.facebook.net/en_US/sdk.js",
+      "https://connect.facebook.net/en_US/sdk.js"
+    ]
+  },
+  "webvisor.com": {
+    "rank": "13941",
+    "private": [],
+    "third": []
+  },
+  "pceva.com.cn": {
+    "rank": "13942",
+    "private": [
+      "https://img.pceva.com.cn/cache/common.js",
+      "https://img.pceva.com.cn/cache/common_extra.js"
+    ],
+    "third": []
+  },
+  "wikisexguide.com": {
+    "rank": "13944",
+    "private": [],
+    "third": []
+  },
+  "phpchina.com": {
+    "rank": "13945",
+    "private": [
+      "http://www.phpchina.com/data/cache/common.js",
+      "http://www.phpchina.com/template/PHPchina/extend/js/jquery-1.8.3.min.js",
+      "http://www.phpchina.com/template/PHPchina/extend/js/home_index.js",
+      "http://www.phpchina.com/static/js/code/scripts/brush.js"
+    ],
+    "third": [
+      "http://discuz.gtimg.cn/cloud/scripts/discuz_tips.js"
+    ]
+  },
+  "z.cn": {
+    "rank": "13947",
+    "private": [
+      "https://images-cn.ssl-images-amazon.cn/images/I/61ZS63EQSsL.js",
+      "https://images-fe.ssl-images-amazon.com/images/I/01rGP6HIADL.js",
+      "https://images-fe.ssl-images-amazon.com/images/I/11y85pohsPL._RC%7C41jWkdimWrL.js_.js",
+      "https://images-fe.ssl-images-amazon.com/images/I/31YI0nnbQAL.js",
+      "https://images-cn.ssl-images-amazon.cn/images/I/41AN3YMKFYL._RC%7C71M8Y4KX3rL.js,01GjJOP8D7L.js,01dkKqojnaL.js,01eOvPdxG7L.js,61iLCEFlscL.js,41gNKoK0s7L.js,115pV8Rl02L.js,01+pnQJuQ0L.js,21nRASBIzeL.js,11k47yUMOjL.js,41p45LvM1EL.js,51t-JTxfnwL.js,31n80C+2uhL.js,11lEMI5MhIL.js,3190vMtsjaL.js,01LEzWzrPZL.js,01AqeWA7PKL.js_.js",
+      "https://images-fe.ssl-images-amazon.com/images/I/215ieazFO0L.js",
+      "https://images-cn.ssl-images-amazon.cn/images/I/11Y+5x+kkTL._RC%7C51Am7NcREVL.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,516j7qaWchL.js,11kWu3cNjYL.js,11aKqyRXooL.js,11OREnu1epL.js,11qVTZscrRL.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01vc4vOSHNL.js_.js",
+      "https://images-cn.ssl-images-amazon.cn/images/I/51SrwqaWgEL.js"
+    ],
+    "third": [
+      "https://m.media-amazon.com/images/G/01/csm/showads.v2.js"
+    ]
+  },
+  "shudaxia.com": {
+    "rank": "13949",
+    "private": [
+      "http://www.shudaxia.com/static/v2/js/jquery.min.js",
+      "http://www.shudaxia.com/static/v2/js/plugins/smoothscroll.js",
+      "http://www.shudaxia.com/static/v2/js/bootstrap/bootstrap.min.js",
+      "http://www.shudaxia.com/static/v2/js/plugins/jquery.waypoints.min.js",
+      "http://www.shudaxia.com/static/v2/js/custom.js",
+      "http://www.shudaxia.com/static/v2/js/plugins/jqBootstrapValidation.js",
+      "http://www.shudaxia.com/static/v2/js/swiper.js"
+    ],
+    "third": [
+      "https://ten.sobot.com/chat/frame/v2/entrance.js",
+      "http://hm.baidu.com/hm.js"
+    ]
+  },
+  "swuee.net": {
+    "rank": "13950",
+    "private": [
+      "https://www.swuee.com/static/js/manifest.15bd89e33d650e2c34ee.js",
+      "https://www.swuee.com/static/js/vendor.f0dd1a9b4d1ae324ceac.js",
+      "https://www.swuee.com/static/js/app.979691a7ce378dcf8aee.js"
+    ],
+    "third": [
+      "https://qiyukf.com/script/6c53e75b9090485f5febd4863fd00bbc.js",
+      "https://hm.baidu.com/hm.js"
+    ]
+  },
+  "st001.com": {
+    "rank": "13951",
+    "private": [],
+    "third": [
+      "https://hm.baidu.com/hm.js",
+      "https://zz.bdstatic.com/linksubmit/push.js",
+      "https://static.stpk.cn/jQuery/3/jquery.min.js",
+      "https://static.stpk.cn/artTemplate/4.13.2/template-web.js",
+      "https://static.stpk.cn/css.js",
+      "https://static.stpk.cn/FlexSlider/2.7.2/jquery.flexslider-min.js",
+      "https://static.stpk.cn/jquery.tabslet/1.7.3/jquery.tabslet.min.js",
+      "https://static.stpk.cn/layer/3.5.1/layer.js",
+      "https://ssl.google-analytics.com/ga.js"
+    ]
+  },
+  "gameofficials.net": {
+    "rank": "13952",
+    "private": [],
+    "third": []
+  },
+  "bnpparibas.com": {
+    "rank": "13954",
+    "private": [
+      "https://cdn-group.bnpparibas.com/build/runtime.d023b20a.js",
+      "https://cdn-group.bnpparibas.com/build/755.1b962ec6.js",
+      "https://cdn-group.bnpparibas.com/build/31.524fe63d.js",
+      "https://cdn-group.bnpparibas.com/build/781.8dbac07d.js",
+      "https://cdn-group.bnpparibas.com/build/32.67f7f064.js",
+      "https://cdn-group.bnpparibas.com/build/300.5a02864d.js",
+      "https://cdn-group.bnpparibas.com/build/515.1611ce2d.js",
+      "https://cdn-group.bnpparibas.com/build/92.2c19dfc0.js",
+      "https://cdn-group.bnpparibas.com/build/837.f74e691b.js",
+      "https://cdn-group.bnpparibas.com/build/738.03f61226.js",
+      "https://cdn-group.bnpparibas.com/build/763.ea553279.js",
+      "https://cdn-group.bnpparibas.com/build/917.52f87b7a.js",
+      "https://cdn-group.bnpparibas.com/build/app.51cc5598.js",
+      "https://cdn-group.bnpparibas.com/build/279.4029d757.js",
+      "https://cdn-group.bnpparibas.com/build/commons.6f177f7e.js",
+      "https://analyticsgroupcom.bnpparibas.com/matomo.js"
+    ],
+    "third": [
+      "https://www.googletagmanager.com/gtm.js",
+      "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"
+    ]
+  },
+  "669pic.com": {
+    "rank": "13955",
+    "private": [
+      "https://static.669pic.com/js/libCommon.js",
+      "https://static.669pic.com/js/base.js",
+      "https://static.669pic.com/js/mypop.js",
+      "https://static.669pic.com/js/Sliding_Validation_Gu.js"
+    ],
+    "third": [
+      "https://res.wx.qq.com/connect/zh_CN/htmledition/js/wxLogin.js",
+      "https://s.ssl.qhres2.com/ssl/ab77b6ea7f3fbf79.js"
+    ]
+  },
+  "daijun.com": {
+    "rank": "13957",
+    "private": [
+      "https://www.daijun.com/app/template/default/js/pop_up.js",
+      "https://www.daijun.com/js/public.js",
+      "https://www.daijun.com/js/jquery-1.8.0.min.js",
+      "https://www.daijun.com/app/template/default/js/index.js",
+      "https://www.daijun.com/app/template/default/js/reg_ajax.js",
+      "https://www.daijun.com/js/slides.jquery.js",
+      "https://www.daijun.com/js/layui/layui.js",
+      "https://www.daijun.com/js/layui/phpyun_layer.js",
+      "https://www.daijun.com/js/swiper/swiper-bundle.min.js",
+      "https://www.daijun.com/js/geetest/gt.js",
+      "https://www.daijun.com/js/layui/lay/modules/layer.js",
+      "https://www.daijun.com/js/layui/lay/modules/carousel.js",
+      "https://www.daijun.com/js/layui/lay/modules/flow.js"
+    ],
+    "third": [
+      "http://sdk.51.la/js-sdk-pro.min.js",
+      "http://sdk.51.la/event/js-sdk-event.min.js",
+      "http://push.zhanzhang.baidu.com/push.js"
+    ]
+  },
+  "chenyang.com": {
+    "rank": "13958",
+    "private": [
+      "http://www.chenyang.com/statics/cysq2/js/jquery-1.11.3.min.js",
+      "http://www.chenyang.com/Assets/public/js/vendor/video.js",
+      "http://www.chenyang.com/statics/cysq2/js/bootstrap.min.js",
+      "http://www.chenyang.com/statics/cysq2/js/cysq.js",
+      "https://www.chenyang.com/Assets/public/js/vendor/video-js-7.5.4/video.min.js",
+      "http://www.chenyang.com/Assets/public/js/vendor/video-js-7.5.4/lang/en.js",
+      "http://www.chenyang.com/Assets/public/js/vendor/video-js-7.5.4/silvermine-videojs-quality-selector.min.js"
+    ],
+    "third": [
+      "https://assets-cli.udesk.cn/im_client/js/udeskApi.js",
+      "https://hm.baidu.com/hm.js",
+      "http://www.huawei.com/Assets/corp/minisite/js/vendor/bootstrap3-dialog/bootstrap-dialog.min.js",
+      "https://cdn.jsdelivr.net/npm/videojs-vjsdownload@1.0.4/dist/videojs-vjsdownload.min.js"
+    ]
+  },
+  "idcug.com": {
+    "rank": "13959",
+    "private": [],
+    "third": []
+  },
+  "xiancn.com": {
+    "rank": "13960",
+    "private": [
+      "https://www.xiancn.com/resource/founder_mbdbc.js",
+      "https://www.xiancn.com/resource/xiancn/js/jquery.min.js",
+      "https://www.xiancn.com/resource/jquery-lazyload.js",
+      "https://www.xiancn.com/resource/xiancn/js/jquery.SuperSlide.2.1.1.js",
+      "https://www.xiancn.com/resource/xiancn/js/com.js",
+      "https://www.xiancn.com/resource/xiancn/js/script.js",
+      "https://www.xiancn.com/resource/xiancn/js/tools.js"
+    ],
+    "third": [
+      "https://res.wx.qq.com/open/js/jweixin-1.6.0.js"
+    ]
+  },
+  "rwe.com": {
+    "rank": "13963",
+    "private": [
+      "https://www.rwe.com/vendor/vendor.20230208.11.min.js",
+      "https://www.rwe.com/js/nkJavascript.20230208.11.min.js",
+      "https://www.rwe.com/js/runtime.js",
+      "https://www.rwe.com/js/rwe/app.20230208.11.min.js"
+    ],
+    "third": [
+      "https://www.googletagmanager.com/gtm.js",
+      "https://code.etracker.com/code/e.js",
+      "https://www.clarity.ms/eus-b/s/0.7.2/clarity.js",
+      "https://code.etracker.com/t.js"
+    ]
+  },
+  "tepco.co.jp": {
+    "rank": "13964",
+    "private": [
+      "https://www.tepco.co.jp/shared_hd/js/jquery.js",
+      "https://www.tepco.co.jp/shared_hd/js/common.js",
+      "https://www.tepco.co.jp/shared_hd/js/jquery.bxslider.min.js",
+      "https://www.tepco.co.jp/shared_hd/js/bxSlider_ctrl.js",
+      "https://www.tepco.co.jp/shared_hd/js/jquery.magnific-popup.min.js",
+      "https://www.tepco.co.jp/shared_hd/js/magnific-popup-ctrl.js",
+      "https://www.tepco.co.jp/shared_hd/js/popterm2_dev.js",
+      "https://www.tepco.co.jp/shared_hd/js/probo.js",
+      "https://www.tepco.co.jp/shared_hd/js/probo_mess.js",
+      "https://www.tepco.co.jp/shared_hd/js/probo_refine.js",
+      "https://www.tepco.co.jp/shared_hd/js/probo_sort.js",
+      "https://www.tepco.co.jp/shared_hd/js/search_ctrl_hd.js",
+      "https://www.tepco.co.jp/shared_files/js/common.js",
+      "https://www.tepco.co.jp/shared_files/js/head_foot.js",
+      "https://www.tepco.co.jp/shared_files/js/jquery.cookie.js",
+      "https://www.tepco.co.jp/shared_files/js/lodash.min.js",
+      "https://www.tepco.co.jp/shared_files/js/top_panel.js",
+      "https://www.tepco.co.jp/shared_files/js/top_v2.js",
+      "https://www4.tepco.co.jp/common_files/js/ss_tepco.js",
+      "https://www4.tepco.co.jp/common_files/js/ss_tepco_hm.js"
+    ],
+    "third": [
+      "https://cache.dga.jp/s/tepco2/search_tool_n3.js",
+      "https://connect.facebook.net/en_US/sdk.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://connect.facebook.net/en_US/sdk.js"
+    ]
+  },
+  "visymo.com": {
+    "rank": "13965",
+    "private": [
+      "https://www.visymo.com/build/Base-d9ad3feb23.js",
+      "https://www.visymo.com/build/Fullpage-a13b570e86.js"
+    ],
+    "third": []
+  },
+  "syiptv.com": {
+    "rank": "13967",
+    "private": [
+      "http://www.syiptv.com/static/js/jquery-1.8.3.min.js",
+      "http://www.syiptv.com/web/js/common.js",
+      "http://www.syiptv.com/static/js/slide-carousel.js"
+    ],
+    "third": [
+      "https://g.alicdn.com/de/prismplayer/2.5.0/aliplayer-min.js",
+      "https://dup.baidustatic.com/js/os.js",
+      "http://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js",
+      "http://push.zhanzhang.baidu.com/push.js",
+      "https://hm.baidu.com/hm.js"
+    ]
+  },
+  "carnet.hr": {
+    "rank": "13968",
+    "private": [
+      "https://www.carnet.hr/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js",
+      "https://www.carnet.hr/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-global-functions.js",
+      "https://www.carnet.hr/wp-content/themes/Divi/includes/builder/scripts/jquery.mobile.custom.min.js",
+      "https://www.carnet.hr/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-scripts.js",
+      "https://www.carnet.hr/wp-content/plugins/harmonika/scripts/frontend-bundle.min.js",
+      "https://www.carnet.hr/wp-content/themes/Divi/includes/builder/scripts/jquery.fitvids.js",
+      "https://www.carnet.hr/wp-content/themes/Divi/includes/builder/scripts/waypoints.min.js",
+      "https://www.carnet.hr/wp-content/themes/Divi/core/admin/js/common.js",
+      "https://www.carnet.hr/wp-content/plugins/gdpr-cookie-compliance/dist/scripts/main.js",
+      "https://www.carnet.hr/wp-content/themes/carnet/assets/js/bp.js",
+      "https://www.carnet.hr/wp-content/themes/carnet/assets/js/vendors.js",
+      "https://www.carnet.hr/wp-content/themes/carnet/assets/js/fSelect.js",
+      "https://www.carnet.hr/wp-content/themes/carnet/assets/js/custom.js",
+      "https://www.carnet.hr/wp-content/plugins/facetwp/assets/js/dist/front.min.js",
+      "https://www.carnet.hr/wp-content/themes/carnet/assets/js/custom/facetwp-load-more.js"
+    ],
+    "third": [
+      "https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js",
+      "https://www.google-analytics.com/analytics.js"
+    ]
+  },
+  "tele2.hr": {
+    "rank": "13969",
+    "private": [],
+    "third": []
+  },
+  "g3user.com": {
+    "rank": "13971",
+    "private": [
+      "http://www.g3user.com/js/jquery.min.js",
+      "http://www.g3user.com/js/yun4_0/jquery.reveal.js",
+      "http://www.g3user.com/js/app.js",
+      "http://www.g3user.com/js/login.js",
+      "http://www.g3user.com/js/wslider.js",
+      "http://www.g3user.com/js/bindanchor.js"
+    ],
+    "third": [
+      "http://g.alicdn.com/sd/ncpc/nc.js",
+      "https://g.alicdn.com/AWSC/AWSC/awsc.js",
+      "https://g.alicdn.com/AWSC/uab/1.140.0/collina.js",
+      "https://g.alicdn.com/AWSC/WebUMID/1.93.0/um.js"
+    ]
+  },
+  "clinicalkey.com": {
+    "rank": "13972",
+    "private": [
+      "https://www.clinicalkey.com/ui-origin/master-2151/lib/misc/initialize-analytics.js",
+      "https://cn-cdn.clinicalkey.com/ui-builds/ui-origin/master-2151/index-bundle.js",
+      "https://www.clinicalkey.com/ui-origin/master-2151/19-bundle.js",
+      "https://www.clinicalkey.com/ui-origin/master-2151/2-bundle.js"
+    ],
+    "third": [
+      "https://assets.elseviercdn.cn/vendor/adobe/4a848ae9611a/fe6f63918a5b/launch-46c41b2778ce.min.js",
+      "https://assets.elseviercdn.cn/vendor/adobe/extensions/EP308220a2a4c4403f97fc1960100db40f/AppMeasurement.min.js",
+      "https://cdn.pendo.io/agent/static/b3541d7b-4788-4b73-7811-976020af677d/pendo.js",
+      "https://assets.elseviercdn.cn/vendor/mouseflow/projects/e003c540-6f0f-4680-b029-b50822734911.js",
+      "https://assets.elseviercdn.cn/vendor/adobe/4a848ae9611a/fe6f63918a5b/33103560ca2c/RCc3bffb3847f24536b6c933be9536395d-source.min.js"
+    ]
+  },
+  "hpi.com.cn": {
+    "rank": "13974",
+    "private": [
+      "https://www.hpi.com.cn/_layouts/15/2052/initstrings.js",
+      "https://www.hpi.com.cn/_layouts/15/init.js",
+      "https://www.hpi.com.cn/_layouts/15/blank.js",
+      "https://www.hpi.com.cn/_layouts/15/suitenav.js",
+      "https://www.hpi.com.cn/_layouts/15/HPIExtranet/Javascript/jquery-3.4.1.min.js",
+      "https://www.hpi.com.cn/_layouts/15/HPIExtranet/Javascript/jquery.nivo.slider.pack.js",
+      "https://www.hpi.com.cn/_layouts/15/HPIExtranet/Javascript/jquery.qtip-1.0.0-rc3.js",
+      "https://www.hpi.com.cn/_layouts/15/HPIExtranet/Javascript/swfobject_modified.js",
+      "https://www.hpi.com.cn/_layouts/15/HPIExtranet/Javascript/jquery.simplyscroll.min.js",
+      "https://www.hpi.com.cn/_layouts/15/HPIExtranet/Javascript/ddaccordion.js",
+      "https://www.hpi.com.cn/_layouts/15/HPIExtranet/Javascript/ddsmoothmenu.js",
+      "https://www.hpi.com.cn/_layouts/15/HPIExtranet/Javascript/grayscale.js",
+      "https://www.hpi.com.cn/_layouts/15/HPIExtranet/Javascript/HPIJS.js",
+      "https://www.hpi.com.cn/_layouts/15/HPIExtranet/Javascript/json2.js",
+      "https://www.hpi.com.cn/_layouts/15/HPIExtranet/Javascript/jqfloat.js",
+      "https://www.hpi.com.cn/_layouts/15/hpiextranetnew/js/jquery.js",
+      "https://www.hpi.com.cn/_layouts/15/hpiextranetnew/js/swiper.min.js",
+      "https://www.hpi.com.cn/_layouts/15/hpiextranetnew/js/main.js",
+      "https://www.hpi.com.cn/_layouts/15/2052/strings.js",
+      "https://www.hpi.com.cn/_layouts/15/sp.init.js",
+      "https://www.hpi.com.cn/_layouts/15/2052/sp.res.js",
+      "https://www.hpi.com.cn/_layouts/15/cui.js",
+      "https://www.hpi.com.cn/_layouts/15/clienttemplates.js",
+      "https://www.hpi.com.cn/_layouts/15/sp.ui.dialog.js",
+      "https://www.hpi.com.cn/_layouts/15/sp.runtime.js",
+      "https://www.hpi.com.cn/_layouts/15/sp.js",
+      "https://www.hpi.com.cn/_layouts/15/core.js",
+      "https://www.hpi.com.cn/_layouts/15/mquery.js",
+      "https://www.hpi.com.cn/_layouts/15/inplview.js",
+      "https://www.hpi.com.cn/_layouts/15/sp.core.js",
+      "https://www.hpi.com.cn/_layouts/15/sp.ribbon.js"
+    ],
+    "third": []
+  },
+  "sdedu.net": {
+    "rank": "13975",
+    "private": [
+      "http://www.sdedu.net/resources/js/myfocus-2.0.4.min.js",
+      "http://www.sdedu.net/public/jquery/jquery.js",
+      "http://www.sdedu.net/js/index.js",
+      "http://www.sdedu.net/resources/js/kxbdmarquee.js",
+      "http://www.sdedu.net/js/indexTop.js",
+      "http://www.sdedu.net/js/indexLink.js",
+      "http://www.sdedu.net/js/indexBottom.js",
+      "http://www.sdedu.net/resources/js/mf-pattern/mF_classicHB.js"
+    ],
+    "third": []
+  },
+  "nea.gov.cn": {
+    "rank": "13976",
+    "private": [
+      "http://www.nea.gov.cn/2015nyj/xinban/jquery_1.10.js"
+    ],
+    "third": [
+      "http://www.news.cn/global/js/pageCore.js",
+      "http://pucha.kaipuyun.cn/exposure/jiucuo.js",
+      "http://webd.home.news.cn/webdig.js",
+      "http://dcs.conac.cn/js/33/000/0000/60405978/CA330000000604059780001.js"
+    ]
+  },
+  "airbnb.fr": {
+    "rank": "13978",
+    "private": [],
+    "third": [
+      "https://a0.muscache.com/airbnb/static/packages/web/common/frontend/hyperloop-browser/metroRequire.b3cad14ce4.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/common/frontend/hyperloop-browser/shims_post_modules.4cf83c8ebe.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/common/frontend/hyperloop-browser/core.3a158519f6.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/fr/frontend/airmetro/src/asyncRequire.72a49447ae.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/common/cee6.3e25e1169e.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/common/a42b.22f35685f7.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/common/node_modules/moment/locale/fr.b66deda410.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/common/9b37.9c5184ac6e.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/fr/frontend/initializers/core_setup.61ce27fbdf.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/common/1a08.4f23340015.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/fr/a957.8eae0d43c1.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/common/frontend/core-guest-loop-routes/Loopstrap.fd15770e83.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/common/d363.7b2eb6135e.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/common/db2f.6d081328cb.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/fr/frontend/core-guest-loop-routes/App.8b6dc537f9.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/common/frontend/guest-header-query/HeaderQuery.prepare.43d15e6f6b.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/common/cef6.67a286d362.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/common/a0d0.f002686dc9.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/common/frontend/niobe/minimalist/index.9363d2700c.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/fr/78ea.0526cedcf5.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/common/82c9.c1e536fd4e.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/fr/9d7c.68d74e1ea1.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/fr/08ac.a3c3f660f2.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/fr/0402.55203a5d18.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/fr/020b.b78fe3ca76.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/fr/1aa5.506bb1af5c.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/common/f489.70c691cab0.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/common/c449.a36ebf755c.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/common/0867.39c342a14b.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/common/479d.077dd38437.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/fr/frontend/homepage/routes/HomepageRoute/HomepageRoute.4d204087eb.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/common/frontend/homepage/routes/HomepageRoute/HomepageRoute.prepare.a0dc7f4f0f.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/common/3eff.61944cf1db.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/common/9c05.1df892c34c.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/common/3697.af50f21a20.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/common/frontend/core-guest-spa/hyperloop/index.c9a067f67b.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/fr/frontend/homepage-sections/sections/client/AnnouncementCurtainMicrophoneBanner/AnnouncementCurtainMicrophoneBanner.5500b9c038.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/fr/99aa.6ebb975046.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/fr/aa72.0a01d2e1e6.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/fr/4252.5ea6224320.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/fr/8b72.21090d7ee0.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/fr/ca01.e816cd2a2d.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/fr/e8df.56b0d7dead.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/fr/7a2d.36bf4d35da.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/fr/588d.1d7cb3c37c.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/fr/b283.8636c42858.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/fr/frontend/search-input-sections/sections/StaysSearchInputHeader/wide/StaysSearchInputHeaderWide.57e9b2998e.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/fr/frontend/homepage-sections/sections/client/StickyFooterWithSeoWide/StickyFooterWithSeoWide.28ac64f978.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/fr/frontend/gp-explore-sections/sections/CategoryFilterBar/CategoryFilterBar.3e972fa190.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/fr/d061.06a520880e.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/fr/280b.62a077de39.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/common/43ba.5e28c5e40e.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/fr/86d3.4f14b3a1c5.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/fr/16ad.ea24f8f525.js",
+      "https://a0.muscache.com/airbnb/static/packages/web/fr/frontend/stays-search-sections/sections/StaysListingsGrid/StaysListingsGrid.f526b2e5b2.js"
+    ]
+  },
+  "citizen.com.cn": {
+    "rank": "13982",
+    "private": [
+      "https://www.citizen.com.cn/js/jquery-3.5.1.min.js",
+      "https://www.citizen.com.cn/js/jquery-ui-1.12.1.custom/jquery-ui.min.js",
+      "https://www.citizen.com.cn/js/jquery-validation-1.13.0/dist/jquery.validate.min.js",
+      "https://www.citizen.com.cn/js/scripts/jquery.plugins.js",
+      "https://www.citizen.com.cn/js/scripts/downloadcc.js",
+      "https://www.citizen.com.cn/js/aveego.js",
+      "https://www.citizen.com.cn/js/layer/layer.js",
+      "https://www.citizen.com.cn/layui/layui.js",
+      "https://www.citizen.com.cn/js/func.js",
+      "https://www.citizen.com.cn/js/top.js"
+    ],
+    "third": [
+      "https://hm.baidu.com/hm.js"
+    ]
+  },
+  "utah.edu": {
+    "rank": "13983",
+    "private": [
+      "https://templates.utah.edu/_main-v3-1/js/head-code.min.js",
+      "https://templates.utah.edu/_main-v3-1/js/directedit.js",
+      "https://templates.utah.edu/_main-v3-1/js/main.min.js",
+      "https://www.utah.edu/_resources/js/custom.js",
+      "https://www.utah.edu/_resources/js/umc.js",
+      "https://www.utah.edu/_resources/js/owl.carousel.min.js",
+      "https://www.utah.edu/_resources/js/umc-program-search.js"
+    ],
+    "third": [
+      "https://www.googletagmanager.com/gtm.js",
+      "https://static.hotjar.com/c/hotjar-2158953.js",
+      "https://kit.fontawesome.com/7f2d2895bd.js",
+      "https://www.google-analytics.com/analytics.js"
+    ]
+  },
+  "porn2017.com": {
+    "rank": "13984",
+    "private": [
+      "https://www.porn2017.com/css/jquery.min.js"
+    ],
+    "third": []
+  },
+  "scuvc.com": {
+    "rank": "13986",
+    "private": [],
+    "third": [
+      "https://www.scuvc.edu.cn/statics/xue/wap.js",
+      "https://www.scuvc.edu.cn/statics/xue/js/jquery-1.9.1.min.js",
+      "https://www.scuvc.edu.cn/statics/xue/js/artTemplate.js",
+      "https://www.scuvc.edu.cn/statics/xue/js/currency.js",
+      "https://www.scuvc.edu.cn/statics/xue/js/owl.carousel.js",
+      "https://www.scuvc.edu.cn/statics/xue/js/scroll.js",
+      "https://www.scuvc.edu.cn/statics/xue/js/kefu.js"
+    ]
+  },
+  "yiichina.com": {
+    "rank": "13987",
+    "private": [
+      "https://www.yiichina.com/js/all.js"
+    ],
+    "third": [
+      "https://hm.baidu.com/h.js"
+    ]
+  },
+  "infodaymedia.com": {
+    "rank": "13988",
+    "private": [
+      "https://www.infodaymedia.com/bitrix/js/main/core/core.min.js",
+      "https://www.infodaymedia.com/bitrix/cache/js/s1/infoday/template_1b7fb7155f1a796804c7938a4f32f7d7/template_1b7fb7155f1a796804c7938a4f32f7d7_v1.js",
+      "https://www.infodaymedia.com/bitrix/cache/js/s1/infoday/page_ba44d015563230b9019784880a3155b9/page_ba44d015563230b9019784880a3155b9_v1.js",
+      "https://www.infodaymedia.com/front/js/main.min.js"
+    ],
+    "third": [
+      "https://bitrix.info/ba.js"
+    ]
+  },
+  "divx.com": {
+    "rank": "13990",
+    "private": [
+      "https://www.divx.com/wp-content/plugins/wp-views/vendor/toolset/common-es/public/toolset-common-es-frontend.js",
+      "https://www.divx.com/wp-includes/js/jquery/jquery.min.js",
+      "https://www.divx.com/wp-includes/js/jquery/jquery-migrate.min.js",
+      "https://www.divx.com/wp-content/plugins/responsive-menu/v4.0.0/assets/js/rmp-menu.js",
+      "https://www.divx.com/wp-content/plugins/webtoffee-gdpr-cookie-consent/admin/modules/ccpa/assets/js/cookie-law-info-ccpa.js",
+      "https://www.divx.com/wp-content/plugins/webtoffee-gdpr-cookie-consent/public/js/cookie-law-info-public.js",
+      "https://www.divx.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js",
+      "https://www.divx.com/wp-content/plugins/contact-form-7/includes/js/index.js",
+      "https://www.divx.com/wp-content/plugins/page-scroll-to-id/js/page-scroll-to-id.min.js",
+      "https://www.divx.com/wp-content/themes/divx/js/navigation.js",
+      "https://www.divx.com/wp-content/themes/divx/david/script.js",
+      "https://www.divx.com/wp-content/themes/divx/js/skip-link-focus-fix.js",
+      "https://www.divx.com/wp-includes/js/jquery/ui/core.min.js",
+      "https://www.divx.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.5/lazyload.min.js",
+      "https://www.divx.com/wp-content/uploads/pum/pum-site-scripts.js",
+      "https://www.divx.com/wp-content/plugins/cf7-conditional-fields/js/scripts.js",
+      "https://www.divx.com/wp-content/themes/divx/js/animation-pb.js",
+      "https://www.divx.com/wp-content/themes/divx/js/slick.js"
+    ],
+    "third": [
+      "https://storage.googleapis.com/gcs-pixel-prototype/bngp78QG.js",
+      "https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js",
+      "https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js",
+      "https://code.jquery.com/jquery-2.2.0.min.js",
+      "https://cdn.jst.ai/vck-wp.js"
+    ]
+  },
+  "cloudminds.com": {
+    "rank": "13992",
+    "private": [
+      "https://www.cloudminds.com/zh/Public/js/jquery-3.3.1.min.js",
+      "https://www.cloudminds.com/zh/Public/js/main.js",
+      "https://www.cloudminds.com/zh/Public/js/statistics.js",
+      "https://www.cloudminds.com/zh/Public/js/jquery-1.12.4.min.js",
+      "https://www.cloudminds.com/zh/Public/js/jquery.validate.min.js",
+      "https://www.cloudminds.com/zh/Public/js/swiper.js",
+      "https://www.cloudminds.com/zh/Public/js/swiper.min.js"
+    ],
+    "third": [
+      "https://hm.baidu.com/hm.js",
+      "https://goutong.baidu.com/site/549/77b056c25ef93d8c76a568e899b5f547/b.js",
+      "https://aff-im.cdn.bcebos.com/onlineEnv/embed/1676010155/asset/embed/pc_nb.js",
+      "https://aiff.cdn.bcebos.com/sensors%2Fonline%2Fsa-sdk-javascript-1.14.24%2Fsensorsdata.min.js",
+      "https://dmpstatic.cdn.bcebos.com/weirwood-sdk/1/bundle.min.js",
+      "https://sofire.bdstatic.com/js/xaf3.js",
+      "https://sofire.bdstatic.com/js/dfxaf3.js"
+    ]
+  },
+  "chemistwarehouse.com.au": {
+    "rank": "13994",
+    "private": [],
+    "third": [
+      "https://challenges.cloudflare.com/turnstile/v0/api.js"
+    ]
+  },
+  "scorespro.com": {
+    "rank": "13996",
+    "private": [
+      "https://www.flashscore.com/x/js/browsercompatibility_5.js",
+      "https://www.flashscore.com/res/_fs/build/framework.03f2110.js",
+      "https://www.flashscore.com/x/js/core_2_2091000000.js",
+      "https://www.flashscore.com/res/_fs/build/modules.fbd2930.js",
+      "https://www.flashscore.com/res/_fs/build/vendors.788b843.js",
+      "https://www.flashscore.com/res/_fs/build/serviceStatusBox.e27234c.js",
+      "https://www.flashscore.com/res/_fs/build/myLeaguesMenu.ef3b5cf.js",
+      "https://www.flashscore.com/res/_fs/build/liveTable.84684f0.js",
+      "https://www.flashscore.com/res/_fs/build/mainPageScripts.c3b52e2.js",
+      "https://www.flashscore.com/res/_fs/build/leftMenuCategory.954a407.js",
+      "https://www.flashscore.com/res/_fs/build/notifications.1ef4fde.js",
+      "https://www.flashscore.com/x/js/translations-livetable.435dbdfe.js",
+      "https://www.flashscore.com/x/js/translations-myteamsmenu.afcc66c0.js",
+      "https://www.flashscore.com/x/js/translations-headermenu.8124bfce.js",
+      "https://www.flashscore.com/res/_fs/build/runtime.0f53cb9.js",
+      "https://www.flashscore.com/res/_fs/build/constants.2d83ca0.js",
+      "https://www.flashscore.com/res/_fs/build/loader.8ef9830.js",
+      "https://www.flashscore.com/res/_fs/build/myTeamsMenu.b7d3674.js",
+      "https://www.flashscore.com/res/_fs/build/loginClient.1dabbcb.js",
+      "https://www.flashscore.com/res/_fs/build/headerMenu.e34d9b3.js",
+      "https://www.flashscore.com/res/_fs/build/UpcomingDrawStartTimeFormatter.f1e2f73.js"
+    ],
+    "third": [
+      "https://www.googleoptimize.com/optimize.js",
+      "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://unpkg.com/web-vitals/dist/web-vitals.iife.js",
+      "https://www.googleoptimize.com/optimize.js",
+      "https://cdn.cookielaw.org/scripttemplates/202210.1.0/otBannerSdk.js",
+      "https://www.surveygizmo.eu/runtimejs/intercept/intercept.js",
+      "https://cdn.cookielaw.org/scripttemplates/202210.1.0/otTCF.js"
+    ]
+  },
+  "narvii.com": {
+    "rank": "13999",
+    "private": [],
+    "third": []
+  },
+  "ynhouse.com": {
+    "rank": "14000",
+    "private": [
+      "https://www.ynhouse.com/dist/main.js",
+      "https://www.ynhouse.com/dist/js/jquery-1.11.0.min.js",
+      "https://www.ynhouse.com/dist/oth/js/jqthumb.min.js",
+      "https://www.ynhouse.com/dist/js/jquery.lazyload.js",
+      "https://www.ynhouse.com/dist/oth/js/jsss.js"
+    ],
+    "third": [
+      "https://hm.baidu.com/h.js"
+    ]
+  }
+}

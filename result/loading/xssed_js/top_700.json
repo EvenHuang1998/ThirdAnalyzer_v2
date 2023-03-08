@@ -1,0 +1,1352 @@
+{
+  "legalresearch.usfca.edu": {
+    "rank": "601",
+    "private": [
+      "https://legalresearch.usfca.edu/web/jquery/js/1.12.4_jquery.min.js",
+      "https://legalresearch.usfca.edu/web/js2.19.7/lg-public.min.js",
+      "https://legalresearch.usfca.edu/web/js/sa.min.js"
+    ],
+    "third": [
+      "https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"
+    ]
+  },
+  "libguides.hcc.hawaii.edu": {
+    "rank": "602",
+    "private": [],
+    "third": []
+  },
+  "researchguides.case.edu": {
+    "rank": "603",
+    "private": [
+      "https://researchguides.case.edu/web/jquery/js/1.12.4_jquery.min.js",
+      "https://researchguides.case.edu/web/js2.19.7/lg-public.min.js",
+      "https://researchguides.case.edu/web/js/sa.min.js"
+    ],
+    "third": [
+      "https://code.jquery.com/ui/1.12.1/jquery-ui.min.js",
+      "https://connect.facebook.net/en_US/sdk.js",
+      "https://connect.facebook.net/en_US/sdk.js"
+    ]
+  },
+  "guides.lib.virginia.edu": {
+    "rank": "604",
+    "private": [
+      "https://guides.lib.virginia.edu/web/jquery/js/1.12.4_jquery.min.js",
+      "https://guides.lib.virginia.edu/web/js2.19.7/lg-public.min.js",
+      "https://static.lib.virginia.edu/js/controllers/libguides.js",
+      "https://guides.lib.virginia.edu/web/js/sa.min.js",
+      "https://analytics.lib.virginia.edu/piwik.js"
+    ],
+    "third": [
+      "https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"
+    ]
+  },
+  "guides.library.manoa.hawaii.edu": {
+    "rank": "605",
+    "private": [
+      "https://guides.library.manoa.hawaii.edu/web/jquery/js/1.12.4_jquery.min.js",
+      "https://guides.library.manoa.hawaii.edu/web/js2.19.7/lg-public.min.js",
+      "https://guides.library.manoa.hawaii.edu/web/js/sa.min.js"
+    ],
+    "third": [
+      "https://code.jquery.com/ui/1.12.1/jquery-ui.min.js",
+      "https://libapps.s3.amazonaws.com/sites/121/include/maxmegamenu.js",
+      "https://www.google-analytics.com/analytics.js"
+    ]
+  },
+  "libguides.mit.edu": {
+    "rank": "606",
+    "private": [
+      "https://libraries.mit.edu/wp-content/plugins/wp-sentry-integration/public/wp-sentry-browser.min.js",
+      "https://libraries.mit.edu/wp-content/themes/libraries/js/modernizr.js",
+      "https://libraries.mit.edu/wp-content/themes/libraries/js/jquery.min.js",
+      "https://libraries.mit.edu/wp-content/plugins/slideshow-gallery/views/default/js/gallery.js",
+      "https://libraries.mit.edu/wp-content/plugins/slideshow-gallery/views/default/js/colorbox.js",
+      "https://libraries.mit.edu/wp-content/plugins/slideshow-gallery/views/default/js/jquery-ui.js",
+      "https://libraries.mit.edu/wp-includes/js/wp-emoji-release.min.js",
+      "https://libraries.mit.edu/wp-includes/js/dist/vendor/regenerator-runtime.min.js",
+      "https://libraries.mit.edu/wp-includes/js/dist/vendor/wp-polyfill.min.js",
+      "https://libraries.mit.edu/wp-content/plugins/contact-form-7/includes/js/index.js",
+      "https://libraries.mit.edu/wp-includes/js/dist/vendor/moment.min.js",
+      "https://libraries.mit.edu/wp-includes/js/underscore.min.js",
+      "https://libraries.mit.edu/wp-content/themes/libraries/js/hours-loader.js",
+      "https://libraries.mit.edu/wp-content/themes/libraries/js/build/production.min.js",
+      "https://libraries.mit.edu/wp-content/plugins/page-links-to/dist/new-tab.js",
+      "https://libraries.mit.edu/wp-content/plugins/cf7-conditional-fields/js/scripts.js",
+      "https://libraries.mit.edu/wp-content/themes/libraries/libs/FontShop/mtiFontTrackingCode.js"
+    ],
+    "third": [
+      "https://polyfill.io/v3/polyfill.js",
+      "https://www.google-analytics.com/analytics.js"
+    ]
+  },
+  "guides.slsa.sa.gov.au": {
+    "rank": "607",
+    "private": [
+      "https://guides.slsa.sa.gov.au/web/jquery/js/1.12.4_jquery.min.js",
+      "https://guides.slsa.sa.gov.au/web/js2.19.7/lg-public.min.js",
+      "https://guides.slsa.sa.gov.au/web/js/sa.min.js"
+    ],
+    "third": [
+      "https://code.jquery.com/ui/1.12.1/jquery-ui.min.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://app-script.monsido.com/v2/monsido-script.js"
+    ]
+  },
+  "libguides.olympic.edu": {
+    "rank": "608",
+    "private": [
+      "https://libguides.olympic.edu/web/jquery/js/1.12.4_jquery.min.js",
+      "https://libguides.olympic.edu/web/js2.19.7/lg-public.min.js",
+      "https://libguides.olympic.edu/web/js/sa.min.js"
+    ],
+    "third": [
+      "https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"
+    ]
+  },
+  "www.munyie.com": {
+    "rank": "609",
+    "private": [],
+    "third": []
+  },
+  "www.wiktik.com": {
+    "rank": "610",
+    "private": [],
+    "third": []
+  },
+  "www.lgjobs.com": {
+    "rank": "611",
+    "private": [
+      "https://www.lgjobs.com/assets/js/jquery.min.js",
+      "https://www.lgjobs.com/assets/js/jquery-ujs.js",
+      "https://www.lgjobs.com/assets/js/main.js",
+      "https://www.lgjobs.com/assets/js/modal.js",
+      "https://www.lgjobs.com/assets/js/wNumb.min.js",
+      "https://www.lgjobs.com/assets/js/nouislider.min.js",
+      "https://www.lgjobs.com/assets/js/select2.min.js",
+      "https://www.lgjobs.com/assets/js/app.9a07602b.js",
+      "https://www.lgjobs.com/assets/js/modernizr.260eb3f8.js",
+      "https://www.lgjobs.com/assets/js/jquery-ui.js",
+      "https://www.lgjobs.com/assets/js/reminder_bar.js",
+      "https://www.lgjobs.com/assets/js/string_distance.js",
+      "https://www.lgjobs.com/assets/js/spellcheck_email.js"
+    ],
+    "third": [
+      "https://www.googletagservices.com/tag/js/gpt.js",
+      "https://www.google-analytics.com/cx/api.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://static.hotjar.com/c/hotjar-2466662.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2023022301.js",
+      "https://adservice.google.com/adsid/integrator.js"
+    ]
+  },
+  "www.hotel-pension-theresia.at": {
+    "rank": "612",
+    "private": [],
+    "third": [
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.310d1801.bundle.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/main.882acf4c.bundle.min.js",
+      "https://static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js",
+      "https://static.parastorage.com/unpkg/react@16.14.0/umd/react.production.min.js",
+      "https://static.parastorage.com/services/tag-manager-client/1.705.0/siteTags.bundle.min.js",
+      "https://static.parastorage.com/services/wix-perf-measure/1.1051.0/wix-perf-measure.umd.min.js",
+      "https://static.parastorage.com/unpkg/react-dom@16.14.0/umd/react-dom.production.min.js",
+      "https://www.hotel-pension-theresia.com/_partials/wix-thunderbolt/dist/clientWorker.ef3d7fb4.bundle.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-components-registry.c57c29fd.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/group_2.2c047e60.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/quickActionBar.a1abb48e.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/renderer.01f09c54.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/group_37.624ffe0c.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/group_32.f90ebc02.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/tpaCommons.3d58f891.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/platform.529af6b0.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/reporter-api.f47a5099.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/group_0.bf5b9697.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/group_21.7dedc9d7.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/group_8.fbafc479.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/group_17.31e53cdc.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/group_22.550d5470.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/group_18.ffca1c46.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/group_4.24bae1dc.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/group_30.2f3c6def.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/group_26.4d444ca3.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/santa-langs-de.13e3b9a0.chunk.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap-classic.464fef88.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[LanguageSelector].4605d127.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[FiveGridLine_SolidLine].9fdf6ff8.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap-responsive.5e2a827f.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap.671a765b.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[DropDownMenu_OverlineMenuButtonSkin].50481f7e.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Container_DefaultAreaSkin].997bbf82.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[HeaderContainer_BevelScreen].0ac6beb4.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[AppWidget_Classic].a8fa61a0.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MeshGroup].a495eabb.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SkipToContentButton].96644c35.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SlideShowGallery_SlideShowCleanAndSimple].df46857e.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[HtmlComponent].53cb5c72.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[TextInput].fc14876b.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[TextAreaInput].aea1cfe9.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[ClassicSection].514b8429.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Container_RectangleArea].6e945b53.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[FormContainer_FormContainerSkin].eb57510d.bundle.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/group_1.365b323c.chunk.min.js"
+    ]
+  },
+  "spf.com": {
+    "rank": "613",
+    "private": [
+      "https://myspringfield.com/on/demandware.static/Sites-SPF-Site/-/es_ES/v1677470500909/js/critical.js",
+      "https://myspringfield.com/on/demandware.static/Sites-SPF-Site/-/es_ES/v1677470500909/js/tenDalayer.js",
+      "https://myspringfield.com/on/demandware.static/Sites-SPF-Site/-/es_ES/v1677470500909/js/home.js",
+      "https://myspringfield.com/on/demandware.static/Sites-SPF-Site/-/es_ES/v1677470500909/js/modules/syteEvents.js",
+      "https://myspringfield.com/on/demandware.static/Sites-SPF-Site/-/es_ES/v1677470500909/js/modules/global/errors.js",
+      "https://myspringfield.com/on/demandware.static/Sites-SPF-Site/-/es_ES/v1677470500909/lib/jquery/jquery-2.1.4.min.js",
+      "https://myspringfield.com/on/demandware.static/Sites-SPF-Site/-/es_ES/v1677470500909/lib/jquery/ui/jquery-ui.min.js",
+      "https://myspringfield.com/on/demandware.static/Sites-SPF-Site/-/es_ES/v1677470500909/lib/jquery/jquery.validate.min.js",
+      "https://myspringfield.com/on/demandware.static/Sites-SPF-Site/-/es_ES/v1677470500909/lib/jquery/jquery.zoom.min.js",
+      "https://myspringfield.com/on/demandware.static/Sites-SPF-Site/-/es_ES/v1677470500909/lib/jquery/jquery.slick.min.js",
+      "https://myspringfield.com/on/demandware.static/Sites-SPF-Site/-/es_ES/v1677470500909/lib/jquery/tinynav.min.js",
+      "https://myspringfield.com/on/demandware.static/Sites-SPF-Site/-/es_ES/v1677470500909/lib/jquery/jquery.hammer.min.js",
+      "https://myspringfield.com/on/demandware.static/Sites-SPF-Site/-/es_ES/v1677470500909/lib/jquery/jquery.hammer.js",
+      "https://myspringfield.com/on/demandware.static/Sites-SPF-Site/-/es_ES/v1677470500909/lib/modernizr-custom.js",
+      "https://myspringfield.com/on/demandware.static/Sites-SPF-Site/-/es_ES/v1677470500909/js/app.js",
+      "https://myspringfield.com/on/demandware.static/Sites-SPF-Site/-/es_ES/v1677470500909/js/global.js",
+      "https://myspringfield.com/on/demandware.static/Sites-SPF-Site/-/es_ES/v1677470500909/internal/jscript/dwanalytics-22.2.js",
+      "https://myspringfield.com/on/demandware.static/Sites-SPF-Site/-/es_ES/v1677470500909/internal/jscript/dwac-21.7.js",
+      "https://myspringfield.com/on/demandware.static/Sites-SPF-Site/-/es_ES/v1677470500909/js/modules/global/cookie.js",
+      "https://myspringfield.com/on/demandware.static/Sites-SPF-Site/-/es_ES/v1677470500909/js/modules/chat/chat.js",
+      "https://myspringfield.com/jsSTATIC/vendors~bundles/component/content/pdpRecommendedProducts~bundles/dependences/plp/plpSizeSelector~bun~cbb330d5.app_tendam_core.c29f1a1d586d6ff4cc10.bundle.js",
+      "https://myspringfield.com/jsSTATIC/vendors~bundles/global/shopthelookmodal~bundles/minicart.app_tendam_core.62e6101bf41e8206e3c3.bundle.js",
+      "https://myspringfield.com/jsSTATIC/bundles/component/content/pdpRecommendedProducts~bundles/dependences/plp/plpSizeSelector~bundles/glo~42ea174c.app_tendam_core.bd4d68797055fdce3580.bundle.js",
+      "https://myspringfield.com/jsSTATIC/bundles/minicart.app_tendam_core.632bb0af7a7ad9712b7b.bundle.js"
+    ],
+    "third": [
+      "https://cdn.speedcurve.com/js/lux.js",
+      "https://cookie-cdn.cookiepro.com/consent/caa3da0d-d8d0-4428-928e-29ccd9e8b6c7/OtAutoBlock.js",
+      "https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js",
+      "https://100015928.collect.igodigital.com/collect.js",
+      "https://assets.adobedtm.com/a4797e413e83/571a692543b7/launch-16f9c1e99f2e.min.js",
+      "https://cdn.syteapi.com/assets/imajs/imajs.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://cdn.cquotient.com/js/v2/gretel.min.js",
+      "https://cookie-cdn.cookiepro.com/scripttemplates/202210.1.0/otBannerSdk.js",
+      "https://assets.adobedtm.com/extensions/EP171e731c9ba34f1c950c36d26e3efd61/AppMeasurement.min.js",
+      "https://assets.adobedtm.com/extensions/EP171e731c9ba34f1c950c36d26e3efd61/AppMeasurement_Module_ActivityMap.min.js",
+      "https://cdn.syteapi.com/assets/imajs/787966778/f735952bf260cbc0a5db.syteapp.js",
+      "https://cdn.syteapi.com/assets/vendors/2b96291a8a0af2ad7b06.syteapp.js",
+      "https://cdn.syteapi.com/assets/vendors/38557aa84d79cf99e323.syteapp.js",
+      "https://cdn.syteapi.com/assets/vendors/9857fbef2b7492099e93.syteapp.js",
+      "https://cdn.syteapi.com/assets/vendors/11c27ea64c4ae3a43cf0.syteapp.js",
+      "https://cdn.syteapi.com/assets/imajs/787966778/9ecc56b788d023157dd6.syteapp.js",
+      "https://cdn.syteapi.com/assets/imajs/787966778/f624e958132412e67e09.syteapp.js",
+      "https://cdn.syteapi.com/assets/imajs/787966778/638e15b6439adac8a78e.syteapp.js",
+      "https://cdn.syteapi.com/assets/imajs/787966778/cc6cac13e680380de53b.syteapp.js",
+      "https://cdn.syteapi.com/assets/imajs/787966778/63a1c8d1c597db8fb948.syteapp.js",
+      "https://cdn.syteapi.com/assets/imajs/787966778/e247d1c41e7175ba91eb.syteapp.js",
+      "https://cdn.syteapi.com/assets/imajs/787966778/aa0eeecb6db8df6f8b7c.syteapp.js",
+      "https://assets.adobedtm.com/a4797e413e83/571a692543b7/e0b7920b60fc/RC8489f83792214031917a450b76ec4d80-source.min.js",
+      "https://chat1-cortefiel.i6.inconcertcc.com/inconcert/apps/webdesigner/lib/jquery/jquery-3.6.0.min.js",
+      "https://assets.adobedtm.com/a4797e413e83/571a692543b7/e0b7920b60fc/RC79edd06d3dcd44a4ba966161efa6f3e6-source.min.js"
+    ]
+  },
+  "www.seoghoer.dk": {
+    "rank": "614",
+    "private": [
+      "https://www.seoghoer.dk/_nuxt/2ab9c22.js",
+      "https://www.seoghoer.dk/_nuxt/10b6d3a.js",
+      "https://www.seoghoer.dk/_nuxt/006f46c.js",
+      "https://www.seoghoer.dk/_nuxt/b948c08.js",
+      "https://www.seoghoer.dk/_nuxt/a234326.js",
+      "https://www.seoghoer.dk/_nuxt/c978a3a.js",
+      "https://www.seoghoer.dk/_nuxt/392f97d.js",
+      "https://www.seoghoer.dk/_nuxt/91e5ba2.js",
+      "https://www.seoghoer.dk/_nuxt/95518ea.js",
+      "https://www.seoghoer.dk/_nuxt/67fa6ca.js"
+    ],
+    "third": [
+      "https://consent.cookiebot.com/uc.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://tag.heylink.com/34a363b8-ba17-46bd-a587-4fa8fc6bd803/script.js",
+      "https://tags.adnuntius.com/concept_cph/mvph3DNgl.prod.js",
+      "https://consent.cookiebot.com/Framework/IAB/consent-sdk-2.0.js",
+      "https://consent.cookiebot.com/e08b7943-9e12-4bc1-8b85-ca8f488ee0ba/cc.js",
+      "https://cdn.adnuntius.com/adn.js",
+      "https://macro.adnami.io/macro/spec/adsm.macro.db05a497-b17e-4e48-93f6-c0a0fcde6d00.js",
+      "https://cl-eu2.k5a.io/617f9fef8d5f44045b6df202.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://macro.adnami.io/macro/gen/adsm.macro.rmb.js",
+      "https://www.google-analytics.com/plugins/ua/linkid.js"
+    ]
+  },
+  "www.besac.com": {
+    "rank": "617",
+    "private": [
+      "https://analytics.dynagence.fr/matomo.js",
+      "https://www.besac.com/scripts/mmenu.min.js",
+      "https://www.besac.com/scripts/chosen.min.js",
+      "https://www.besac.com/scripts/slick.min.js",
+      "https://www.besac.com/scripts/rangeslider.min.js",
+      "https://www.besac.com/scripts/magnific-popup.min.js",
+      "https://www.besac.com/scripts/tooltips.min.js",
+      "https://www.besac.com/scripts/dotdotdot.js",
+      "https://www.besac.com/scripts/moment.min.js",
+      "https://www.besac.com/scripts/custom.js",
+      "https://www.besac.com/scripts/daterangepicker.js",
+      "https://www.besac.com/scripts/isotope.min.js"
+    ],
+    "third": [
+      "https://code.jquery.com/jquery-3.6.0.min.js",
+      "https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js",
+      "https://cdn.jsdelivr.net/gh/xcash/bootstrap-autocomplete@v2.3.7/dist/latest/bootstrap-autocomplete.min.js"
+    ]
+  },
+  "www.montbeliard-zoom.fr": {
+    "rank": "618",
+    "private": [
+      "https://analytics.dynagence.fr/matomo.js",
+      "https://www.montbeliard-zoom.fr/scripts/mmenu.min.js",
+      "https://www.montbeliard-zoom.fr/scripts/chosen.min.js",
+      "https://www.montbeliard-zoom.fr/scripts/slick.min.js",
+      "https://www.montbeliard-zoom.fr/scripts/magnific-popup.min.js",
+      "https://www.montbeliard-zoom.fr/scripts/rangeslider.min.js",
+      "https://www.montbeliard-zoom.fr/scripts/tooltips.min.js",
+      "https://www.montbeliard-zoom.fr/scripts/dotdotdot.js",
+      "https://www.montbeliard-zoom.fr/scripts/moment.min.js",
+      "https://www.montbeliard-zoom.fr/scripts/daterangepicker.js",
+      "https://www.montbeliard-zoom.fr/scripts/custom.js",
+      "https://www.montbeliard-zoom.fr/scripts/isotope.min.js"
+    ],
+    "third": [
+      "https://code.jquery.com/jquery-3.6.0.min.js",
+      "https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js",
+      "https://cdn.jsdelivr.net/gh/xcash/bootstrap-autocomplete@v2.3.7/dist/latest/bootstrap-autocomplete.min.js"
+    ]
+  },
+  "www.dole-zoom.fr": {
+    "rank": "619",
+    "private": [
+      "https://analytics.dynagence.fr/matomo.js",
+      "https://www.dole-zoom.fr/scripts/mmenu.min.js",
+      "https://www.dole-zoom.fr/scripts/chosen.min.js",
+      "https://www.dole-zoom.fr/scripts/rangeslider.min.js",
+      "https://www.dole-zoom.fr/scripts/slick.min.js",
+      "https://www.dole-zoom.fr/scripts/tooltips.min.js",
+      "https://www.dole-zoom.fr/scripts/dotdotdot.js",
+      "https://www.dole-zoom.fr/scripts/magnific-popup.min.js",
+      "https://www.dole-zoom.fr/scripts/moment.min.js",
+      "https://www.dole-zoom.fr/scripts/daterangepicker.js",
+      "https://www.dole-zoom.fr/scripts/custom.js",
+      "https://www.dole-zoom.fr/scripts/isotope.min.js"
+    ],
+    "third": [
+      "https://code.jquery.com/jquery-3.6.0.min.js",
+      "https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js",
+      "https://cdn.jsdelivr.net/gh/xcash/bootstrap-autocomplete@v2.3.7/dist/latest/bootstrap-autocomplete.min.js"
+    ]
+  },
+  "disparbud.jabarprov.go.id": {
+    "rank": "620",
+    "private": [
+      "https://disparbud.jabarprov.go.id/wp-includes/js/wp-emoji-release.min.js",
+      "https://disparbud.jabarprov.go.id/wp-includes/js/jquery/jquery.min.js",
+      "https://disparbud.jabarprov.go.id/wp-includes/js/jquery/jquery-migrate.min.js",
+      "https://disparbud.jabarprov.go.id/wp-content/plugins/soundy-background-music/js/front-end.js",
+      "https://disparbud.jabarprov.go.id/wp-content/plugins/contact-form-7/includes/swv/js/index.js",
+      "https://disparbud.jabarprov.go.id/wp-content/plugins/contact-form-7/includes/js/index.js",
+      "https://disparbud.jabarprov.go.id/wp-content/plugins/revslider/public/assets/js/rbtools.min.js",
+      "https://disparbud.jabarprov.go.id/wp-content/plugins/revslider/public/assets/js/rs6.min.js",
+      "https://disparbud.jabarprov.go.id/wp-includes/js/jquery/ui/mouse.min.js",
+      "https://disparbud.jabarprov.go.id/wp-includes/js/jquery/ui/core.min.js",
+      "https://disparbud.jabarprov.go.id/wp-includes/js/jquery/ui/slider.min.js",
+      "https://disparbud.jabarprov.go.id/wp-includes/js/jquery/ui/sortable.min.js",
+      "https://disparbud.jabarprov.go.id/wp-includes/js/jquery/ui/effect.min.js",
+      "https://disparbud.jabarprov.go.id/wp-content/plugins/youtube-channel/assets/lib/magnific-popup/jquery.magnific-popup.min.js",
+      "https://disparbud.jabarprov.go.id/wp-content/themes/disbudpar/assets/plugins/bootstrap/js/bootstrap.min.js",
+      "https://disparbud.jabarprov.go.id/wp-content/themes/disbudpar/assets/js/plugin.js",
+      "https://disparbud.jabarprov.go.id/wp-content/themes/disbudpar/assets/plugins/jquery.jPlayer/jquery.jplayer.min.js",
+      "https://disparbud.jabarprov.go.id/wp-content/themes/disbudpar/assets/plugins/slick/js/slick.js",
+      "https://disparbud.jabarprov.go.id/wp-content/themes/disbudpar/assets/js/main.js",
+      "https://disparbud.jabarprov.go.id/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js",
+      "https://disparbud.jabarprov.go.id/wp-content/themes/disbudpar/assets/vc-extend/js/vc_extend.js",
+      "https://disparbud.jabarprov.go.id/wp-content/plugins/js_composer/assets/lib/bower/lightbox2/dist/js/lightbox.min.js",
+      "https://disparbud.jabarprov.go.id/wp-content/plugins/js_composer/assets/lib/flexslider/jquery.flexslider.min.js",
+      "https://disparbud.jabarprov.go.id/wp-content/plugins/js_composer/assets/lib/bower/skrollr/dist/skrollr.min.js",
+      "https://disparbud.jabarprov.go.id/wp-content/themes/disbudpar/g5plus-framework/xmenu/assets/js/app.js"
+    ],
+    "third": [
+      "https://translate.google.com/translate_a/element.js",
+      "https://www.smartsuppchat.com/loader.js",
+      "https://www.google-analytics.com/analytics.js"
+    ]
+  },
+  "www.avgbulgaria.com": {
+    "rank": "622",
+    "private": [],
+    "third": [
+      "https://code.getmdl.io/1.3.0/material.min.js",
+      "https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js",
+      "https://www.google-analytics.com/analytics.js"
+    ]
+  },
+  "www.nep.uscourts.gov": {
+    "rank": "626",
+    "private": [
+      "https://www.nep.uscourts.gov/sites/all/libraries/modernizr/modernizr.custom.45361.js",
+      "https://www.nep.uscourts.gov/sites/default/files/js/js_hFyssOQhsL4zoxLl1v-ggyCleffIo8Azo9R3qWILLcY.js",
+      "https://www.nep.uscourts.gov/sites/default/files/js/js_fsGgs7PlCC2kwmXtUbpf6Rsk7uyE7r-Kucv8STltVzY.js",
+      "https://www.nep.uscourts.gov/sites/default/files/js/js_KYlHXh9xuNTmqmCmVjJ-nzG-AYzyUKAe5GpN8UUWs3s.js",
+      "https://www.nep.uscourts.gov/sites/default/files/js/js_FbtkZZ9MXusx6LLg1BSH5DlHmGIDvZBe9xW0_FoGIsE.js",
+      "https://www.nep.uscourts.gov/sites/default/files/js/js_B4Q3MZs68vw7GgRkEzVDxWXEj2gTeJJrYE9ZqagEuC4.js",
+      "https://www.nep.uscourts.gov/sites/default/files/js/js_zdarJUx7egovvo7K2yO1fmKnRe7E29CRNGZdMpw9cwg.js",
+      "https://www.nep.uscourts.gov/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js",
+      "https://www.nep.uscourts.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery-ui.min.js",
+      "https://search.uscourts.gov/javascripts/remote.loader.js"
+    ],
+    "third": [
+      "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js",
+      "https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js",
+      "https://www.google-analytics.com/analytics.js"
+    ]
+  },
+  "www.eneriance.fr": {
+    "rank": "629",
+    "private": [
+      "https://eneriance.fr/wp-content/themes/coriance-filiale-theme/dist/vendor/tarteaucitron/tarteaucitron.js",
+      "https://eneriance.fr/wp-includes/js/jquery/jquery.min.js",
+      "https://eneriance.fr/wp-content/plugins/devvn-image-hotspot/frontend/js/jquery.powertip.min.js",
+      "https://eneriance.fr/wp-content/plugins/devvn-image-hotspot/frontend/js/maps_points.js",
+      "https://eneriance.fr/wp-content/themes/coriance-filiale-theme/dist/build/903.401f3dbf2576c24584b0.js",
+      "https://eneriance.fr/wp-content/themes/coriance-filiale-theme/dist/build/app.092d3f16a21febc31c30.js",
+      "https://eneriance.fr/wp-includes/js/dist/vendor/regenerator-runtime.min.js",
+      "https://eneriance.fr/wp-includes/js/dist/vendor/wp-polyfill.min.js",
+      "https://eneriance.fr/wp-includes/js/dist/hooks.min.js",
+      "https://eneriance.fr/wp-content/plugins/ajax-search-lite/js/min/jquery.ajaxsearchlite.min.js"
+    ],
+    "third": []
+  },
+  "www.industrie.gov.tn": {
+    "rank": "630",
+    "private": [],
+    "third": []
+  },
+  "www.verisign.co.uk": {
+    "rank": "633",
+    "private": [
+      "https://www.verisign.com/en_US/resources/js/main.js",
+      "https://www.verisign.com/en_US/resources/js/features.js",
+      "https://www.verisign.com/onetrust/scripttemplates/otSDKStub.js",
+      "https://www.verisign.com/resources/webcomponents/wmkt-library.esm.js",
+      "https://www.verisign.com/resources/webcomponents/vrsn-scroll-trigger.js",
+      "https://www.verisign.com/resources/webcomponents/vrsn-featured-carousel.js",
+      "https://www.verisign.com/resources/webcomponents/p-47fa1497.js",
+      "https://www.verisign.com/resources/webcomponents/p-e893084b.js",
+      "https://www.verisign.com/onetrust/scripttemplates/6.17.0/otBannerSdk.js"
+    ],
+    "third": []
+  },
+  "www.americanexpress.com": {
+    "rank": "673",
+    "private": [
+      "https://www.aexp-static.com/cdaas/one/statics/@americanexpress/homepage-frontend/3.6.0/package/dist/E3/markets/en-us/app_top.js",
+      "https://www.aexp-static.com/cdaas/one/statics/@americanexpress/axp-nav-partial-utility/1.0.1/package/dist/navScript.js",
+      "https://www.aexp-static.com/cdaas/one/statics/@americanexpress/homepage-frontend/3.6.0/package/dist/E3/markets/en-us/app_bottom.js",
+      "https://www.aexp-static.com/cdaas/one/statics/@americanexpress/dls/6.23.1/package/dist/6.23.1/scripts/dls.min.js",
+      "https://www.americanexpress.com/etc.clientlibs/enterprise/clientlibs/enterprise.min.eead0e806b374f7355d29831ccba0ecf.js",
+      "https://www.americanexpress.com/etc.clientlibs/homepage/clientlibs/homepage.min.fde33db883f3296daccc53ef0492de08.js",
+      "https://www.aexp-static.com/cdaas/one/axp-script-supplier/5.1.0/script-supplier.js"
+    ],
+    "third": [
+      "https://assets.adobedtm.com/dcb19cbd6cbf/61650f53735f/6daeb3f1c161/EX95205b2da3754df6ba4d53e6822cc168-libraryCode_source.min.js"
+    ]
+  },
+  "www.logementsocialdurable.fr": {
+    "rank": "638",
+    "private": [
+      "https://www.logementsocialdurable.fr/wp-includes/js/jquery/jquery.min.js",
+      "https://www.logementsocialdurable.fr/wp-includes/js/jquery/jquery-migrate.min.js",
+      "https://www.logementsocialdurable.fr/wp-content/plugins/ewww-image-optimizer/includes/lazysizes.min.js",
+      "https://www.logementsocialdurable.fr/wp-content/cache/autoptimize/js/autoptimize_single_03941a2696494363b9599302a377fe36.js",
+      "https://www.logementsocialdurable.fr/wp-content/cache/autoptimize/js/autoptimize_single_7f0734e228d3f1a255a8b817a5005b8e.js",
+      "https://www.logementsocialdurable.fr/wp-content/cache/autoptimize/js/autoptimize_single_0fc4d72558c0e4f809b089639b6abecf.js",
+      "https://www.logementsocialdurable.fr/wp-content/themes/rife-free/js/helpers.min.js",
+      "https://www.logementsocialdurable.fr/wp-content/themes/rife-free/js/jquery.fitvids.min.js",
+      "https://www.logementsocialdurable.fr/wp-content/themes/rife-free/js/jquery.fittext.min.js",
+      "https://www.logementsocialdurable.fr/wp-content/themes/rife-free/js/jquery.slides.min.js",
+      "https://www.logementsocialdurable.fr/wp-content/themes/rife-free/js/jquery.sticky-kit.min.js",
+      "https://www.logementsocialdurable.fr/wp-content/themes/rife-free/js/jquery.mousewheel.min.js",
+      "https://www.logementsocialdurable.fr/wp-content/themes/rife-free/js/typed.min.js",
+      "https://www.logementsocialdurable.fr/wp-content/themes/rife-free/js/isotope.pkgd.min.js",
+      "https://www.logementsocialdurable.fr/wp-content/themes/rife-free/js/light-gallery/js/lightgallery-all.min.js",
+      "https://www.logementsocialdurable.fr/wp-content/themes/rife-free/js/script.min.js",
+      "https://www.logementsocialdurable.fr/wp-includes/js/wp-emoji-release.min.js"
+    ],
+    "third": []
+  },
+  "www.forzi.fr": {
+    "rank": "639",
+    "private": [],
+    "third": []
+  },
+  "www.paris-vacation-apartments.fr": {
+    "rank": "640",
+    "private": [
+      "http://paris-vacation-apartments.fr/js/menuRefresh.js",
+      "http://paris-vacation-apartments.fr/js/index.js"
+    ],
+    "third": []
+  },
+  "hopla.fr": {
+    "rank": "641",
+    "private": [],
+    "third": [
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.813c4fe6.bundle.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/main.c426111a.bundle.min.js",
+      "https://static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js",
+      "https://static.parastorage.com/unpkg/react@16.14.0/umd/react.production.min.js",
+      "https://static.parastorage.com/services/tag-manager-client/1.705.0/siteTags.bundle.min.js",
+      "https://static.parastorage.com/services/wix-perf-measure/1.1058.0/wix-perf-measure.umd.min.js",
+      "https://static.parastorage.com/unpkg/react-dom@16.14.0/umd/react-dom.production.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-components-registry.c57c29fd.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/group_2.cecbfddf.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/quickActionBar.a1abb48e.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/renderer.01f09c54.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/tpaCommons.3d58f891.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/platform.529af6b0.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/reporter-api.f47a5099.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/group_0.bf5b9697.chunk.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap.dd07ab85.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap-classic.198d3835.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[TextInput].fc14876b.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[TextAreaInput].aea1cfe9.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MediaOverlayControls].f563f29c.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MediaControls].88da628c.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[AppWidget_Classic].a8fa61a0.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[StateBox].c4e3f03b.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SlideShowSlide].d6319a1b.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MediaPlayer_videoBox].f6b08198.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[DropDownMenu_SolidColorMenuButtonSkin].fa7274b5.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[FooterContainer_BevelScreen].d52e8b9e.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SkipToContentButton].96644c35.bundle.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/group_21.7dedc9d7.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/group_22.550d5470.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/group_29.45325397.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/group_8.fbafc479.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/group_17.31e53cdc.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/group_4.24bae1dc.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/group_26.4d444ca3.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/santa-langs-fr.add0ad69.chunk.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/group_1.c7d292bc.chunk.min.js",
+      "https://static.parastorage.com/services/cookie-consent-banner-for-uou/1.696.0//app.bundle.min.js"
+    ]
+  },
+  "www.ajax-zoom.com": {
+    "rank": "644",
+    "private": [
+      "https://www.ajax-zoom.com/axZm/plugins/jquery-2.2.4.min.js",
+      "https://www.ajax-zoom.com/axZm/plugins/jquery-migrate-1.4.1.min.js",
+      "https://www.ajax-zoom.com/axZm/plugins/jquery.requestAnimationFrame.min.js",
+      "https://www.ajax-zoom.com/bootstrap/js/bootstrap.min.js",
+      "https://www.ajax-zoom.com/axZm/plugins/jquery.ui/js/jquery-ui-1.8.24.custom.min.js",
+      "https://www.ajax-zoom.com/axZm/plugins/jquery.scrollTo.min.js",
+      "https://www.ajax-zoom.com/axZm/extensions/jquery.axZm.thumbGallery.js",
+      "https://www.ajax-zoom.com/axZm/plugins/demo/jquery.fancybox/jquery.fancybox-1.3.4.pack.js",
+      "https://www.ajax-zoom.com/axZm/jquery.axZm.js",
+      "https://www.ajax-zoom.com/axZm/extensions/axZmThumbSlider/lib/jquery.axZm.thumbSlider.js",
+      "https://www.ajax-zoom.com/axZm/extensions/axZmThumbSlider/lib/jquery.mousewheel.min.js",
+      "https://www.ajax-zoom.com/axZm/plugins/spin/spin.min.js",
+      "https://www.ajax-zoom.com/axZm/extensions/axZmMouseOverZoom/jquery.axZm.mouseOverZoom.5.js",
+      "https://www.ajax-zoom.com/axZm/extensions/axZmMouseOverZoom/jquery.axZm.mouseOverZoomInit.5.js",
+      "https://www.ajax-zoom.com/axZm/extensions/jquery.axZm.openAjaxZoomInFancyBox.js",
+      "https://www.ajax-zoom.com/axZm/extensions/jquery.axZm.imageCropLoad.js",
+      "https://www.ajax-zoom.com/axZm/extensions/jquery.axZm.expButton.js",
+      "https://www.ajax-zoom.com/axZm/extensions/jquery.axZm.hoverThumb.js",
+      "https://www.ajax-zoom.com/axZm/plugins/demo/colorbox/jquery.colorbox-min.js",
+      "https://www.ajax-zoom.com/axZm/extensions/axZmAppContainer/jquery.axZm.appContainer.js",
+      "https://www.ajax-zoom.com/axZm/axZm.iframe.js",
+      "https://www.ajax-zoom.com/axZm/extensions/jquery.axZm.360Gallery.js",
+      "https://www.ajax-zoom.com/axZm/extensions/jquery.axZm.imageCropLoadFullscreen.js",
+      "https://www.ajax-zoom.com/axZm/extensions/jquery.axZm.embedResponsive.js",
+      "https://www.ajax-zoom.com/js/facebox/facebox.min.js",
+      "https://www.ajax-zoom.com/js/jquery.s_event.js",
+      "https://www.ajax-zoom.com/js/jquery.cookie.js",
+      "https://www.ajax-zoom.com/js/md5.js",
+      "https://www.ajax-zoom.com/axZm/plugins/demo/prism/prism.min.js"
+    ],
+    "third": []
+  },
+  "www.backscatter.com": {
+    "rank": "645",
+    "private": [
+      "https://www.backscatter.com/sca-dev-denali/languages/shopping_en_US.js",
+      "https://www.backscatter.com/sca-dev-denali/javascript/shopping.js",
+      "https://www.backscatter.com/content/Homepage-Content.js"
+    ],
+    "third": [
+      "https://www.google-analytics.com/analytics.js",
+      "https://www.google-analytics.com/plugins/ua/ecommerce.js"
+    ]
+  },
+  "www.codango.com": {
+    "rank": "646",
+    "private": [
+      "https://codango.com/wp-includes/js/jquery/jquery.min.js",
+      "https://codango.com/wp-includes/js/jquery/jquery-migrate.min.js",
+      "https://codango.com/wp-content/plugins/pluscaptcha/js/plscptf.js",
+      "https://codango.com/wp-content/plugins/cm-ad-changer-server-pro/assets/js/front-scripts.js",
+      "https://codango.com/wp-content/plugins/cm-ad-changer-server-pro/assets/js/jquery.tcycle.js",
+      "https://codango.com/wp-content/plugins/cm-ad-changer-server-pro/assets/js/ouibounce.js",
+      "https://codango.com/wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public.js",
+      "https://codango.com/wp-content/plugins/cm-ad-changer-server-pro/assets/js/flyingBottom.js",
+      "https://codango.com/wp-content/themes/catch-box-pro/js/menu.min.js",
+      "https://codango.com/wp-includes/js/wp-emoji-release.min.js",
+      "https://codango.com/wp-includes/js/jquery/ui/core.min.js",
+      "https://codango.com/wp-includes/js/jquery/ui/mouse.min.js",
+      "https://codango.com/wp-includes/js/jquery/ui/droppable.min.js",
+      "https://codango.com/wp-includes/js/jquery/ui/draggable.min.js",
+      "https://codango.com/wp-includes/js/jquery/ui/datepicker.min.js",
+      "https://codango.com/wp-content/plugins/email-subscribers/lite/public/js/email-subscribers-public.js",
+      "https://codango.com/wp-content/themes/catch-box-pro/js/jquery.cycle.all.min.js",
+      "https://codango.com/wp-content/themes/catch-box-pro/js/catchbox-slider.js",
+      "https://codango.com/wp-content/themes/catch-box-pro/js/skip-link-focus-fix.js",
+      "https://codango.com/wp-content/themes/catch-box-pro/js/catchbox-fitvids.min.js",
+      "https://codango.com/wp-content/plugins/ulc/assets/js/plugins/mustache.min.js",
+      "https://codango.com/wp-content/themes/catch-box-pro/js/navigation.js",
+      "https://codango.com/wp-content/themes/catch-box-pro/js/catchbox-scrollup.min.js",
+      "https://codango.com/wp-content/plugins/ulc/assets/js/plugins/masonry.pkgd.min.js",
+      "https://codango.com/wp-content/plugins/ulc/assets/js/plugins/jquery.webui-popover.min.js",
+      "https://codango.com/wp-content/plugins/ulc/assets/js/main.js"
+    ],
+    "third": [
+      "https://s7.addthis.com/js/300/addthis_widget.js",
+      "https://translate.google.com/translate_a/element.js",
+      "https://z.moatads.com/addthismoatframe568911941483/moatframe.js",
+      "https://s7.addthis.com/static/layers.fa6cd1947ce26e890d3d.js"
+    ]
+  },
+  "cac.ca.gov": {
+    "rank": "648",
+    "private": [
+      "https://arts.ca.gov/wp-includes/js/jquery/jquery.min.js",
+      "https://arts.ca.gov/wp-content/plugins/autoptimize/classes/external/js/lazysizes.min.js",
+      "https://arts.ca.gov/wp-content/uploads/autoptimize/js/aggregated_8181b8685e0b455ebcc40d9a593385aa.js"
+    ],
+    "third": [
+      "https://translate.google.com/translate_a/element.js"
+    ]
+  },
+  "www.tiesto.com": {
+    "rank": "649",
+    "private": [],
+    "third": [
+      "https://use.typekit.net/ik/Q6yUPcwr-5Vo7BD8upZa3HsetP1boyDTZCEOvsynWhMfenGBfFHN4UJLFRbh52jhWD9tFej3wRiyZQscjhJuFABqFeF8wQIDZgn3MKG0jAFu-WsoShFGZAsude80ZkoRdhXCHKoyjamTiY8Djhy8ZYmC-Ao1Oco8if37OcBDOcu8OfG0SaBujW48SagyjhmDjhy8ZYmC-Ao1OcFzdP37O1sTZWFXdas8Sab0SaBujW48Sagyjh90jhNlOeBRiA8XpWFR-emqiAUTdcS0jhNlOeBRiA8XpWFR-emqiAUTdcS0dcmXOeBDOcu8OeUzjhBC-eNDifUDSWmyScmDSeBRZWFR-emqiAUTdcS0jhNlOYsTZWFXdkoRdhXCie88SasziemDifoDSWmyScmDSeBRZPoRdhXCiaiaOcBRiA8XpWFR-emqiAUTdcS0jhNlOYiaikoyjamTiY8Djhy8ZYmC-Ao1Oco8ifUaiaS0jWw0dA9CiaiaO1FUiABkZWF3jAF8ShFGZAsude80ZkoRdhXCiaiaO1sTZWFXdkoRdhXCiaiaO1sTZWFXdas8Sab0SaBujW48Sagyjh90jhNlJ6U3ScNt-AuyOAozicIKfc48jcBDOAo8iA9KfhoTdA4uSkuDjAoDJyBKScB0ZeN0OAikdas8SaBuZPJ4Z1mXiW4yOWgXJ6oCiewljcNqdhoTOQIaFPJBjh8kjh97fbKnMsMMeMI6MKG4f5J7IMMjMkMfH6qJn3IbMg6IJMJ7fbKlMsMMeMj6MKG4fFNGIMIjgfMfH6qJ7mbbMy6IJMJ7fbKnmgMfeMS6MKG4fHT9IMJj2KMfH6qJnBbbMy6sJMJ7fbKh9gM2eMb6MKG4fJsmIMbjgfMfH6qJ6m9bgg6YJMJ7fbRxHUMBeMb6MKGHfFV_MsMeeMb6MKGHfFQ_MsMeeMS6MKGHfwx5MyMeeMt6MKGHfF25MyMeegI6MTMgGHcl8bj.js",
+      "https://assets.squarespace.com/@sqs/polyfiller/1.6/modern.js",
+      "https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-f9b67b092b83798ea51d6-min.en-US.js",
+      "https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js",
+      "https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-56fdc0b6309d3f37f75e8-min.en-US.js",
+      "https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-0fda8ea0a0cf92af6b92e-min.en-US.js",
+      "https://assets.squarespace.com/universal/scripts-compressed/common-vendors-d4c8824f34d7c03a6c155-min.en-US.js",
+      "https://assets.squarespace.com/universal/scripts-compressed/common-2aa3b3e4ef45de1c28a90-min.en-US.js",
+      "https://assets.squarespace.com/universal/scripts-compressed/performance-28e7aebe94225014d2fdc-min.en-US.js",
+      "https://www.tailorednews.com/tmsubscribe.net/SignupWidget/widget.js",
+      "https://static1.squarespace.com/static/ta/55f0a9b0e4b0f3eb70352f6d/349/scripts/site-bundle.js",
+      "https://s7.addthis.com/js/300/addthis_widget.js",
+      "https://lib.vmweb.net/identity.min.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://z.moatads.com/addthismoatframe568911941483/moatframe.js",
+      "https://s7.addthis.com/static/layers.fa6cd1947ce26e890d3d.js",
+      "https://s7.addthis.com/static/178.9cb53d47911af643216c.js",
+      "https://s7.addthis.com/static/140.61020b6c086bdb8bc696.js"
+    ]
+  },
+  "mexico.cnn.com": {
+    "rank": "650",
+    "private": [
+      "https://www.cnn.com/wmuc/cnn_user_consent.min.js",
+      "https://cdn.cnn.com/ads/adfuel/ais/2.1/cnn_espanol-ais.min.js",
+      "https://cdn.cnn.com/ads/adfuel/adfuel-2.1.min.js",
+      "https://cnnespanol.cnn.com/wp-includes/js/wp-emoji-release.min.js",
+      "https://cnnespanol.cnn.com/wp-content/themes/cnnespanol/static/libs/js/usertiming.js",
+      "https://z.cdp-dev.cnn.com/zion-web-client/3.0/zion-web-client.min.js",
+      "https://lightning.cnn.com/launch/7be62238e4c3/5c068b797a4b/launch-ba84c3c145ad.min.js",
+      "https://z.cdp-dev.cnn.com/zfm/zfh-3.js",
+      "https://lightning.cnn.com/launch/7be62238e4c3/5c068b797a4b/d7ad429f66d4/EX47d9004f961641aca7915158aad8e1d4-libraryCode_source.min.js",
+      "https://s.cdn.turner.com/analytics/comscore/streamsense.5.2.0.160629.min.js",
+      "https://turnip.cdn.turner.com/top/player-ui/2.12.1-30/player-ui.min.js",
+      "https://lightning.cnn.com/launch/7be62238e4c3/5c068b797a4b/d7ad429f66d4/RC36e42ac17b5b4cbf90598fd19097e69f-source.min.js",
+      "https://www.i.cdn.cnn.com/zion/zion-mb.min.js",
+      "https://lightning.cnn.com/launch/7be62238e4c3/5c068b797a4b/d7ad429f66d4/RCfc1a918574d1444db2e219d715b39336-source.min.js",
+      "https://lightning.cnn.com/launch/7be62238e4c3/5c068b797a4b/d7ad429f66d4/RC6c7be6039dd44bff8158fd77dc39aa3d-source.min.js",
+      "https://lightning.cnn.com/launch/7be62238e4c3/5c068b797a4b/d7ad429f66d4/RC8c7478b3f3514933a82408515f468057-source.min.js"
+    ],
+    "third": [
+      "https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.0.7/js/swiper.min.js",
+      "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+      "https://amplify.outbrain.com/cp/obtp.js",
+      "https://stats.wp.com/e-202309.js",
+      "https://c.amazon-adsystem.com/aax2/apstag.js",
+      "https://warnermediagroup-com.videoplayerhub.com/galleryloader.js",
+      "https://static.adsafeprotected.com/iasPET.1.js",
+      "https://d9esmwyn3ffr1.cloudfront.net/script.js",
+      "https://d20kffh39acpue.cloudfront.net/imm.js",
+      "https://cdn.optimizely.com/js/8257882167.js",
+      "https://static.chartbeat.com/js/chartbeat_mab.js",
+      "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "https://secure.quantserve.com/quant.js",
+      "https://static.chartbeat.com/js/chartbeat.js",
+      "https://widgets.outbrain.com/outbrain.js",
+      "https://native.sharethrough.com/assets/sfp.js",
+      "https://cdn.boomtrain.com/p13n/cnn/p13n.min.js",
+      "https://cdn.viglink.com/api/vglnk.js",
+      "https://d1xfq2052q7thw.cloudfront.net/2.0.1199.js",
+      "https://cdn.cookielaw.org/scripttemplates/202211.2.0/otBannerSdk.js",
+      "https://c.amazon-adsystem.com/bao-csm/aps-comm/aps_csm.js",
+      "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2023022102.js",
+      "https://rules.quantcount.com/rules-p-D1yc5zQgjmqr5.js",
+      "https://cdn.ml314.com/taglw.js",
+      "https://sb.scorecardresearch.com/cs/6035748/beacon.js",
+      "https://tpc.googlesyndication.com/sodar/xdEizrWJ.js"
+    ]
+  },
+  "www.nationalarchives.gov.uk": {
+    "rank": "651",
+    "private": [
+      "https://www.nationalarchives.gov.uk/wp-content/themes/tna-base/js/lib/jquery-1.11.3.min.js",
+      "https://www.nationalarchives.gov.uk/wp-content/themes/tna-base/js/lib/modernizr.js",
+      "https://www.nationalarchives.gov.uk/wp-content/plugins/ds-cookie-consent/dist/ds-cookie-consent.js",
+      "https://www.nationalarchives.gov.uk/wp-content/themes/tna-child-home/js/tna-child-home.js",
+      "https://www.nationalarchives.gov.uk/wp-content/themes/tna-base/js/compiled/tna-base.min.js",
+      "https://cdn.nationalarchives.gov.uk/react-components/dist/website-1.1.8.js"
+    ],
+    "third": []
+  },
+  "wabcradio.com": {
+    "rank": "652",
+    "private": [],
+    "third": []
+  },
+  "www.insidefutures.com": {
+    "rank": "655",
+    "private": [],
+    "third": []
+  },
+  "www.musiquemachine.com": {
+    "rank": "656",
+    "private": [],
+    "third": [
+      "https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js",
+      "https://ssl.google-analytics.com/ga.js"
+    ]
+  },
+  "www.on-veut-du-cul.com": {
+    "rank": "657",
+    "private": [],
+    "third": [
+      "http://www.google-analytics.com/ga.js"
+    ]
+  },
+  "www.nic.mw": {
+    "rank": "658",
+    "private": [
+      "http://www.nic.mw/js/jquery-min.js",
+      "http://www.nic.mw/js/main.js",
+      "http://www.nic.mw/js/bootstrap.min.js"
+    ],
+    "third": []
+  },
+  "www.lons-zoom.fr": {
+    "rank": "659",
+    "private": [
+      "https://analytics.dynagence.fr/matomo.js",
+      "https://www.lons-zoom.fr/scripts/mmenu.min.js",
+      "https://www.lons-zoom.fr/scripts/chosen.min.js",
+      "https://www.lons-zoom.fr/scripts/slick.min.js",
+      "https://www.lons-zoom.fr/scripts/rangeslider.min.js",
+      "https://www.lons-zoom.fr/scripts/magnific-popup.min.js",
+      "https://www.lons-zoom.fr/scripts/tooltips.min.js",
+      "https://www.lons-zoom.fr/scripts/dotdotdot.js",
+      "https://www.lons-zoom.fr/scripts/moment.min.js",
+      "https://www.lons-zoom.fr/scripts/custom.js",
+      "https://www.lons-zoom.fr/scripts/daterangepicker.js",
+      "https://www.lons-zoom.fr/scripts/isotope.min.js"
+    ],
+    "third": [
+      "https://code.jquery.com/jquery-3.6.0.min.js",
+      "https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js",
+      "https://cdn.jsdelivr.net/gh/xcash/bootstrap-autocomplete@v2.3.7/dist/latest/bootstrap-autocomplete.min.js"
+    ]
+  },
+  "duniaflora.com": {
+    "rank": "660",
+    "private": [],
+    "third": [
+      "https://static.hugedomains.com/js/hdv3-js/jquery.min.js",
+      "https://www.google.com/recaptcha/enterprise.js",
+      "https://static.hugedomains.com/js/hdv3-js/intlTelInput.js",
+      "https://static.hugedomains.com/js/hdv3-js/script.js",
+      "https://static.hugedomains.com/js/hdv3-js/common.js",
+      "https://static.hugedomains.com/js/hdv3-js/hd-js.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://www.google-analytics.com/plugins/ua/ec.js"
+    ]
+  },
+  "www.pontarlier-zoom.fr": {
+    "rank": "662",
+    "private": [
+      "https://analytics.dynagence.fr/matomo.js",
+      "https://www.pontarlier-zoom.fr/scripts/mmenu.min.js",
+      "https://www.pontarlier-zoom.fr/scripts/chosen.min.js",
+      "https://www.pontarlier-zoom.fr/scripts/slick.min.js",
+      "https://www.pontarlier-zoom.fr/scripts/rangeslider.min.js",
+      "https://www.pontarlier-zoom.fr/scripts/tooltips.min.js",
+      "https://www.pontarlier-zoom.fr/scripts/magnific-popup.min.js",
+      "https://www.pontarlier-zoom.fr/scripts/daterangepicker.js",
+      "https://www.pontarlier-zoom.fr/scripts/dotdotdot.js",
+      "https://www.pontarlier-zoom.fr/scripts/moment.min.js",
+      "https://www.pontarlier-zoom.fr/scripts/custom.js",
+      "https://www.pontarlier-zoom.fr/scripts/isotope.min.js"
+    ],
+    "third": [
+      "https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js",
+      "https://code.jquery.com/jquery-3.6.0.min.js",
+      "https://cdn.jsdelivr.net/gh/xcash/bootstrap-autocomplete@v2.3.7/dist/latest/bootstrap-autocomplete.min.js"
+    ]
+  },
+  "www.gray-zoom.fr": {
+    "rank": "663",
+    "private": [
+      "https://analytics.dynagence.fr/matomo.js",
+      "https://www.gray-zoom.fr/scripts/mmenu.min.js",
+      "https://www.gray-zoom.fr/scripts/chosen.min.js",
+      "https://www.gray-zoom.fr/scripts/slick.min.js",
+      "https://www.gray-zoom.fr/scripts/rangeslider.min.js",
+      "https://www.gray-zoom.fr/scripts/tooltips.min.js",
+      "https://www.gray-zoom.fr/scripts/magnific-popup.min.js",
+      "https://www.gray-zoom.fr/scripts/dotdotdot.js",
+      "https://www.gray-zoom.fr/scripts/daterangepicker.js",
+      "https://www.gray-zoom.fr/scripts/moment.min.js",
+      "https://www.gray-zoom.fr/scripts/custom.js",
+      "https://www.gray-zoom.fr/scripts/isotope.min.js"
+    ],
+    "third": [
+      "https://code.jquery.com/jquery-3.6.0.min.js",
+      "https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js",
+      "https://cdn.jsdelivr.net/gh/xcash/bootstrap-autocomplete@v2.3.7/dist/latest/bootstrap-autocomplete.min.js"
+    ]
+  },
+  "www.luxeuil-zoom.fr": {
+    "rank": "664",
+    "private": [
+      "https://analytics.dynagence.fr/matomo.js",
+      "https://www.luxeuil-zoom.fr/scripts/mmenu.min.js",
+      "https://www.luxeuil-zoom.fr/scripts/chosen.min.js",
+      "https://www.luxeuil-zoom.fr/scripts/slick.min.js",
+      "https://www.luxeuil-zoom.fr/scripts/rangeslider.min.js",
+      "https://www.luxeuil-zoom.fr/scripts/magnific-popup.min.js",
+      "https://www.luxeuil-zoom.fr/scripts/tooltips.min.js",
+      "https://www.luxeuil-zoom.fr/scripts/dotdotdot.js",
+      "https://www.luxeuil-zoom.fr/scripts/moment.min.js",
+      "https://www.luxeuil-zoom.fr/scripts/daterangepicker.js",
+      "https://www.luxeuil-zoom.fr/scripts/custom.js",
+      "https://www.luxeuil-zoom.fr/scripts/isotope.min.js"
+    ],
+    "third": [
+      "https://code.jquery.com/jquery-3.6.0.min.js",
+      "https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js",
+      "https://cdn.jsdelivr.net/gh/xcash/bootstrap-autocomplete@v2.3.7/dist/latest/bootstrap-autocomplete.min.js"
+    ]
+  },
+  "www.vesoul-zoom.fr": {
+    "rank": "665",
+    "private": [
+      "https://analytics.dynagence.fr/matomo.js",
+      "https://www.vesoul-zoom.fr/scripts/mmenu.min.js",
+      "https://www.vesoul-zoom.fr/scripts/chosen.min.js",
+      "https://www.vesoul-zoom.fr/scripts/rangeslider.min.js",
+      "https://www.vesoul-zoom.fr/scripts/slick.min.js",
+      "https://www.vesoul-zoom.fr/scripts/magnific-popup.min.js",
+      "https://www.vesoul-zoom.fr/scripts/tooltips.min.js",
+      "https://www.vesoul-zoom.fr/scripts/dotdotdot.js",
+      "https://www.vesoul-zoom.fr/scripts/moment.min.js",
+      "https://www.vesoul-zoom.fr/scripts/daterangepicker.js",
+      "https://www.vesoul-zoom.fr/scripts/custom.js",
+      "https://www.vesoul-zoom.fr/scripts/isotope.min.js"
+    ],
+    "third": [
+      "https://code.jquery.com/jquery-3.6.0.min.js",
+      "https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js",
+      "https://cdn.jsdelivr.net/gh/xcash/bootstrap-autocomplete@v2.3.7/dist/latest/bootstrap-autocomplete.min.js"
+    ]
+  },
+  "www.fczoom.fr": {
+    "rank": "666",
+    "private": [
+      "https://analytics.dynagence.fr/matomo.js",
+      "https://www.fczoom.fr/scripts/mmenu.min.js",
+      "https://www.fczoom.fr/scripts/slick.min.js",
+      "https://www.fczoom.fr/scripts/chosen.min.js",
+      "https://www.fczoom.fr/scripts/rangeslider.min.js",
+      "https://www.fczoom.fr/scripts/magnific-popup.min.js",
+      "https://www.fczoom.fr/scripts/tooltips.min.js",
+      "https://www.fczoom.fr/scripts/dotdotdot.js",
+      "https://www.fczoom.fr/scripts/moment.min.js",
+      "https://www.fczoom.fr/scripts/daterangepicker.js",
+      "https://www.fczoom.fr/scripts/custom.js",
+      "https://www.fczoom.fr/scripts/isotope.min.js"
+    ],
+    "third": [
+      "https://code.jquery.com/jquery-3.6.0.min.js",
+      "https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js",
+      "https://cdn.jsdelivr.net/gh/xcash/bootstrap-autocomplete@v2.3.7/dist/latest/bootstrap-autocomplete.min.js"
+    ]
+  },
+  "www.champagnole-zoom.fr": {
+    "rank": "667",
+    "private": [
+      "https://analytics.dynagence.fr/matomo.js",
+      "https://www.champagnole-zoom.fr/scripts/mmenu.min.js",
+      "https://www.champagnole-zoom.fr/scripts/chosen.min.js",
+      "https://www.champagnole-zoom.fr/scripts/rangeslider.min.js",
+      "https://www.champagnole-zoom.fr/scripts/slick.min.js",
+      "https://www.champagnole-zoom.fr/scripts/magnific-popup.min.js",
+      "https://www.champagnole-zoom.fr/scripts/tooltips.min.js",
+      "https://www.champagnole-zoom.fr/scripts/dotdotdot.js",
+      "https://www.champagnole-zoom.fr/scripts/moment.min.js",
+      "https://www.champagnole-zoom.fr/scripts/daterangepicker.js",
+      "https://www.champagnole-zoom.fr/scripts/custom.js",
+      "https://www.champagnole-zoom.fr/scripts/isotope.min.js"
+    ],
+    "third": [
+      "https://code.jquery.com/jquery-3.6.0.min.js",
+      "https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js",
+      "https://cdn.jsdelivr.net/gh/xcash/bootstrap-autocomplete@v2.3.7/dist/latest/bootstrap-autocomplete.min.js"
+    ]
+  },
+  "pegchem.com": {
+    "rank": "669",
+    "private": [
+      "http://www.pegchem.com/upload/response.js"
+    ],
+    "third": [
+      "http://static202.yun300.cn/public/wgt/coreLibs/cecc/interwords/interwords_zh_CN.min.js,libs.min.js",
+      "http://dfs.yun300.cn/group1/M00/00/8F/CgI9FlihyIKEHHIhAAAAAOmIEm04384.js",
+      "http://dfs.yun300.cn/group1/M00/03/58/rBQBG1nN6HuECxc5AAAAADYWPeE6099.js",
+      "http://static.yun300.cn/public/wgt/coreLibs/utils.min.js",
+      "http://push.zhanzhang.baidu.com/push.js",
+      "https://jspassport.ssl.qhimg.com/11.0.1.js",
+      "http://static.yun300.cn/public/js/search/search_total-02.min.js",
+      "http://static.yun300.cn/public/js/news/news_list-02.min.js",
+      "http://static.yun300.cn/public/js/news/news_list.min.js",
+      "http://static.yun300.cn/public/wgt/frontPlugin/jquery.mediaQuery.min.js",
+      "http://static.yun300.cn/public/js/pagination/initPagination.min.js",
+      "http://static.yun300.cn/public/wgt/frontPlugin/swiper4.4.2.min.js",
+      "http://static.yun300.cn/public/js/pagination/pagination.min.js"
+    ]
+  },
+  "www.verisign.de": {
+    "rank": "670",
+    "private": [
+      "https://www.verisign.com/en_US/resources/js/main.js",
+      "https://www.verisign.com/en_US/resources/js/features.js",
+      "https://www.verisign.com/onetrust/scripttemplates/otSDKStub.js",
+      "https://www.verisign.com/resources/webcomponents/wmkt-library.esm.js",
+      "https://www.verisign.com/resources/webcomponents/vrsn-scroll-trigger.js",
+      "https://www.verisign.com/resources/webcomponents/vrsn-featured-carousel.js",
+      "https://www.verisign.com/resources/webcomponents/p-47fa1497.js",
+      "https://www.verisign.com/resources/webcomponents/p-e893084b.js",
+      "https://www.verisign.com/onetrust/scripttemplates/6.17.0/otBannerSdk.js"
+    ],
+    "third": []
+  },
+  "www.echannelline.com": {
+    "rank": "671",
+    "private": [
+      "https://echannelline.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js",
+      "https://echannelline.com/wp-includes/js/jquery/jquery.min.js",
+      "https://echannelline.com/wp-includes/js/jquery/jquery-migrate.min.js",
+      "https://echannelline.com/wp-content/plugins/jnews-gallery/assets/js/jquery.previewslider.js",
+      "https://echannelline.com/wp-content/plugins/jnews-split/assets/js/jquery.split.js",
+      "https://echannelline.com/wp-content/plugins/metronet-profile-picture/js/mpp-frontend.js",
+      "https://echannelline.com/wp-includes/js/comment-reply.min.js",
+      "https://echannelline.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js",
+      "https://echannelline.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js",
+      "https://echannelline.com/wp-includes/js/mediaelement/wp-mediaelement.min.js",
+      "https://echannelline.com/wp-includes/js/hoverIntent.min.js",
+      "https://echannelline.com/wp-includes/js/imagesloaded.min.js",
+      "https://echannelline.com/wp-content/themes/jnews/assets/dist/frontend.min.js",
+      "https://echannelline.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js",
+      "https://echannelline.com/wp-content/plugins/js_composer/assets/lib/lightbox2/dist/js/lightbox.min.js",
+      "https://echannelline.com/wp-content/plugins/js_composer/assets/lib/owl-carousel2-dist/owl.carousel.min.js",
+      "https://echannelline.com/wp-includes/js/underscore.min.js",
+      "https://echannelline.com/wp-content/plugins/js_composer/assets/lib/bower/imagesloaded/imagesloaded.pkgd.min.js",
+      "https://echannelline.com/wp-content/plugins/js_composer/assets/lib/vc_waypoints/vc-waypoints.min.js",
+      "https://echannelline.com/wp-content/plugins/js_composer/assets/js/dist/vc_grid.min.js",
+      "https://echannelline.com/wp-includes/js/wp-emoji-release.min.js"
+    ],
+    "third": [
+      "https://www.google-analytics.com/analytics.js",
+      "https://www.google-analytics.com/plugins/ua/linkid.js"
+    ]
+  },
+  "www.verisign.com": {
+    "rank": "672",
+    "private": [
+      "https://www.verisign.com/en_US/resources/js/main.js",
+      "https://www.verisign.com/en_US/resources/js/features.js",
+      "https://www.verisign.com/onetrust/scripttemplates/otSDKStub.js",
+      "https://www.verisign.com/resources/webcomponents/wmkt-library.esm.js",
+      "https://www.verisign.com/resources/webcomponents/vrsn-scroll-trigger.js",
+      "https://www.verisign.com/resources/webcomponents/vrsn-featured-carousel.js",
+      "https://www.verisign.com/onetrust/scripttemplates/6.17.0/otBannerSdk.js",
+      "https://www.verisign.com/resources/webcomponents/p-47fa1497.js",
+      "https://www.verisign.com/resources/webcomponents/p-e893084b.js"
+    ],
+    "third": []
+  },
+  "www.verisign.fr": {
+    "rank": "674",
+    "private": [
+      "https://www.verisign.com/en_US/resources/js/main.js",
+      "https://www.verisign.com/en_US/resources/js/features.js",
+      "https://www.verisign.com/onetrust/scripttemplates/otSDKStub.js",
+      "https://www.verisign.com/resources/webcomponents/wmkt-library.esm.js",
+      "https://www.verisign.com/resources/webcomponents/vrsn-scroll-trigger.js",
+      "https://www.verisign.com/resources/webcomponents/vrsn-featured-carousel.js",
+      "https://www.verisign.com/onetrust/scripttemplates/6.17.0/otBannerSdk.js",
+      "https://www.verisign.com/resources/webcomponents/p-47fa1497.js",
+      "https://www.verisign.com/resources/webcomponents/p-e893084b.js"
+    ],
+    "third": []
+  },
+  "www.verisign.ch": {
+    "rank": "675",
+    "private": [
+      "https://www.verisign.com/en_US/resources/js/main.js",
+      "https://www.verisign.com/en_US/resources/js/features.js",
+      "https://www.verisign.com/onetrust/scripttemplates/otSDKStub.js",
+      "https://www.verisign.com/resources/webcomponents/wmkt-library.esm.js",
+      "https://www.verisign.com/resources/webcomponents/vrsn-scroll-trigger.js",
+      "https://www.verisign.com/resources/webcomponents/vrsn-featured-carousel.js",
+      "https://www.verisign.com/onetrust/scripttemplates/6.17.0/otBannerSdk.js",
+      "https://www.verisign.com/resources/webcomponents/p-47fa1497.js",
+      "https://www.verisign.com/resources/webcomponents/p-e893084b.js"
+    ],
+    "third": []
+  },
+  "www.verisign.es": {
+    "rank": "676",
+    "private": [
+      "https://www.verisign.com/en_US/resources/js/main.js",
+      "https://www.verisign.com/en_US/resources/js/features.js",
+      "https://www.verisign.com/onetrust/scripttemplates/otSDKStub.js",
+      "https://www.verisign.com/resources/webcomponents/wmkt-library.esm.js",
+      "https://www.verisign.com/resources/webcomponents/vrsn-scroll-trigger.js",
+      "https://www.verisign.com/resources/webcomponents/vrsn-featured-carousel.js",
+      "https://www.verisign.com/onetrust/scripttemplates/6.17.0/otBannerSdk.js",
+      "https://www.verisign.com/resources/webcomponents/p-47fa1497.js",
+      "https://www.verisign.com/resources/webcomponents/p-e893084b.js"
+    ],
+    "third": []
+  },
+  "movies.apple.com": {
+    "rank": "678",
+    "private": [
+      "https://www.apple.com/global/scripts/lib/prototype.js",
+      "https://trailers.apple.com/trailers/global/scripts/lib/scriptaculous.js",
+      "https://images.apple.com/global/scripts/browserdetect.js",
+      "https://trailers.apple.com/trailers/global/scripts/lib/apple_core_new.js",
+      "https://trailers.apple.com/trailers/global/scripts/lib/event_mixins.js",
+      "https://trailers.apple.com/trailers/global/scripts/lib/swap_view.js",
+      "https://trailers.apple.com/trailers/global/scripts/lib/ac_base.js",
+      "https://trailers.apple.com/trailers/global/scripts/lib/sizzle.js",
+      "https://trailers.apple.com/trailers/global/scripts/lib/ac_retina.js",
+      "https://trailers.apple.com/trailers/global/scripts/bootstrapper.js",
+      "https://trailers.apple.com/trailers/global/scripts/crossfade.js",
+      "https://trailers.apple.com/trailers/home/scripts/trailerthumbs.js",
+      "https://www.apple.com/global/nav/scripts/globalnav.js",
+      "https://trailers.apple.com/trailers/home/scripts/trailerapp.js",
+      "https://trailers.apple.com/ac/globalnav/5/en_US/scripts/ac-globalnav.built.js",
+      "https://www.apple.com/metrics/ac-analytics/2.13.0/scripts/ac-analytics.js",
+      "https://trailers.apple.com/ac/globalfooter/5/en_US/scripts/ac-globalfooter.built.js"
+    ],
+    "third": []
+  },
+  "www.codeur.com": {
+    "rank": "680",
+    "private": [
+      "https://www.codeur.com/vite/assets/application.179b600a.js",
+      "https://www.codeur.com/vite/assets/popper.0cc70261.js",
+      "https://www.codeur.com/vite/assets/jquery.2a5d0a07.js",
+      "https://www.codeur.com/vite/assets/index.0874b163.js",
+      "https://www.codeur.com/vite/assets/util.d7d739f3.js",
+      "https://www.codeur.com/vite/assets/js.cf83ad76.js",
+      "https://stats.codeur.com/matomo.js",
+      "https://stats.codeur.com/js/container_7yCrtWsl.js",
+      "https://www.codeur.com/vite/assets/navbar_controller.1ff29a60.js",
+      "https://www.codeur.com/vite/assets/launch_fast_controller.8dee047a.js",
+      "https://www.codeur.com/vite/assets/dropdown_controller.559944a7.js",
+      "https://www.codeur.com/vite/assets/scroll_shadow_controller.ee62c322.js",
+      "https://www.codeur.com/vite/assets/slider_controller.5d1c93d7.js",
+      "https://www.codeur.com/vite/assets/seo_sidebar_controller.f18f8686.js",
+      "https://www.codeur.com/vite/assets/project_preview_controller.8dd9b22c.js",
+      "https://www.codeur.com/vite/assets/tooltip_controller.e26364cd.js",
+      "https://www.codeur.com/vite/assets/tooltip.44fe2387.js",
+      "https://www.codeur.com/vite/assets/new_life_modal_controller.4636d32b.js",
+      "https://www.codeur.com/vite/assets/fast_controller.dd5bec1e.js"
+    ],
+    "third": [
+      "https://apis.google.com/js/platform.js"
+    ]
+  },
+  "www.forums.mihandownload.com": {
+    "rank": "684",
+    "private": [],
+    "third": []
+  },
+  "www.ccpitzj.gov.cn": {
+    "rank": "686",
+    "private": [
+      "http://www.ccpitzj.gov.cn/module/jslib/jquery/jquery.js",
+      "http://www.ccpitzj.gov.cn/module/jslib/urite/urite.min.js",
+      "http://www.ccpitzj.gov.cn/images/40809/jquery.js",
+      "http://www.ccpitzj.gov.cn/script/0/815ac900ffe1479eb8bfc8bce1359c46.js",
+      "http://www.ccpitzj.gov.cn/script/0/9a8dd92a66a541dcb2284d17b7fe4294.js",
+      "http://www.ccpitzj.gov.cn/module/jslib/accessiblereading/load.js",
+      "http://www.ccpitzj.gov.cn/script/pagecontrol.js",
+      "http://www.ccpitzj.gov.cn/script/web_front.js",
+      "http://www.ccpitzj.gov.cn/images/40809/mch.js",
+      "http://www.ccpitzj.gov.cn/module/jslib/accessiblereading/js/EasyReader.min.js",
+      "http://www.ccpitzj.gov.cn/module/jslib/accessiblereading/js/jquery.cookie.js",
+      "http://www.ccpitzj.gov.cn/module/jslib/accessiblereading/js/jquery.jplayer.min.js",
+      "http://www.ccpitzj.gov.cn/module/jslib/accessiblereading/js/jquery.md5.min.js",
+      "http://www.ccpitzj.gov.cn/module/jslib/accessiblereading/js/jsbrowser.js"
+    ],
+    "third": [
+      "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web1756/site/script/0/6afe44d560b14c92bb27170fc952ad16.js",
+      "http://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3242/site/script/0/2005061115113094.js",
+      "http://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2787/site/script/0/2007171137072071.js"
+    ]
+  },
+  "edailystar.com": {
+    "rank": "688",
+    "private": [],
+    "third": []
+  },
+  "bluebones.net": {
+    "rank": "689",
+    "private": [
+      "https://bluebones.net/wp-content/plugins/simple-google-recaptcha/sgr.js",
+      "https://bluebones.net/wp-includes/js/jquery/jquery.min.js",
+      "https://bluebones.net/wp-includes/js/jquery/jquery-migrate.min.js",
+      "https://bluebones.net/wp-includes/js/wp-emoji-release.min.js",
+      "https://bluebones.net/wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js",
+      "https://bluebones.net/wp-content/themes/twentyseventeen/assets/js/global.js",
+      "https://bluebones.net/wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js"
+    ],
+    "third": []
+  },
+  "www.hu.nl": {
+    "rank": "690",
+    "private": [
+      "https://www.hu.nl/static/js/custom-before.js",
+      "https://www.hu.nl/static/js/head.js",
+      "https://www.hu.nl/static/js/libs.js",
+      "https://www.hu.nl/static/js/app.js",
+      "https://www.hu.nl/static/js/custom_frontend.js",
+      "https://www.hu.nl/static/js/custom-after.js",
+      "https://www.hu.nl/static/js/mtiFontTrackingCode.js"
+    ],
+    "third": [
+      "https://www.googletagmanager.com/gtm.js",
+      "https://polyfill.io/v3/polyfill.min.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://consent.cookiebot.com/uc.js",
+      "https://consent.cookiebot.com/2a9e480c-0b91-4ef1-bd6c-00fe5448c63d/cc.js"
+    ]
+  },
+  "www.electrolux.se": {
+    "rank": "692",
+    "private": [
+      "https://www.electrolux.se/ruxitagentjs_ICA27NVfghjqrux_10259230120101641.js",
+      "https://www.electrolux.se/ui/scripts/electrolux/vendor.js",
+      "https://www.electrolux.se/ui/build/jquery-ui-datepicker-i18n/datepicker-sv.js",
+      "https://www.electrolux.se/ui/scripts/electrolux/app.js",
+      "https://gtm.electrolux.se/gtm.js",
+      "https://www.electrolux.se/ui/build/javascript/vendors~component-Accordion~component-AddressLookup~component-ArticleGrid~component-AutoVideo~compon~4b838f23.56895257.js",
+      "https://www.electrolux.se/ui/build/javascript/vendors~component-ModalPopupTelNumbers.6d80b5a1.js",
+      "https://www.electrolux.se/ui/build/javascript/component-ModalPopupTelNumbers.aaae0bf2.js",
+      "https://www.electrolux.se/ui/build/javascript/component-D2CUtmCookie.b0616db4.js",
+      "https://www.electrolux.se/ui/build/javascript/component-D2CSalesChannelCookie.9d816f3a.js",
+      "https://www.electrolux.se/ui/build/javascript/component-NavigationNew.fadc1a66.js",
+      "https://www.electrolux.se/ui/build/javascript/vendors~component-LoginStatus.6b06bfb8.js",
+      "https://www.electrolux.se/ui/build/javascript/component-LoginStatus.22f28cea.js",
+      "https://www.electrolux.se/ui/build/javascript/component-ReasonsToBuy.2060cc5f.js",
+      "https://www.electrolux.se/ui/build/javascript/1.ccf7ba16.js",
+      "https://www.electrolux.se/ui/build/javascript/vendors~component-Comparison~component-ComparisonOverlay~component-D2C-components-PLP-router~compone~19f60c0c.08d72fad.js",
+      "https://www.electrolux.se/ui/build/javascript/component-ComparisonOverlay~component-D2C-store~component-D2CMiniBasket~component-MyOrderHistory-ser~394bd2be.3c956732.js",
+      "https://www.electrolux.se/ui/build/javascript/component-D2CMiniBasket.ff50552f.js",
+      "https://www.electrolux.se/ui/build/javascript/component-searchAutoComplete.4b9e86b5.js",
+      "https://www.electrolux.se/ui/build/javascript/component-searchAutoCompleteNew.d4063e5f.js",
+      "https://www.electrolux.se/ui/build/javascript/vendors~component-AwardsComponent~component-BenefitArea~component-CampaignCarousel~component-Categor~29ec4cef.a24ce5d8.js",
+      "https://www.electrolux.se/ui/build/javascript/vendors~component-AwardsComponent~component-BenefitArea~component-CampaignCarousel~component-Categor~0532975b.e3d53bbe.js",
+      "https://www.electrolux.se/ui/build/javascript/component-HomepageCarousel.806bec61.js",
+      "https://www.electrolux.se/ui/build/javascript/vendors~component-BenefitArea~component-CampaignCarousel~component-D2CBasketContainer~component-D2CP~bda57cd3.87c2cf41.js",
+      "https://www.electrolux.se/ui/build/javascript/component-ProductCategory.ae51f46c.js",
+      "https://www.electrolux.se/ui/build/javascript/component-LazyLoadWrapper.dffb76a1.js",
+      "https://www.electrolux.se/ui/build/javascript/component-WebsiteFeedback.343785ef.js",
+      "https://www.electrolux.se/ui/build/javascript/component-ModalPopupLegacy.1d74aa31.js",
+      "https://gtm.electrolux.se/analytics.js",
+      "https://gtm.electrolux.se/gtm.js",
+      "https://www.electrolux.se/ui/build/javascript/vendors~component-ClarabridgeChat.e37e4c4a.js",
+      "https://www.electrolux.se/ui/build/javascript/component-ClarabridgeChat.c010b21f.js",
+      "https://www.electrolux.se/ui/build/javascript/component-InnovationsModule.93cdfbf5.js",
+      "https://www.electrolux.se/ui/build/javascript/component-TabbedProducts.6832c2c7.js",
+      "https://www.electrolux.se/ui/build/javascript/component-PromotionalProductsCarousel.08eeea7e.js",
+      "https://www.electrolux.se/ui/build/javascript/9.3c8960ad.js",
+      "https://www.electrolux.se/ui/build/javascript/vendors~component-Comparison~component-FixedPriceRepairFailed~component-FixedPriceRepairSuccess~comp~c5b0a6b1.df8db78f.js",
+      "https://www.electrolux.se/ui/build/javascript/vendors~component-NewsletterSignup.30e069e9.js",
+      "https://www.electrolux.se/ui/build/javascript/component-NewsletterSignup.6be49e08.js"
+    ],
+    "third": [
+      "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+      "https://dl.episerver.net/13.5.2/epi-util/find.js",
+      "https://polyfill.io/v3/polyfill.min.js",
+      "https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://www.google-analytics.com/plugins/ua/linkid.js",
+      "https://t.contentsquare.net/uxa/46d952eebd0ed.js",
+      "https://unpkg.com/web-vitals@0.2.2/dist/web-vitals.es5.umd.min.js",
+      "https://www.google.com/recaptcha/api.js"
+    ]
+  },
+  "www.electrolux.dk": {
+    "rank": "693",
+    "private": [
+      "https://www.electrolux.dk/ruxitagentjs_ICA27NVfghjqrux_10259230120101641.js",
+      "https://www.electrolux.dk/ui/build/jquery-ui-datepicker-i18n/datepicker-da.js",
+      "https://www.electrolux.dk/ui/scripts/electrolux/vendor.js",
+      "https://www.electrolux.dk/ui/scripts/electrolux/app.js",
+      "https://gtm.electrolux.dk/gtm.js",
+      "https://www.electrolux.dk/ui/build/javascript/vendors~component-Accordion~component-AddressLookup~component-ArticleGrid~component-AutoVideo~compon~4b838f23.56895257.js",
+      "https://www.electrolux.dk/ui/build/javascript/vendors~component-ModalPopupTelNumbers.6d80b5a1.js",
+      "https://www.electrolux.dk/ui/build/javascript/component-ModalPopupTelNumbers.aaae0bf2.js",
+      "https://www.electrolux.dk/ui/build/javascript/component-D2CUtmCookie.b0616db4.js",
+      "https://www.electrolux.dk/ui/build/javascript/component-D2CSalesChannelCookie.9d816f3a.js",
+      "https://www.electrolux.dk/ui/build/javascript/component-NavigationNew.fadc1a66.js",
+      "https://www.electrolux.dk/ui/build/javascript/vendors~component-LoginStatus.6b06bfb8.js",
+      "https://www.electrolux.dk/ui/build/javascript/component-LoginStatus.22f28cea.js",
+      "https://www.electrolux.dk/ui/build/javascript/component-ReasonsToBuy.2060cc5f.js",
+      "https://www.electrolux.dk/ui/build/javascript/1.ccf7ba16.js",
+      "https://www.electrolux.dk/ui/build/javascript/vendors~component-Comparison~component-ComparisonOverlay~component-D2C-components-PLP-router~compone~19f60c0c.08d72fad.js",
+      "https://www.electrolux.dk/ui/build/javascript/component-ComparisonOverlay~component-D2C-store~component-D2CMiniBasket~component-MyOrderHistory-ser~394bd2be.3c956732.js",
+      "https://www.electrolux.dk/ui/build/javascript/component-D2CMiniBasket.ff50552f.js",
+      "https://www.electrolux.dk/ui/build/javascript/component-searchAutoComplete.4b9e86b5.js",
+      "https://www.electrolux.dk/ui/build/javascript/component-searchAutoCompleteNew.d4063e5f.js",
+      "https://www.electrolux.dk/ui/build/javascript/vendors~component-AwardsComponent~component-BenefitArea~component-CampaignCarousel~component-Categor~29ec4cef.a24ce5d8.js",
+      "https://www.electrolux.dk/ui/build/javascript/vendors~component-AwardsComponent~component-BenefitArea~component-CampaignCarousel~component-Categor~0532975b.e3d53bbe.js",
+      "https://www.electrolux.dk/ui/build/javascript/component-HomepageCarousel.806bec61.js",
+      "https://www.electrolux.dk/ui/build/javascript/vendors~component-BenefitArea~component-CampaignCarousel~component-D2CBasketContainer~component-D2CP~bda57cd3.87c2cf41.js",
+      "https://www.electrolux.dk/ui/build/javascript/component-ProductCategory.ae51f46c.js",
+      "https://www.electrolux.dk/ui/build/javascript/component-LazyLoadWrapper.dffb76a1.js",
+      "https://www.electrolux.dk/ui/build/javascript/component-WebsiteFeedback.343785ef.js",
+      "https://www.electrolux.dk/ui/build/javascript/component-ModalPopupLegacy.1d74aa31.js",
+      "https://gtm.electrolux.dk/analytics.js",
+      "https://gtm.electrolux.dk/gtm.js",
+      "https://www.electrolux.dk/ui/build/javascript/vendors~component-ClarabridgeChat.e37e4c4a.js",
+      "https://www.electrolux.dk/ui/build/javascript/component-ClarabridgeChat.c010b21f.js",
+      "https://www.electrolux.dk/ui/build/javascript/component-PromotionalProductsCarousel.08eeea7e.js",
+      "https://gtm.electrolux.dk/plugins/ua/linkid.js",
+      "https://www.electrolux.dk/ui/build/javascript/component-InnovationsModule.93cdfbf5.js",
+      "https://www.electrolux.dk/ui/build/javascript/component-TabbedProducts.6832c2c7.js"
+    ],
+    "third": [
+      "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+      "https://dl.episerver.net/13.5.2/epi-util/find.js",
+      "https://polyfill.io/v3/polyfill.min.js",
+      "https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js",
+      "https://www.googleoptimize.com/optimize.js"
+    ]
+  },
+  "www.electrolux.es": {
+    "rank": "694",
+    "private": [
+      "https://www.electrolux.es/ruxitagentjs_ICA27NVfghjqrux_10259230120101641.js",
+      "https://www.electrolux.es/ui/scripts/electrolux/vendor.js",
+      "https://www.electrolux.es/ui/build/jquery-ui-datepicker-i18n/datepicker-es.js",
+      "https://www.electrolux.es/ui/scripts/electrolux/app.js",
+      "https://gtm.electrolux.es/gtm.js",
+      "https://www.electrolux.es/ui/build/javascript/vendors~component-Accordion~component-AddressLookup~component-ArticleGrid~component-AutoVideo~compon~4b838f23.56895257.js",
+      "https://www.electrolux.es/ui/build/javascript/vendors~component-ModalPopupTelNumbers.6d80b5a1.js",
+      "https://www.electrolux.es/ui/build/javascript/component-ModalPopupTelNumbers.aaae0bf2.js",
+      "https://www.electrolux.es/ui/build/javascript/component-NavigationNew.fadc1a66.js",
+      "https://www.electrolux.es/ui/build/javascript/vendors~component-LoginStatus.6b06bfb8.js",
+      "https://www.electrolux.es/ui/build/javascript/component-LoginStatus.22f28cea.js",
+      "https://www.electrolux.es/ui/build/javascript/component-searchAutoComplete.4b9e86b5.js",
+      "https://www.electrolux.es/ui/build/javascript/component-searchAutoCompleteNew.d4063e5f.js",
+      "https://www.electrolux.es/ui/build/javascript/component-ScheduleAlert.d9404852.js",
+      "https://www.electrolux.es/ui/build/javascript/1.ccf7ba16.js",
+      "https://www.electrolux.es/ui/build/javascript/vendors~component-AwardsComponent~component-BenefitArea~component-CampaignCarousel~component-Categor~29ec4cef.a24ce5d8.js",
+      "https://www.electrolux.es/ui/build/javascript/vendors~component-AwardsComponent~component-BenefitArea~component-CampaignCarousel~component-Categor~0532975b.e3d53bbe.js",
+      "https://www.electrolux.es/ui/build/javascript/component-HomepageCarousel.806bec61.js",
+      "https://www.electrolux.es/ui/build/javascript/component-CategoryCarousel.2cf91263.js",
+      "https://www.electrolux.es/ui/build/javascript/component-WebsiteFeedback.343785ef.js",
+      "https://www.electrolux.es/ui/build/javascript/component-LazyLoadWrapper.dffb76a1.js",
+      "https://www.electrolux.es/ui/build/javascript/component-ModalPopupLegacy.1d74aa31.js",
+      "https://gtm.electrolux.es/analytics.js",
+      "https://gtm.electrolux.es/gtm.js",
+      "https://gtm.electrolux.es/plugins/ua/linkid.js"
+    ],
+    "third": [
+      "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+      "https://dl.episerver.net/13.5.2/epi-util/find.js",
+      "https://polyfill.io/v3/polyfill.min.js",
+      "https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js"
+    ]
+  },
+  "www.haus-unterberg.at": {
+    "rank": "696",
+    "private": [
+      "https://www.haus-unterberg.at/js/jquery-1.7.2.min.js",
+      "https://www.haus-unterberg.at/admin/js/fancybox/jquery.mousewheel-3.0.4.pack.js",
+      "https://www.haus-unterberg.at/admin/js/fancybox/jquery.fancybox-1.3.4.pack.js",
+      "https://www.haus-unterberg.at/admin/js/fancybox/fancybox.def.js",
+      "https://www.haus-unterberg.at/jquery.cookiesdirective.js",
+      "https://www.haus-unterberg.at/admin/js/ui/jquery.ui.core.js",
+      "https://www.haus-unterberg.at/admin/js/ui/jquery.ui.widget.js",
+      "https://www.haus-unterberg.at/admin/js/ui/jquery.ui.tabs.js",
+      "https://www.haus-unterberg.at/admin/js/ui/jquery.ui.datepicker.js",
+      "https://www.haus-unterberg.at/js/animatedcollapse.js",
+      "https://www.haus-unterberg.at/js/bootstrap.min.js",
+      "https://www.haus-unterberg.at/js/meinjs.js"
+    ],
+    "third": [
+      "https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js",
+      "http://translate.google.com/translate_a/element.js",
+      "https://markenfunk.tv/digitaltourism/jwplayer.js",
+      "http://translate.google.com/translate_a/element.js"
+    ]
+  },
+  "basketball.fc-finnentrop.de": {
+    "rank": "698",
+    "private": [],
+    "third": []
+  },
+  "appleseedinfo.org": {
+    "rank": "700",
+    "private": [
+      "https://appleseedinfo.org/wp-includes/js/jquery/jquery.min.js",
+      "https://appleseedinfo.org/wp-includes/js/jquery/jquery-migrate.min.js",
+      "https://appleseedinfo.org/wp-content/plugins/usahtmlmap/static/js/jquery.nicescroll.js",
+      "https://appleseedinfo.org/wp-includes/js/wp-emoji-release.min.js",
+      "https://appleseedinfo.org/wp-content/themes/thefox/js/custom_woo_js.js",
+      "https://appleseedinfo.org/wp-content/themes/thefox/js/scrollmagic.js",
+      "https://appleseedinfo.org/wp-content/themes/thefox/js/customjs.js",
+      "https://appleseedinfo.org/wp-content/themes/thefox/js/smoothscroll.js",
+      "https://appleseedinfo.org/wp-content/plugins/contact-form-7/includes/swv/js/index.js",
+      "https://appleseedinfo.org/wp-content/plugins/contact-form-7/includes/js/index.js",
+      "https://appleseedinfo.org/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js"
+    ],
+    "third": []
+  }
+}

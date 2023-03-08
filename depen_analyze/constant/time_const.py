@@ -1,0 +1,2 @@
+# coding: utf-8
+DRIVER_LOADING_TIME = 100

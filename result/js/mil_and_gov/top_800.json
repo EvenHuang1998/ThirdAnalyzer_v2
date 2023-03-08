@@ -1,0 +1,701 @@
+{
+  "pgdjw.gov.cn": {
+    "rank": "701",
+    "private": [
+      "http://pgdjw.gov.cn/themes/zhaoping/public/assets/js/jquery-1.10.2.min.js",
+      "http://pgdjw.gov.cn/themes/zhaoping/public/assets/js/jquery-migrate-1.2.1.js",
+      "http://www.pgdjw.gov.cn/static/js/wind.js",
+      "http://pgdjw.gov.cn/themes/zhaoping/public/assets/layui/layui.js",
+      "http://www.pgdjw.gov.cn/themes/zhaoping/public/assets/simpleboot3/bootstrap/js/bootstrap.min.js",
+      "http://www.pgdjw.gov.cn/static/js/frontend.js",
+      "http://pgdjw.gov.cn/themes/zhaoping/public/assets/js/slide.js",
+      "http://pgdjw.gov.cn/themes/zhaoping/public/assets/js/slippry.min.js",
+      "http://pgdjw.gov.cn/themes/zhaoping/public/assets/js/carousel.js",
+      "http://pgdjw.gov.cn/themes/zhaoping/public/assets/js/lb2.js"
+    ],
+    "third": []
+  },
+  "yy110.gov.cn": {
+    "rank": "702",
+    "private": [],
+    "third": []
+  },
+  "xiangzhou.gov.cn": {
+    "rank": "703",
+    "private": [],
+    "third": []
+  },
+  "hbmsa.gov.cn": {
+    "rank": "704",
+    "private": [],
+    "third": []
+  },
+  "xcqf.gov.cn": {
+    "rank": "705",
+    "private": [],
+    "third": []
+  },
+  "jdzcj.gov.cn": {
+    "rank": "706",
+    "private": [],
+    "third": []
+  },
+  "luoyangland.gov.cn": {
+    "rank": "707",
+    "private": [],
+    "third": []
+  },
+  "fdaxz.gov.cn": {
+    "rank": "708",
+    "private": [],
+    "third": []
+  },
+  "sclxfy.gov.cn": {
+    "rank": "709",
+    "private": [],
+    "third": []
+  },
+  "nhxwsj.gov.cn": {
+    "rank": "710",
+    "private": [],
+    "third": []
+  },
+  "sqnyj.gov.cn": {
+    "rank": "711",
+    "private": [],
+    "third": []
+  },
+  "xznczhxx.gov.cn": {
+    "rank": "712",
+    "private": [],
+    "third": []
+  },
+  "jzlz.gov.cn": {
+    "rank": "713",
+    "private": [
+      "http://jzlz.gov.cn/skin/default/js/koala.min.1.5.js",
+      "http://jzlz.gov.cn/skin/default/js/Lunbo.js",
+      "http://jzlz.gov.cn/skin/default/js/ul.li.js",
+      "http://jzlz.gov.cn/skin/default/js/jquery-1.12.4.min.js",
+      "http://jzlz.gov.cn/d/js/js/search_news1.js",
+      "http://jzlz.gov.cn/skin/default/js/j.js",
+      "http://jzlz.gov.cn/skin/default/js/huandeng.pic.js",
+      "http://jzlz.gov.cn/skin/default/js/jquery.SuperSlide.js",
+      "http://jzlz.gov.cn/skin/default/js/zt.gd.js",
+      "http://jzlz.gov.cn/skin/default/js/rollSlide.js",
+      "http://jzlz.gov.cn/skin/default/js/jquery.SuperSlide.2.1.1.js",
+      "http://jzlz.gov.cn/skin/default/js/terminator2.2.min.js"
+    ],
+    "third": [
+      "http://ggzy.jingzhou.gov.cn/js/100hd.js"
+    ]
+  },
+  "dzwqb.gov.cn": {
+    "rank": "714",
+    "private": [],
+    "third": []
+  },
+  "xukou.gov.cn": {
+    "rank": "715",
+    "private": [],
+    "third": []
+  },
+  "symg.gov.cn": {
+    "rank": "716",
+    "private": [],
+    "third": []
+  },
+  "hnsdsjy.gov.cn": {
+    "rank": "717",
+    "private": [
+      "http://hnsdsjy.gov.cn/JS/scriptaculous.js",
+      "http://hnsdsjy.gov.cn/JS/prototype.js",
+      "http://hnsdsjy.gov.cn/JS/checklogin.js",
+      "http://hnsdsjy.gov.cn/js/AC_RunActiveContent.js",
+      "http://hnsdsjy.gov.cn/JS/Date.js",
+      "http://hnsdsjy.gov.cn/AD/200903/2.js",
+      "http://hnsdsjy.gov.cn/AD/200903/3.js",
+      "http://hnsdsjy.gov.cn/AD/200903/1.js",
+      "http://hnsdsjy.gov.cn/JS/util.js",
+      "http://hnsdsjy.gov.cn/JS/effects.js",
+      "http://hnsdsjy.gov.cn/JS/dragdrop.js",
+      "http://hnsdsjy.gov.cn/JS/controls.js"
+    ],
+    "third": []
+  },
+  "zjjxhrss.gov.cn": {
+    "rank": "718",
+    "private": [],
+    "third": []
+  },
+  "zjjxrs.gov.cn": {
+    "rank": "719",
+    "private": [],
+    "third": []
+  },
+  "suiling.gov.cn": {
+    "rank": "720",
+    "private": [
+      "http://suiling.gov.cn/js/jquery.min.js",
+      "http://suiling.gov.cn/js/jquery.SuperSlide.2.1.1.js",
+      "http://suiling.gov.cn/js/owl.carousel.min.js",
+      "http://suiling.gov.cn/js/font.js",
+      "http://suiling.gov.cn/js/header.js",
+      "http://suiling.gov.cn/js/nav.js",
+      "http://suiling.gov.cn/js/index.js",
+      "http://suiling.gov.cn/js/common.js"
+    ],
+    "third": [
+      "https://zfwzgl.www.gov.cn/exposure/jiucuo.js",
+      "https://dcs.conac.cn/js/10/163/0632/60652619/CA101630632606526190003.js"
+    ]
+  },
+  "bx119.gov.cn": {
+    "rank": "721",
+    "private": [],
+    "third": []
+  },
+  "sdsw.gov.cn": {
+    "rank": "722",
+    "private": [],
+    "third": []
+  },
+  "bjlhcw.gov.cn": {
+    "rank": "723",
+    "private": [],
+    "third": []
+  },
+  "bynerd.gov.cn": {
+    "rank": "724",
+    "private": [],
+    "third": []
+  },
+  "yb12380.gov.cn": {
+    "rank": "725",
+    "private": [],
+    "third": [
+      "http://dcs.conac.cn/js/23/344/0000/60790687/CA233440000607906870003.js"
+    ]
+  },
+  "gzdr.gov.cn": {
+    "rank": "726",
+    "private": [
+      "http://gzdr.gov.cn/gzdr/xhtml/js/head.js",
+      "http://gzdr.gov.cn/gzdr/xhtml/js/common.js",
+      "http://gzdr.gov.cn/gzdr/xhtml/js/jquery.SuperSlide.2.1.1.js",
+      "http://gzdr.gov.cn/gzdr/xhtml/js/index.js",
+      "http://gzdr.gov.cn/gzdr/xhtml/js/grayscale.js",
+      "http://gzdr.gov.cn/gzdr/xhtml/js/main.js",
+      "http://gzdr.gov.cn/gzdr/xhtml/js/chinese.js",
+      "http://gzdr.gov.cn/gzdr/xhtml/js/ztlb.js",
+      "http://gzdr.gov.cn/gzdr/xhtml/js/lunbo.js",
+      "http://gzdr.gov.cn/gzdr/xhtml/js/jquery.min.js",
+      "http://gzdr.gov.cn/gzdr/xhtml/js/jquery.migrate.min.js"
+    ],
+    "third": [
+      "https://zfwzgl.www.gov.cn/exposure/jiucuo.js"
+    ]
+  },
+  "qypdj.gov.cn": {
+    "rank": "727",
+    "private": [],
+    "third": []
+  },
+  "dunhua.gov.cn": {
+    "rank": "728",
+    "private": [
+      "http://dunhua.gov.cn/images/userInfo_4.js",
+      "http://dunhua.gov.cn/images/jquery-1.11.1.min.js",
+      "http://dunhua.gov.cn/images/jquery.cycle2.min.js",
+      "http://dunhua.gov.cn/images/navjq.js",
+      "http://dunhua.gov.cn/images/move.js",
+      "http://dunhua.gov.cn/images/slider.js",
+      "http://dunhua.gov.cn/images/Xslider.js",
+      "http://dunhua.gov.cn/images/jquery.PrintArea.js"
+    ],
+    "third": [
+      "http://ta.trs.cn/c/js/ta.js"
+    ]
+  },
+  "sddybb.gov.cn": {
+    "rank": "729",
+    "private": [],
+    "third": []
+  },
+  "hbsyjw.gov.cn": {
+    "rank": "730",
+    "private": [],
+    "third": []
+  },
+  "lhsldj.gov.cn": {
+    "rank": "731",
+    "private": [],
+    "third": []
+  },
+  "nxhlxdj.gov.cn": {
+    "rank": "732",
+    "private": [
+      "http://nxhlxdj.gov.cn/images/superSlide.js"
+    ],
+    "third": [
+      "http://www.nxnews.net//zt/material/jquery/2021jq.min.js",
+      "http://www.nxnews.net//zt/material/jquery/swiper_bundle.min.js"
+    ]
+  },
+  "sxbhxc.gov.cn": {
+    "rank": "733",
+    "private": [],
+    "third": []
+  },
+  "juzhoudj.gov.cn": {
+    "rank": "734",
+    "private": [],
+    "third": []
+  },
+  "wzwlxt.gov.cn": {
+    "rank": "735",
+    "private": [],
+    "third": []
+  },
+  "hkfy.gov.cn": {
+    "rank": "736",
+    "private": [
+      "https://hkfy.gov.cn/statics/js/jquery.js",
+      "https://hkfy.gov.cn/statics/default/pccn/js/jquery-g_1.8.3.min.js",
+      "https://hkfy.gov.cn/statics/default/pccn/js/lrtk.js"
+    ],
+    "third": []
+  },
+  "bhwmw.gov.cn": {
+    "rank": "737",
+    "private": [],
+    "third": []
+  },
+  "lyzg.gov.cn": {
+    "rank": "738",
+    "private": [],
+    "third": []
+  },
+  "hfgsl.gov.cn": {
+    "rank": "739",
+    "private": [],
+    "third": [
+      "http://static.jiasule.com/static/js/http_error.js",
+      "http://hm.baidu.com/h.js",
+      "http://static.yunaq.com/static/js/http_error_notice.js"
+    ]
+  },
+  "jlio.gov.cn": {
+    "rank": "740",
+    "private": [
+      "http://jlio.gov.cn/r/cms/gobh/mobile/js/jquery-1.8.3.js",
+      "http://jlio.gov.cn/r/cms/gobh/mobile/js/front.js",
+      "http://jlio.gov.cn/r/cms/gobh/mobile/js/jquery-1.8.2.min.js",
+      "http://jlio.gov.cn/r/cms/gobh/mobile/js/weather.js"
+    ],
+    "third": []
+  },
+  "aylzw.gov.cn": {
+    "rank": "741",
+    "private": [],
+    "third": []
+  },
+  "qd.gov.cn": {
+    "rank": "742",
+    "private": [],
+    "third": []
+  },
+  "jxzszb.gov.cn": {
+    "rank": "743",
+    "private": [],
+    "third": []
+  },
+  "llsdj.gov.cn": {
+    "rank": "744",
+    "private": [
+      "http://llsdj.gov.cn/manage/js/jquery.js",
+      "http://llsdj.gov.cn/manage/js/jquery-ui.min.js",
+      "http://llsdj.gov.cn/manage/js/jquery.mousewheel.min.js",
+      "http://llsdj.gov.cn/manage/js/javanetcancelerr.js",
+      "http://llsdj.gov.cn/manage/js/module.js",
+      "http://llsdj.gov.cn/web/js/xzycommon.js",
+      "http://llsdj.gov.cn/web/js/xzy.js",
+      "http://llsdj.gov.cn/web/js/jquery.SuperSlide.js",
+      "http://llsdj.gov.cn/web/js/jq_scroll.js",
+      "http://llsdj.gov.cn/web/js/jquery.yx_rotaion.js",
+      "http://llsdj.gov.cn/web/float/js/floatingAd.js",
+      "http://llsdj.gov.cn/web/xinhua_play/comp.min.js",
+      "http://llsdj.gov.cn/web/xinhua_play/index2015_v3.js"
+    ],
+    "third": [
+      "http://dcs.conac.cn/js/06/117/0000/40689468/CA061170000406894680006.js"
+    ]
+  },
+  "cqbbss.gov.cn": {
+    "rank": "745",
+    "private": [],
+    "third": []
+  },
+  "czxx.gov.cn": {
+    "rank": "746",
+    "private": [
+      "http://czxx.gov.cn/js/jquery-1.9.1.min.js",
+      "http://czxx.gov.cn/js/index.js",
+      "http://czxx.gov.cn/js/layer/layer.js",
+      "http://czxx.gov.cn/js/move.js",
+      "http://czxx.gov.cn/js/sm4Crypt.js"
+    ],
+    "third": []
+  },
+  "ha5680.gov.cn": {
+    "rank": "747",
+    "private": [],
+    "third": []
+  },
+  "qiongzhongdj.gov.cn": {
+    "rank": "748",
+    "private": [],
+    "third": []
+  },
+  "hbzgw.gov.cn": {
+    "rank": "749",
+    "private": [],
+    "third": []
+  },
+  "xkx.gov.cn": {
+    "rank": "750",
+    "private": [],
+    "third": []
+  },
+  "zjzy.gov.cn": {
+    "rank": "751",
+    "private": [
+      "https://zjzy.gov.cn/js/jquery-3.6.0.js",
+      "https://zjzy.gov.cn/js/comp.min.js",
+      "https://zjzy.gov.cn/js/index.js",
+      "https://zjzy.gov.cn/js/jquery.marqueeUI.js",
+      "https://zjzy.gov.cn/js/jquery.slide.js",
+      "https://zjzy.gov.cn/js/jquery.SuperSlide.2.1.3.js",
+      "https://zjzy.gov.cn/js/navxl.js",
+      "https://zjzy.gov.cn/js/jquery_slide.js",
+      "https://zjzy.gov.cn/js/marquee.js",
+      "https://zjzy.gov.cn/js/rightfloat.js"
+    ],
+    "third": [
+      "https://sdk.51.la/js-sdk-pro.min.js",
+      "http://dcs.conac.cn/js/11/174/0000/60371800/CA111740000603718000001.js",
+      "http://dcs.conac.cn/js/11/174/0000/60371800/CA111740000603718000001.js",
+      "https://hm.baidu.com/hm.js"
+    ]
+  },
+  "alsyq.gov.cn": {
+    "rank": "752",
+    "private": [],
+    "third": []
+  },
+  "580.gov.cn": {
+    "rank": "753",
+    "private": [],
+    "third": []
+  },
+  "guanyang.gov.cn": {
+    "rank": "754",
+    "private": [
+      "http://guanyang.gov.cn/images/jquery-1.7.2.min.js",
+      "http://guanyang.gov.cn/images/jquery.flexslider-min.js",
+      "http://guanyang.gov.cn/images/page_func.js",
+      "http://guanyang.gov.cn/images/navjs.js",
+      "http://guanyang.gov.cn/images/zf_jquery.min.js",
+      "http://guanyang.gov.cn/images/foucsbox.js",
+      "http://guanyang.gov.cn/images/jquery-1.9.1.min.js",
+      "http://guanyang.gov.cn/images/tab.js",
+      "http://guanyang.gov.cn/images/jquery.SuperSlide.2.1.1.js",
+      "http://guanyang.gov.cn/material/indexztgd/indeximgscroll.js",
+      "http://guanyang.gov.cn/images/jiucuo.js"
+    ],
+    "third": [
+      "http://ta.trs.cn/c/js/ta.js",
+      "https://hm.baidu.com/hm.js",
+      "http://dcs.conac.cn/js/21/324/4421/60496271/CA213244421604962710001.js"
+    ]
+  },
+  "dyjwxx.gov.cn": {
+    "rank": "755",
+    "private": [],
+    "third": []
+  },
+  "rxjj.gov.cn": {
+    "rank": "756",
+    "private": [],
+    "third": []
+  },
+  "hzswdx.gov.cn": {
+    "rank": "757",
+    "private": [],
+    "third": []
+  },
+  "zjxcghj.gov.cn": {
+    "rank": "758",
+    "private": [],
+    "third": []
+  },
+  "lymzzj.gov.cn": {
+    "rank": "759",
+    "private": [],
+    "third": []
+  },
+  "sqrdw.gov.cn": {
+    "rank": "760",
+    "private": [],
+    "third": []
+  },
+  "0527.gov.cn": {
+    "rank": "761",
+    "private": [],
+    "third": []
+  },
+  "lcbb.gov.cn": {
+    "rank": "762",
+    "private": [],
+    "third": []
+  },
+  "qjsgaj.gov.cn": {
+    "rank": "763",
+    "private": [],
+    "third": []
+  },
+  "dyqbb.gov.cn": {
+    "rank": "764",
+    "private": [],
+    "third": []
+  },
+  "jqrd.gov.cn": {
+    "rank": "765",
+    "private": [],
+    "third": []
+  },
+  "zglydj.gov.cn": {
+    "rank": "766",
+    "private": [],
+    "third": []
+  },
+  "gdsx.gov.cn": {
+    "rank": "767",
+    "private": [],
+    "third": []
+  },
+  "fyyqjjjc.gov.cn": {
+    "rank": "768",
+    "private": [],
+    "third": []
+  },
+  "xixianxinqu.gov.cn": {
+    "rank": "769",
+    "private": [],
+    "third": []
+  },
+  "sxccrd.gov.cn": {
+    "rank": "770",
+    "private": [
+      "http://sxccrd.gov.cn/Res/Web/js/jquery-3.3.1.min.js",
+      "http://sxccrd.gov.cn/Res/Web/js/swiper.min.js",
+      "http://sxccrd.gov.cn/res/liyou.ajax.js",
+      "http://sxccrd.gov.cn/Res/vue.js"
+    ],
+    "third": []
+  },
+  "cdkfq.gov.cn": {
+    "rank": "771",
+    "private": [
+      "http://cdkfq.gov.cn/templates/main/js/DD_belatedPNG_0.0.8a-min.js",
+      "http://cdkfq.gov.cn/templates/main/js/jquery.min.js",
+      "http://cdkfq.gov.cn/templates/main/js/jquery.SuperSlide.2.1.3.js",
+      "http://cdkfq.gov.cn/templates/main/js/time.js",
+      "http://cdkfq.gov.cn/templates/main/js/main.js"
+    ],
+    "third": [
+      "https://zfwzgl.www.gov.cn/exposure/jiucuo.js"
+    ]
+  },
+  "njboc.gov.cn": {
+    "rank": "772",
+    "private": [],
+    "third": []
+  },
+  "qzqb.gov.cn": {
+    "rank": "773",
+    "private": [],
+    "third": []
+  },
+  "hrssgz.gov.cn": {
+    "rank": "774",
+    "private": [],
+    "third": []
+  },
+  "hnqyfw.gov.cn": {
+    "rank": "775",
+    "private": [],
+    "third": []
+  },
+  "tlqh.gov.cn": {
+    "rank": "776",
+    "private": [
+      "http://tlqh.gov.cn/uiFramework/huilan-jquery-ui/js/huilan-jquery-ui.js",
+      "http://tlqh.gov.cn/uiFramework/commonResource/aisitetheme/js/qinghe-theme.js",
+      "http://tlqh.gov.cn/qinghe/template/qinghe.js",
+      "http://tlqh.gov.cn/uiFramework/commonResource/js/swiper342jquery.min.js",
+      "http://tlqh.gov.cn/uiFramework/commonResource/js/jquery.min.js",
+      "http://tlqh.gov.cn/uiFramework/commonResource/js/swiper.js",
+      "http://tlqh.gov.cn/uiFramework/commonResource/js/swiper3.4.2.min.js",
+      "http://tlqh.gov.cn/uiFramework/js/counting/chanelCounting.js",
+      "http://tlqh.gov.cn/uiFramework/js/qrcode/jquery.qrcode.min.js",
+      "http://tlqh.gov.cn/uiFramework/js/counting/articleCounting.js",
+      "http://tlqh.gov.cn/uiFramework/js/counting/ea.js"
+    ],
+    "third": [
+      "http://pucha.kaipuyun.cn/exposure/jiucuo.js",
+      "http://dcs.conac.cn/js/08/147/0455/41359602/CA081470455413596020002.js",
+      "https://hm.baidu.com/hm.js"
+    ]
+  },
+  "baoxing.gov.cn": {
+    "rank": "777",
+    "private": [],
+    "third": []
+  },
+  "nhxjw.gov.cn": {
+    "rank": "778",
+    "private": [],
+    "third": []
+  },
+  "mzrd.gov.cn": {
+    "rank": "779",
+    "private": [],
+    "third": []
+  },
+  "lhqwsj.gov.cn": {
+    "rank": "780",
+    "private": [],
+    "third": []
+  },
+  "dzsjcy.gov.cn": {
+    "rank": "781",
+    "private": [],
+    "third": []
+  },
+  "tcjgbzw.gov.cn": {
+    "rank": "782",
+    "private": [],
+    "third": []
+  },
+  "hunjiang.gov.cn": {
+    "rank": "783",
+    "private": [],
+    "third": []
+  },
+  "yl12380.gov.cn": {
+    "rank": "784",
+    "private": [],
+    "third": []
+  },
+  "nbgh.gov.cn": {
+    "rank": "785",
+    "private": [
+      "https://www.nbgh.gov.cn/script/web/3/script/swiper/idangerous.swiper.min.js",
+      "https://www.nbgh.gov.cn/script/web/3/script/jquery-1.7.2.min.js",
+      "https://www.nbgh.gov.cn/script/web/3/script/md5.js",
+      "https://www.nbgh.gov.cn/script/web/3/script/index.js",
+      "https://www.nbgh.gov.cn/script/web/3/script/jquery.page.js",
+      "https://www.nbgh.gov.cn/script/web/3/script/Photo_collection.js",
+      "https://www.nbgh.gov.cn/script/web/3/script/page.js",
+      "https://www.nbgh.gov.cn/script/web/3/script/citySelect.js",
+      "https://www.nbgh.gov.cn/jslib/My97DatePickerBeta4.8b2/My97DatePicker/WdatePicker.js",
+      "https://www.nbgh.gov.cn/script/web/3/script/base.js",
+      "https://www.nbgh.gov.cn/script/web/3/script/bigbannerscroll.js",
+      "https://www.nbgh.gov.cn/script/web/10/script/float_ad.js",
+      "https://www.nbgh.gov.cn/script/web/3/script/3.js"
+    ],
+    "third": []
+  },
+  "lsfy.gov.cn": {
+    "rank": "786",
+    "private": [],
+    "third": []
+  },
+  "dsfn.gov.cn": {
+    "rank": "787",
+    "private": [],
+    "third": [
+      "http://dcs.conac.cn/js/12/196/1453/41303115/CA121961453413031150002.js"
+    ]
+  },
+  "sxqy.gov.cn": {
+    "rank": "788",
+    "private": [
+      "http://www.sxqy.gov.cn/js/util.js"
+    ],
+    "third": []
+  },
+  "hyshbx.gov.cn": {
+    "rank": "789",
+    "private": [],
+    "third": []
+  },
+  "xrzw.gov.cn": {
+    "rank": "790",
+    "private": [],
+    "third": []
+  },
+  "zbrjcg.gov.cn": {
+    "rank": "791",
+    "private": [
+      "https://zbrjcg.gov.cn/js/jquery.min.js"
+    ],
+    "third": []
+  },
+  "gard.gov.cn": {
+    "rank": "792",
+    "private": [],
+    "third": []
+  },
+  "rzjgjs.gov.cn": {
+    "rank": "793",
+    "private": [],
+    "third": []
+  },
+  "sxgbxx.gov.cn": {
+    "rank": "794",
+    "private": [],
+    "third": []
+  },
+  "qwhlyj.gov.cn": {
+    "rank": "795",
+    "private": [],
+    "third": []
+  },
+  "sczgcourt.gov.cn": {
+    "rank": "796",
+    "private": [],
+    "third": []
+  },
+  "pngs.gov.cn": {
+    "rank": "797",
+    "private": [],
+    "third": []
+  },
+  "jiangyan.gov.cn": {
+    "rank": "798",
+    "private": [],
+    "third": []
+  },
+  "gzqn-l-tax.gov.cn": {
+    "rank": "799",
+    "private": [],
+    "third": []
+  },
+  "henanjr.gov.cn": {
+    "rank": "800",
+    "private": [],
+    "third": []
+  }
+}

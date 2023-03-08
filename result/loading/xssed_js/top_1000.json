@@ -1,0 +1,791 @@
+{
+  "fantasygolfguide.com": {
+    "rank": "901",
+    "private": [],
+    "third": []
+  },
+  "www.rakno.de": {
+    "rank": "904",
+    "private": [],
+    "third": [
+      "http://wikifarm.balticbowl.de/pub/skins/adapt/ui.js"
+    ]
+  },
+  "voixhumaines.free.fr": {
+    "rank": "906",
+    "private": [
+      "http://st.free.fr/phpmyvisites.js"
+    ],
+    "third": [
+      "http://www.google-analytics.com/ga.js"
+    ]
+  },
+  "wiki.naissance.asso.fr": {
+    "rank": "908",
+    "private": [],
+    "third": []
+  },
+  "www.cqfd-fmp.fr": {
+    "rank": "911",
+    "private": [],
+    "third": []
+  },
+  "www.cut-the-knot.org": {
+    "rank": "913",
+    "private": [
+      "http://www.cut-the-knot.org/walLoad.js",
+      "http://www.cut-the-knot.org/assets/jquery-2.1.0.min.js",
+      "http://www.cut-the-knot.org/assets/bootstrap.min.js",
+      "http://www.cut-the-knot.org/assets/jquery.smartmenus.js",
+      "http://www.cut-the-knot.org/assets/jquery.smartmenus.bootstrap.js"
+    ],
+    "third": [
+      "http://www.wolframcdn.com/consent/cookie-consent.js",
+      "http://code.jquery.com/jquery-1.9.1.min.js",
+      "http://wal.wolfram.com/js/3.0.0/wal.js"
+    ]
+  },
+  "www.jagd-wiki.org": {
+    "rank": "914",
+    "private": [],
+    "third": [
+      "http://www.jagdundwild.de/media/jui/js/jquery.min.js",
+      "http://www.jagdundwild.de/media/jui/js/jquery-noconflict.js",
+      "http://www.jagdundwild.de/media/jui/js/jquery-migrate.min.js",
+      "http://www.jagdundwild.de/media/system/js/caption.js",
+      "http://www.jagdundwild.de/media/plg_fancybox/js/jquery.fancybox.pack.js",
+      "http://www.jagdundwild.de/media/plg_fancybox/js/jquery.mousewheel-3.0.6.pack.js",
+      "http://www.jagdundwild.de/media/plg_fancybox/js/jquery.fancybox-thumbs.js",
+      "http://www.jagdundwild.de/plugins/system/jcemediabox/js/jcemediabox.js",
+      "http://www.jagdundwild.de/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js",
+      "http://www.jagdundwild.de/plugins/system/t3/base-bs3/js/jquery.tap.min.js",
+      "http://www.jagdundwild.de/plugins/system/t3/base-bs3/js/script.js",
+      "http://www.jagdundwild.de/plugins/system/t3/base-bs3/js/menu.js",
+      "http://www.jagdundwild.de/plugins/system/t3/base-bs3/js/nav-collapse.js",
+      "http://www.jagdundwild.de/media/system/js/core.js",
+      "http://www.jagdundwild.de/media/system/js/keepalive.js"
+    ]
+  },
+  "zwily.com": {
+    "rank": "915",
+    "private": [
+      "https://zwily.com/build/entry.client-ZLSYQNHH.js",
+      "https://zwily.com/build/_shared/chunk-BNZ2MDE7.js",
+      "https://zwily.com/build/_shared/chunk-XXQ2FYHL.js",
+      "https://zwily.com/build/_shared/chunk-TFY3KWOG.js",
+      "https://zwily.com/build/root-AJBL56SU.js",
+      "https://zwily.com/build/routes/index-KGPHLIBB.js",
+      "https://zwily.com/build/manifest-B996D02F.js"
+    ],
+    "third": []
+  },
+  "wiki.t-o-f.info": {
+    "rank": "917",
+    "private": [
+      "http://wiki.t-o-f.info/pub/skins/grey/randomColor.js"
+    ],
+    "third": []
+  },
+  "www.ipodsoft.com": {
+    "rank": "918",
+    "private": [
+      "https://www.ipodsoft.com/wp-includes/js/wp-emoji-release.min.js",
+      "https://www.ipodsoft.com/wp-content/themes/generatepress/assets/js/menu.min.js",
+      "https://www.ipodsoft.com/wp-content/themes/generatepress/assets/js/back-to-top.min.js"
+    ],
+    "third": []
+  },
+  "w3.u-grenoble3.fr": {
+    "rank": "920",
+    "private": [],
+    "third": []
+  },
+  "dreamshield.developpez.com": {
+    "rank": "921",
+    "private": [],
+    "third": [
+      "https://ssl.google-analytics.com/ga.js"
+    ]
+  },
+  "www.projet-french-arena.org": {
+    "rank": "922",
+    "private": [],
+    "third": []
+  },
+  "science.mkoeppen.com": {
+    "rank": "923",
+    "private": [
+      "http://science.mkoeppen.com/science/pub/skins/triad/fontsizer.js",
+      "http://science.mkoeppen.com/science/pub/skins/triad/togglebars.js"
+    ],
+    "third": []
+  },
+  "www.2xfun.de": {
+    "rank": "924",
+    "private": [],
+    "third": []
+  },
+  "www.evangelkium.de": {
+    "rank": "925",
+    "private": [
+      "https://evangelkium.de/wp-includes/js/jquery/jquery.min.js",
+      "https://evangelkium.de/wp-includes/js/jquery/jquery-migrate.min.js",
+      "https://evangelkium.de/wp-content/plugins/photo-gallery/booster/assets/js/circle-progress.js",
+      "https://evangelkium.de/wp-content/plugins/photo-gallery/booster/assets/js/global.js",
+      "https://evangelkium.de/wp-content/plugins/cookie-law-info/legacy/public/js/cookie-law-info-public.js",
+      "https://evangelkium.de/wp-content/plugins/html5-audio-player/js/inline-player.js",
+      "https://evangelkium.de/wp-content/plugins/photo-gallery/js/jquery.mobile.min.js",
+      "https://evangelkium.de/wp-content/plugins/photo-gallery/js/jquery.sumoselect.min.js",
+      "https://evangelkium.de/wp-content/plugins/photo-gallery/js/jquery.mCustomScrollbar.concat.min.js",
+      "https://evangelkium.de/wp-content/plugins/photo-gallery/js/jquery.fullscreen.min.js",
+      "https://evangelkium.de/wp-content/plugins/photo-gallery/js/scripts.min.js",
+      "https://evangelkium.de/wp-includes/js/wp-emoji-release.min.js",
+      "https://evangelkium.de/wp-content/plugins/zeno-font-resizer/js/js.cookie.js",
+      "https://evangelkium.de/wp-content/plugins/zeno-font-resizer/js/jquery.fontsize.js",
+      "https://evangelkium.de/wp-content/plugins/statify/js/snippet.min.js",
+      "https://evangelkium.de/wp-content/themes/fluida/resources/js/frontend.js",
+      "https://evangelkium.de/wp-includes/js/imagesloaded.min.js",
+      "https://evangelkium.de/wp-includes/js/masonry.min.js",
+      "https://evangelkium.de/wp-includes/js/jquery/jquery.masonry.min.js",
+      "https://evangelkium.de/wp-includes/js/comment-reply.min.js"
+    ],
+    "third": []
+  },
+  "www.speedbit.com": {
+    "rank": "926",
+    "private": [
+      "http://www.speedbit.com/js/jquery-1.7.2.min.js"
+    ],
+    "third": [
+      "http://www.google-analytics.com/ga.js",
+      "https://apis.google.com/js/plusone.js"
+    ]
+  },
+  "www2.acer.co.in": {
+    "rank": "927",
+    "private": [],
+    "third": []
+  },
+  "www.orangecountync.gov": {
+    "rank": "928",
+    "private": [
+      "http://www.orangecountync.gov/Scripts/2011.3.1115/jquery-1.6.4.min.js",
+      "http://www.orangecountync.gov/17201417.js",
+      "http://www.orangecountync.gov/Assets/Scripts/APIClient.js",
+      "http://www.orangecountync.gov/Assets/Scripts/MomentJs/2.29.1/moment.min.js",
+      "http://www.orangecountync.gov/Assets/Scripts/SplashModal/SplashModalRender.js",
+      "http://www.orangecountync.gov/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js",
+      "http://www.orangecountync.gov/Areas/Layout/Assets/Scripts/Search.js",
+      "http://www.orangecountync.gov/-1604850456.js",
+      "http://www.orangecountync.gov/Areas/Calendar/Assets/Scripts/Calendar.js",
+      "http://www.orangecountync.gov/Areas/Calendar/Assets/Script/miniCalendar.js",
+      "http://www.orangecountync.gov/-281490926.js",
+      "http://www.orangecountync.gov/Assets/Scripts/RWD/MediaFramework.js",
+      "http://www.orangecountync.gov/Assets/Scripts/attrchange.js",
+      "http://www.orangecountync.gov/Assets/Scripts/RWD/MediaFramework.js",
+      "http://www.orangecountync.gov/Assets/Scripts/attrchange_ext.js"
+    ],
+    "third": [
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://az416426.vo.msecnd.net/scripts/a/ai.0.js",
+      "https://www.google-analytics.com/analytics.js"
+    ]
+  },
+  "signup.netflix.com": {
+    "rank": "931",
+    "private": [],
+    "third": []
+  },
+  "www.exportersindia.com": {
+    "rank": "932",
+    "private": [
+      "https://js.exportersindia.com/js/root-js/jquery.js",
+      "https://js.exportersindia.com/js/root-js/login.js",
+      "https://js.exportersindia.com/js/root-js/post_req_auto_suggest_scr.js",
+      "https://js.exportersindia.com/js/root-js/ei_inq_form_v4.js",
+      "https://static.exportersindia.com/js/root-js/jqueryui/jquery.ui.js",
+      "https://static.exportersindia.com/js/mobile-js/jquery.ei.apps.js",
+      "https://static.exportersindia.com/js/root-js/post_req_supplier.js",
+      "https://static.exportersindia.com/js/root-js/popup_ei.js",
+      "https://static.exportersindia.com/js/root-js/ei_inq_form.js",
+      "https://static.exportersindia.com/js/root-js/intlTelInput.js",
+      "https://static.exportersindia.com/js/root-js/index-page.js",
+      "https://static.exportersindia.com/js/root-js/lazysizes.js",
+      "https://static.exportersindia.com/js/jquery.bxslider.js"
+    ],
+    "third": [
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://connect.facebook.net/en_US/fbevents.js"
+    ]
+  },
+  "www.statshow.com": {
+    "rank": "934",
+    "private": [],
+    "third": []
+  },
+  "www.annuaire.journaldupirate.com": {
+    "rank": "936",
+    "private": [],
+    "third": [
+      "https://www.godaddy.com/forsale/_next/static/chunks/webpack-3e6785793c17fb25.js",
+      "https://www.godaddy.com/forsale/_next/static/chunks/main-5129ddcc35686456.js",
+      "https://www.godaddy.com/forsale/_next/static/chunks/framework-f7ba292b22b03fed.js",
+      "https://www.godaddy.com/forsale/_next/static/chunks/pages/_app-0cd821f291d2d867.js",
+      "https://www.godaddy.com/forsale/_next/static/chunks/698-917a14cd9379bc46.js",
+      "https://www.godaddy.com/forsale/_next/static/chunks/980-5db254f8b6c55ae6.js",
+      "https://www.godaddy.com/forsale/_next/static/chunks/pages/forsale/%5Bdomain%5D-97aab61613430af0.js",
+      "https://www.godaddy.com/forsale/_next/static/chunks/694-d66fc4271fbd307c.js",
+      "https://www.godaddy.com/forsale/_next/static/2.30.3/_buildManifest.js",
+      "https://www.godaddy.com/forsale/_next/static/2.30.3/_ssgManifest.js",
+      "https://img6.wsimg.com/poly/v3/polyfill.min.js",
+      "https://img6.wsimg.com/wrhs/07838cd14957fe56cb51d2cead46503c/uxcore2.min.js",
+      "https://img6.wsimg.com/wrhs/1043181a0a01e47152717b5153436147/vendor.min.js",
+      "https://img6.wsimg.com/wrhs/e04edd61e1320cf2b84bd6c1d6af89d1/noheader.min.js",
+      "https://img6.wsimg.com/wrhs-next/0a3c9ed73591ea11f77b51a04edf210f/heartbeat.js",
+      "https://img6.wsimg.com/wrhs/2386aa9f5dc2307e7fa8864fb12b24a2/browser-deprecation-banner.header-chunk.min.js",
+      "https://tags.tiqcdn.com/utag/gpl/godaddy-tdfs/prod/utag.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://tags.tiqcdn.com/utag/gpl/godaddy-tdfs/prod/utag.7.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://tags.tiqcdn.com/utag/tiqapp/utag.v.js",
+      "https://img6.wsimg.com/wrhs/3ff4e8162cf89910dbf32ab8935b5bd2/tcc.min.js"
+    ]
+  },
+  "www.diglib.um.edu.my": {
+    "rank": "938",
+    "private": [
+      "https://umlibguides.um.edu.my/web/jquery/js/1.12.4_jquery.min.js",
+      "https://umlibguides.um.edu.my/web/js2.19.7/lg-public.min.js",
+      "https://umlibguides.um.edu.my/web/js/sa.min.js"
+    ],
+    "third": [
+      "https://code.jquery.com/ui/1.12.1/jquery-ui.min.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://cdn.livechatinc.com/tracking.js"
+    ]
+  },
+  "annuaire.maisondhotes.net": {
+    "rank": "940",
+    "private": [],
+    "third": [
+      "https://static.bookcdn.com/build/packs/js/base.pack.0b42473479787b8a873f4f3049419c7f.js",
+      "https://static.bookcdn.com/build/packs/js/main.pack.0b5581c5d105d4c41bfe296eeb013135.js",
+      "https://static.bookcdn.com/js/translations/translation_3.e9b27dd2afb4dae92983b4e846aad174.js",
+      "https://static.bookcdn.com/build/booked/booked_bundle.6e634c2072d7bfe0e32801cdc554035f.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://static.bookcdn.com/build/booked/5638.c4147ee0f47ea57166c9.js",
+      "https://static.bookcdn.com/build/booked/6340.0f99b38162b29ac56c8a.js",
+      "https://static.bookcdn.com/build/booked/4206.4c62313f190e0c879ed9.js",
+      "https://static.bookcdn.com/build/booked/89.594f20527aa3345787e4.js",
+      "https://static.bookcdn.com/build/booked/508.27eae903bd82d550ac83.js",
+      "https://static.bookcdn.com/build/booked/6350.89dffe250bdad4fe3db8.js",
+      "https://static.bookcdn.com/build/booked/1480.bcf8902a5df48ada518a.js",
+      "https://static.bookcdn.com/build/booked/svgReplacer.adb1cfd9ed7a0063aa22.js",
+      "https://static.bookcdn.com/build/booked/jsGlobalLoader.509ccd4a9b280a6a0c6a.js",
+      "https://static.bookcdn.com/build/booked/4356.e3d2ab97198c537531d5.js",
+      "https://static.bookcdn.com/build/booked/topicalCarousel.cb0907386b6c1a0bae0d.js",
+      "https://static.bookcdn.com/build/booked/jsFooter.b405098a8287feae1426.js"
+    ]
+  },
+  "www.sielaff.de": {
+    "rank": "941",
+    "private": [
+      "https://www.sielaff.de/typo3conf/ext/sielaff/Resources/Public/Js/js.cookie.min.js",
+      "https://www.sielaff.de/typo3conf/ext/sielaff/Resources/Public/Js/jquery.js",
+      "https://www.sielaff.de/typo3temp/assets/js/5508b6c4f0.js",
+      "https://www.sielaff.de/typo3conf/ext/sielaff/Resources/Public/Js/cookie-consent.js",
+      "https://www.sielaff.de/typo3conf/ext/sielaff/Resources/Public/Js/what-input.min.js",
+      "https://www.sielaff.de/typo3conf/ext/sielaff/Resources/Public/Js/jquery.inview.min.js",
+      "https://www.sielaff.de/typo3conf/ext/sielaff/Resources/Public/Js/foundation.min.js",
+      "https://www.sielaff.de/typo3conf/ext/sielaff/Resources/Public/Js/script.js",
+      "https://www.sielaff.de/typo3conf/ext/sielaff/Resources/Public/Js/owl.carousel.min.js",
+      "https://www.sielaff.de/typo3conf/ext/rx_shariff/Resources/Public/JavaScript/shariff.min.js",
+      "https://www.sielaff.de/typo3conf/ext/sielaff/Resources/Public/DataTables/datatables.min.js",
+      "https://www.sielaff.de/typo3conf/ext/femanager/Resources/Public/JavaScript/Validation.min.js",
+      "https://www.sielaff.de/typo3conf/ext/femanager/Resources/Public/JavaScript/Femanager.min.js",
+      "https://www.sielaff.de/typo3conf/ext/indexed_search_autocomplete/Resources/Public/JavaScript/Indexed_search_autocomplete.js",
+      "https://www.sielaff.de/typo3conf/ext/powermail/Resources/Public/JavaScript/Libraries/parsley.min.js",
+      "https://www.sielaff.de/typo3conf/ext/powermail/Resources/Public/JavaScript/Libraries/jquery.datetimepicker.min.js",
+      "https://www.sielaff.de/typo3conf/ext/powermail/Resources/Public/JavaScript/Powermail/Tabs.min.js",
+      "https://www.sielaff.de/typo3conf/ext/powermail/Resources/Public/JavaScript/Powermail/Form.min.js",
+      "https://www.sielaff.de/typo3conf/ext/hb_dl/Resources/Public/Js/jquery.sticky.js",
+      "https://www.sielaff.de/typo3conf/ext/sielaff/Resources/Public/Js/aos.js",
+      "https://www.sielaff.de/typo3conf/ext/sielaff/Resources/Public/Js/heartbytes.min.js",
+      "https://www.sielaff.de/typo3conf/ext/hb_dl/Resources/Public/Js/tx_dl.js"
+    ],
+    "third": []
+  },
+  "www.cda-bund.de": {
+    "rank": "942",
+    "private": [
+      "https://www.cda-bund.de/system/1671196899.js",
+      "https://www.cda-bund.de/system/js/plyr.js"
+    ],
+    "third": []
+  },
+  "www.bundesinitiative-gleichstellen.de": {
+    "rank": "943",
+    "private": [],
+    "third": []
+  },
+  "site6.way2sms.com": {
+    "rank": "945",
+    "private": [],
+    "third": []
+  },
+  "search.gmane.org": {
+    "rank": "946",
+    "private": [],
+    "third": []
+  },
+  "www.optilian.com": {
+    "rank": "947",
+    "private": [
+      "https://www.optilian.com/wp-includes/js/jquery/jquery-migrate.min.js",
+      "https://www.optilian.com/wp-includes/js/jquery/jquery.min.js",
+      "https://www.optilian.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js",
+      "https://www.optilian.com/wp-content/themes/Divi/js/scripts.min.js",
+      "https://www.optilian.com/wp-content/themes/Divi/core/admin/js/common.js"
+    ],
+    "third": []
+  },
+  "www.takealot.com": {
+    "rank": "948",
+    "private": [],
+    "third": [
+      "https://performance.radar.cloudflare.com/beacon.js"
+    ]
+  },
+  "ulasimhaberi.com": {
+    "rank": "949",
+    "private": [
+      "https://ulasimhaberi.com/wp-content/themes/haberadam/js/jquery-3.3.1.min.js",
+      "https://ulasimhaberi.com/wp-content/themes/haberadam/js/sweetalert.js",
+      "https://ulasimhaberi.com/wp-content/themes/haberadam/js/main.js",
+      "https://ulasimhaberi.com/wp-content/themes/haberadam/js/owl.carousel.min.js"
+    ],
+    "third": []
+  },
+  "hosted.x-art.com": {
+    "rank": "954",
+    "private": [],
+    "third": []
+  },
+  "www.blogsky.com": {
+    "rank": "955",
+    "private": [
+      "https://www.blogsky.com/scripts/ie10-viewpokrt-bug-workaround.js"
+    ],
+    "third": [
+      "https://www.google-analytics.com/analytics.js",
+      "https://d31qbv1cthcecs.cloudfront.net/atrk.js"
+    ]
+  },
+  "www.myspace.com": {
+    "rank": "958",
+    "private": [
+      "https://x.myspacecdn.com/new/common/js/global.2661D1DCA483745A6D6C2C57B032EC9C.min.js",
+      "https://x.myspacecdn.com/new/common/js/authentication.7925E02B53674B3471A98AD4BD667A23.min.js",
+      "https://x.myspacecdn.com/new/common/js/player.CC820A0464BE9D49ECE7F523BC3A49A4.min.js",
+      "https://x.myspacecdn.com/new/homepage/js/homepage.690CA1DBE1AC252305AC57AAA875554F.min.js"
+    ],
+    "third": [
+      "https://cdn.cookielaw.org/consent/ba57dc0e-bed0-43c0-8099-686e40ea64e7-test/OtAutoBlock.js",
+      "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+      "https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js",
+      "https://cdn.cookielaw.org/scripttemplates/202211.2.0/otBannerSdk.js"
+    ]
+  },
+  "ir.chartnexus.com": {
+    "rank": "960",
+    "private": [],
+    "third": []
+  },
+  "www.maahtab.ir": {
+    "rank": "962",
+    "private": [
+      "https://www.maahtab.ir/lib/jquery/jquery-3.3.1.min.js",
+      "https://www.maahtab.ir/lib/jquery-validate/jquery.validate-v1.17.0/jquery.validate.min.js",
+      "https://www.maahtab.ir/lib/jquery-validate/jquery.validate.unobtrusive-v3.2.10/jquery.validate.unobtrusive.min.js",
+      "https://www.maahtab.ir/lib/jquery-ui/jquery-ui-1.12.1.custom/jquery-ui.min.js",
+      "https://www.maahtab.ir/lib/jquery-migrate/jquery-migrate-3.0.1.min.js",
+      "https://www.maahtab.ir/Plugins/SevenSpikes.Core/Scripts/iOS-12-array-reverse-fix.min.js",
+      "https://www.maahtab.ir/js/public.common.js",
+      "https://www.maahtab.ir/js/public.ajaxcart.js",
+      "https://www.maahtab.ir/js/public.countryselect.js",
+      "https://www.maahtab.ir/Plugins/SevenSpikes.Core/Scripts/lib/kendo/2019.2.619/kendo.core.min.js",
+      "https://www.maahtab.ir/lib/kendo/2014.1.318/kendo.userevents.min.js",
+      "https://www.maahtab.ir/lib/kendo/2014.1.318/kendo.draganddrop.min.js",
+      "https://www.maahtab.ir/lib/kendo/2014.1.318/kendo.window.min.js",
+      "https://www.maahtab.ir/Plugins/SevenSpikes.Nop.Plugins.InstantSearch/Scripts/InstantSearch.min.js",
+      "https://www.maahtab.ir/lib/kendo/2014.1.318/kendo.data.min.js",
+      "https://www.maahtab.ir/lib/kendo/2014.1.318/kendo.popup.min.js",
+      "https://www.maahtab.ir/lib/kendo/2014.1.318/kendo.list.min.js",
+      "https://www.maahtab.ir/lib/kendo/2014.1.318/kendo.autocomplete.min.js",
+      "https://www.maahtab.ir/Plugins/SevenSpikes.Nop.Plugins.SmartProductCollections/Scripts/Products.min.js",
+      "https://www.maahtab.ir/Plugins/SevenSpikes.Core/Scripts/swipeEvents.min.js",
+      "https://www.maahtab.ir/Plugins/SevenSpikes.Core/Scripts/slick-slider-1.6.0.min.js",
+      "https://www.maahtab.ir/Plugins/SevenSpikes.Nop.Plugins.JCarousel/Scripts/jCarousel.min.js",
+      "https://www.maahtab.ir/Plugins/SevenSpikes.Core/Scripts/sevenspikes.core.min.js",
+      "https://www.maahtab.ir/Plugins/SevenSpikes.Nop.Plugins.MegaMenu/Scripts/MegaMenu.min.js",
+      "https://www.maahtab.ir/Plugins/SevenSpikes.Nop.Plugins.AnywhereSliders/Scripts/AnywhereSliders.min.js",
+      "https://www.maahtab.ir/Plugins/SevenSpikes.Core/Scripts/jquery.json-2.4.min.js",
+      "https://www.maahtab.ir/Plugins/SevenSpikes.Nop.Plugins.ProductRibbons/Scripts/ProductRibbons.min.js",
+      "https://www.maahtab.ir/Plugins/SevenSpikes.Nop.Plugins.AjaxCart/Scripts/AjaxCart.min.js",
+      "https://www.maahtab.ir/lib/fineuploader/jquery.fine-uploader.min.js",
+      "https://www.maahtab.ir/Plugins/SevenSpikes.Nop.Plugins.QuickView/Scripts/QuickView.min.js",
+      "https://www.maahtab.ir/Plugins/SevenSpikes.Core/Scripts/cloudzoom.core.min.js",
+      "https://www.maahtab.ir/Plugins/SevenSpikes.Core/Scripts/color-squares.min.js",
+      "https://www.maahtab.ir/Plugins/SevenSpikes.Core/Scripts/footable.min.js",
+      "https://www.maahtab.ir/Plugins/SevenSpikes.Core/Scripts/perfect-scrollbar.min.js",
+      "https://www.maahtab.ir/Plugins/SevenSpikes.Core/Scripts/sevenspikes.theme.min.js",
+      "https://www.maahtab.ir/Themes/Prisma/Content/scripts/prisma.js"
+    ],
+    "third": [
+      "https://www.google-analytics.com/analytics.js"
+    ]
+  },
+  "amhost.bplaced.net": {
+    "rank": "963",
+    "private": [],
+    "third": []
+  },
+  "stash.reaper.fm": {
+    "rank": "968",
+    "private": [
+      "https://stash.reaper.fm/js/sc-17-proto-15-compressed.js",
+      "https://stash.reaper.fm/js/tooltips.js",
+      "https://stash.reaper.fm/js/spica.js",
+      "https://stash.reaper.fm/js/lightbox_plus.js"
+    ],
+    "third": []
+  },
+  "fuzio.devilcantburn.com": {
+    "rank": "969",
+    "private": [
+      "http://ww25.devilcantburn.com/js/parking.2.103.1.js"
+    ],
+    "third": [
+      "https://www.google.com/adsense/domains/caf.js"
+    ]
+  },
+  "store.ferrari.com": {
+    "rank": "970",
+    "private": [],
+    "third": []
+  },
+  "www.gov.im": {
+    "rank": "971",
+    "private": [
+      "https://www.gov.im/scripts/js.cookie.js",
+      "https://www.gov.im/scripts/analytics-downloads.js",
+      "https://www.gov.im/Scripts/analytics.js"
+    ],
+    "third": [
+      "https://use.fontawesome.com/e014df38cc.js",
+      "https://www.google-analytics.com/plugins/ua/linkid.js"
+    ]
+  },
+  "www.gamcare.org.uk": {
+    "rank": "973",
+    "private": [
+      "https://www.gamcare.org.uk/wp/wp-includes/js/jquery/jquery.min.js",
+      "https://www.gamcare.org.uk/wp/wp-includes/js/jquery/jquery-migrate.min.js",
+      "https://www.gamcare.org.uk/app/plugins/add-to-any/addtoany.min.js",
+      "https://www.gamcare.org.uk/app/plugins/safety-exit/assets/js/frontend.js",
+      "https://www.gamcare.org.uk/app/plugins/simple-banner/simple-banner.js",
+      "https://www.gamcare.org.uk/app/plugins/webtoffee-gdpr-cookie-consent/public/js/cookie-law-info-public.js",
+      "https://www.gamcare.org.uk/app/plugins/wpforo-user-custom-fields/assets/js/frontend.js",
+      "https://www.gamcare.org.uk/app/themes/gamcare/dist/scripts/respbgimg_b90c021e.js",
+      "https://www.gamcare.org.uk/app/themes/gamcare/dist/scripts/lazysizes_b90c021e.js",
+      "https://www.gamcare.org.uk/app/themes/gamcare/dist/scripts/main_b90c021e.js",
+      "https://www.gamcare.org.uk/app/themes/gamcare/dist/scripts/owlcarousel_b90c021e.js"
+    ],
+    "third": [
+      "https://static.addtoany.com/menu/page.js",
+      "https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js",
+      "https://cdn.taboola.com/libtrc/unip/1353600/tfa.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://static.addtoany.com/menu/modules/core.26680508.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://static.ads-twitter.com/uwt.js",
+      "https://sc-static.net/scevent.min.js",
+      "https://analytics.tiktok.com/i18n/pixel/events.js",
+      "https://tr.snapchat.com/config/uk/1edf5f95-46a8-4df9-87c9-037806df26dc.js"
+    ]
+  },
+  "www.forescout.com": {
+    "rank": "974",
+    "private": [
+      "https://www.forescout.com/wp-content/themes/forescout_custom_theme2021/public/javascripts/jquery.min.js",
+      "https://www.forescout.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+      "https://www.forescout.com/wp-content/themes/forescout_custom_theme2021/public/javascripts/marketo-load-forms.js",
+      "https://www.forescout.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js",
+      "https://www.forescout.com/wp-includes/js/dist/vendor/wp-polyfill.min.js",
+      "https://www.forescout.com/wp-includes/js/dist/hooks.min.js",
+      "https://www.forescout.com/wp-includes/js/dist/i18n.min.js",
+      "https://www.forescout.com/wp-content/plugins/elasticpress/dist/js/autosuggest-script.js",
+      "https://www.forescout.com/wp-content/plugins/page-links-to/dist/new-tab.js",
+      "https://www.forescout.com/wp-content/themes/forescout_custom_theme2021/public/javascripts/app.js",
+      "https://www.forescout.com/wp-content/themes/forescout_custom_theme2021/public/javascripts/hero-video.js",
+      "https://www.forescout.com/wp-content/themes/forescout_custom_theme2021/public/javascripts/marketo-munchkin.js",
+      "https://www.forescout.com/wp-content/themes/forescout_custom_theme2021/public/javascripts/scrollTo.782d9ab40a0d91052aa8.chunk.js",
+      "https://www.forescout.com/wp-content/themes/forescout_custom_theme2021/public/javascripts/page-head.dce98c423848cc76343e.chunk.js",
+      "https://www.forescout.com/wp-content/themes/forescout_custom_theme2021/public/javascripts/dropdown.5bda7fbde0b196d8e81b.chunk.js",
+      "https://www.forescout.com/wp-content/themes/forescout_custom_theme2021/public/javascripts/site-search.a9db11ce43231f2ece02.chunk.js",
+      "https://www.forescout.com/wp-content/themes/forescout_custom_theme2021/public/javascripts/site-nav.94978c3647330f5a44c2.chunk.js",
+      "https://www.forescout.com/wp-content/themes/forescout_custom_theme2021/public/javascripts/mobile-nav.5d7d87e001cdc3368fc9.chunk.js",
+      "https://www.forescout.com/wp-content/themes/forescout_custom_theme2021/public/javascripts/accordion.59d3fb18240f6cb32455.chunk.js",
+      "https://www.forescout.com/wp-content/themes/forescout_custom_theme2021/public/javascripts/count.2ee8ae48d3482d658023.chunk.js",
+      "https://www.forescout.com/wp-content/themes/forescout_custom_theme2021/public/javascripts/289.d911f714302848492f99.chunk.js",
+      "https://www.forescout.com/wp-content/themes/forescout_custom_theme2021/public/javascripts/content-slider.6d24587a0e80d0d716d4.chunk.js",
+      "https://www.forescout.com/wp-content/themes/forescout_custom_theme2021/public/javascripts/tabs.b724eb75b1456a3785a5.chunk.js"
+    ],
+    "third": [
+      "https://marvel-b2-cdn.bc0a.com/marvel.js",
+      "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+      "https://app-lon03.marketo.com/js/forms2/js/forms2.js",
+      "https://cdn.b0e8.com/conv_v3.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://static.hotjar.com/c/hotjar-3092438.js",
+      "https://bat.bing.com/bat.js",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://static.ads-twitter.com/uwt.js",
+      "https://app.hushly.com/runtime/widget.js",
+      "https://j.6sc.co/6si.min.js",
+      "https://secure.ripe8book.com/js/192507.js",
+      "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+      "https://fast.wistia.net/assets/external/E-v1.js",
+      "https://bat.bing.com/p/action/148025104.js",
+      "https://cdn.cookielaw.org/scripttemplates/6.23.0/otBannerSdk.js",
+      "https://app.hushly.com/assets/widget-501241365316ccaa6a710fa6a5f52abb.js",
+      "https://munchkin.marketo.net/munchkin.js",
+      "https://munchkin.marketo.net/162/munchkin.js",
+      "https://player.vimeo.com/api/player.js"
+    ]
+  },
+  "www.fatcap.org": {
+    "rank": "975",
+    "private": [
+      "https://www.fatcap.org/_next/static/chunks/webpack-fd9fb29a92855ab4.js",
+      "https://www.fatcap.org/_next/static/chunks/framework-d953b23981e3131a.js",
+      "https://www.fatcap.org/_next/static/chunks/main-a7c1ef46238ca529.js",
+      "https://www.fatcap.org/_next/static/chunks/pages/_app-6c80b38bbb1aaa6a.js",
+      "https://www.fatcap.org/_next/static/chunks/946-c0b899ee8906d216.js",
+      "https://www.fatcap.org/_next/static/chunks/466-3c583745f8e4d442.js",
+      "https://www.fatcap.org/_next/static/chunks/893-1a2c8dfe0dc58c5d.js",
+      "https://www.fatcap.org/_next/static/chunks/777-8cd22284a948746e.js",
+      "https://www.fatcap.org/_next/static/chunks/709-c55e7b4711a95da9.js",
+      "https://www.fatcap.org/_next/static/chunks/982-cbd4d820733bd5a2.js",
+      "https://www.fatcap.org/_next/static/chunks/925-b0606034198d0cb7.js",
+      "https://www.fatcap.org/_next/static/chunks/841-1b2cacf78a4e5cd1.js",
+      "https://www.fatcap.org/_next/static/chunks/pages/index-39734c65b07486dd.js",
+      "https://www.fatcap.org/_next/static/yizL46g9aSXGfbfZVo3TG/_buildManifest.js",
+      "https://www.fatcap.org/_next/static/yizL46g9aSXGfbfZVo3TG/_ssgManifest.js",
+      "https://www.fatcap.org/_next/static/chunks/516-87b84a327203bc97.js",
+      "https://www.fatcap.org/_next/static/chunks/843-2fb94bcca0772374.js",
+      "https://www.fatcap.org/_next/static/chunks/pages/article/%5Bslug%5D-cf9f790f204314e0.js",
+      "https://www.fatcap.org/_next/static/chunks/556-6293da0f2cabff5d.js",
+      "https://www.fatcap.org/_next/static/chunks/939-898fbbd62781808a.js",
+      "https://www.fatcap.org/_next/static/chunks/pages/articles/%5Bslug%5D-21b2af19ea584c43.js",
+      "https://www.fatcap.org/_next/static/chunks/516-87b84a327203bc97.js",
+      "https://www.fatcap.org/_next/static/chunks/843-2fb94bcca0772374.js",
+      "https://www.fatcap.org/_next/static/chunks/pages/article/%5Bslug%5D-cf9f790f204314e0.js",
+      "https://www.fatcap.org/_next/static/chunks/556-6293da0f2cabff5d.js",
+      "https://www.fatcap.org/_next/static/chunks/939-898fbbd62781808a.js",
+      "https://www.fatcap.org/_next/static/chunks/pages/articles/%5Bslug%5D-21b2af19ea584c43.js"
+    ],
+    "third": [
+      "https://static.cloudflareinsights.com/beacon.min.js"
+    ]
+  },
+  "yandex.com.tr": {
+    "rank": "977",
+    "private": [
+      "https://mc.yandex.ru/metrika/watch.js"
+    ],
+    "third": [
+      "https://yastatic.net/jquery/1.8.3/jquery.min.js",
+      "https://yastatic.net/s3/home-static/_/1/i/SRlRpNLBtrvQUib6H48UkyoFk.js"
+    ]
+  },
+  "www.bebo.com": {
+    "rank": "979",
+    "private": [],
+    "third": [
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://s.poply.com/static/js/vendor_base.min.js",
+      "https://s.poply.com/static/js/vendor_plus.min.js",
+      "https://s.poply.com/static/js/vendor_public.min.js",
+      "https://s.poply.com/static/js/landing.min.js",
+      "https://s.poply.com/static/js/bundle_public.min.js"
+    ]
+  },
+  "legacy.zoneedit.com": {
+    "rank": "980",
+    "private": [
+      "http://blog.zoneedit.com/wp-includes/js/wp-emoji-release.min.js",
+      "http://blog.zoneedit.com/wp-includes/js/jquery/jquery.min.js",
+      "http://blog.zoneedit.com/wp-includes/js/jquery/jquery-migrate.min.js",
+      "http://blog.zoneedit.com/wp-content/themes/twentytwelve/js/navigation.js"
+    ],
+    "third": []
+  },
+  "webmap.ornl.gov": {
+    "rank": "981",
+    "private": [],
+    "third": []
+  },
+  "www.americanexpress.com.sa": {
+    "rank": "982",
+    "private": [
+      "https://www.americanexpress.com.sa/sites/default/files/js/js_dF7gVfJ092AqEKYUfMQkJYa1THKX3LSrF5bALONLuB8.js",
+      "https://www.americanexpress.com.sa/sites/default/files/js/js_5zp1Edo0bm8a7pB0YBex4xx9BlFPOeHFbbMO3LwCFfs.js"
+    ],
+    "third": [
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+      "https://static.ads-twitter.com/uwt.js",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://sc-static.net/scevent.min.js",
+      "https://dsp-media.eskimi.com/gtr.min.js",
+      "https://connect.facebook.net/signals/plugins/inferredevents.js",
+      "https://static.addtoany.com/menu/page.js",
+      "https://www.googleadservices.com/pagead/conversion.js",
+      "https://static.addtoany.com/menu/modules/core.26680508.js"
+    ]
+  },
+  "buds.als.lbl.gov": {
+    "rank": "983",
+    "private": [],
+    "third": []
+  },
+  "www.twitwheel.com": {
+    "rank": "985",
+    "private": [
+      "http://ww1.twitwheel.com/px.js",
+      "http://ww1.twitwheel.com/px.js"
+    ],
+    "third": [
+      "https://www.google.com/adsense/domains/caf.js",
+      "https://img1.wsimg.com/parking-lander/static/js/0.40743286.chunk.js",
+      "https://img1.wsimg.com/parking-lander/static/js/1.3fa140ef.chunk.js",
+      "https://img1.wsimg.com/parking-lander/static/js/main.727544c3.chunk.js"
+    ]
+  },
+  "slashdot.org": {
+    "rank": "988",
+    "private": [
+      "https://a.fsdn.com/con/js/sftheme/cmp2.js",
+      "https://slashdot.org/country.js",
+      "https://a.fsdn.com/sd/js/scripts/adgenerator.js",
+      "https://a.fsdn.com/sd/all-minified.js",
+      "https://analytics.slashdotmedia.com/sd.js"
+    ],
+    "third": [
+      "https://d3tglifpd8whs6.cloudfront.net/js/prebid/slash-homepage/slash-homepage.min.js",
+      "https://tag.crsspxl.com/s1.js",
+      "https://cdn.taboola.com/libtrc/slashdot/loader.js",
+      "https://www.stack-sonar.com/ping.js",
+      "https://d1pywsqd87ew9v.cloudfront.net/partner_fluid_widgets_v1.5/horizontal.js",
+      "https://d1pywsqd87ew9v.cloudfront.net/partner_fluid_widgets_v1.5/sidebar.js",
+      "https://chimpstatic.com/mcjs-connected/js/users/aab6529d3675bd877963a652d/fc2aefbb539f9ecd8f1ab4cee.js",
+      "https://ssl.google-analytics.com/ga.js",
+      "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+      "https://ads.pro-market.net/ads/scripts/site-143573.js",
+      "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "https://cdn.taboola.com/libtrc/impl.20230227-4-RELEASE.js",
+      "https://sb.scorecardresearch.com/beacon.js",
+      "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2023022102.js",
+      "https://cdn.taboola.com/libtrc/cta-component.20230227-4-RELEASE.es6.js",
+      "https://vidstat.taboola.com/lite-unit/3.9.8/UnitWidgetItemDesktop.min.js",
+      "https://adservice.google.com/adsid/integrator.js",
+      "https://vidstat.taboola.com/vpaid/units/130013_558/infra/cmTagWIDGET_ITEM.js",
+      "https://vidstat.taboola.com/vpaid/vPlayer/player/v15.0.5/OvaMediaPlayer.js"
+    ]
+  },
+  "store.apple.com": {
+    "rank": "992",
+    "private": [
+      "https://www.apple.com/v/errors/c/built/scripts/main.built.js"
+    ],
+    "third": []
+  },
+  "www.addthis.com": {
+    "rank": "994",
+    "private": [
+      "https://www.addthis.com/dietsite-assets/js/shared/js.cookie-2.2.0.min.js",
+      "https://www.addthis.com/dietsite-assets/js/jquery-3.4.1.min.js",
+      "https://www.addthis.com/dietsite-assets/js/ConsentManager.js",
+      "https://www.addthis.com/dietsite-assets/js/trustecm-activation.js",
+      "https://www.addthis.com/dietsite-assets/js/cloudflare/jquery.magnific-popup.js",
+      "https://www.addthis.com/dietsite-assets/js/homepage/homepage-new.js",
+      "https://www.addthis.com/dietsite-assets/js/homepage/homepage-scroll.js",
+      "https://www.addthis.com/dietsite-assets/js/homepage/homepage.js",
+      "https://www.oracle.com/assets/truste-oraclelib.js",
+      "https://www.addthis.com/dietsite-assets/js/site.main.js",
+      "https://www.addthis.com/dietsite-assets/js/free-website-tools/free.js",
+      "https://s7.addthis.com/addthis_widget.js",
+      "https://www.oracle.com/us/assets/metrics/ora_addthis.js",
+      "https://www.addthis.com/dietsite-assets/js/moat.js",
+      "https://www.addthis.com/dietsite-assets/js/eloqua.js",
+      "https://www.addthis.com/dietsite-assets/js/lazysizes.min.js",
+      "https://www.oracle.com/us/assets/metrics/ora_code.js"
+    ],
+    "third": [
+      "https://nexus.ensighten.com/choozle/11751/Bootstrap.js",
+      "https://z.moatads.com/addthis094032898332/moatcontent.js",
+      "https://z.moatads.com/addthismoatframe568911941483/moatframe.js",
+      "https://nexus.ensighten.com/choozle/11751/code/38208c2d21bb4e2be32e85333998d390.js",
+      "https://nexus.ensighten.com/choozle/11751/code/77819ac0b9d2bc1d24f7cfdd783cc0d1.js"
+    ]
+  },
+  "www.9months.com.my": {
+    "rank": "996",
+    "private": [],
+    "third": []
+  },
+  "www.qnb.com.qa": {
+    "rank": "999",
+    "private": [],
+    "third": [
+      "https://performance.radar.cloudflare.com/beacon.js"
+    ]
+  },
+  "www.arbetsformedlingen.se": {
+    "rank": "1000",
+    "private": [
+      "https://arbetsformedlingen.se/sitevision/system-resource/a84cba8dc3dc19cf758d509a1ca9bdcdde32ead5ccc395aa5a85b0532000cc55/js/docready.js",
+      "https://arbetsformedlingen.se/sitevision/system-resource/a84cba8dc3dc19cf758d509a1ca9bdcdde32ead5ccc395aa5a85b0532000cc55/js/jquery.js",
+      "https://arbetsformedlingen.se/download/18.d3597e817565c5562545db/1605880451477/jquery.min.js",
+      "https://arbetsformedlingen.se/sitevision/system-resource/a84cba8dc3dc19cf758d509a1ca9bdcdde32ead5ccc395aa5a85b0532000cc55/webapps/AppRegistry.js",
+      "https://arbetsformedlingen.se/webdav/files/system/build/client/js/_AF.min.js",
+      "https://arbetsformedlingen.se/download/18.7b9a36f216b46e88b5912bb/de51a513.js",
+      "https://arbetsformedlingen.se/sitevision/system-resource/a84cba8dc3dc19cf758d509a1ca9bdcdde32ead5ccc395aa5a85b0532000cc55/js/utils.js",
+      "https://arbetsformedlingen.se/download/18.2bef8e33170a57d9565148ad/savedevicetologg.js",
+      "https://arbetsformedlingen.se/sitevision/system-resource/a84cba8dc3dc19cf758d509a1ca9bdcdde32ead5ccc395aa5a85b0532000cc55/js/portlets.js",
+      "https://arbetsformedlingen.se/download/18.18c36bd9184157214f8d46/1667549337628/main.js",
+      "https://arbetsformedlingen.se/sitevision/system-resource/a84cba8dc3dc19cf758d509a1ca9bdcdde32ead5ccc395aa5a85b0532000cc55/envision/envision.js",
+      "https://arbetsformedlingen.se/download/18.702eddc5160fa2256d41b5b2/1650445012431/scripts.js",
+      "https://arbetsformedlingen.se/download/18.702eddc5160fa2256d41b5b3/1650445012401/dependencies.js",
+      "https://arbetsformedlingen.se/download/18.e4c7c0717f2869663d8ec4/1649061772992/af_messages.js",
+      "https://arbetsformedlingen.se/webapp-resource/360.e4c7c0717f2869663d1e6a6/1663326562145/webapp-assets.js",
+      "https://arbetsformedlingen.se/webapp-resource/360.e4c7c0717f2869663d1c761/1661955206924/webapp-assets.js",
+      "https://arbetsformedlingen.se/webapp-resource/360.e4c7c0717f2869663d1d5ab/1662642291201/webapp-assets.js",
+      "https://arbetsformedlingen.se/sitevision/system-resource/a84cba8dc3dc19cf758d509a1ca9bdcdde32ead5ccc395aa5a85b0532000cc55/webapps/webapp_sdk-min.js"
+    ],
+    "third": [
+      "https://wds.ace.teliacompany.com/wds/instances/Jn0W2qJs14/ACEWebSDK.min.js",
+      "https://af.analytics.elx.cloud/js/container_PJugJwYH.js",
+      "https://wds.ace.teliacompany.com/wds/instances/Jn0W2qJs14/websdk_config.js",
+      "https://wds.ace.teliacompany.com/wds/23.0.2/visitor/js/modules/ace-5047.js",
+      "https://wds.ace.teliacompany.com/wds/23.0.2/visitor/js/modules/ace-5597.js",
+      "https://wds.ace.teliacompany.com/wds/instances/Jn0W2qJs14/config_services.js",
+      "https://af.analytics.elx.cloud/matomo.js"
+    ]
+  }
+}

@@ -1,0 +1,653 @@
+{
+  "blog.ok.net": {
+    "rank": "301",
+    "private": [],
+    "third": []
+  },
+  "haber.ok.net": {
+    "rank": "302",
+    "private": [],
+    "third": []
+  },
+  "www.travbuddy.com": {
+    "rank": "303",
+    "private": [],
+    "third": []
+  },
+  "fr.predictor.fifa.com": {
+    "rank": "304",
+    "private": [],
+    "third": []
+  },
+  "en.predictor.fifa.com": {
+    "rank": "305",
+    "private": [],
+    "third": []
+  },
+  "es.predictor.fifa.com": {
+    "rank": "306",
+    "private": [],
+    "third": []
+  },
+  "de.predictor.fifa.com": {
+    "rank": "307",
+    "private": [],
+    "third": []
+  },
+  "chicago.citysearch.com": {
+    "rank": "308",
+    "private": [
+      "https://www.citysearch.com/static/js/main.2b521602.js",
+      "https://www.citysearch.com/static/js/116.d7cbbd4c.chunk.js",
+      "https://www.citysearch.com/static/js/327.b4533a4f.chunk.js",
+      "https://www.citysearch.com/static/js/10.8c4ef164.chunk.js"
+    ],
+    "third": [
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.google-analytics.com/analytics.js"
+    ]
+  },
+  "www.americasarmy.com": {
+    "rank": "309",
+    "private": [],
+    "third": []
+  },
+  "www.airfrance.co.jp": {
+    "rank": "310",
+    "private": [],
+    "third": []
+  },
+  "www.airfrance.com": {
+    "rank": "311",
+    "private": [],
+    "third": []
+  },
+  "www.airfrance.fr": {
+    "rank": "312",
+    "private": [],
+    "third": []
+  },
+  "www.keywordspy.com.br": {
+    "rank": "313",
+    "private": [],
+    "third": []
+  },
+  "www.mysql.ru": {
+    "rank": "314",
+    "private": [],
+    "third": []
+  },
+  "msn.iproperty.com.my": {
+    "rank": "315",
+    "private": [],
+    "third": []
+  },
+  "linkdefteri.com": {
+    "rank": "372",
+    "private": [],
+    "third": []
+  },
+  "showing.com": {
+    "rank": "318",
+    "private": [],
+    "third": []
+  },
+  "sportsillustrated.cnn.com": {
+    "rank": "319",
+    "private": [],
+    "third": []
+  },
+  "sports.sportsillustrated.cnn.com": {
+    "rank": "320",
+    "private": [],
+    "third": []
+  },
+  "www.saab.lv": {
+    "rank": "321",
+    "private": [],
+    "third": []
+  },
+  "www.saab.hu": {
+    "rank": "322",
+    "private": [],
+    "third": []
+  },
+  "www.saab.bg": {
+    "rank": "323",
+    "private": [],
+    "third": []
+  },
+  "www.saab.ro": {
+    "rank": "324",
+    "private": [],
+    "third": []
+  },
+  "europa.eu": {
+    "rank": "325",
+    "private": [
+      "https://european-union.europa.eu/sites/default/files/js/js_WFns6qYrETwFYyUzHgFIW5gbGv7iOXMwzzZK6hS7ojw.js",
+      "https://european-union.europa.eu/sites/default/files/js/js_yLPgoF0qNNRMNvlJTUhg1u-nSI1rDN84yus25LjxeCo.js",
+      "https://europa.eu/webtools/load.js",
+      "https://ec.europa.eu/wel/surveys/wr_survey01/wr_survey.js",
+      "https://ec.europa.eu/wel/surveys/wr_survey03/js/main.js"
+    ],
+    "third": []
+  },
+  "mitnicksecurity.com": {
+    "rank": "326",
+    "private": [
+      "https://www.mitnicksecurity.com/hs/hsstatic/jquery-libs/static-1.4/jquery/jquery-1.11.2.js",
+      "https://www.mitnicksecurity.com/hs/cta/cta/current.js",
+      "https://www.mitnicksecurity.com/hs-fs/hub/3875471/hub_generated/template_assets/11091238348/1594127855354/Coded_files/Custom/page/Mitnick_Security_2019_IC/mitnick-security-2019-ic.js",
+      "https://www.mitnicksecurity.com/hs/hsstatic/cos-i18n/static-1.53/bundles/project.js",
+      "https://www.mitnicksecurity.com/hubfs/Mega%20Menu%202020%20IC%20Assets/jquery.min.js",
+      "https://www.mitnicksecurity.com/hubfs/Mega%20Menu%202020%20IC%20Assets/jquery.hoverIntent.min.js",
+      "https://www.mitnicksecurity.com/hubfs/Mega%20Menu%202020%20IC%20Assets/lodash.min.js",
+      "https://www.mitnicksecurity.com/hs/hsstatic/keyboard-accessible-menu-flyouts/static-1.17/bundles/project.js",
+      "https://www.mitnicksecurity.com/hs-fs/hub/3875471/hub_generated/module_assets/35373830360/1619718137262/module_35373830360_Mega_Menu_2020_IC.min.js",
+      "https://www.mitnicksecurity.com/_hcms/forms/v2.js",
+      "https://www.mitnicksecurity.com/hs/hsstatic/HubspotToolsMenu/static-1.154/js/index.js",
+      "https://www.mitnicksecurity.com/hs/scriptloader/3875471.js",
+      "https://www.mitnicksecurity.com/hs/cta/ctas/v2/public/cs/cta-loaded.js",
+      "https://www.mitnicksecurity.com/hs/cta/ctas/v2/public/cs/cta-loaded.js",
+      "https://www.mitnicksecurity.com/hs/cta/ctas/v2/public/cs/cta-loaded.js"
+    ],
+    "third": [
+      "https://edge.marker.io/latest/shim.js",
+      "https://js.hsleadflows.net/leadflows.js",
+      "https://js.hs-banner.com/3875471.js",
+      "https://js.hs-analytics.net/analytics/1677138000000/3875471.js",
+      "https://js.hsadspixel.net/fb.js",
+      "https://edge.marker.io/latest/3.v1.61.0.6128020cefaea0be18cf.js",
+      "https://edge.marker.io/latest/4.v1.61.0.0a26ca092d3f32299489.js",
+      "https://www.google-analytics.com/analytics.js"
+    ]
+  },
+  "www.madeinitaly.gov.it": {
+    "rank": "327",
+    "private": [],
+    "third": []
+  },
+  "www.forth.gr": {
+    "rank": "328",
+    "private": [],
+    "third": []
+  },
+  "shop.nationalgeographic.com": {
+    "rank": "329",
+    "private": [],
+    "third": []
+  },
+  "www.ebay.com": {
+    "rank": "330",
+    "private": [],
+    "third": []
+  },
+  "technologygateway.nasa.gov": {
+    "rank": "331",
+    "private": [],
+    "third": []
+  },
+  "iclass.eccouncil.org": {
+    "rank": "332",
+    "private": [
+      "https://iclass.eccouncil.org/wp-includes/js/jquery/jquery.min.js",
+      "https://iclass.eccouncil.org/wp-includes/js/jquery/jquery-migrate.min.js",
+      "https://iclass.eccouncil.org/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js",
+      "https://iclass.eccouncil.org/wp-content/plugins/revslider/public/assets/js/rbtools.min.js",
+      "https://iclass.eccouncil.org/wp-content/plugins/revslider/public/assets/js/rs6.min.js",
+      "https://iclass.eccouncil.org/wp-content/plugins/wp-rocket/assets/js/lazyload/17.5/lazyload.min.js"
+    ],
+    "third": [
+      "https://stats.wp.com/s-202308.js",
+      "https://stats.wp.com/e-202308.js",
+      "https://www.youtube.com/s/player/11e3a4ec/www-widgetapi.vflset/www-widgetapi.js"
+    ]
+  },
+  "thegioiwebsite.net": {
+    "rank": "333",
+    "private": [],
+    "third": []
+  },
+  "client.skype.tom.com": {
+    "rank": "334",
+    "private": [],
+    "third": []
+  },
+  "mep.pandasecurity.com": {
+    "rank": "335",
+    "private": [],
+    "third": []
+  },
+  "ghrc.nsstc.nasa.gov": {
+    "rank": "336",
+    "private": [],
+    "third": []
+  },
+  "catalogue.adidas.com": {
+    "rank": "337",
+    "private": [],
+    "third": []
+  },
+  "www.hcltech.com": {
+    "rank": "338",
+    "private": [],
+    "third": []
+  },
+  "www.college.harvard.edu": {
+    "rank": "339",
+    "private": [],
+    "third": []
+  },
+  "noticias.uol.com.br": {
+    "rank": "340",
+    "private": [
+      "https://me.jsuol.com.br/aud/uolnoticias.js",
+      "https://tm.jsuol.com.br/modules/external/Prebid.js",
+      "https://tm.jsuol.com.br/modules/external/tailtarget/profiles.js",
+      "https://tm.jsuol.com.br/modules/external/tailtarget/t3m/TT-10162-1/CT-10.js",
+      "https://tm.jsuol.com.br/uoltm.js",
+      "https://abtest.conteudo.uol/c/abc.js",
+      "https://tm.jsuol.com.br/modules/policy-banner.js",
+      "https://tm.jsuol.com.br/modules/dmp-uol-sync.js",
+      "https://conteudo.jsuol.com.br/p/perfil/js/widgetNotify.v3.js"
+    ],
+    "third": [
+      "https://www.google-analytics.com/analytics.js",
+      "https://www.gstatic.com/readaloud/player/web/api/js/api.js",
+      "https://imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "https://static.chartbeat.com/js/chartbeat_mab.js",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://static.chartbeat.com/js/chartbeat_video.js",
+      "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2023022102.js",
+      "https://www.google-analytics.com/plugins/ua/ec.js",
+      "https://sb.scorecardresearch.com/cs/6036356/beacon.js",
+      "https://cdn.tinypass.com/api/tinypass.min.js",
+      "https://static.hotjar.com/c/hotjar-1918940.js",
+      "https://launchpad-wrapper.privacymanager.io/356ff445-ff19-4272-b200-d5c1dfa473ed/launchpad-liveramp.js",
+      "https://adservice.google.co.kr/adsid/integrator.js",
+      "https://adservice.google.com/adsid/integrator.js",
+      "https://cdn.cxense.com/cx.cce.js",
+      "https://launchpad.privacymanager.io/1/launchpad.bundle.js",
+      "https://cdn.cxense.com/cx.js",
+      "https://pagead2.googlesyndication.com/pagead/js/lidar.js",
+      "https://www.google-analytics.com/analytics.js"
+    ]
+  },
+  "www.safedrive.ge": {
+    "rank": "341",
+    "private": [],
+    "third": []
+  },
+  "unlock.tacobell.com": {
+    "rank": "342",
+    "private": [],
+    "third": []
+  },
+  "www.windows7download.com": {
+    "rank": "343",
+    "private": [],
+    "third": []
+  },
+  "www.jwcoca.qld.gov.au": {
+    "rank": "344",
+    "private": [],
+    "third": []
+  },
+  "realty.yandex.ru": {
+    "rank": "345",
+    "private": [
+      "https://yastatic.net/react/17.0.2/react-with-dom.min.js",
+      "https://yastatic.net/s3/vertis-front-deploy/realty-front-desktop/_/index.runtime.3cfa9b9c289dac735b9a.js",
+      "https://yastatic.net/s3/vertis-front-deploy/realty-front-desktop/_/index.vendor.5b8668b759372008d288.js",
+      "https://yastatic.net/s3/vertis-front-deploy/realty-front-desktop/_/index.vertis-react.ed4e03afbe101fa721e0.js",
+      "https://yastatic.net/s3/vertis-front-deploy/realty-front-desktop/_/index.rgid.55d70ec667ab45ce23b3.js",
+      "https://yastatic.net/s3/vertis-front-deploy/realty-front-desktop/_/index.client.03b124e5cc364fa0c5e8.js",
+      "https://yastatic.net/pcode/adfox/loader.js",
+      "https://yandex.ru/ads/system/context.js",
+      "https://yastatic.net/pcode/adfox/loader.js",
+      "https://yastatic.net/pcode/adfox/loader.js",
+      "https://yastatic.net/partner-code-bundles/725964/1c0942547d39e10f5f56.js",
+      "https://yastatic.net/partner-code-bundles/725964/c168961e52ee76e5d37c.js",
+      "https://yastatic.net/safeframe-bundles/0.83/host.js",
+      "https://yastatic.net/partner-code-bundles/725964/07cea2bf8567304efc16.js",
+      "https://yastatic.net/partner-code-bundles/725964/2ec9a88e40a26b53acde.js",
+      "https://yastatic.net/partner-code-bundles/725964/598b9038d2b3227742b9.js",
+      "https://yastatic.net/partner-code-bundles/725964/b887192c4a62fd372984.js",
+      "https://yastatic.net/pcode/adfox/loader.js"
+    ],
+    "third": [
+      "https://static-mon.yandex.net/static/main.js"
+    ]
+  },
+  "www.nrc.gov": {
+    "rank": "346",
+    "private": [],
+    "third": []
+  },
+  "www.ox.ac.uk": {
+    "rank": "347",
+    "private": [],
+    "third": []
+  },
+  "www.ucoatit.com": {
+    "rank": "348",
+    "private": [],
+    "third": []
+  },
+  "www.subisu.net.np": {
+    "rank": "349",
+    "private": [],
+    "third": []
+  },
+  "www.andaluciainformacion.es": {
+    "rank": "350",
+    "private": [],
+    "third": []
+  },
+  "uk.ask.com": {
+    "rank": "351",
+    "private": [
+      "https://uk.ask.com/s/0-6-75/usp-api.min.js",
+      "https://uk.ask.com/s/0-6-75/site-ask-sites.min.js",
+      "https://uk.ask.com/s/0-6-75/unified-api.min.js"
+    ],
+    "third": [
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.statcounter.com/counter/counter.js",
+      "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+      "https://ak.staticimgfarm.com/images/gdpr/onetrust-reporting.js",
+      "https://cdn.aimtell.com/sdk/aimtell-worker-sdk.js",
+      "https://s3.amazonaws.com/cdn.aimtell.com/trackpush/trackpush.min.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://www.google-analytics.com/plugins/ua/linkid.js"
+    ]
+  },
+  "openid-rp.virgilio.it": {
+    "rank": "352",
+    "private": [],
+    "third": []
+  },
+  "www.ohloh.net": {
+    "rank": "353",
+    "private": [],
+    "third": []
+  },
+  "busca.globo.com": {
+    "rank": "354",
+    "private": [],
+    "third": []
+  },
+  "www.agenbolsa.com": {
+    "rank": "355",
+    "private": [],
+    "third": []
+  },
+  "www.feedage.com": {
+    "rank": "356",
+    "private": [],
+    "third": []
+  },
+  "www.peopleconnectionblog.com": {
+    "rank": "357",
+    "private": [],
+    "third": []
+  },
+  "de.truveo.com": {
+    "rank": "358",
+    "private": [],
+    "third": []
+  },
+  "it.altervista.org": {
+    "rank": "359",
+    "private": [],
+    "third": []
+  },
+  "chat.stackexchange.com": {
+    "rank": "360",
+    "private": [],
+    "third": []
+  },
+  "www.gallimard.fr": {
+    "rank": "361",
+    "private": [],
+    "third": []
+  },
+  "www.melih.com": {
+    "rank": "362",
+    "private": [],
+    "third": []
+  },
+  "www.jouezetgagnez.net": {
+    "rank": "363",
+    "private": [],
+    "third": []
+  },
+  "cassons-les-idees-recues.com": {
+    "rank": "364",
+    "private": [],
+    "third": []
+  },
+  "www.francecars.fr": {
+    "rank": "365",
+    "private": [],
+    "third": []
+  },
+  "jogjacamp.org": {
+    "rank": "366",
+    "private": [
+      "https://jogjacamp.com/themes/jogjacamp/js/main.min.js",
+      "https://jogjacamp.com/themes/jogjacamp/js/preline.js",
+      "https://jogjacamp.com/themes/jogjacamp/js/swiper-bundle.min.js"
+    ],
+    "third": [
+      "https://chatcoid.chatonomy.id/js/chatonomy-widget.min.js"
+    ]
+  },
+  "reprise-entreprise.lefigaro.fr": {
+    "rank": "367",
+    "private": [],
+    "third": []
+  },
+  "windowslivehelp.com": {
+    "rank": "368",
+    "private": [],
+    "third": []
+  },
+  "tw.socialgame.yahoo.net": {
+    "rank": "369",
+    "private": [],
+    "third": []
+  },
+  "video.syfy.com": {
+    "rank": "370",
+    "private": [],
+    "third": []
+  },
+  "sp.ask.com": {
+    "rank": "371",
+    "private": [],
+    "third": []
+  },
+  "www.us.hsbc.com": {
+    "rank": "373",
+    "private": [],
+    "third": []
+  },
+  "winelibrary.com": {
+    "rank": "374",
+    "private": [
+      "https://winelibrary.com/assets/vendor/modernizr-custom-94f7df0f8cb8c0efc60485b19f38f3960844d034b5933e0fb82c2efb3deaf7cc.js",
+      "https://winelibrary.com/assets/application-b36fcd6ed671bacd96ef8575d4a65f6fce5265e338b9e45a491b6bc712bc8664.js",
+      "https://winelibrary.com/assets/wl_modded-44d19b2ae13739e3b55d078e299376e76f1deece697aa6d3deccf3d94c3d0730.js"
+    ],
+    "third": [
+      "https://www.googleadservices.com/pagead/conversion.js",
+      "https://js.gleam.io/oi-JvtTofy.js",
+      "https://chimpstatic.com/mcjs-connected/js/users/2f1f54e220aa498070f789b6a/8a56563b19002b3e69b424cda.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://acsbapp.com/apps/app/dist/js/app.js",
+      "https://platform.twitter.com/widgets.js"
+    ]
+  },
+  "www.hbeu1.hsbc.com": {
+    "rank": "376",
+    "private": [],
+    "third": []
+  },
+  "ubisoftpoint.ubisoft.it": {
+    "rank": "377",
+    "private": [],
+    "third": [
+      "http://searchguide.level3.com/s/js/jquery.min.js",
+      "http://searchguide.level3.com/s/js/bootstrap.min.js",
+      "http://searchguide.level3.com/s/js/searchguide.js",
+      "http://searchguide.level3.com/s/js/jquery.cookie.js"
+    ]
+  },
+  "www.kaspersky.cl": {
+    "rank": "378",
+    "private": [],
+    "third": []
+  },
+  "fa.austenco.ir": {
+    "rank": "379",
+    "private": [],
+    "third": []
+  },
+  "technet.microsoft.com": {
+    "rank": "380",
+    "private": [],
+    "third": []
+  },
+  "tolan-sd.com": {
+    "rank": "381",
+    "private": [
+      "https://tolan-sd.com/wp-includes/js/wp-emoji-release.min.js",
+      "https://tolan-sd.com/wp-includes/js/jquery/jquery.min.js",
+      "https://tolan-sd.com/wp-includes/js/jquery/jquery-migrate.min.js",
+      "https://tolan-sd.com/wp-content/plugins/revslider/public/assets/js/rbtools.min.js",
+      "https://tolan-sd.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js",
+      "https://tolan-sd.com/wp-content/themes/dt-the7/js/above-the-fold.min.js",
+      "https://tolan-sd.com/wp-content/themes/dt-the7/js/compatibility/woocommerce/woocommerce.min.js",
+      "https://tolan-sd.com/wp-includes/js/jquery/ui/core.min.js",
+      "https://tolan-sd.com/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate.min.js",
+      "https://tolan-sd.com/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate_bg.min.js",
+      "https://tolan-sd.com/wp-content/themes/dt-the7/js/main.min.js",
+      "https://tolan-sd.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js",
+      "https://tolan-sd.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js",
+      "https://tolan-sd.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js",
+      "https://tolan-sd.com/wp-content/plugins/sassy-social-share/public/js/sassy-social-share-public.js",
+      "https://tolan-sd.com/wp-content/themes/dt-the7/js/legacy.min.js",
+      "https://tolan-sd.com/wp-content/themes/dt-the7/lib/jquery-mousewheel/jquery-mousewheel.min.js",
+      "https://tolan-sd.com/wp-content/themes/dt-the7/lib/custom-scrollbar/custom-scrollbar.min.js",
+      "https://tolan-sd.com/wp-includes/js/wp-embed.min.js",
+      "https://tolan-sd.com/wp-content/plugins/wp-logo-showcase-responsive-slider-slider/assets/js/slick.min.js",
+      "https://tolan-sd.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js",
+      "https://tolan-sd.com/wp-content/plugins/wp-logo-showcase-responsive-slider-slider/assets/js/wpls-public.js"
+    ],
+    "third": [
+      "https://connect.facebook.net/en_US/sdk.js",
+      "https://connect.facebook.net/en_US/sdk.js"
+    ]
+  },
+  "www.cybersnipa.com": {
+    "rank": "382",
+    "private": [],
+    "third": [
+      "http://explorefreeresults.com/px.js",
+      "http://explorefreeresults.com/px.js",
+      "http://i4.cdn-image.com/__media__/js/min.js",
+      "http://pxlgnpgecom-a.akamaihd.net/javascripts/browserfp.min.js"
+    ]
+  },
+  "www.aa.com": {
+    "rank": "384",
+    "private": [],
+    "third": []
+  },
+  "cook.boom.ge": {
+    "rank": "385",
+    "private": [
+      "http://www.cook.boom.ge/js/jquery-3.1.0.min.js",
+      "http://boom.ge/js/functions.js",
+      "http://www.cook.boom.ge/js/functions.js",
+      "http://www.cook.boom.ge/js/stmenu.js",
+      "http://www.cook.boom.ge/pcms/js/httpRequest.js",
+      "http://www.cook.boom.ge/js/F_toolTip.js",
+      "http://www.cook.boom.ge/js/geo.js",
+      "http://www.cook.boom.ge/js/prototype.js"
+    ],
+    "third": []
+  },
+  "elibrary2.eosintl.com": {
+    "rank": "386",
+    "private": [],
+    "third": []
+  },
+  "fta.inria.fr": {
+    "rank": "387",
+    "private": [],
+    "third": []
+  },
+  "secure.derwesten.de": {
+    "rank": "388",
+    "private": [],
+    "third": []
+  },
+  "ru.espacenet.com": {
+    "rank": "389",
+    "private": [],
+    "third": []
+  },
+  "www.healthkart.com": {
+    "rank": "390",
+    "private": [],
+    "third": []
+  },
+  "tv.adobe.com": {
+    "rank": "391",
+    "private": [],
+    "third": []
+  },
+  "kaspersky.softkey.ru": {
+    "rank": "392",
+    "private": [],
+    "third": [
+      "http://mc.yandex.ru/metrika/watch.js"
+    ]
+  },
+  "www.lds.org": {
+    "rank": "393",
+    "private": [],
+    "third": []
+  },
+  "search.babeland.com": {
+    "rank": "394",
+    "private": [],
+    "third": []
+  },
+  "email.one.lt": {
+    "rank": "395",
+    "private": [],
+    "third": []
+  },
+  "www.aetna.com": {
+    "rank": "398",
+    "private": [],
+    "third": []
+  },
+  "member.aetna.com": {
+    "rank": "399",
+    "private": [],
+    "third": []
+  },
+  "www.carstereo.com": {
+    "rank": "400",
+    "private": [],
+    "third": []
+  }
+}

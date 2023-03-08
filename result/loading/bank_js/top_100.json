@@ -1,0 +1,1021 @@
+{
+  "http://www.pbc.gov.cn": {
+    "rank": "1",
+    "private": [
+      "http://www.pbc.gov.cn/rmyh/uiFramework/huilan-jquery-ui/js/huilan-jquery-ui.js",
+      "http://www.pbc.gov.cn/rmyh/template/rmyh.js",
+      "http://www.pbc.gov.cn/rmyh/uiFramework/js/counting/chanelCounting.js",
+      "http://www.pbc.gov.cn/rmyh/uiFramework/js/pbcjs/dllurl.js"
+    ],
+    "third": [
+      "https://zfwzgl.www.gov.cn/exposure/jiucuo.js",
+      "http://dcs.conac.cn/js/33/000/0000/40672588/CA330000000406725880001.js"
+    ]
+  },
+  "http://www.eximbank.gov.cn": {
+    "rank": "2",
+    "private": [
+      "http://www.eximbank.gov.cn/images/html5shiv_3.7.3_html5shiv.min.js",
+      "http://www.eximbank.gov.cn/images/respond.js_1.4.2_respond.min.js",
+      "http://www.eximbank.gov.cn/images/jquery-1.12.3.min.js",
+      "http://www.eximbank.gov.cn/images/common.js",
+      "http://www.eximbank.gov.cn/images/bootstrap.min.js"
+    ],
+    "third": []
+  },
+  "http://www.adbc.com.cn": {
+    "rank": "3",
+    "private": [
+      "http://www.adbc.com.cn/template/119/4440.js",
+      "http://www.adbc.com.cn/template/119/4438.js",
+      "http://www.adbc.com.cn/template/119/4437.js"
+    ],
+    "third": [
+      "http://hm.baidu.com/hm.js"
+    ]
+  },
+  "http://www.ccb.com": {
+    "rank": "4",
+    "private": [
+      "http://www.ccb.com/cn/v3/js/jquery_pc.js",
+      "http://www.ccb.com/cn/v3/js/page_mapping.js",
+      "http://www.ccb.com/cn/v3/js/check_url_params.js",
+      "http://www.ccb.com/cn/v3/js/center.js",
+      "http://www.ccb.com/cn/v3/js/switch-host.js",
+      "http://www.ccb.com/cn/v3/js/web_collect.js",
+      "http://www.ccb.com/cn/v3/js/jquery.Xslider.js",
+      "http://www.ccb.com/cn/v3/js/jquery.scroll.js",
+      "http://www.ccb.com/cn/v3/js/jquery.cookie.js",
+      "http://www.ccb.com/cn/v3/js/main.js",
+      "http://www.ccb.com/cn/v3/js/koala.min.1.5.js",
+      "http://www.ccb.com/cn/v3/js/city_changer.js",
+      "http://www.ccb.com/cn/v3/js/comm.js",
+      "http://www.ccb.com/cn/v3/js/header_box.js",
+      "http://www.ccb.com/cn/v3/js/adv.js",
+      "http://www.ccb.com/cn/v3/js/switch.js",
+      "http://www.ccb.com/cn/js/dataacquisition.header.ccb.js",
+      "http://www.ccb.com/cn/bfree/barrier-free.js",
+      "http://www.ccb.com/cn/home/v3/js/index_scroll.js",
+      "http://www.ccb.com/cn/home/v3/js/index_config.js",
+      "http://www.ccb.com/cn/v3/js/net_gift.js",
+      "http://www.ccb.com/cn/home/v3/js/lifepayment.js",
+      "http://www.ccb.com/cn/home/v3/js/zwfw_pc.js",
+      "http://www.ccb.com/cn/home/v3/js/PCPageBankeBubble.js",
+      "http://www.ccb.com/cn/v3/include/mycom/mycom.js",
+      "http://www.ccb.com/cn/js/eventTracker.js",
+      "http://www.ccb.com/cn/v3/include/login/login.js",
+      "http://www.ccb.com/cn/v3/js/ccb_toolkit.js",
+      "http://www.ccb.com/cn/v3/head_content/quest.js",
+      "http://www.ccb.com/cn/v3/include/empty/foot_html.js",
+      "http://www.ccb.com/cn/v3/js/city_url_data.js",
+      "http://www.ccb.com/cn/bfree/barrier-free-pageset.js",
+      "http://www.ccb.com/cn/bfree/barrier-free-pageset_1.js",
+      "http://www.ccb.com/cn/bfree/barrier-free-pageset_2.js",
+      "http://www.ccb.com/cn/bfree/noObstacleAlertBox.js",
+      "http://www.ccb.com/cn/bfree/barrier-free-main.js",
+      "http://www.ccb.com/cn/home/news/3dbank/images/config/bubble/banke-bubble-30101.js",
+      "http://www.ccb.com/cn/home/v3/js/special_notice.js",
+      "http://www.ccb.com/static/ccbcom/fund/output/bill/01001.js",
+      "http://www.ccb.com/cn/js/data_collect.js",
+      "http://www.ccb.com/cn/v3/js/city_bank_data.js",
+      "https://sinfo.ccb.com/cn/home/news/3dbank/images/config/bubble/config-bubble-30101.js",
+      "https://sinfo.ccb.com/3dbank/bubble/dist/banke-bubble.min.js",
+      "http://www.ccb.com/cn/v3/js/terminator2.2.min.js",
+      "http://www.ccb.com/cn/v3/js/data_collect_ask.js"
+    ],
+    "third": []
+  },
+  "https://www.abchina.com": {
+    "rank": "5",
+    "private": [
+      "https://www.abchina.com/cn/images/jquery-1.7.1.js",
+      "https://www.abchina.com/cn/images/tradintional_1.js",
+      "https://www.abchina.com/cn/images/main.js",
+      "https://www.abchina.com/cn/images/jquery.SuperSlide20428.js",
+      "https://www.abchina.com/cn/images/9458.js",
+      "https://www.abchina.com/cn/images/dcs_tag_t.js",
+      "https://www.abchina.com/cn/images/init.js",
+      "https://www.abchina.com/cn/images/route.js",
+      "https://www.abchina.com/cn/images/transferaddress.js",
+      "https://www.abchina.com/cn/images/swiper.min.js",
+      "https://www.abchina.com/cn/images/elderlyChange.js",
+      "https://www.abchina.com/cn/images/pc_elderlyChange.js",
+      "https://www.abchina.com/cn/images/out_old.js",
+      "https://www.abchina.com/cn/images/ws.min.js",
+      "https://www.abchina.com/cn/images/cn_.js",
+      "https://click.abchina.com/dcsg0rqni00000golpuu3ikjn_2c1g/wtid.js"
+    ],
+    "third": []
+  },
+  "https://www.icbc.com.cn": {
+    "rank": "6",
+    "private": [
+      "https://www.icbc.com.cn/Portal_Resources/js/util/polyfill.js",
+      "https://www.icbc.com.cn/resource/js/icbc_public.js",
+      "https://www.icbc.com.cn/resource/lib/jquery/jquery-3.6.0.min.js",
+      "https://www.icbc.com.cn/Portal_Resources/Common/config.js",
+      "https://www.icbc.com.cn/resource/js/icbchit.js",
+      "https://www.icbc.com.cn/resource/lib/jquery/jquery-migrate.min.js",
+      "https://www.icbc.com.cn/resource/lib/dayjs/dayjs.min.js",
+      "https://www.icbc.com.cn/resource/js/icbccommon.js",
+      "https://www.icbc.com.cn/Portal_Resources/Common/AdRes/jquery.easing.1.3.js",
+      "https://www.icbc.com.cn/Portal_Resources/Common/AdRes/jquery.timers-1.1.2.js",
+      "https://www.icbc.com.cn/Portal_Resources/Common/AdRes/jquery_cycle2_min.js",
+      "https://www.icbc.com.cn/ICBC_ADJS/ICBCActiveMaintainList.js",
+      "https://www.icbc.com.cn/Portal_Resources/Common/ICBCADByZoneUtil.js",
+      "https://www.icbc.com.cn/Portal_Resources/js/util/utils.js",
+      "https://www.icbc.com.cn/ICBC/html/main/js_new/index.js",
+      "https://www.icbc.com.cn/Portal_Resources/RefreshFunctionStatic/js/refreshExchangeData.js",
+      "https://www.icbc.com.cn/Portal_Resources/IcbcHome/js/ajaxHome.js",
+      "https://www.icbc.com.cn/icbc_adjs/653982742962012160.js",
+      "https://www.icbc.com.cn/icbc_adjs/655881516160417792.js",
+      "https://www.icbc.com.cn/icbc_adjs/678765504558301184.js",
+      "https://www.icbc.com.cn/Portal_Resources/Common/jquery/jquery-ui-1.9.2.autocomplete.js",
+      "https://www.icbc.com.cn/ICBC/html/main/js_new/jquery.min.js",
+      "https://www.icbc.com.cn/ICBC/html/main/js_new/main.js",
+      "https://www.icbc.com.cn/ICBC/html/main/js_new/owl.carousel.js",
+      "https://www.icbc.com.cn/resource/lib/sugoio/sugoio-latest.min.js",
+      "https://www.icbc.com.cn/resource/lib/owl/owl.carousel.min.js",
+      "https://www.icbc.com.cn/resource/lib/owl/owl.carousel.min.js",
+      "https://media.icbc.com.cn/wza/dist/aria.js"
+    ],
+    "third": []
+  },
+  "https://www.psbc.com": {
+    "rank": "7",
+    "private": [
+      "https://www.psbc.com/cn/images/jquery.min.js",
+      "https://www.psbc.com/cn/images/mobile_v2020.js",
+      "https://www.psbc.com/cn/images/jquery.SuperSlide.2.1.1.js",
+      "https://www.psbc.com/cn/images/swiper.min_v2020.js",
+      "https://www.psbc.com/cn/images/jquery.easie_v2019.js",
+      "https://www.psbc.com/cn/images/respond.src.js",
+      "https://www.psbc.com/cn/images/es5-shim.min.js",
+      "https://www.psbc.com/cn/images/es5-sham.min.js",
+      "https://www.psbc.com/cn/images/json3.min.js",
+      "https://www.psbc.com/cn/images/template-web.js",
+      "https://www.psbc.com/cn/images/videojs-ie8.min.js",
+      "https://www.psbc.com/cn/images/video.min.js",
+      "https://www.psbc.com/cn/images/trans_shift.js",
+      "https://s.psbc.com/c/js/ta.js",
+      "https://www.psbc.com/cn/images/finCommon.js",
+      "https://www.psbc.com/cn/images/home.js",
+      "https://www.psbc.com/cn/images/psbc_base_pc.js",
+      "https://www.psbc.com/cn/images/psbc01_pc_v2020.js"
+    ],
+    "third": []
+  },
+  "https://www.cebbank.com": {
+    "rank": "8",
+    "private": [
+      "https://www.cebbank.com/site/uiFramework/huilan-jquery-ui/js/huilan-jquery-ui.js",
+      "https://www.cebbank.com/site/template/site.js",
+      "https://www.cebbank.com/site/uiFramework/js/counting/chanelCounting.js",
+      "https://www.cebbank.com/static/cebbank/js/dataAcquisition.js"
+    ],
+    "third": []
+  },
+  "http://www.cmbc.com.cn": {
+    "rank": "9",
+    "private": [
+      "http://www.cmbc.com.cn/skin/js/vendor/modernizr-2.8.3.min.js",
+      "http://www.cmbc.com.cn/skin/js/vendor/jquery-1.12.0.min.js",
+      "http://www.cmbc.com.cn/skin/js/vendor/bootstrap.min.js",
+      "http://www.cmbc.com.cn/skin/js/vendor/qrcode.min.js",
+      "http://www.cmbc.com.cn/skin/js/vendor/big.min.js",
+      "http://www.cmbc.com.cn/skin/js/utils/dateformat.js",
+      "http://www.cmbc.com.cn/skin/js/utils/http.js",
+      "http://www.cmbc.com.cn/skin/js/finance-utils.js",
+      "http://www.cmbc.com.cn/skin/js/common/plugins.js",
+      "http://www.cmbc.com.cn/skin/js/common/main.js"
+    ],
+    "third": []
+  },
+  "http://www.cmbchina.com": {
+    "rank": "10",
+    "private": [
+      "http://www.cmbchina.com/Scripts/jquery-1.10.2.js",
+      "http://www.cmbchina.com/Scripts/NetBank.js",
+      "http://www.cmbchina.com/Scripts/Common.js",
+      "http://www.cmbchina.com/Scripts/personalreco.js",
+      "http://www.cmbchina.com/Scripts/cmbsearch.js",
+      "http://www.cmbchina.com/jk-aging/bundleSDK.js",
+      "http://www.cmbchina.com/Scripts/mpage.js",
+      "http://www.cmbchina.com/Scripts/cmb_animate-1.0.0.js",
+      "http://www.cmbchina.com/jk-aging/lib/jquery.min.js",
+      "http://www.cmbchina.com/jk-aging/lib/jquery.cookie.js",
+      "http://www.cmbchina.com/jk-aging/bundle.js"
+    ],
+    "third": []
+  },
+  "https://www.citicbank.com": {
+    "rank": "11",
+    "private": [
+      "https://www.citicbank.com/images/jquery.js",
+      "https://www.citicbank.com/images/bootstrap.js",
+      "https://www.citicbank.com/images/touchswipe.min.js",
+      "https://www.citicbank.com/images/common.js",
+      "https://www.citicbank.com/images/enc-md5.js",
+      "https://www.citicbank.com/images/enc-sha1.js",
+      "https://www.citicbank.com/images/enc-core.js",
+      "https://www.citicbank.com/images/enc-base64.js",
+      "https://www.citicbank.com/images/enc-aes.js",
+      "https://www.citicbank.com/images/enc-rsa.js",
+      "https://www.citicbank.com/images/jweixin-1.0.0.js",
+      "https://www.citicbank.com/images/finfund.js",
+      "https://www.citicbank.com/images/echarts-all.js",
+      "https://www.citicbank.com/images/api.js",
+      "https://www.citicbank.com/images/enCodeAndDecode.js",
+      "https://www.citicbank.com/images/icheck.js",
+      "https://www.citicbank.com/images/head.js",
+      "https://www.citicbank.com/images/html5shiv.min.js",
+      "https://www.citicbank.com/images/jquery.cookie.js",
+      "https://www.citicbank.com/images/respond.min.js",
+      "https://www.citicbank.com/images/v1_2stshift.js",
+      "https://www.citicbank.com/images/alert_xtgg.js",
+      "https://www.citicbank.com/images/agent.common.min.js",
+      "https://www.citicbank.com/images/webAnalytics.js"
+    ],
+    "third": []
+  },
+  "http://bank.pingan.com": {
+    "rank": "12",
+    "private": [
+      "http://bank.pingan.com/app_js/bank/libs/jquery/jquery.min.js",
+      "http://bank.pingan.com/app_js/pingan/v30/newbank/common.js",
+      "https://script2.pingan.com/app_js/pingan/v30/newbank/pingan_bank.js",
+      "https://script2.pingan.com/app_js/pingan/v20/newbank/ucp.js",
+      "https://script2.pingan.com/app_js/pingan/v20/newbank/base64.js",
+      "https://bank-static.pingan.com.cn/bron-coss/webtrends/banksdc.js",
+      "http://bank.pingan.com/app_js/pingan/v40/newbank/index1.js",
+      "http://script2.pingan.com/app_js/pingan/v20/newbank/base64.js",
+      "http://sdc.pingan.com/dcs82b9ujitigdu3gaykxw0hn_5p6b/wtid.js",
+      "https://bfiles.pingan.com.cn/credit/stp/guest/dlds-dfp/public/downloads/frms-fingerprint.js"
+    ],
+    "third": [
+      "https://hm.baidu.com/hm.js"
+    ]
+  },
+  "https://www.cib.com.cn": {
+    "rank": "13",
+    "private": [
+      "https://www.cib.com.cn/cn/resources/js/2015/jquery.min.js",
+      "https://www.cib.com.cn/cn/resources/js/2015/jquery.slides.js",
+      "https://www.cib.com.cn/cn/resources/js/2015/util.js",
+      "https://www.cib.com.cn/cn/customer/CibBaidu.js",
+      "https://www.cib.com.cn/cn/resources/js/2015/tingyun-rum.js",
+      "https://www.cib.com.cn/cn/CibHeader.js",
+      "https://www.cib.com.cn/cn/home/slider/slide.js",
+      "https://www.cib.com.cn/cn/CibFooter.js"
+    ],
+    "third": [
+      "https://hm.baidu.com/hm.js"
+    ]
+  },
+  "https://www.hfbank.com.cn": {
+    "rank": "14",
+    "private": [
+      "https://www.hfbank.com.cn/js/jquery-1.7.2.min.js",
+      "https://www.hfbank.com.cn/js/superslide.2.1.js",
+      "https://www.hfbank.com.cn/js/common.js",
+      "https://www.hfbank.com.cn/js/grgs_index.js",
+      "https://www.hfbank.com.cn/js/jquery.cookie.js",
+      "https://www.hfbank.com.cn/ucms/Services/Stat.js"
+    ],
+    "third": []
+  },
+  "https://www.bankoftianjin.com": {
+    "rank": "15",
+    "private": [
+      "https://www.bankoftianjin.com/uiFramework/huilan-jquery-ui/js/huilan-jquery-ui.js",
+      "https://www.bankoftianjin.com/uiFramework/commonResource/aisitetheme/js/tianhangzhongwen-theme.js",
+      "https://www.bankoftianjin.com/tianhangzhongwen/template/tianhangzhongwen.js",
+      "https://www.bankoftianjin.com/tianhangzhongwen/template/page/index/fullpage.js",
+      "https://www.bankoftianjin.com/tianhangzhongwen/template/page/index/jquery.SuperSlide.js",
+      "https://www.bankoftianjin.com/tianhangzhongwen/template/page/index/swiper.min.js",
+      "https://www.bankoftianjin.com/uiFramework/commonResource/js/wow.min.js",
+      "https://www.bankoftianjin.com/uiFramework/commonResource/js/jquery.SuperSlide.js",
+      "https://www.bankoftianjin.com/uiFramework/commonResource/js/owl.carousel.js",
+      "https://www.bankoftianjin.com/uiFramework/commonResource/js/language_002.js",
+      "https://www.bankoftianjin.com/uiFramework/commonResource/js/languagephone.js",
+      "https://www.bankoftianjin.com/uiFramework/js/counting/chanelCounting.js",
+      "https://www.bankoftianjin.com/uiFramework/js/qrcode/jquery.qrcode.min.js",
+      "https://www.bankoftianjin.com/uiFramework/js/counting/articleCounting.js",
+      "https://www.bankoftianjin.com/uiFramework/js/counting/ea.js"
+    ],
+    "third": [
+      "https://hm.baidu.com/hm.js"
+    ]
+  },
+  "https://pb.hebbank.com": {
+    "rank": "16",
+    "private": [
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/util/td-pc-website-sdk.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/plugin/jquery/jquery-1.8.2.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/plugin/jquery/jquery.SuperSlide.2.1.3.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/plugin/jquery/jquery.storage.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/plugin/sea/sea-2.3.0.min.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/plugin/sea/seajs-css.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/plugin/juicer/juicer-1.0.min.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/plugin/Object.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/widget/Logger.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/YT.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/ns/NS_ACCT_TYPE.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/core/Ajax.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/ns/MsgZH.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/extend/ns/NS_EXT_LIBS.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/extend/ns/NS_EXT_TYPE.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/util/AcctUtil.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/util/Format.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/util/ie3css.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/util/DateUtil.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/util/SMSUtil.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/util/AjaxUtil.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/util/PickerUtil.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/util/Tips.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/util/LoginUtil.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/util/Collection.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/widget/Layer.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/widget/Message.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/widget/Window.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/widget/MsgBox.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/widget/Input.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/widget/Page.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/widget/Form.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/widget/Checkbox.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/widget/Radiobox.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/widget/SelectBox.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/widget/Tab.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/widget/Panel.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/widget/QueryUtil.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/widget/Upload.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/widget/TimeLine.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/plugin/jquery/jquery.placeholder.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/plugin/password/shpwd.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/plugin/password/sharecom.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/plugin/qrcode/qrcode.js",
+      "https://pb.hebbank.com/ares-web-base/page/login/login.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/plugin/netSign/InfosecNetSignCNGAgent.min.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/plugin/netSign/certificate.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/security/util/rsa.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/util/ForbidEnter.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/plugin/SecEditCtl/nmSecEditCliPromiseAdv.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/plugin/ukey/feitian_websocket.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/plugin/ukey/feitian.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/plugin/ukey/ExcelSecuCtrl.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/plugin/ukey/ExcelSecuCtrl_WebSockets.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/plugin/ukey/ukey.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/plugin/sensorsdataWeb/sensorsdata.min.js",
+      "https://pb.hebbank.com/ares-web-base/page/login/01/main.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/security/encrypt-sm.js",
+      "https://pb.hebbank.com/ares-web-base/page/login/01/js/main.js",
+      "https://pb.hebbank.com/ares-web-base/page/login/01/js/nav_top.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/security/sm/pnc-crypto-min.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/widget/superSlider.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/ytfw/util/MenuUtil.js",
+      "https://pb.hebbank.com/ares-web-base/assets/js/plugin/swiper/jquery.SuperSlide.2.1.3.js"
+    ],
+    "third": [
+      "https://pv.sohu.com/cityjson.js",
+      "https://pv.sohu.com/cityjson.js"
+    ]
+  },
+  "http://www.bd-bank.com.cn": {
+    "rank": "17",
+    "private": [
+      "http://www.bd-bank.com.cn/bdbank/uiFramework/huilan-jquery-ui/js/huilan-jquery-ui.js",
+      "http://www.bd-bank.com.cn/bdbank/template/bdbank.js",
+      "http://www.bd-bank.com.cn/bdbank/uiFramework/js/counting/chanelCounting.js",
+      "http://www.bd-bank.com.cn/bdbank/uiFramework/commonResource/js/jquery.SuperSlide.2.1.1.js"
+    ],
+    "third": []
+  },
+  "https://www.bankcz.com": {
+    "rank": "18",
+    "private": [
+      "https://www.bankcz.com/uiFramework/huilan-jquery-ui/js/huilan-jquery-ui.js",
+      "https://www.bankcz.com/bankcz/template/bankcz.js",
+      "https://www.bankcz.com/uiFramework/commonResource/js/swiper4.min.js",
+      "https://www.bankcz.com/uiFramework/commonResource/js/jquery.SuperSlide.2.1.1.js",
+      "https://www.bankcz.com/uiFramework/commonResource/js/count.js",
+      "https://www.bankcz.com/uiFramework/commonResource/js/wow.min.js",
+      "https://www.bankcz.com/uiFramework/commonResource/js/jquery.SuperSlide.js",
+      "https://www.bankcz.com/uiFramework/commonResource/js/owl.carousel.js",
+      "https://www.bankcz.com/uiFramework/commonResource/js/index.js",
+      "https://www.bankcz.com/uiFramework/commonResource/js/language_002.js",
+      "https://www.bankcz.com/uiFramework/js/counting/chanelCounting.js",
+      "https://www.bankcz.com/uiFramework/js/qrcode/jquery.qrcode.min.js",
+      "https://www.bankcz.com/uiFramework/js/counting/articleCounting.js",
+      "https://www.bankcz.com/uiFramework/js/counting/ea.js"
+    ],
+    "third": [
+      "https://hm.baidu.com/hm.js"
+    ]
+  },
+  "http://www.chengdebank.com": {
+    "rank": "19",
+    "private": [
+      "http://www.chengdebank.com/chengdebank/uiFramework/huilan-jquery-ui/js/huilan-jquery-ui.js",
+      "http://www.chengdebank.com/chengdebank/template/chengdebank.js",
+      "http://www.chengdebank.com/chengdebank/uiFramework/js/counting/chanelCounting.js"
+    ],
+    "third": []
+  },
+  "https://www.hdcb.cn": {
+    "rank": "20",
+    "private": [
+      "https://www.hdcb.cn/hdyh/source/js/jquery-1.8.2.min.js",
+      "https://www.hdcb.cn/hdyh/source/js/jquery-ui-1.8.6.core.widget.js",
+      "https://www.hdcb.cn/hdyh/source/js/jqueryui.bannerize.js",
+      "https://www.hdcb.cn/hdyh/source/js/index.min.js",
+      "https://www.hdcb.cn/hdyh/source/js/index.js",
+      "https://www.hdcb.cn/hdyh/source/js/jcs_none.min.js",
+      "https://www.hdcb.cn/hdyh/source/js/rotate.js"
+    ],
+    "third": []
+  },
+  "http://www.xtbank.com": {
+    "rank": "21",
+    "private": [
+      "http://www.xtbank.com/xtbank/uiFramework/huilan-jquery-ui/js/huilan-jquery-ui.js",
+      "http://www.xtbank.com/xtbank/template/xtbank.js",
+      "http://www.xtbank.com/xtbank/uiFramework/js/counting/chanelCounting.js"
+    ],
+    "third": []
+  },
+  "https://www.wuhaicb.com": {
+    "rank": "22",
+    "private": [],
+    "third": []
+  },
+  "https://www.shengjingbank.com.cn": {
+    "rank": "23",
+    "private": [
+      "https://www.shengjingbank.com.cn/uiFramework/huilan-jquery-ui/js/huilan-jquery-ui.js",
+      "https://www.shengjingbank.com.cn/sjyh/template/sjyh.js",
+      "https://www.shengjingbank.com.cn/uiFramework/commonResource/js/jquery.slimscroll.min.js",
+      "https://www.shengjingbank.com.cn/uiFramework/commonResource/js/swiper.min.js",
+      "https://www.shengjingbank.com.cn/uiFramework/commonResource/js/wow.js",
+      "https://www.shengjingbank.com.cn/uiFramework/commonResource/js/languagefan.js",
+      "https://www.shengjingbank.com.cn/uiFramework/commonResource/js/big52gb.js",
+      "https://www.shengjingbank.com.cn/uiFramework/commonResource/js/fullpage2.js",
+      "https://www.shengjingbank.com.cn/uiFramework/commonResource/js/jquery.waypoints.min.js",
+      "https://www.shengjingbank.com.cn/uiFramework/commonResource/js/jquery.countup.min.js",
+      "https://www.shengjingbank.com.cn/uiFramework/js/counting/chanelCounting.js",
+      "https://www.shengjingbank.com.cn/uiFramework/js/qrcode/jquery.qrcode.min.js",
+      "https://www.shengjingbank.com.cn/uiFramework/js/counting/articleCounting.js",
+      "https://www.shengjingbank.com.cn/uiFramework/js/counting/ea.js",
+      "https://www.shengjingbank.com.cn/uiFramework/js/counting/hot.js"
+    ],
+    "third": []
+  },
+  "https://www.liaoshen-bank.com": {
+    "rank": "24",
+    "private": [
+      "https://www.liaoshen-bank.com/js/jquery.min.js",
+      "https://www.liaoshen-bank.com/js/index_slick.js",
+      "https://www.liaoshen-bank.com/js/jquery.fullPage.min.js",
+      "https://www.liaoshen-bank.com/js/index.js"
+    ],
+    "third": []
+  },
+  "http://www.bankofdl.com": {
+    "rank": "25",
+    "private": [],
+    "third": []
+  },
+  "https://www.jinzhoubank.com": {
+    "rank": "26",
+    "private": [],
+    "third": []
+  },
+  "http://www.bankofas.com": {
+    "rank": "27",
+    "private": [],
+    "third": []
+  },
+  "https://dandongbank.com": {
+    "rank": "28",
+    "private": [
+      "https://dandongbank.com/data/tosend/resource/template/ddyhTemplate/script/jquery.min.js",
+      "https://dandongbank.com/data/tosend/resource/template/ddyhTemplate/script/slider.js",
+      "https://dandongbank.com/data/tosend/resource/template/ddyhTemplate/script/jquery-ht.js"
+    ],
+    "third": []
+  },
+  "http://www.bankofhld.com": {
+    "rank": "29",
+    "private": [
+      "http://www.bankofhld.com/bankofhld/uiFramework/huilan-jquery-ui/js/huilan-jquery-ui.js",
+      "http://www.bankofhld.com/bankofhld/template/bankofhld.js",
+      "http://www.bankofhld.com/bankofhld/uiFramework/js/counting/chanelCounting.js",
+      "http://www.bankofhld.com/bankofhld/uiFramework/commonResource/js/jquery.SuperSlide.2.1.1.js",
+      "http://www.bankofhld.com/bankofhld/uiFramework/commonResource/js/idangerous.swiper.min.js"
+    ],
+    "third": []
+  },
+  "https://www.hccb.com.cn": {
+    "rank": "31",
+    "private": [],
+    "third": []
+  },
+  "https://www.bankofchina.com": {
+    "rank": "69",
+    "private": [
+      "https://pic.bankofchina.com/bocappd/images/boc2013_jquery-min.js",
+      "https://csv2.bankofchina.com/dist/aria.js",
+      "https://www.bankofchina.com/images/boc2013_bxCarousel.js",
+      "https://www.bankofchina.com/images/boc2013_share.js"
+    ],
+    "third": []
+  },
+  "http://quote.eastmoney.com": {
+    "rank": "66",
+    "private": [
+      "http://quote.eastmoney.com/newstatic/libs/oldie.js",
+      "http://quote.eastmoney.com/newstatic/libs/libs1.min.js",
+      "http://quote.eastmoney.com/newstatic/libs/libs2.min.js",
+      "http://emres.eastmoney.com/public/js/topnav.js",
+      "http://quote.eastmoney.com/newstatic/libs/quotekchart/1.0.6.js",
+      "http://quote.eastmoney.com/newstatic/libs/jquery.vticker.b.js",
+      "http://quote.eastmoney.com/newstatic/js/libs/quotemoneyflowchart0715.js",
+      "http://quote.eastmoney.com/newstatic/build/a.js",
+      "http://emres.eastmoney.com/public/js/left.js",
+      "https://bdstatics.eastmoney.com/web/prd/jump_tracker.js",
+      "https://bdstatics.eastmoney.com/web/prd/jump_staytime.js",
+      "https://bdstatics.eastmoney.com/web/prd/bigdata_tracker_20230217.js"
+    ],
+    "third": [
+      "http://emcharts.dftzj.com/suggest/stocksuggest2017.min.js",
+      "http://emcharts.dftzj.com/ec/3.18.1/emcharts.min.js",
+      "http://emcharts.dftzj.com/pr3/prod/personalrecommend3.min.js",
+      "http://emcharts.dftzj.com/newsts/newsts.min.js",
+      "http://emcharts.dftzj.com/emsider/prod/emsider.min.js",
+      "http://emcharts.dftzj.com/usercollect/usercollect.min.js",
+      "http://emres.dfcfw.com/60/empblist.js",
+      "https://emcharts.dftzj.com/quotedelaytip/quotedelaytip.js"
+    ]
+  },
+  "https://www.bankgy.cn": {
+    "rank": "67",
+    "private": [
+      "https://www.bankgy.cn/portal/zh_CN/home/js/jquery-1.10.1.min.js",
+      "https://www.bankgy.cn/portal/zh_CN/home/js/bootstrap/respond.js",
+      "https://www.bankgy.cn/portal/zh_CN/home/js/bootstrap/bootstrap.min.js",
+      "https://www.bankgy.cn/portal/zh_CN/home/js/swiper/idangerous.swiper.min.js",
+      "https://www.bankgy.cn/portal/zh_CN/home/js/public.js"
+    ],
+    "third": []
+  },
+  "https://www.klb.cn": {
+    "rank": "70",
+    "private": [
+      "https://www.klb.cn/kunlbank/uiFramework/huilan-jquery-ui/js/huilan-jquery-ui.js",
+      "https://www.klb.cn/kunlbank/template/kunlbank.js",
+      "https://www.klb.cn/kunlbank/uiFramework/js/counting/chanelCounting.js",
+      "https://www.klb.cn/kunlbank/resource/cms/2015/05/jquery.SuperSlide.2.1.1.js",
+      "https://www.klb.cn/kunlbank/resource/cms/2015/05/kxbdSuperMarquee.js",
+      "https://www.klb.cn/eportalapply/js/My97DatePicker/WdatePicker.js",
+      "https://www.klb.cn/eportalapply/js/resume/tool.js"
+    ],
+    "third": []
+  },
+  "http://www.bohuihe.com": {
+    "rank": "71",
+    "private": [
+      "http://www.bohuihe.com/themes/theme_default/public/assets/js/jquery.js",
+      "http://www.bohuihe.com/themes/theme_default/public/assets/js/ie6orie7.js",
+      "http://www.bohuihe.com/themes/theme_default/public/assets/js/slick.js",
+      "http://www.bohuihe.com/themes/theme_default/public/assets/js/placeholder.min.js",
+      "http://www.bohuihe.com/themes/theme_default/public/assets/js/js.js",
+      "http://www.bohuihe.com/themes/theme_default/public/assets/layer/layer.js",
+      "http://www.bohuihe.com/themes/theme_default/public/assets/share/js/social-share.min.js"
+    ],
+    "third": []
+  },
+  "http://www.szsccb.com": {
+    "rank": "72",
+    "private": [
+      "http://www.szsccb.com/templets/szsccb_style/js/jquery.min.js",
+      "http://www.szsccb.com/templets/szsccb_style/js/xianlumenu.js"
+    ],
+    "third": [
+      "https://cdn.bootcss.com/html5media/1.1.8/html5media.min.js"
+    ]
+  },
+  "http://www.bankqh.com": {
+    "rank": "73",
+    "private": [
+      "http://www.bankqh.com/e3XrHgdhHn1i/NZaj5Ordei9u.eab6228.js",
+      "http://www.bankqh.com/misc/js/jquery-1.7.2.min.js",
+      "http://www.bankqh.com/misc/js/common.js",
+      "http://www.bankqh.com/misc/js/main.js",
+      "http://www.bankqh.com/misc/js/swfobject.js",
+      "http://www.bankqh.com/scripts/ext/adapter/ext/ext-base.js",
+      "http://www.bankqh.com/scripts/ext/pkgs/ext-foundation.js",
+      "http://www.bankqh.com/scripts/ext/pkgs/cmp-foundation.js",
+      "http://www.bankqh.com/scripts/ext/pkgs/resizable.js",
+      "http://www.bankqh.com/scripts/ext/pkgs/ext-dd.js",
+      "http://www.bankqh.com/scripts/ext/pkgs/window.js",
+      "http://www.bankqh.com/scripts/imageTransfer.js"
+    ],
+    "third": []
+  },
+  "https://www.xzbc.com.cn": {
+    "rank": "74",
+    "private": [
+      "https://www.xzbc.com.cn/images/jquery-1.11.1.min.js"
+    ],
+    "third": []
+  },
+  "https://www.webank.com": {
+    "rank": "75",
+    "private": [
+      "https://tctp.webankcdn.net/owb-res/owb-res/assets/index.e5785003.js",
+      "https://tctp.webankcdn.net/owb-res/owb-res/assets/vue.14406f60.js",
+      "https://tctp.webankcdn.net/owb-res/owb-res/assets/vue-i18n.a94f6ea4.js",
+      "https://tctp.webankcdn.net/owb-res/owb-res/assets/@webank.f5889ed6.js",
+      "https://tctp.webankcdn.net/owb-res/owb-res/assets/vue-lazyload.27c7a472.js",
+      "https://tctp.webankcdn.net/owb-res/owb-res/assets/hammerjs.cffc0eaf.js",
+      "https://tctp.webankcdn.net/owb-res/owb-res/assets/vue-touch.041cc376.js",
+      "https://tctp.webankcdn.net/owb-res/owb-res/assets/lodash.1d75d87e.js",
+      "https://tctp.webankcdn.net/owb-res/owb-res/assets/axios.e3200588.js",
+      "https://tctp.webankcdn.net/owb-res/owb-res/assets/ms.3c7effd9.js",
+      "https://tctp.webankcdn.net/owb-res/owb-res/assets/debug.4f73f581.js",
+      "https://tctp.webankcdn.net/owb-res/owb-res/assets/jsonp.e7ae973a.js",
+      "https://tctp.webankcdn.net/owb-res/owb-res/assets/vue-router.e9e8dcec.js",
+      "https://tctp.webankcdn.net/owb-res/owb-res/assets/swiper.e7f73037.js",
+      "https://tctp.webankcdn.net/owb-res/owb-res/assets/vue-awesome-swiper.79e76812.js",
+      "https://tctp.webankcdn.net/owb-res/owb-res/assets/simply-ellipsis.036496a9.js",
+      "https://tctp.webankcdn.net/owb-res/owb-res/assets/compute-scroll-into-view.17358474.js",
+      "https://tctp.webankcdn.net/owb-res/owb-res/assets/scroll-into-view-if-needed.61c672a4.js",
+      "https://tctp.webankcdn.net/owb-res/owb-res/assets/smooth-scroll-into-view-if-needed.440f4121.js",
+      "https://tctp.webankcdn.net/owb-res/owb-res/assets/vuex.f63b3d6e.js"
+    ],
+    "third": []
+  },
+  "https://www.shrbank.com": {
+    "rank": "76",
+    "private": [
+      "https://www.shrbank.com/images/jquery.min.js",
+      "https://www.shrbank.com/images/jquery.SuperSlide.source.js",
+      "https://www.shrbank.com/images/public.js",
+      "https://www.shrbank.com/images/TRS.frame-v1.0.10-min.js",
+      "https://www.shrbank.com/images/search_hr.js"
+    ],
+    "third": [
+      "http://bdimg.share.baidu.com/static/api/js/share.js"
+    ]
+  },
+  "https://www.csxbank.com": {
+    "rank": "77",
+    "private": [
+      "https://www.csxbank.com/plugins/template/yizhu/pc/js/jquery-3.5.1.min.js",
+      "https://www.csxbank.com/plugins/template/yizhu/pc/js/jquery.validator.js",
+      "https://www.csxbank.com/plugins/template/yizhu/pc/js/zh-CN.js",
+      "https://www.csxbank.com/plugins/template/yizhu/pc/js/aos.js",
+      "https://www.csxbank.com/plugins/template/yizhu/pc/js/jquery.SuperSlide.2.1.1.js",
+      "https://www.csxbank.com/plugins/template/yizhu/pc/js/common.js",
+      "https://www.csxbank.com/plugins/template/yizhu/pc/js/shuzi.js"
+    ],
+    "third": []
+  },
+  "https://www.onebank.com.cn": {
+    "rank": "78",
+    "private": [
+      "https://www.onebank.com.cn/static/js/jquery.min.js",
+      "https://www.onebank.com.cn/static/js/vuex.min.js",
+      "https://www.onebank.com.cn/static/js/vue-router.min.js",
+      "https://www.onebank.com.cn/static/js/axios.min.js",
+      "https://www.onebank.com.cn/static/js/manifest.c30111cb32124371f79a.js",
+      "https://www.onebank.com.cn/static/js/vendor.c9660224884d98b57244.js",
+      "https://www.onebank.com.cn/static/js/app.380b81abcfd3df230d46.js",
+      "https://www.onebank.com.cn/static/js/swiper.min.js",
+      "https://www.onebank.com.cn/static/js/1.844d322454b68de9342f.js"
+    ],
+    "third": []
+  },
+  "https://www.z-bank.com": {
+    "rank": "79",
+    "private": [
+      "https://www.z-bank.com/r/cms/zb/zb/js/jquery.js",
+      "https://www.z-bank.com/r/cms/zb/zb/js/public.js",
+      "https://www.z-bank.com/r/cms/zb/zb/js/swiper.animate1.0.3.min.js",
+      "https://www.z-bank.com/r/cms/zb/zb/js/wow.min.js",
+      "https://www.z-bank.com/r/cms/zb/zb/js/lizi.js",
+      "https://www.z-bank.com/r/cms/zb/zb/js/jquery.liMarquee.js",
+      "https://www.z-bank.com/r/cms/zb/zb/js/swiper-bundle.js"
+    ],
+    "third": [
+      "https://sdk.51.la/js-sdk-pro.min.js"
+    ]
+  },
+  "https://www.yillionbank.com": {
+    "rank": "80",
+    "private": [
+      "https://www.yillionbank.com/js/jquery-3.2.1.min.js",
+      "https://www.yillionbank.com/js/common_pc.js",
+      "https://www.yillionbank.com/js/main.js",
+      "https://www.yillionbank.com/js/asyncRender/render_production_main.js",
+      "https://www.yillionbank.com/js/index.js"
+    ],
+    "third": []
+  },
+  "https://www.wegobank.cn": {
+    "rank": "81",
+    "private": [
+      "https://www.wegobank.cn/data/tosend/resource/template/template/script/respond.min.js",
+      "https://www.wegobank.cn/data/tosend/resource/template/template/script/jquery-1.8.3.min.js",
+      "https://www.wegobank.cn/data/tosend/resource/template/template/script/common-a0997dc4e5.js",
+      "https://www.wegobank.cn/data/tosend/resource/template/template/script/jstxdm.js"
+    ],
+    "third": [
+      "https://hm.baidu.com/hm.js"
+    ]
+  },
+  "https://www.zgcbank.com": {
+    "rank": "82",
+    "private": [
+      "https://www.zgcbank.com/js/nmSecEditCliPromise.js",
+      "https://www.zgcbank.com/1.1.37/index.js",
+      "https://www.zgcbank.com/1.1.37/50.019e00fd79526d26b76f.js"
+    ],
+    "third": []
+  },
+  "http://www.xa-bank.com": {
+    "rank": "83",
+    "private": [
+      "http://www.xa-bank.com/export/resources/js/jquery-1.12.4.min.js",
+      "http://www.xa-bank.com/export/resources/js/swiper.min.js",
+      "http://www.xa-bank.com/export/resources/js/common.js"
+    ],
+    "third": []
+  },
+  "http://www.suningbank.com": {
+    "rank": "84",
+    "private": [],
+    "third": []
+  },
+  "http://www.newupbank.com": {
+    "rank": "85",
+    "private": [
+      "http://www.newupbank.com/static/pc/v2/jquery/jquery.min.js",
+      "http://www.newupbank.com/static/pc/v2/js/Ceiling.js",
+      "http://www.newupbank.com/static/pc/v2/js/Swiper.js",
+      "http://www.newupbank.com/static/pc/v2/js/energySwitching.js",
+      "http://www.newupbank.com/static/pc/v2/js/ecology.js",
+      "http://www.newupbank.com/static/pc/v2/js/uikit.min.js",
+      "http://www.newupbank.com/static/pc/v2/js/player-swiper.js"
+    ],
+    "third": []
+  },
+  "https://www.ymbank.com": {
+    "rank": "86",
+    "private": [
+      "https://www.ymbank.com/template/1/default/_files/scripts/jquery-3.6.0.min.js",
+      "https://www.ymbank.com/template/1/default/_files/scripts/jquery.flexslider-2.2.2.min.js",
+      "https://www.ymbank.com/template/1/default/_files/scripts/owl.carousel.js",
+      "https://www.ymbank.com/template/1/default/_files/scripts/jquery.SuperSlide.2.1.2.js",
+      "https://www.ymbank.com/template/1/default/_files/scripts/common.js",
+      "https://www.ymbank.com/template/1/default/_files/scripts/wow.min.js",
+      "https://www.ymbank.com/template/1/default/_files/scripts/jquery.magnific-popup.min.js"
+    ],
+    "third": []
+  },
+  "https://www.hkbea.com": {
+    "rank": "87",
+    "private": [
+      "https://www.hkbea.com/js/jquery.js",
+      "https://www.hkbea.com/js/jquery.cycle.all.js",
+      "https://www.hkbea.com/js/jquery.easing.1.3.js",
+      "https://www.hkbea.com/js/read-font-size.js",
+      "https://www.hkbea.com/js/jquery.masonry.js",
+      "https://www.hkbea.com/js/fancybox/jquery.fancybox.js",
+      "https://www.hkbea.com/js/video.js",
+      "https://www.hkbea.com/js/home-post-it.js",
+      "https://www.hkbea.com/js/init.js",
+      "https://www.hkbea.com/js/width-control.js",
+      "https://www.hkbea.com/js/sitemap/sitemap_common.js",
+      "https://www.hkbea.com/js/jquery.smartbanner.js",
+      "https://www.hkbea.com/js/notification.js",
+      "https://www.hkbea.com/js/footer_cookie.js",
+      "https://www.hkbea.com/js/CookieControl.js"
+    ],
+    "third": [
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://s.yimg.com/wi/ytc.js",
+      "https://connect.facebook.net/signals/plugins/inferredevents.js"
+    ]
+  },
+  "https://www.ncbchina.cn": {
+    "rank": "88",
+    "private": [
+      "https://www.ncbchina.cn/website/ncb-zh/js/jquery.min.js",
+      "https://www.ncbchina.cn/website/ncb-zh/js/flickerplate.min.js",
+      "https://www.ncbchina.cn/website/ncb-zh/js/ncb.js",
+      "https://www.ncbchina.cn/website/ncb-zh/js/modernizr-custom-v2.7.1.min.js",
+      "https://www.ncbchina.cn/website/ncb-zh/util/bootstrap/js/bootstrap.min.js",
+      "https://www.ncbchina.cn/website/ncb-zh/js/init.js",
+      "https://www.ncbchina.cn/website/ncb-zh/util/jquery/jquery.SuperSlide.2.1.1.js",
+      "https://www.ncbchina.cn/website/ncb-zh/js/configure.js"
+    ],
+    "third": []
+  },
+  "https://www.dahsing.com.cn": {
+    "rank": "89",
+    "private": [
+      "https://www.dahsing.com.cn/portal/zh_CN/Script/jquery-3.5.1.min.js",
+      "https://www.dahsing.com.cn/portal/zh_CN/Script/MSClass.js",
+      "https://www.dahsing.com.cn/portal/zh_CN/Script/jquery.SuperSlide.2.1.3.js",
+      "https://www.dahsing.com.cn/portal/zh_CN/Script/p.pshow.js",
+      "https://www.dahsing.com.cn/portal/zh_CN/Script/My97DatePicker/WdatePicker.js",
+      "https://www.dahsing.com.cn/portal/zh_CN/Script/swfobject_modified.js",
+      "https://www.dahsing.com.cn/portal/zh_CN/Script/jquery.cookie-1.4.1.js"
+    ],
+    "third": []
+  },
+  "https://www.cmbcn.com.cn": {
+    "rank": "90",
+    "private": [
+      "https://www.cmbcn.com.cn/Portal_Resources/js/util/polyfill.js",
+      "https://www.cmbcn.com.cn/resource/js/icbc_public.js",
+      "https://www.cmbcn.com.cn/resource/lib/jquery/jquery-3.6.0.min.js",
+      "https://www.cmbcn.com.cn/Portal_Resources/Common/config.js",
+      "https://www.cmbcn.com.cn/resource/js/icbchit.js",
+      "https://www.cmbcn.com.cn/resource/lib/jquery/jquery-migrate.min.js",
+      "https://www.cmbcn.com.cn/resource/lib/dayjs/dayjs.min.js",
+      "https://www.cmbcn.com.cn/resource/js/icbccommon.js",
+      "https://www.cmbcn.com.cn/Portal_Resources/Common/AdRes/jquery.easing.1.3.js",
+      "https://www.cmbcn.com.cn/Portal_Resources/Common/AdRes/jquery.timers-1.1.2.js",
+      "https://www.cmbcn.com.cn/Portal_Resources/Common/AdRes/jquery_cycle2_min.js",
+      "https://www.cmbcn.com.cn/ICBC_ADJS/ICBCActiveMaintainList.js",
+      "https://www.cmbcn.com.cn/Portal_Resources/Common/ICBCADByZoneUtil.js",
+      "https://www.cmbcn.com.cn/Portal_Resources/js/util/utils.js",
+      "https://www.cmbcn.com.cn/icbc_adjs/678765501358047232.js",
+      "https://www.cmbcn.com.cn/resource/lib/sugoio/sugoio-latest.min.js",
+      "https://www.cmbcn.com.cn/resource/lib/owl/owl.carousel.min.js"
+    ],
+    "third": [
+      "https://szcert.ebs.org.cn/govicon.js"
+    ]
+  },
+  "https://www.hanabank.cn": {
+    "rank": "91",
+    "private": [],
+    "third": []
+  },
+  "https://corporbank-simp.icbc.com.cn": {
+    "rank": "92",
+    "private": [],
+    "third": []
+  },
+  "http://www.uobchina.com.cn": {
+    "rank": "93",
+    "private": [
+      "https://www.uobchina.com.cn/mobile0c9a66/iwov-resources/js/analytics.js",
+      "https://www.uobchina.com.cn/mobile0c9a66/iwov-resources/js/initiator.js",
+      "https://www.uobchina.com.cn/mobile0c9a66/iwov-resources/js/libs/jquery.min.js",
+      "https://www.uobchina.com.cn/mobile0c9a66/iwov-resources/js/libs/bootstrap.min.js",
+      "https://www.uobchina.com.cn/mobile0c9a66/iwov-resources/js/libs/modernizr.min.js",
+      "https://www.uobchina.com.cn/mobile0c9a66/iwov-resources/js/libs/plugins.min.js",
+      "https://www.uobchina.com.cn/mobile0c9a66/iwov-resources/js/main.js",
+      "https://www.uobchina.com.cn/mobile0c9a66/iwov-resources/js/segment-selector/geoip2.js",
+      "https://www.uobchina.com.cn/mobile0c9a66/iwov-resources/js/segment-selector/segment-selector-main.js",
+      "https://www.uobchina.com.cn/iwov-resources/js/webfont.js"
+    ],
+    "third": [
+      "https://assets.adobedtm.com/11fb0e112fbf/e816f323fe0c/launch-28442fcf494f.min.js",
+      "https://assets.adobedtm.com/extensions/EP171e731c9ba34f1c950c36d26e3efd61/AppMeasurement.min.js",
+      "https://assets.adobedtm.com/extensions/EP171e731c9ba34f1c950c36d26e3efd61/AppMeasurement_Module_ActivityMap.min.js",
+      "https://www.everestjs.net/static/le/last-event-tag-latest.min.js"
+    ]
+  },
+  "https://www.dbs.com.cn": {
+    "rank": "94",
+    "private": [
+      "https://www.dbs.com.cn/iwov-resources/flp/splitter/js/vendor/jquery-3.3.1.js",
+      "https://www.dbs.com.cn/iwov-resources/flp/splitter/js/vendor/bootstrap.min.js",
+      "https://www.dbs.com.cn/iwov-resources/js/flp/omniture.js",
+      "https://www.dbs.com.cn/iwov-resources/js/flp/cnhome_gtm.js",
+      "https://www.dbs.com.cn/_next/static/chunks/167df3e2.53a1d369e48815e7542c.js",
+      "https://www.dbs.com.cn/_next/static/chunks/29107295.62449f6ab50432c0efef.js",
+      "https://www.dbs.com.cn/_next/static/chunks/commons.4d5b59324bd4d3bde831.js",
+      "https://www.dbs.com.cn/_next/static/chunks/333.b9a18b91c448724f10f3.js",
+      "https://www.dbs.com.cn/_next/static/chunks/966.1b83d23a87192f32257b.js",
+      "https://www.dbs.com.cn/_next/static/chunks/559.2306cde0cae8c6ebe43b.js",
+      "https://www.dbs.com.cn/_next/static/chunks/198.3b41725ff5772a3db451.js",
+      "https://www.dbs.com.cn/_next/static/chunks/249.7273c9a45e01c694a009.js",
+      "https://www.dbs.com.cn/_next/static/chunks/2.767b5667fdb5b00bfbab.js",
+      "https://www.dbs.com.cn/_next/static/chunks/712.068337d45d751fa0844a.js",
+      "https://www.dbs.com.cn/_next/static/chunks/webpack-da269c09e9b46276c15a.js",
+      "https://www.dbs.com.cn/_next/static/chunks/framework-6fda668e5995f9288104.js",
+      "https://www.dbs.com.cn/_next/static/chunks/main-efc23a685abfb580fb02.js",
+      "https://www.dbs.com.cn/_next/static/chunks/pages/splitterContent-19fb7e9c9afaa32e627b.js",
+      "https://www.dbs.com.cn/_next/static/chunks/pages/_app-2f0329728c11b30ed40c.js",
+      "https://www.dbs.com.cn/_next/static/1676468633106/_buildManifest.js",
+      "https://www.dbs.com.cn/_next/static/1676468633106/_ssgManifest.js",
+      "https://www.dbs.com.cn/_next/public/js/DigitalData.js"
+    ],
+    "third": [
+      "https://assets.adobedtm.com/launch-EN585f326c93404b7a8ba3b971c89732ad.min.js",
+      "https://assets.adobedtm.com/extensions/EP6989456eab6f4f618b15e82840ffd69b/AppMeasurement.min.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.google-analytics.com/analytics.js"
+    ]
+  },
+  "https://www.smbc.co.jp": {
+    "rank": "96",
+    "private": [
+      "https://www.smbc.co.jp/kojin/cmn/scripts/jquery-3.4.1.min.js",
+      "https://www.smbc.co.jp/kojin/cmn/scripts/default.min.js",
+      "https://www.smbc.co.jp/kojin/cmn/scripts/slick.min.js",
+      "https://www.smbc.co.jp/kojin/scripts/top.slick.min.js",
+      "https://www.smbc.co.jp/kojin/cmn/scripts/slick_option.min.js",
+      "https://www.smbc.co.jp/kojin/scripts/top01.min.js",
+      "https://www.smbc.co.jp/kojin/cmn/scripts/lang_modal.js"
+    ],
+    "third": [
+      "https://cdn-blocks.karte.io/3ac99eef6ac8644998c5707130563a96/builder.js",
+      "https://p11.techlab-cdn.com/e/65319_1825202523.js",
+      "https://p11.techlab-cdn.com/e/65257_1825232159.js",
+      "https://p11.techlab-cdn.com/e/64885_1825232283.js",
+      "https://p11.techlab-cdn.com/e/65226_1825232221.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://pro.syncsearch.jp/common/js/sync_suggest.js",
+      "https://s.yjtag.jp/tag.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://s.yimg.jp/images/listing/tool/cv/ytag.js",
+      "https://s.yjtag.jp/lib/0249be1b04f872cefe6c4e2bc62c64ab55b62182.js",
+      "https://s.yjtag.jp/lib/3b78e9790d9f4c3c7ae95747ad23bca10632649e.js",
+      "https://s.yjtag.jp/lib/6a415acd39a4833a5943c234e708de9cccf46e5d.js"
+    ]
+  },
+  "http://www.metrobank.com.cn": {
+    "rank": "97",
+    "private": [
+      "http://www.metrobank.com.cn/website_cn/js/jquery-3.3.1.min.js",
+      "http://www.metrobank.com.cn/website_cn/js/popper.min.js",
+      "http://www.metrobank.com.cn/website_cn/js/bootstrap.min.js",
+      "http://www.metrobank.com.cn/website_cn/vendors/revolution/js/jquery.themepunch.tools.min.js",
+      "http://www.metrobank.com.cn/website_cn/vendors/revolution/js/extensions/revolution.extension.actions.min.js",
+      "http://www.metrobank.com.cn/website_cn/vendors/revolution/js/jquery.themepunch.revolution.min.js",
+      "http://www.metrobank.com.cn/website_cn/vendors/revolution/js/extensions/revolution.extension.slideanims.min.js",
+      "http://www.metrobank.com.cn/website_cn/vendors/revolution/js/extensions/revolution.extension.layeranimation.min.js",
+      "http://www.metrobank.com.cn/website_cn/vendors/revolution/js/extensions/revolution.extension.navigation.min.js",
+      "http://www.metrobank.com.cn/website_cn/vendors/revolution/js/extensions/revolution.extension.kenburn.min.js",
+      "http://www.metrobank.com.cn/website_cn/vendors/revolution/js/extensions/revolution.extension.video.min.js",
+      "http://www.metrobank.com.cn/website_cn/vendors/counterup/jquery.waypoints.min.js",
+      "http://www.metrobank.com.cn/website_cn/vendors/counterup/jquery.counterup.min.js",
+      "http://www.metrobank.com.cn/website_cn/vendors/owl-carousel/owl.carousel.min.js",
+      "http://www.metrobank.com.cn/website_cn/js/theme.js",
+      "http://www.metrobank.com.cn/website_cn/vendors/bootstrap-selector/jquery.nice-select.min.js"
+    ],
+    "third": []
+  },
+  "https://www.bangkokbank.com.cn": {
+    "rank": "98",
+    "private": [],
+    "third": []
+  },
+  "https://www.zxbk.com.cn": {
+    "rank": "99",
+    "private": [
+      "https://www.zxbk.com.cn/images/jquery.min.js",
+      "https://www.zxbk.com.cn/images/global.js",
+      "https://www.zxbk.com.cn/images/layer.js",
+      "https://www.zxbk.com.cn/images/swiper.min.js",
+      "https://www.zxbk.com.cn/images/index.js"
+    ],
+    "third": []
+  },
+  "http://www.sinopac.com.cn": {
+    "rank": "100",
+    "private": [
+      "http://www.sinopac.com.cn/sinopacBC/resources/js/jquery.mmenu.min.all.js",
+      "http://www.sinopac.com.cn/sinopacBC/resources/js/mmenu_op.js",
+      "http://www.sinopac.com.cn/sinopacBC/resources/js/swiper.min.js"
+    ],
+    "third": [
+      "https://hm.baidu.com/hm.js"
+    ]
+  }
+}

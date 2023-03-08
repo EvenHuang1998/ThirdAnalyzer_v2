@@ -1,0 +1,724 @@
+{
+  "aizhan.com": {
+    "rank": "901",
+    "private": [
+      "https://statics.aizhan.com/js/jquery-1.9.1.min.js",
+      "https://statics.aizhan.com/js/jquery.cookie.js",
+      "https://statics.aizhan.com/js/script.js",
+      "https://statics.aizhan.com/jsa/zone.js"
+    ],
+    "third": []
+  },
+  "zbj.com": {
+    "rank": "902",
+    "private": [
+      "https://utopiacs.zbj.com/module-version.js",
+      "https://login.zbj.com/v5style/t5s/output/common/js/count.js",
+      "https://utopiacs.zbj.com/module-version.js"
+    ],
+    "third": [
+      "https://as.zbjimg.com/static/nodejs-zbj-employerfast-web/96cf491.js",
+      "https://as.zbjimg.com/static/nodejs-zbj-employerfast-web/90e71ed.js",
+      "https://as.zbjimg.com/static/nodejs-zbj-employerfast-web/fe0caa6.js",
+      "https://as.zbjimg.com/static/nodejs-zbj-employerfast-web/f557b37.js",
+      "https://as.zbjimg.com/static/nodejs-zbj-employerfast-web/e6c2e9e.js",
+      "https://as.zbjimg.com/rake-component/fe-common/utopia-core/0.2.24/index.js",
+      "https://as.zbjimg.com/rake-component/fe-common/fe-data-refer-res/0.1.0/index.js",
+      "https://as.zbjimg.com/rake-component/fe-common/fe-data-refer-res/0.1.3/index.js",
+      "https://as.zbjimg.com/static/nodejs-zbj-employerfast-web/6057cb5.js",
+      "https://as.zbjimg.com/static/nodejs-zbj-employerfast-web/46235ff.js",
+      "https://as.zbjimg.com/static/nodejs-zbj-employerfast-web/8645050.js",
+      "https://as.zbjimg.com/static/nodejs-zbj-employerfast-web/08eff7a.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://as.zbjimg.com/rake-component/fe-common/fe-data-refer-res/0.1.4/index.js",
+      "https://hm.baidu.com/hm.js",
+      "https://ssl.google-analytics.com/ga.js",
+      "https://as.zbjimg.com/rake-component/ads-tomoko/utopia-zzgg-bees-res/1.0.55/index.js",
+      "https://as.zbjimg.com/rake-component/fast-zbj/fe-zbj-zzggxw-res/1.0.4/index.js",
+      "https://as.zbjimg.com/rake-component/zbj-fe/fe-zbj-fastimkey-res/0.0.9/index.js",
+      "https://as.zbjimg.com/static/nodejs-zbj-utopiacs-web/widget/vue/footer-v1.client_ef71161.js",
+      "https://as.zbjimg.com/static/nodejs-zbj-utopiacs-web/widget/supei-right-toolbar-v1/supei-right-toolbar-v1_fe548fb.js",
+      "https://as.zbjimg.com/rake-component/ads-tomoko/utopia-zzgg-lodash-res/0.0.1/index.js",
+      "https://as.zbjimg.com/rake-component/fe-modules/fe-zbj-seajsvue-res/3.0.3/index.js",
+      "https://as.zbjimg.com/rake-component/fast-zbj/fe-zbj-fastwebim-res/0.1.19/index.js",
+      "https://as.zbjimg.com/rake-component/fe-platform/fe-zbj-exposure-res/0.1.1/index.js",
+      "https://as.zbjimg.com/rake-component/fast-zbj/fe-zbj-fastwebim-res/0.1.19/124.index.js",
+      "https://as.zbjimg.com/rake-component/fe-common/utopia-quicklogin/0.2.19/index.js",
+      "https://as.zbjimg.com/rake-component/dept-platform-common/utopia-fe-captcha-res/0.0.10/index.js",
+      "https://as.zbjimg.com/rake-component/zbj-employer/fe-zbj-intention-res/0.0.1/index.js"
+    ]
+  },
+  "alibaba.com": {
+    "rank": "903",
+    "private": [
+      "https://s.alicdn.com/@p/polyfill.min.js",
+      "https://s.alicdn.com/@g/sc/image-upload-react/0.0.2/202212-image-hack.bundle.js",
+      "https://g.alicdn.com/assets-group/banner-above-header/1.0.13/pages/index/index.js",
+      "https://s.alicdn.com/@g/sc/pc-home-2022-base/0.0.1/js/index.js",
+      "https://s.alicdn.com/@g/sc/pc-home-2022/0.0.37/js/products.js",
+      "https://s.alicdn.com/@g/sc/global/0.0.1/sc-global/atom.js",
+      "https://s.alicdn.com/@g/icbu-search-assets/cdn-fy23-searchbar-alibaba-home-page/1.0.4/pages/index.js",
+      "https://s.alicdn.com/@g/icbu-fe-arch/wtf/0.0.3/index.js",
+      "https://aeis.alicdn.com/AWSC/AWSC/awsc.js",
+      "https://aeis.alicdn.com/AWSC/WebUMID/1.93.0/um.js",
+      "https://s.alicdn.com/@g/sc/global/0.0.1/sc-global/base/package.js",
+      "https://s.alicdn.com/@g/msite/gdpr-cookie-notice/0.0.10/index.js",
+      "https://s.alicdn.com/@g/flasher/sw/2.13.23/client/index.js",
+      "https://s.alicdn.com/@g/sc/header-footer/0.1.6/sc-header-footer/header/entrances/global-header-new/header.js",
+      "https://assets.alicdn.com/g/big-brother/sentry/2.x/index.js",
+      "https://s.alicdn.com/@g/sc-assets/bz-evaluate/0.0.67/pages/survey/index.web.js",
+      "https://assets.alicdn.com/g/sd/baxia-entry/index.js",
+      "https://assets.alicdn.com/g/secdev/entry/index.js",
+      "https://assets.alicdn.com/g/sd/baxia/2.2.3/baxiaCommon.js",
+      "https://assets.alicdn.com/g/secdev/sufei_data/3.9.11/index.js",
+      "https://assets.alicdn.com/g/AWSC/et/1.62.7/et_f.js"
+    ],
+    "third": [
+      "https://gj.mmstat.com/eg.js"
+    ]
+  },
+  "haiwainet.cn": {
+    "rank": "904",
+    "private": [],
+    "third": []
+  },
+  "leancloud.cn": {
+    "rank": "905",
+    "private": [
+      "https://www.leancloud.cn/main.cbfa7374.js",
+      "https://www.leancloud.cn/vendor.7623eea1.js"
+    ],
+    "third": [
+      "https://www.google-analytics.com/analytics.js"
+    ]
+  },
+  "gf.com.cn": {
+    "rank": "906",
+    "private": [],
+    "third": [
+      "http://cdn.gfzq.cn/gfw/scripts/vendor-fe3da6b2.js",
+      "http://cdn.gfzq.cn/gfw/static/prod/buildstatic/video/player/cyberplayer.min.js",
+      "http://cdn.gfzq.cn/gfw/scripts/scripts-1483ca4d.js",
+      "http://hm.baidu.com/hm.js"
+    ]
+  },
+  "95516.com": {
+    "rank": "907",
+    "private": [],
+    "third": []
+  },
+  "inditex.com": {
+    "rank": "908",
+    "private": [
+      "https://www.inditex.com/itxcomweb/_next/static/chunks/framework-a87821de553db91d.js",
+      "https://www.inditex.com/itxcomweb/_next/static/chunks/main-318c77f25481adc1.js",
+      "https://www.inditex.com/itxcomweb/_next/static/chunks/webpack-cbe84873bfac00f7.js",
+      "https://www.inditex.com/itxcomweb/_next/static/chunks/pages/_app-c66c8245cdeecbe4.js",
+      "https://www.inditex.com/itxcomweb/_next/static/chunks/776-fd099827bbe004b7.js",
+      "https://www.inditex.com/itxcomweb/_next/static/chunks/pages/%5B...slug%5D-166819f16237c284.js",
+      "https://www.inditex.com/itxcomweb/_next/static/X1GU2Df7k7S5_4ZZA5a2x/_ssgManifest.js",
+      "https://www.inditex.com/itxcomweb/_next/static/X1GU2Df7k7S5_4ZZA5a2x/_buildManifest.js",
+      "https://www.inditex.com/itxcomweb/_next/static/X1GU2Df7k7S5_4ZZA5a2x/_middlewareManifest.js"
+    ],
+    "third": [
+      "https://cdn.cookielaw.org/consent/57c3858e-14c4-405c-ae30-59e324f71e00-test/OtAutoBlock.js",
+      "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+      "https://cdn.cookielaw.org/scripttemplates/6.8.0/otBannerSdk.js"
+    ]
+  },
+  "qqtn.com": {
+    "rank": "909",
+    "private": [
+      "https://www.qqtn.com/inc/mredirect.js",
+      "https://www.qqtn.com/skin/new2018/js/jquery.SuperSlide.js",
+      "https://www.qqtn.com/skin/new2018/js/jqbs.main.js",
+      "https://www.qqtn.com/skin/know/count.js",
+      "https://www.qqtn.com/skin/new2018/js/index2018.js"
+    ],
+    "third": [
+      "https://hm.baidu.com/hm.js"
+    ]
+  },
+  "windowsphone.com": {
+    "rank": "910",
+    "private": [
+      "https://support.microsoft.com/lib/ucs/dist/ucsCreativeService.js",
+      "https://wcpstatic.microsoft.com/mscc/lib/v2/wcp-consent.js",
+      "https://support.microsoft.com/js/RememberedAccounts.Main.min.js",
+      "https://support.microsoft.com/js/TelemetryLogging.js",
+      "https://support.microsoft.com/js/feedback.js",
+      "https://support.microsoft.com/js/Support.Main.min.js",
+      "https://support.microsoft.com/js/SearchBox.Main.min.js",
+      "https://support.microsoft.com/js/PromotionBanner.Main.min.js",
+      "https://support.microsoft.com/js/MeControlCallout.Main.min.js"
+    ],
+    "third": [
+      "https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.5.1.min.js",
+      "https://js.monitor.azure.com/scripts/c/ms.analytics-web-3.2.7.min.js",
+      "https://js.monitor.azure.com/scripts/c/ms.shared.analytics.mectrl-3.2.6.gbl.min.js",
+      "https://mem.gfx.ms/scripts/me/MeControl/10.23038.5/en-US/meBoot.min.js"
+    ]
+  },
+  "911cha.com": {
+    "rank": "911",
+    "private": [
+      "https://ii.911cha.com/gg.js",
+      "https://ii.911cha.com/png.js",
+      "https://ii.911cha.com/stat.js"
+    ],
+    "third": [
+      "https://hm.baidu.com/hm.js",
+      "https://zz.bdstatic.com/linksubmit/push.js"
+    ]
+  },
+  "duba.com": {
+    "rank": "912",
+    "private": [
+      "https://www.duba.com/static/v4/home/js/jquery.min.2.2.4.js",
+      "https://www.duba.com/static/v4/home/js/chunk-vendors.7d79461c.js",
+      "https://www.duba.com/static/v4/home/js/main.5f28dbb5.js",
+      "https://www.duba.com/static/v4/home/js/chunk-2d0e1a11.623abfd4.js",
+      "https://www.duba.com/static/v4/home/js/ie9-oninput-polyfill.min.js",
+      "https://www.duba.com/static/v4/home/js/jquery.min.2.2.4.js",
+      "https://cdndownload.liehu.ijinshan.com/liehu/static/pcad-sdk/bin/orion-pcad-sdk-0.0.3.min.js",
+      "https://www.duba.com/static/v2/js/when.js"
+    ],
+    "third": [
+      "https://hm.baidu.com/hm.js",
+      "https://act.cmcmcdn.com/cmnews-sdk/0.4.3/cmnews-sdk.umd.js"
+    ]
+  },
+  "21cn.com": {
+    "rank": "913",
+    "private": [],
+    "third": []
+  },
+  "tuliu.com": {
+    "rank": "914",
+    "private": [
+      "https://statics.tuliu.com/web/js/custom/main.js",
+      "https://statics.tuliu.com/web/js/vendor/vendor.min.js",
+      "https://statics.tuliu.com/web/js/custom/select_area.js",
+      "https://statics.tuliu.com/web/js/custom/lands_type.js",
+      "https://statics.tuliu.com/web/js/vendor/wow.js",
+      "https://statics.tuliu.com/web/js/business/index_new.js",
+      "https://statics.tuliu.com/stats/js/tb_prod_v1.js"
+    ],
+    "third": [
+      "https://hm.baidu.com/hm.js"
+    ]
+  },
+  "babybus.com": {
+    "rank": "915",
+    "private": [
+      "https://www.babybus.com/js/disableConsole.js",
+      "https://www.babybus.com/js/greySwitch.js",
+      "https://www.babybus.com/js/qrcode.min.js",
+      "https://www.babybus.com/js/device.js",
+      "https://www.babybus.com/js/babybus_analysis.js",
+      "https://www.babybus.com/js/bbAnalysis.js",
+      "https://www.babybus.com/js/googleRecord.js",
+      "https://www.babybus.com/js/googleGtag.js",
+      "https://www.babybus.com/js/hmt.js",
+      "https://www.babybus.com/_nuxt/9137232.js",
+      "https://www.babybus.com/_nuxt/e04239a.js",
+      "https://www.babybus.com/_nuxt/3c5de7e.js",
+      "https://www.babybus.com/_nuxt/4be30e9.js",
+      "https://www.babybus.com/_nuxt/6717de6.js",
+      "https://www.babybus.com/_nuxt/4b96113.js"
+    ],
+    "third": [
+      "https://hm.baidu.com/hm.js"
+    ]
+  },
+  "inmobi.com": {
+    "rank": "916",
+    "private": [
+      "https://www.inmobi.com/_next/static/chunks/main-63ce7757058881834042.js",
+      "https://www.inmobi.com/_next/static/chunks/webpack-91350f75428315c9a7ce.js",
+      "https://www.inmobi.com/_next/static/chunks/framework.c1af385086505ff32f23.js",
+      "https://www.inmobi.com/_next/static/chunks/styles.8f65d34bc1d4e3db3e74.js",
+      "https://www.inmobi.com/_next/static/chunks/d40a5df21b4a750dbca651a8513aa93c2b51146a.f3af744df794fbb1ee6b.js",
+      "https://www.inmobi.com/_next/static/chunks/pages/_app-3b162a05fb6116167af5.js",
+      "https://www.inmobi.com/_next/static/chunks/81c1aaa76818fab1c2c99d5129f382be08173096.9a9b3707eab3c429e9db.js",
+      "https://www.inmobi.com/_next/static/chunks/23ef87c06ff9f6e8ce84a2bd2f0e7296a4b9da2d.84f099175425259a817a.js",
+      "https://www.inmobi.com/_next/static/chunks/pages/index-74d096917c452a0f0ddf.js",
+      "https://www.inmobi.com/_next/static/0.2.0/_ssgManifest.js",
+      "https://www.inmobi.com/_next/static/0.2.0/_buildManifest.js"
+    ],
+    "third": [
+      "https://web.inmobicdn.net/website/website/6.0.1/dist-v6/prodbuild-v7.min.js",
+      "https://web.inmobicdn.net/website/website/6.0.1/ui/minify/cookie-banner.min.js",
+      "https://web.inmobicdn.net/website/website/6.0.1/js/isInViewport.min.js",
+      "https://web.inmobicdn.net/website/website/6.0.1/libs/slide.min.js",
+      "https://web.inmobicdn.net/website/website/6.0.1/v6/js/iphone-inline-video.min.js",
+      "https://web.inmobicdn.net/website/website/6.0.1/minify/home.26may.min.js",
+      "https://web.inmobicdn.net/website/website/6.0.1/ui/minify/home_video_200622.min.js",
+      "https://web.inmobicdn.net/website/website/6.0.1/js/jquery.scrollTo.min.js",
+      "https://web.inmobicdn.net/website/website/6.0.1/minify/main-menu_29jul.min.js",
+      "https://web.inmobicdn.net/website/website/6.0.2/minify/page.min.js",
+      "https://web.inmobicdn.net/website/website/6.0.1/dist/dist-lazy.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://az416426.vo.msecnd.net/scripts/b/ai.2.min.js",
+      "https://js.hsforms.net/forms/v2.js",
+      "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://bat.bing.com/bat.js",
+      "https://js.hs-scripts.com/2714195.js",
+      "https://s.adroll.com/j/BFXZZVIWPZER3NIYOLIHZ3/roundtrip.js",
+      "https://www.google-analytics.com/plugins/ua/linkid.js",
+      "https://bat.bing.com/p/action/355011254.js",
+      "https://s.adroll.com/j/exp/BFXZZVIWPZER3NIYOLIHZ3/index.js",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://s.adroll.com/j/sendrolling.js"
+    ]
+  },
+  "wpengine.com": {
+    "rank": "917",
+    "private": [
+      "https://wpengine.com/wp-includes/js/wp-emoji-release.min.js",
+      "https://wpengine.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js",
+      "https://wpengine.com/wp-includes/js/dist/vendor/wp-polyfill.min.js",
+      "https://wpengine.com/wp-includes/js/dist/vendor/react.min.js",
+      "https://wpengine.com/wp-includes/js/dist/vendor/react-dom.min.js",
+      "https://wpengine.com/wp-content/plugins/wpengine-atlas-plans-block/build/client.js",
+      "https://wpengine.com/wp-content/plugins/wpengine-plans-block/build/client.js",
+      "https://wpengine.com/wp-content/mu-plugins/wpengine-library/js/jquery-core.js",
+      "https://wpengine.com/wp-includes/js/jquery/jquery-migrate.min.js",
+      "https://wpengine.com/wp-content/mu-plugins/wpengine-library/js/optinmonsterGlobalVar.js",
+      "https://wpengine.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+      "https://wpengine.com/wp-content/plugins/wpengine-privacy-consent/js/main.js",
+      "https://wpengine.com/wp-content/mu-plugins/wpengine-library/js/main.js",
+      "https://wpengine.com/wp-includes/js/dist/hooks.min.js",
+      "https://wpengine.com/wp-content/mu-plugins/wpengine-dotcom//js/main.js",
+      "https://wpengine.com/wp-content/mu-plugins/wpengine-dotcom-bb-mods//js/main.js",
+      "https://wpengine.com/wp-content/plugins/wpengine-analytics/js/ga.js",
+      "https://wpengine.com/wp-content/mu-plugins/wpengine-forms/build/main.js",
+      "https://wpengine.com/wp-content/plugins/wpengine-analytics/js/main.js",
+      "https://wpengine.com/wp-includes/js/wp-util.min.js",
+      "https://wpengine.com/wp-includes/js/underscore.min.js",
+      "https://wpengine.com/wp-content/plugins/wpengine-chat/build/index.js",
+      "https://wpengine.com/wp-content/plugins/wpengine-tag-manager/build/index.js",
+      "https://wpengine.com/wp-content/themes/wpengine-breakthrough/build/js/main.js",
+      "https://wpengine.com/wp-content/plugins/wpengine-blocks/build/frontend.js",
+      "https://wpengine.com/wp-content/plugins/wpengine-personalization-engine/js/main.js"
+    ],
+    "third": [
+      "https://www.googleoptimize.com/optimize.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.1/js/swiper.min.js",
+      "https://cdn.segment.com/analytics.js/v1/uNr7LygKixxSLg2s0h7NXGgPC5nNW4Dd/analytics.min.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://www.googleoptimize.com/optimize.js",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://bat.bing.com/bat.js",
+      "https://cdn.mouseflow.com/projects/1666c133-25b1-494b-bdeb-59ee57f7a371.js",
+      "https://js.hs-analytics.net/analytics/1678197900000/298401.js",
+      "https://scripts.demandbase.com/02de8088.min.js",
+      "https://a.omappapi.com/app/js/api.min.js",
+      "https://www.google-analytics.com/plugins/ua/linkid.js",
+      "https://connect.facebook.net/signals/plugins/identity.js",
+      "https://bat.bing.com/p/action/5795297.js",
+      "https://a.omappapi.com/app/js/5.112e6dc7.min.js",
+      "https://a.omappapi.com/app/js/webfont/1.5.18/webfont.js",
+      "https://a.omappapi.com/app/js/moment.js/2.29.4/moment.min.js",
+      "https://a.omappapi.com/app/js/4.3fabeac5.min.js",
+      "https://a.omappapi.com/app/js/moment-timezone/0.5.34/moment-timezone-with-data-2012-2022.min.js",
+      "https://a.omappapi.com/app/js/13.56678130.min.js",
+      "https://a.omappapi.com/app/js/20.e40ad1db.min.js",
+      "https://a.omappapi.com/app/js/28.37593e59.min.js",
+      "https://a.omappapi.com/app/js/34.01aeaad3.min.js",
+      "https://a.omappapi.com/app/js/10.70f770b5.min.js",
+      "https://a.omappapi.com/app/js/0.ea2edf77.min.js",
+      "https://a.omappapi.com/app/js/9.4e528b17.min.js",
+      "https://a.omappapi.com/app/js/11.eec3051a.min.js",
+      "https://a.omappapi.com/app/js/29.3ede5745.min.js",
+      "https://a.omappapi.com/app/js/27.36eab21e.min.js",
+      "https://a.omappapi.com/app/js/16.ee4b7ea4.min.js",
+      "https://a.omappapi.com/app/js/1.f5bdb602.min.js",
+      "https://a.omappapi.com/app/js/22.3cb73615.min.js",
+      "https://a.omappapi.com/app/js/21.30441cf4.min.js",
+      "https://cdn.segment.com/analytics-next/bundles/ajs-destination.bundle.2cd9e450202b69d545a3.js",
+      "https://cdn.segment.com/analytics-next/bundles/schemaFilter.bundle.d0fc84c62e956d168cce.js",
+      "https://cdn.mouseflow.com/projects/7d4190f3-bc53-4695-8f2d-3a7a567f2a93.js",
+      "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+      "https://cdn.linkedin.oribi.io/2926194/oribili.js",
+      "https://js.adsrvr.org/up_loader.1.1.0.js"
+    ]
+  },
+  "buzzfeed.com": {
+    "rank": "918",
+    "private": [
+      "https://www.buzzfeed.com/static-assets/bf-homepage-ui/_next/static/chunks/webpack-f72f9763ac073b40.js",
+      "https://www.buzzfeed.com/static-assets/bf-homepage-ui/_next/static/chunks/framework-348f86d225132ea3.js",
+      "https://www.buzzfeed.com/static-assets/bf-homepage-ui/_next/static/chunks/main-3fce17fc07d7d96d.js",
+      "https://www.buzzfeed.com/static-assets/bf-homepage-ui/_next/static/chunks/pages/_app-58909b09444dee69.js",
+      "https://www.buzzfeed.com/static-assets/bf-homepage-ui/_next/static/chunks/2edb282b-2f30d192c65ed0af.js",
+      "https://www.buzzfeed.com/static-assets/bf-homepage-ui/_next/static/chunks/699-89e531855075d3fa.js",
+      "https://www.buzzfeed.com/static-assets/bf-homepage-ui/_next/static/chunks/163-80e16c685cac9bbc.js",
+      "https://www.buzzfeed.com/static-assets/bf-homepage-ui/_next/static/chunks/30-2c59d9174bd96981.js",
+      "https://www.buzzfeed.com/static-assets/bf-homepage-ui/_next/static/O-TaJ6mRgVxCWBHnaZpZQ/_buildManifest.js",
+      "https://www.buzzfeed.com/static-assets/bf-homepage-ui/_next/static/chunks/pages/index-8bb352b050175ceb.js",
+      "https://www.buzzfeed.com/static-assets/bf-homepage-ui/_next/static/chunks/611-2da4188b2fd3fbf8.js",
+      "https://www.buzzfeed.com/static-assets/bf-homepage-ui/_next/static/O-TaJ6mRgVxCWBHnaZpZQ/_ssgManifest.js",
+      "https://www.buzzfeed.com/static-assets/bf-homepage-ui/_next/static/O-TaJ6mRgVxCWBHnaZpZQ/_middlewareManifest.js",
+      "https://www.buzzfeed.com/static-assets/bf-header-ui/bfo/app.52d80fd90054bd47b7fe.js",
+      "https://www.buzzfeed.com/static/js/ad-detection/ads.js"
+    ],
+    "third": [
+      "https://static.chartbeat.com/js/chartbeat_mab.js",
+      "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "https://polyfill.io/v3/polyfill.min.js",
+      "https://cdn.permutive.com/6ef7b2c1-fe43-45ad-8551-5377c13e2f71-web.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://static.chartbeat.com/js/chartbeat.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://asset.fwpub1.com/js/embed-feed.js",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://www.google-analytics.com/plugins/ua/linkid.js",
+      "https://cmp.quantcast.com/choice/3aud4J6uA4Z6Y/www.buzzfeed.com/choice.js",
+      "https://a.teads.tv/analytics/tag.js",
+      "https://pub.doubleverify.com/signals/pub.js",
+      "https://c.amazon-adsystem.com/aax2/apstag.js",
+      "https://micro.rubiconproject.com/prebid/dynamic/13062.js",
+      "https://tagan.adlightning.com/buzzfeed/op.js",
+      "https://run.adrizer.com/track.min.js",
+      "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2023030201.js",
+      "https://quantcast.mgr.consensu.org/tcfv2/46/cmp2.js",
+      "https://c.amazon-adsystem.com/bao-csm/aps-comm/aps_csm.js",
+      "https://tagan.adlightning.com/buzzfeed/b-f140f48-062e7711.js",
+      "https://tagan.adlightning.com/buzzfeed/bl-e5e97ea-89ec2b08.js",
+      "https://ats.rlcdn.com/ats.js",
+      "https://secure.cdn.fastclick.net/js/pubcid/latest/pubcid.min.js",
+      "https://tags.crwdcntrl.net/lt/c/16576/sync.min.js",
+      "https://cdn.id5-sync.com/api/1.0/id5-api.js",
+      "https://adservice.google.com/adsid/integrator.js",
+      "https://connect.facebook.net/signals/plugins/identity.js"
+    ]
+  },
+  "camera360.com": {
+    "rank": "920",
+    "private": [
+      "https://camera360.com/swiper-bundle.min.js",
+      "https://camera360.com/page.js",
+      "https://camera360.com/locomotive-scroll.js",
+      "https://camera360.com/jquery.min.js",
+      "https://camera360.com/jquery.nicescroll.min.js",
+      "https://camera360.com/_nuxt/0a226d3.js",
+      "https://camera360.com/_nuxt/0cd032d.js",
+      "https://camera360.com/_nuxt/da924ee.js",
+      "https://camera360.com/_nuxt/e23d5a6.js",
+      "https://camera360.com/_nuxt/2649c45.js",
+      "https://camera360.com/_nuxt/39979ce.js",
+      "https://camera360.com/_nuxt/static/1670377063/en/state.js",
+      "https://camera360.com/_nuxt/static/1670377063/en/payload.js"
+    ],
+    "third": []
+  },
+  "ztgame.com.cn": {
+    "rank": "921",
+    "private": [],
+    "third": []
+  },
+  "39.net": {
+    "rank": "922",
+    "private": [
+      "https://static.39.net/lib/jquery/core/jquery-1.8.3.min.js",
+      "https://static.39.net/pub/logs/ma.min.js",
+      "https://static.39.net/pub/xyz/style.js",
+      "https://static.39.net/lib/others/swiper/swiper-4.4.2.min.js",
+      "https://static.39.net/lib/jquery/plugins/jquery.lazyload.1.9.3.js",
+      "https://static.39.net/pub/passport/v2/navinfo_static.js",
+      "https://static.39.net/pub/www/v2019/pc/index/js/39index2019_common.js",
+      "https://image.39.net/tools/djan.js",
+      "https://image.39.net/creative/r.js",
+      "http://image.39.net/tools/3.js"
+    ],
+    "third": [
+      "https://hm.baidu.com/hm.js",
+      "http://hm.baidu.com/hm.js",
+      "https://hmcdn.baidu.com/static/tongji/plugins/UrlChangeTracker.js",
+      "http://cpro.baidustatic.com/cpro/ui/cm.js",
+      "http://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js"
+    ]
+  },
+  "2144.cn": {
+    "rank": "923",
+    "private": [
+      "https://static.2144.cn/web/theme/site2016/topbar/js/topbar20200410.js",
+      "https://static.2144.cn/www/ptlogin20150901/js/webilr20190722.js"
+    ],
+    "third": [
+      "https://static.2144gy.com/www/n7/js/detect.js",
+      "https://static.2144gy.com/www/n9/js/index.js",
+      "https://hm.baidu.com/hm.js",
+      "https://ssl.captcha.qq.com/TCaptcha.js",
+      "https://captcha.gtimg.com/1/tcaptcha-frame.2231af9b.js"
+    ]
+  },
+  "gjzq.com.cn": {
+    "rank": "924",
+    "private": [],
+    "third": []
+  },
+  "locojoy.com": {
+    "rank": "925",
+    "private": [],
+    "third": []
+  },
+  "naver.jp": {
+    "rank": "926",
+    "private": [],
+    "third": []
+  },
+  "koolearn.com": {
+    "rank": "927",
+    "private": [
+      "https://k12-pc.koocdn.com/js/videojs/videojs.min.js",
+      "https://k12-pc.koocdn.com/js/is-mobile/is-mobile.js",
+      "https://static.koocdn.com/project/xdf-analysis-log/1.x/js/page.bundle.js",
+      "https://k12-pc.koocdn.com/js/promise/promise.js",
+      "https://k12-pc.koocdn.com/js/chunk-common.65bdaff5.js",
+      "https://k12-pc.koocdn.com/js/chunk-vendors.69928eee.js",
+      "https://k12-pc.koocdn.com/js/index.1d977e9d.js"
+    ],
+    "third": [
+      "https://assets.giocdn.com/2.1/gio.js",
+      "https://hm.baidu.com/hm.js"
+    ]
+  },
+  "hxnews.com": {
+    "rank": "928",
+    "private": [
+      "http://img.hxnews.com/w/js/client_side.js",
+      "http://img.hxnews.com/w/templates/nhaidu/js/jquery.min_2016.js",
+      "http://img.hxnews.com/w/templates/nhaidu/js/mystyle_2016.js",
+      "http://img.hxnews.com/w/templates/nhaidu/js/slider_2016.js",
+      "http://img.hxnews.com/w/templates/nhaidu/js/core/common.js",
+      "http://img.hxnews.com/w/js/config.js",
+      "http://img.hxnews.com/w/templates/nhaidu/js/jquery.cookie.js"
+    ],
+    "third": [
+      "https://hm.baidu.com/hm.js",
+      "http://push.zhanzhang.baidu.com/push.js",
+      "https://lf1-cdn-tos.bytegoofy.com/goofy/ttzz/push.js",
+      "https://hmcdn.baidu.com/static/tongji/plugins/UrlChangeTracker.js"
+    ]
+  },
+  "pornhubpremium.com": {
+    "rank": "929",
+    "private": [],
+    "third": [
+      "https://ss.phncdn.com/html5shiv-3.6.2.js",
+      "https://ei.phncdn.com/www-static/js/lib/vue/vue.min.js",
+      "https://ei.phncdn.com/www-static/js/lib/vue/vue-custom-element.min.js",
+      "https://ei.phncdn.com/www-static/js/lib/ph-functions.js",
+      "https://ei.phncdn.com/www-static/js/lib/jquery-3.6.0.min.js",
+      "https://media.trafficjunky.net/delivery/js/abp/js1.js",
+      "https://ei.phncdn.com/www-static/js/mg_modal-1.0.0.js",
+      "https://ei.phncdn.com/www-static/js/lib/utils/mg_utils-1.0.0.js",
+      "https://ei.phncdn.com/www-static/js/lib/mg_scroll-1.0.0.js",
+      "https://ei.phncdn.com/www-static/js/lib/generated/front-index_premium_fallback-pc.js",
+      "https://www.google-analytics.com/analytics.js"
+    ]
+  },
+  "cscec.com": {
+    "rank": "930",
+    "private": [],
+    "third": []
+  },
+  "500px.org": {
+    "rank": "931",
+    "private": [],
+    "third": [
+      "https://www.google-analytics.com/analytics.js",
+      "https://s.pinimg.com/ct/core.js",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://static.hotjar.com/c/hotjar-3105627.js",
+      "https://500px.com/staticV2/js/18.566fed90.chunk.js",
+      "https://500px.com/staticV2/js/main.9f0e65ab.chunk.js",
+      "https://s.pinimg.com/ct/lib/main.8b1025ba.js",
+      "https://cdn4.buysellads.net/pub/500px.js",
+      "https://500px.com/staticV2/js/0.a7acb3a3.chunk.js",
+      "https://500px.com/staticV2/js/4.39d09a2d.chunk.js",
+      "https://500px.com/staticV2/js/73.23e7299e.chunk.js",
+      "https://500px.com/staticV2/js/45.619cf000.chunk.js",
+      "https://www.googletagservices.com/tag/js/gpt.js",
+      "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2023030201.js",
+      "https://c.amazon-adsystem.com/aax2/apstag.js",
+      "https://c.amazon-adsystem.com/bao-csm/aps-comm/aps_csm.js",
+      "https://secure.cdn.fastclick.net/js/pubcid/latest/pubcid.min.js",
+      "https://cdn.id5-sync.com/api/1.0/id5-api.js"
+    ]
+  },
+  "dwstatic.com": {
+    "rank": "932",
+    "private": [],
+    "third": []
+  },
+  "cutv.com": {
+    "rank": "933",
+    "private": [],
+    "third": []
+  },
+  "gcdn.co": {
+    "rank": "934",
+    "private": [],
+    "third": []
+  },
+  "mtime.cn": {
+    "rank": "935",
+    "private": [],
+    "third": []
+  },
+  "17173cdn.com": {
+    "rank": "936",
+    "private": [],
+    "third": []
+  },
+  "billionconnect.com": {
+    "rank": "937",
+    "private": [
+      "http://billionconnect.com/en/lib/jquery.min.js"
+    ],
+    "third": []
+  },
+  "pai-hang-bang.com": {
+    "rank": "938",
+    "private": [
+      "https://www.pai-hang-bang.com/imgs/js/tj.js"
+    ],
+    "third": [
+      "https://hm.baidu.com/hm.js"
+    ]
+  },
+  "zoossoft.net": {
+    "rank": "939",
+    "private": [
+      "http://zoossoft.net/static/js/jquery.min.1.7.1.js",
+      "http://zoossoft.net/static/js/main.js"
+    ],
+    "third": [
+      "https://hm.baidu.com/hm.js"
+    ]
+  },
+  "520730.com": {
+    "rank": "940",
+    "private": [],
+    "third": []
+  },
+  "caixin.com": {
+    "rank": "941",
+    "private": [
+      "https://file.caixin.com/webjs/jquery-2.1.3.min.js",
+      "https://file.caixin.com/webjs/wap/flexible.js",
+      "https://file.caixin.com/en/plugins/js/index.js",
+      "https://file.caixin.com/en/web/js/caixin-cookie.js",
+      "https://file.caixin.com/en/js/slider.js",
+      "https://file.caixin.com/en/web/js/sendDownloadAddress.js",
+      "https://file.caixin.com/en/js/home.js",
+      "https://file.caixin.com/en/js/fixedScroll.js",
+      "https://files.caixin.com/webjs/common/caixinlog.js",
+      "https://file.caixin.com/en/web/js/caixin-common.js",
+      "https://file.caixin.com/en/web/js/jquery.cookie.js",
+      "https://file.caixin.com/en/plugins/js/d3.min.js"
+    ],
+    "third": [
+      "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://assets.growingio.com/2.1/gio.js",
+      "https://cdn.taboola.com/libtrc/unip/1104137/tfa.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202302210101/show_ads_impl.js",
+      "https://partner.googleadservices.com/gampad/cookie.js",
+      "https://adservice.google.com.hk/adsid/integrator.js",
+      "https://adservice.google.com/adsid/integrator.js"
+    ]
+  },
+  "25pp.com": {
+    "rank": "942",
+    "private": [],
+    "third": []
+  },
+  "gnvip.net": {
+    "rank": "943",
+    "private": [],
+    "third": []
+  },
+  "battleofballs.com": {
+    "rank": "944",
+    "private": [],
+    "third": [
+      "https://gaanalytics.ztgame.com/qqanalytics.js"
+    ]
+  },
+  "118100.cn": {
+    "rank": "945",
+    "private": [],
+    "third": []
+  },
+  "nuskin.com": {
+    "rank": "946",
+    "private": [
+      "https://www.nuskin.com/apps/hello/layouts/global_redirect_whitepage/clientlib.js"
+    ],
+    "third": [
+      "https://unpkg.com/axios@1.0.0/dist/axios.min.js",
+      "https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"
+    ]
+  },
+  "pokemon.com": {
+    "rank": "947",
+    "private": [
+      "https://assets.pokemon.com/static2/_ui/js/vendor/modernizr.custom.js",
+      "https://assets.pokemon.com/static2/_ui/js/vendor/require.js",
+      "https://assets.pokemon.com/static2/_ui/js/home.js",
+      "https://assets.pokemon.com/static2/_ui/js/main.js",
+      "https://assets.pokemon.com/static2/_ui/js/vendor/flipclock.js"
+    ],
+    "third": [
+      "https://www.googletagmanager.com/gtm.js",
+      "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+      "https://cdn.cookielaw.org/scripttemplates/6.33.0/otBannerSdk.js"
+    ]
+  },
+  "9duw.com": {
+    "rank": "948",
+    "private": [],
+    "third": []
+  },
+  "dmzj.com": {
+    "rank": "949",
+    "private": [
+      "https://static.dmzj.com/public/js/jquery-1.8.2.min.js",
+      "https://static.dmzj.com/public/js/jquery.cookie.js",
+      "https://static.dmzj.com/public/js/check_mobile.js",
+      "https://www.dmzj.com/js/ad/ad_14.js",
+      "https://www.dmzj.com/js/ad/ad_15.js",
+      "https://www.dmzj.com/js/ad/ad_10.js",
+      "https://www.dmzj.com/js/ad/ad_11.js",
+      "https://www.dmzj.com/js/ad/ad_22.js",
+      "https://static.dmzj.com/public/js/loadscript.js",
+      "https://static.dmzj.com/public/js/common-dmzj.js",
+      "https://static.dmzj.com/public/js/TSB.js",
+      "https://static.dmzj.com/public/js/globalNav.js",
+      "https://static.dmzj.com/module/js/float_code.js",
+      "https://static.dmzj.com/ocomic/js/dmzjMh.js",
+      "https://static.dmzj.com/public/js/app_banner.js",
+      "https://static.dmzj.com/public/js/slid.js",
+      "https://static.dmzj.com/public/js/dmzj-land-2015.6.dmzj1.js",
+      "https://static.dmzj.com/public/js/jquery-placeholder.min.js"
+    ],
+    "third": [
+      "https://static.mediav.com/js/mvf_g4.js",
+      "https://pc.stgowan.com/pc/couplet-tf.js",
+      "https://pc.stgowan.com/pc_w/m_couplet.js",
+      "https://hm.baidu.com/hm.js"
+    ]
+  },
+  "kingroot.net": {
+    "rank": "950",
+    "private": [],
+    "third": []
+  }
+}
