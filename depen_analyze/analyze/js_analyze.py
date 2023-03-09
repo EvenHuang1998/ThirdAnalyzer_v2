@@ -248,12 +248,12 @@ def get_all_cdn(src: str, dest: str, start: int = 1) -> None:
                 "cdns": cdns
             }
             if int(rank) % 100 == 0:
-                filename = f"{dest}cdn_end{rank}.json"
+                filename = f"{dest}cdn_start{start}_end{rank}.json"
                 with open(filename, "w") as f:
                     json.dump(result, f, indent=2)
     if not os.path.exists(dest):
         os.makedirs(dest)
-    dest_filename = f"{dest}cdn_start{start}_end{rank}.json"
+    dest_filename = f"{dest}cdn_start{start}.json"
     with open(dest_filename, "w") as f:
         json.dump(result, f, indent=2)
     # base_util.notify("JS的CDN获取完毕")
@@ -277,12 +277,12 @@ def get_all_https(src: str, dest: str, start: int = 1) -> None:
                 "ocsp": support_ocsp
             }
             if int(rank) % 100 == 0:
-                filename = f"{dest}eva_end{rank}.json"
+                filename = f"{dest}https_start{start}_end{rank}.json"
                 with open(filename, "w") as f:
                     json.dump(result, f, indent=2)
     if not os.path.exists(dest):
         os.makedirs(dest)
-    dest_filename = f"{dest}https_start{start}_end{rank}.json"
+    dest_filename = f"{dest}https_start{start}.json"
     with open(dest_filename, "w") as f:
         json.dump(result, f, indent=2)
     # base_util.notify("JS的HTTPS获取完毕")
@@ -312,12 +312,12 @@ def get_trans(src: str, dest: str, start: int) -> None:
                 "x_content_type": x_content_type,
             }
             if int(rank) % 100 == 0:
-                filename = f"{dest}eva_end{rank}.json"
+                filename = f"{dest}trans_start{start}_end{rank}.json"
                 with open(filename, "w") as f:
                     json.dump(result, f, indent=2)
     if not os.path.exists(dest):
         os.makedirs(dest)
-    dest_filename = f"{dest}trans_start{start}_end{rank}.json"
+    dest_filename = f"{dest}trans_start{start}.json"
     with open(dest_filename, "w") as f:
         json.dump(result, f, indent=2)
     # base_util.notify("JS的HTTP安全头获取完毕")
@@ -345,12 +345,12 @@ def get_eval_docwrite(src: str, dest: str, start: int) -> None:
                 "doc_write": doc_write_cnt
             }
             if int(rank)%100 == 0:
-                filename=f"{dest}eva_end{rank}.json"
+                filename=f"{dest}eva_start{start}_end{rank}.json"
                 with open(filename,"w") as f:
                     json.dump(result,f,indent=2)
     if not os.path.exists(dest):
         os.makedirs(dest)
-    dest_filename = f"{dest}eval_start{start}_end{rank}.json"
+    dest_filename = f"{dest}eval_start{start}.json"
     with open(dest_filename, "w") as f:
         json.dump(result, f, indent=2)
     # base_util.notify("JS的eval获取完毕")
