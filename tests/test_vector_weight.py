@@ -51,7 +51,7 @@ def get_node_weight(tree: Node) -> dict:
     return weights
 
 if __name__ == "__main__":
-    root = Node("baidu.com")
+    root = Node("https://www.baidu.com/")
     initiators = [['https://www.baidu.com/',
               'https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js'],
              ['https://www.baidu.com/',
@@ -118,12 +118,13 @@ if __name__ == "__main__":
              ['https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/esl-d776bfb1aa.js'],
              ['https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/sbase-829e78c5bb.js'],
              ['https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/sbase-829e78c5bb.js']]
-    # edges = get_edges(initiators)
-    edges = [["baidu.com", "a"],["baidu.com", "b"], ["a","c"],["a","d"],["d","b"]]
+    edges = get_edges(initiators)
+    # edges = [["baidu.com", "a"],["baidu.com", "b"], ["a","c"],["a","d"],["d","b"]]
     visited = [False] * len(edges)
-    node_set = set(["baidu.com"])
+    node_set = set(["https://www.baidu.com/"])
     has_cycle = False
     build_tree(root, edges, visited, node_set)
     weights = get_node_weight(root)
+    weights = dict(sorted(weights.items(), key=lambda x: x[1], reverse=True))
     print(has_cycle)
     print(weights)

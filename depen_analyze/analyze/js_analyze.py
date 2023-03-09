@@ -180,18 +180,23 @@ def get_all_ns(src: str, dest: str, start: int=1) -> None:
                 continue
             private, third = js_util.get_js_ns(priv_analyzer, js_url)
             result[js_url] = {
+                "rank": rank,
                 "private" : private,
                 "third": third
             }
+            if int(rank) % 100 == 0:
+                filename = f"{dest}ns_start{start}_end{rank}.json"
+                with open(filename, "w") as f:
+                    json.dump(result, f, indent=2)
     if not os.path.exists(dest):
         os.makedirs(dest)
+    dest_filename = f"{dest}ns_start{start}.json"
     with open(dest_filename, "w") as f:
         json.dump(result, f, indent=2)
     base_util.notify("JS的NS获取完毕")
 
 def get_all_cdn(src: str, dest: str, start: int = 1) -> None:
     result = {}
-    dest_filename = f"{dest}all_cdn_start{start}.json"
     obtainer = cdn_util.InternalUrlObtainer()
     extractor = cdn_util.CdnExtractor()
     with open(src, "r") as f:
@@ -203,16 +208,23 @@ def get_all_cdn(src: str, dest: str, start: int = 1) -> None:
             if int(rank) < start:
                 continue
             cdns = js_util.get_js_cdn(obtainer, extractor, js_url)
-            result[js_url] = cdns
+            result[js_url] = {
+                "rank": rank,
+                "cdns": cdns
+            }
+            if int(rank) % 100 == 0:
+                filename = f"{dest}cdn_end{rank}.json"
+                with open(filename, "w") as f:
+                    json.dump(result, f, indent=2)
     if not os.path.exists(dest):
         os.makedirs(dest)
+    dest_filename = f"{dest}cdn_start{start}_end{rank}.json"
     with open(dest_filename, "w") as f:
         json.dump(result, f, indent=2)
     base_util.notify("JS的CDN获取完毕")
 
 def get_all_https(src: str, dest: str, start: int=1) -> None:
     result = {}
-    dest_filename = dest+"all_https.json"
     with open(src, "r") as f:
         js_data = json.load(f)
     with tqdm(total=len(js_data)) as pbar:
@@ -224,18 +236,23 @@ def get_all_https(src: str, dest: str, start: int=1) -> None:
             support_https = js_util.is_js_support_https(js_url)
             support_ocsp = js_util.is_support_ocsp(js_url)
             result[js_url] = {
+                "rank": rank,
                 "https": support_https,
                 "ocsp": support_ocsp
             }
+            if int(rank) % 100 == 0:
+                filename = f"{dest}eva_end{rank}.json"
+                with open(filename, "w") as f:
+                    json.dump(result, f, indent=2)
     if not os.path.exists(dest):
         os.makedirs(dest)
+    dest_filename = f"{dest}https_start{start}_end{rank}.json"
     with open(dest_filename, "w") as f:
         json.dump(result, f, indent=2)
     base_util.notify("JS的HTTPS获取完毕")
 
 def get_trans(src: str, dest: str, start: int) -> None:
     result = {}
-    dest_filename = dest+"trans.json"
     with open(src,"r") as f:
         js_data = json.load(f)
     with tqdm(total=len(js_data)) as pbar:
@@ -252,19 +269,25 @@ def get_trans(src: str, dest: str, start: int) -> None:
             except:
                 pass
             result[js_url]={
+                "rank": rank,
                 "x_xss": x_xss,
                 "csp": csp,
                 "x_content_type": x_content_type
             }
+            if int(rank) % 100 == 0:
+                filename = f"{dest}eva_end{rank}.json"
+                with open(filename, "w") as f:
+                    json.dump(result, f, indent=2)
     if not os.path.exists(dest):
         os.makedirs(dest)
+    dest_filename = f"{dest}trans_start{start}_end{rank}.json"
     with open(dest_filename, "w") as f:
         json.dump(result, f, indent=2)
     base_util.notify("JS的HTTP安全头获取完毕")
 
 def get_eval_docwrite(src: str, dest: str, start: int) -> None:
     result = {}
-    dest_filename = dest+"eva_docwrite.json"
+    
     with open(src,"r") as f:
         js_data = json.load(f)
     with tqdm(total=len(js_data)) as pbar:
@@ -279,11 +302,17 @@ def get_eval_docwrite(src: str, dest: str, start: int) -> None:
             except:
                 pass
             result[js_url]={
+                "rank": rank,
                 "eval": eval_cnt,
                 "doc_write": doc_write_cnt
             }
+            if int(rank)%100 == 0:
+                filename=f"{dest}eva_end{rank}.json"
+                with open(filename,"w") as f:
+                    json.dump(result,f,indent=2)
     if not os.path.exists(dest):
         os.makedirs(dest)
+    dest_filename = f"{dest}eval_start{start}_end{rank}.json"
     with open(dest_filename, "w") as f:
         json.dump(result, f, indent=2)
     base_util.notify("JS的eval获取完毕")
