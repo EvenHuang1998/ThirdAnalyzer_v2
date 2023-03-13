@@ -1,0 +1,1579 @@
+{
+  "google.com": {
+    "rank": "1",
+    "private": [],
+    "third": []
+  },
+  "youtube.com": {
+    "rank": "2",
+    "private": [],
+    "third": []
+  },
+  "tmall.com": {
+    "rank": "3",
+    "private": [
+      "https://g.alicdn.com/code/npm/@ali/privacy-sdk/0.0.1/index.js",
+      "https://g.alicdn.com/jstracker/sdk-assests/5.5.13/index.js",
+      "https://g.alicdn.com/mtb/lib-mtop/2.3.14/mtop.js",
+      "https://g.alicdn.com/code/npm/@ali/pegasus-project-newTm/0.0.16/pages/home/index.js",
+      "https://o.alicdn.com/tbhome/tmnav/index.js",
+      "https://g.alicdn.com/alilog/mlog/aplus_v2.js",
+      "https://atanx.alicdn.com/t/tanxssp.js",
+      "https://g.alicdn.com/sd/baxia-entry/index.js",
+      "https://g.alicdn.com/secdev/entry/index.js",
+      "https://g.alicdn.com/sd/baxia/2.2.3/baxiaCommon.js",
+      "https://g.alicdn.com/secdev/sufei_data/3.9.10/index.js",
+      "https://g.alicdn.com/AWSC/et/1.62.7/et_f.js",
+      "https://g.alicdn.com/dinamic/barrier-free/0.0.12/aria.js"
+    ],
+    "third": [
+      "https://log.mmstat.com/eg.js"
+    ]
+  },
+  "baidu.com": {
+    "rank": "4",
+    "private": [
+      "https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js",
+      "https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/esl-d776bfb1aa.js",
+      "https://pss.bdstatic.com/r/www/cache/static/protocol/https/bundles/es6-polyfill_5645e88.js",
+      "https://pss.bdstatic.com/r/www/cache/static/protocol/https/bundles/polyfill_9354efa.js",
+      "https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_7000885.js",
+      "https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/sbase-829e78c5bb.js",
+      "https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/s_super_index-3fffae8d60.js",
+      "https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/min_super-aad56eb874.js",
+      "https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/components/hotsearch-5af0f864cf.js",
+      "https://hectorstatic.baidu.com/cd37ed75a9387c5b.js",
+      "https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/amd_modules/tslib-c95383af0c.js",
+      "https://pss.bdstatic.com/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js",
+      "https://pss.bdstatic.com/r/www/cache/static/protocol/https/plugins/bzPopper_7bc4f0e.js",
+      "https://pss.bdstatic.com/r/www/cache/static/protocol/https/home/js/nu_instant_search_941f10b.js",
+      "https://pss.bdstatic.com/r/www/cache/static/protocol/https/plugins/swfobject_0178953.js",
+      "https://pss.bdstatic.com/r/www/cache/static/protocol/https/soutu/js/tu_4c09212.js",
+      "https://pss.bdstatic.com/r/www/cache/static/protocol/https/voice/js/voice_7c500f4.js",
+      "https://pss.bdstatic.com/r/www/cache/static/protocol/https/amd_modules/@baidu/search-sug_d74c14f.js",
+      "https://hector.baidu.com/a.js",
+      "https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/components/tips-e2ceadd14d.js"
+    ],
+    "third": []
+  },
+  "qq.com": {
+    "rank": "5",
+    "private": [
+      "https://mat1.gtimg.com/www/asset/lib/jquery/jquery/jquery-1.11.1.min.js",
+      "https://mat1.gtimg.com/pingjs/ext2020/configF2017/5e857945.js",
+      "https://mat1.gtimg.com/pingjs/ext2020/configF2017/5d09e4c5.js",
+      "https://mat1.gtimg.com/pingjs/ext2020/dc2017/publicjs/m/ping.js",
+      "https://vm.gtimg.cn/tencentvideo/script/3.4.0/universal-report.min.js",
+      "https://mat1.gtimg.com/qqcdn/tupload/1677997173429.js",
+      "https://mat1.gtimg.com/qqcdn/qqindex2021/advertisement/crystal-2022121613.min.js",
+      "https://imgcache.qq.com/qzone/biz/comm/js/qbs.js",
+      "https://mat1.gtimg.com/qqcdn/qqindex2021/libs/barrier/_aria.js",
+      "https://jsqmt.qq.com/cdn_djl.js",
+      "https://qzonestyle.gtimg.cn/qzone/biz/ac/comm/qbscomm.20150907.js",
+      "https://qzonestyle.gtimg.cn/qzone/biz/ac/comm/gdtlib.20181219.js",
+      "https://qzonestyle.gtimg.cn/qzone/biz/ac/comm/ver.20170622.js",
+      "https://pingjs.qq.com/h5/stats.js",
+      "https://wa.gtimg.com/web/default_ad.js"
+    ],
+    "third": []
+  },
+  "sohu.com": {
+    "rank": "6",
+    "private": [
+      "https://statics.itc.cn/fasttpl/pchome/prod/ClientJs/202337118/main-b7ee1c1c16.js",
+      "https://39d0825d09f05.cdn.sohucs.com/sdk/passport-4.0.3.js",
+      "https://statics.itc.cn/fasttpl/pchome/prod/backbone.js",
+      "https://statics.itc.cn/spm/prod/js/1.0.5/spm.js",
+      "https://statics.itc.cn/js/libpv.js",
+      "https://images.sohu.com/bill/default/sohu-require.js",
+      "https://www.sohu.com/sohuflash_1.js",
+      "https://images.sohu.com/bill/s2015/jscript/lib/sjs/matrix/ad/form/delivery.js",
+      "https://statics.itc.cn/index/reyzar.statistics-0.02-min.js",
+      "https://images.sohu.com/bill/s2015/jscript/lib/sjs/matrix/pv/pagePVmonitor.js",
+      "https://images.sohu.com/bill/s2018/passion/0907/passion.min.js",
+      "https://k.sohu.com/static/finance/pc/sohuindex/main.js",
+      "https://m4.auto.itc.cn/auto/content/sohu_auto_v5/sohu_auto_v5/main_right_v5.js",
+      "https://m1.auto.itc.cn/auto/content/sohu_auto_v5/sohu_auto_v5/main_v5.js",
+      "https://images.sohu.com/bill/s2015/jscript/lib/sjs/matrix/ad/specialspe.js",
+      "https://images.sohu.com/bill/s2015/jscript/lib/sjs/plugin/mediator.js",
+      "https://images.sohu.com/bill/s2015/jscript/lib/sjs/matrix/ad/statspe.js",
+      "https://images.sohu.com/bill/s2015/jscript/lib/sjs/matrix/ad/form/commonspe.js",
+      "https://images.sohu.com/bill/s2015/jscript/lib/sjs/matrix/ad/dataspe.js",
+      "https://images.sohu.com/bill/s2015/jscript/lib/sjs/matrix/ad/form/config.js",
+      "https://images.sohu.com/bill/s2015/jscript/lib/sjs/base/corespe.js",
+      "https://images.sohu.com/bill/s2015/jscript/lib/sjs/util/urlspe.js",
+      "https://qpb1.sohu.com/production/i_d/camfv/production/z_v.js",
+      "https://qpb1.sohu.com/site/id/openjs/camfv_z/common/v.js",
+      "https://qpb1.sohu.com/common/i/d/source/camf/vz/openjs/v.js"
+    ],
+    "third": [
+      "https://cpro.baidustatic.com/cpro/ui/c.js",
+      "https://cpro.baidustatic.com/cpro/ui/cm.js",
+      "https://t.focus-res.cn/front-end/sohu/focusbe_in_sohuv3_2.js",
+      "https://cpro.baidustatic.com/cpro/ui/pr.js"
+    ]
+  },
+  "facebook.com": {
+    "rank": "7",
+    "private": [],
+    "third": []
+  },
+  "taobao.com": {
+    "rank": "8",
+    "private": [
+      "https://g.alicdn.com/code/npm/@ali/privacy-sdk/0.0.1/index.js",
+      "https://g.alicdn.com/main-search/new-search-suggest/0.0.7/bundle.js",
+      "https://g.alicdn.com/tbhome/tb-recommend/0.0.3/bundle.js",
+      "https://o.alicdn.com/tbhome/tbnav/index.js",
+      "https://g.alicdn.com/jstracker/sdk-assests/5.5.7/index.js",
+      "https://g.alicdn.com/alilog/mlog/aplus_v2.js",
+      "https://g.alicdn.com/dinamic/barrier-free/0.0.12/aria.js"
+    ],
+    "third": [
+      "https://log.mmstat.com/eg.js"
+    ]
+  },
+  "360.cn": {
+    "rank": "9",
+    "private": [
+      "https://s.ssl.qhimg.com/static/0729c697c74a3b98.js",
+      "https://s.ssl.qhmsg.com/static/0e4b4f909dd26431/jquery,qw.core.js",
+      "https://s.ssl.qhimg.com/static/f5407c785655e6a1/monitor_analytic.js",
+      "https://s.ssl.qhmsg.com/!073cb963/Cookie.js",
+      "https://s.ssl.qhmsg.com/!b9cea183/lightbox.js",
+      "https://s.ssl.qhimg.com/static/e06d0b69be58c40c.js",
+      "https://s.ssl.qhimg.com/static/85a9725bb0e32f2a.js",
+      "https://s.ssl.qhimg.com/static/542de339a50753c0.js",
+      "https://s.ssl.qhimg.com/static/4d2a0452538a9fa4.js",
+      "https://s.ssl.qhimg.com/static/72a3b5b755877d15.js",
+      "https://s.ssl.qhimg.com/static/224605e7eefeb438.js",
+      "https://s.ssl.qhimg.com/static/54e4ba144de1bf07.js",
+      "https://s.ssl.qhimg.com/static/ba1c06c2ff5f4724.js",
+      "https://s.ssl.qhimg.com/static/caa3e42df48e8ae2.js"
+    ],
+    "third": []
+  },
+  "jd.com": {
+    "rank": "10",
+    "private": [
+      "https://storage.360buyimg.com/pc-pre-tmp/jquery.js",
+      "https://wl.jd.com/wl.js",
+      "https://h5static.m.jd.com/act/jd-jssdk/latest/jd-jssdk.min.js",
+      "https://storage.360buyimg.com/channel2022/jd_home/0.0.9/static/js/runtime.js",
+      "https://storage.360buyimg.com/channel2022/jd_home/0.0.9/static/js/index.chunk.js",
+      "https://static.360buyimg.com/item/assets/oldman/wza1/aria.js",
+      "https://storage.360buyimg.com/channel2022/jd_home/0.0.9/static/js/promotional-simple-top.chunk.js"
+    ],
+    "third": []
+  },
+  "amazon.com": {
+    "rank": "11",
+    "private": [
+      "https://images-na.ssl-images-amazon.com/images/I/01rGP6HIADL.js",
+      "https://images-na.ssl-images-amazon.com/images/I/11y85pohsPL._RC%7C41jWkdimWrL.js_.js",
+      "https://images-na.ssl-images-amazon.com/images/I/31YI0nnbQAL.js",
+      "https://images-na.ssl-images-amazon.com/images/I/412HK5CgpXL._RC%7C71OgvEHu1RL.js,01QvReFeJyL.js,01phmzCOwJL.js,01eOvPdxG7L.js,71WAOR2jKOL.js,41gNKoK0s7L.js,115pV8Rl02L.js,01+pnQJuQ0L.js,21+aV0AEB8L.js,11k47yUMOjL.js,41rU9l+NGKL.js,51t-JTxfnwL.js,317BC63dC8L.js,11lEMI5MhIL.js,31UsGkeqBUL.js,01LEzWzrPZL.js,01AqeWA7PKL.js_.js",
+      "https://images-na.ssl-images-amazon.com/images/I/01suh3pFoYL.js"
+    ],
+    "third": [
+      "https://m.media-amazon.com/images/I/61ZS63EQSsL.js",
+      "https://m.media-amazon.com/images/G/01/csm/showads.v2.js",
+      "https://m.media-amazon.com/images/I/11Y+5x+kkTL._RC%7C51Am7NcREVL.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,516j7qaWchL.js,11kWu3cNjYL.js,11wr1I7-WYL.js,11OREnu1epL.js,11qVTZscrRL.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01pTleTFZOL.js_.js",
+      "https://m.media-amazon.com/images/I/51QTt0kZ0-L.js"
+    ]
+  },
+  "yahoo.com": {
+    "rank": "12",
+    "private": [],
+    "third": []
+  },
+  "wikipedia.org": {
+    "rank": "13",
+    "private": [],
+    "third": []
+  },
+  "weibo.com": {
+    "rank": "14",
+    "private": [
+      "https://passport.weibo.com/js/visitor/mini_original.js"
+    ],
+    "third": []
+  },
+  "sina.com.cn": {
+    "rank": "15",
+    "private": [
+      "https://i.sso.sina.com.cn/js/ssologin.js",
+      "https://news.sina.com.cn/sso/outlogin_layer.js",
+      "https://news.sina.com.cn/sso/user_panel_homepage.js",
+      "https://auto.sina.com.cn/sinaauto/2016/sinahome/chooseCars.js",
+      "https://d3.sina.com.cn/d1images/sinaads_entry/sinaads_entry_index.js",
+      "https://www.sina.com.cn/js/79/2013/0717/fix.js",
+      "https://d3.sina.com.cn/litong/zhitou/sinaads/demo/wanglt/sinaIndexAD/sinaAD_slide01.js",
+      "https://n.sinaimg.cn/homepage/js/choose_edu1.js",
+      "https://www.sina.com.cn/edublk/college_json.js",
+      "https://i1.sinaimg.cn/unipro/pub/suda_m_v630.js",
+      "https://d3.sina.com.cn/litong/zhitou/sinaads/release/sinaads.js",
+      "https://d7.sina.com.cn/litong/zhitou/wenjing28/js/postMan.js",
+      "https://news.sina.com.cn/js/pctianyi/sima.js",
+      "https://sbeacon.sina.com.cn/h.js",
+      "https://n.sinaimg.cn/ent/js/lib/jquery-1.7.2.js",
+      "https://n.sinaimg.cn/homepage/js/sina_product_tabs.js",
+      "https://d3.sina.com.cn/litong/zhitou/sinaads/demo/wanglt/sinaIndexAD/edu_ad_change.js",
+      "https://tech.sina.com.cn/other/src/sinaheimao.js",
+      "https://n.sinaimg.cn/index/js/shms2.js",
+      "https://d3.sina.com.cn/litong/zhitou/sinaads/test/e-recommendation/release/sinaere.js",
+      "https://finance.sina.com.cn/basejs/suggestServer.js",
+      "https://www.sinaimg.cn/qc/js/brandList.min.js",
+      "https://i.sso.sina.com.cn/js/qrcode_login.js",
+      "https://d4.sina.com.cn/litong/zhitou/sinaads/release/plus/Media.js",
+      "https://finance.sina.com.cn/tougu/goldenstock/goldenstock.js",
+      "https://finance.sina.com.cn/tougu/profitStar/newprofitStar.js",
+      "https://finance.sina.com.cn/licaishi/recommend/sinaIdxRcmdPlanner.js",
+      "https://n.sinaimg.cn/homepage/js/recommender.js",
+      "https://www.sina.com.cn/js/index/96/b_search.js"
+    ],
+    "third": []
+  },
+  "zoom.us": {
+    "rank": "16",
+    "private": [
+      "https://explore.zoom.us/docs/js/optimizely/optimizely.js",
+      "https://st3.zoom.us/static/6.3.11805/js/lib/vue/vue.min.js",
+      "https://st2.zoom.us/static/6.3.11805/js/lib/vue/zoom-components.min.js",
+      "https://st3.zoom.us/static/6.3.11805/js/lib/vue/advanced/popup-captcha/popup-captcha.min.js",
+      "https://st1.zoom.us/static/6.3.11805/js/all.min.js",
+      "https://st3.zoom.us/static/6.3.11805/js/app/jquery.validate.message.min.js",
+      "https://st2.zoom.us/static/6.3.11805/js/app/top_nav.min.js",
+      "https://st2.zoom.us/static/6.3.11805/js/lib/swiper-bundle-8.3.2.min.js",
+      "https://st3.zoom.us/static/6.3.11805/js/lib/TweenMax.min.js",
+      "https://st3.zoom.us/static/6.3.11805/js/app/home_v2.min.js",
+      "https://st1.zoom.us/static/6.3.11805/js/lib/vue/advanced/notification/notification.min.js",
+      "https://st3.zoom.us/static/6.3.11805/js/app/support/extole_zoom_lib.min.js"
+    ],
+    "third": [
+      "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+      "https://static.ada.support/embed2.js",
+      "https://cdn.solvvy.com/deflect/customization/zoom/lazy-solvvy.js",
+      "https://cdn3.optimizely.com/js/geo4.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://config.datas3ntinel.com/rules/03d24139-113c-4718-b039-9b43dbccce23/global.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://cdn.cookielaw.org/scripttemplates/6.21.0/otBannerSdk.js",
+      "https://static.ada.support/embed2.eca8973.js"
+    ]
+  },
+  "xinhuanet.com": {
+    "rank": "17",
+    "private": [
+      "http://www.news.cn/global/js/pageCore.js",
+      "http://www.news.cn/global/lib/jquery/jquery.min.js",
+      "http://www.news.cn/2023homepro/scripts/xhome.js",
+      "https://player.v.news.cn/player/sdk/h5/DHYPlayer-latest.min.js",
+      "http://www.news.cn/global/lib/swiper/swiper3.4.0/swiper.jquery.min.js",
+      "http://www.news.cn/global/lib/gsap3/gsap.min.js",
+      "http://www.news.cn/2023homepro/scripts/2023lh.0227.js",
+      "http://www.news.cn/2023homepro/scripts/index.js",
+      "http://a2.xinhuanet.com/js/xadndelayed.js",
+      "http://webd.home.news.cn/webdig.js",
+      "http://wza.news.cn/dist/aria.js"
+    ],
+    "third": []
+  },
+  "live.com": {
+    "rank": "18",
+    "private": [],
+    "third": [
+      "https://az725175.vo.msecnd.net/scripts/jsll-4.js",
+      "https://ow2.res.office365.com/owalanding/2022.9.20.02/javascripts/vh-check.min.js",
+      "https://ow2.res.office365.com/owalanding/2022.9.20.02/javascripts/jquery-3.6.0.min.js",
+      "https://ow2.res.office365.com/owalanding/2022.9.20.02/javascripts/lazyload.min.js",
+      "https://ow2.res.office365.com/owalanding/2022.9.20.02/javascripts/jquery.onscreen.js",
+      "https://ow2.res.office365.com/owalanding/2022.9.20.02/javascripts/device-utils.js",
+      "https://ow2.res.office365.com/owalanding/2022.9.20.02/javascripts/dom-scripts.js",
+      "https://web.vortex-extended.data.microsoft.com/collect/v1/t.js",
+      "https://www.clarity.ms/eus-c/s/0.7.2/clarity.js"
+    ]
+  },
+  "netflix.com": {
+    "rank": "19",
+    "private": [],
+    "third": []
+  },
+  "reddit.com": {
+    "rank": "20",
+    "private": [],
+    "third": []
+  },
+  "microsoft.com": {
+    "rank": "21",
+    "private": [
+      "https://www.microsoft.com/etc.clientlibs/microsoft/clientlibs/clientlib-jquery.min.ACSHASHb1168f0ce867875996c28ca9e8b4949b.js",
+      "https://www.microsoft.com/etc.clientlibs/microsoft/clientlibs/clientlib-jquery-cookie.min.ACSHASHa67d659f582bf93e1d8156fc182326f5.js",
+      "https://www.microsoft.com/etc.clientlibs/microsoft/clientlibs/exp-analytics/v1.min.ACSHASHd825183b3614c7a5dca53474beaec39e.js",
+      "https://www.microsoft.com/etc.clientlibs/microsoft/clientlibs/exp-cookiecomp/v1.min.ACSHASH3007ee72081412fbd8b665a01afb7cad.js",
+      "https://www.microsoft.com/etc.clientlibs/microsoft/components/content/universalheader/v1/universalheader/clientlibs/site.min.ACSHASH07fe1529562254afd052ab982729f761.js",
+      "https://www.microsoft.com/etc.clientlibs/microsoft/components/content/alert/v1/alert/clientlibs/site-countdown.min.ACSHASH94aa1eb906a7edbbac5f31e5866db0fd.js",
+      "https://www.microsoft.com/etc.clientlibs/microsoft/components/content/highlightcarousel/v1/highlightcarousel/clientlibs/site.min.ACSHASH20a703ee2413e47e2563de7ee0605c27.js",
+      "https://www.microsoft.com/etc.clientlibs/microsoft/components/content/highlight/v1/highlight/clientlibs/site.min.ACSHASHaae55fd1705718f75074813dfcc832ec.js",
+      "https://www.microsoft.com/etc.clientlibs/microsoft/clientlibs/clientlib-base.min.ACSHASH37943e23abe39812533db1b771b2d52e.js",
+      "https://www.microsoft.com/etc.clientlibs/microsoft/components/content/content-card/v1/content-card/clientlibs/site.min.ACSHASH48501a4d0f4564d484ac84ade1bb653d.js",
+      "https://www.microsoft.com/etc.clientlibs/microsoft/components/content/back-to-top-button/v1/back-to-top-button/clientlibs/sites.min.ACSHASH48d949b834ed32dfd8266989e9dab912.js",
+      "https://wcpstatic.microsoft.com/mscc/lib/v2/wcp-consent.js",
+      "https://www.microsoft.com/etc.clientlibs/microsoft/clientlibs/clientlib-httpclient.min.ACSHASHb2cf74f70006d7fa31f4bdb03f3f1b27.js",
+      "https://www.microsoft.com/etc.clientlibs/microsoft/clientlibs/clientlib-mwf-featureControlled/main-light.min.ACSHASH5e55c8fdc2737dc5bc1f9c2712cac285.js",
+      "https://www.microsoft.com/etc.clientlibs/microsoft/clientlibs/clientlib-cookieconsent.min.ACSHASHc892f451b0c4db9c8ab2601a427c9b2c.js",
+      "https://www.microsoft.com/etc.clientlibs/microsoft/components/structure/page/clientlibs/embed-thirdparty.min.ACSHASHebf52f3d1547aaaa48ca65496e01fd9a.js",
+      "https://www.microsoft.com/etc.clientlibs/microsoft/components/structure/page/clientlibs/featurecontrol.min.ACSHASHf120033122e43a4cb0b53bb306afc5dc.js",
+      "https://www.microsoft.com/etc.clientlibs/microsoft/components/structure/page/clientlibs/custom-oneds.min.ACSHASH1c95d1a24c9b864566a6abe3f9114805.js",
+      "https://www.microsoft.com/etc.clientlibs/microsoft/clientlibs/clientlib-greenid.min.ACSHASH44a811225ab0a12502f646d624dede72.js",
+      "https://js.monitor.azure.com/scripts/c/ms.shared.analytics.mectrl-3.2.6.gbl.min.js"
+    ],
+    "third": [
+      "https://mem.gfx.ms/scripts/me/MeControl/10.23038.5/zh-CN/meBoot.min.js"
+    ]
+  },
+  "instagram.com": {
+    "rank": "22",
+    "private": [],
+    "third": []
+  },
+  "office.com": {
+    "rank": "23",
+    "private": [
+      "https://wcpstatic.microsoft.com/mscc/lib/v2/wcp-consent.js"
+    ],
+    "third": [
+      "https://res.cdn.office.net/officehub/bundles/unauth-vendor-d78f09b728.js",
+      "https://res.cdn.office.net/officehub/bundles/sharedscripts-ff1c847af5.js",
+      "https://res.cdn.office.net/officehub/bundles/unauth-9fda765ae9.js",
+      "https://res.cdn.office.net/officehub/bundles/otel-logger-e0bddb0087c8f7261eaf.js",
+      "https://js.monitor.azure.com/scripts/c/ms.shared.analytics.mectrl-3.2.6.gbl.min.js",
+      "https://mem.gfx.ms/scripts/me/MeControl/10.23038.5/en-US/meBoot.min.js"
+    ]
+  },
+  "google.com.hk": {
+    "rank": "24",
+    "private": [],
+    "third": []
+  },
+  "panda.tv": {
+    "rank": "25",
+    "private": [],
+    "third": []
+  },
+  "zhanqi.tv": {
+    "rank": "26",
+    "private": [
+      "https://static.zhanqi.tv/assets/web/v3/static/j/pkg/zhanqi.js",
+      "https://static.zhanqi.tv/assets/web/v3/static/j/public/4.0/topLeftNav.js",
+      "https://static.zhanqi.tv/assets/web/v3/static/j/web3.0/indexSocketInit.js",
+      "https://static.zhanqi.tv/assets/web/v3/static/j/public/getviewer.js",
+      "https://static.zhanqi.tv/assets/web/v3/static/j/yp/yp-socket.js",
+      "https://static.zhanqi.tv/assets/web/v3/static/j/web4.0/index_v3.js",
+      "https://static.zhanqi.tv/assets/web/v3/static/j/web3.0/videoJJToH5.js",
+      "https://static.zhanqi.tv/assets/web/v3/static/j/public/4.0/popLoginRegistNew.js",
+      "https://static.zhanqi.tv/assets/web/v3/static/j/lib/sdk/reyunh5.min1.1.0.js",
+      "https://static.zhanqi.tv/assets/web/v3/static/j/common.js",
+      "https://h5player.zhanqi.tv/assets/h5liveplayer/dist/zplayer.js",
+      "https://tj.zhanqi.tv/analytics.js",
+      "https://h5player.zhanqi.tv/assets/h5liveplayer/dist/js/manifest.js",
+      "https://h5player.zhanqi.tv/assets/h5liveplayer/dist/js/vendor.js",
+      "https://h5player.zhanqi.tv/assets/h5liveplayer/dist/js/app.js",
+      "https://sdkcdn.videojj.com/liveos-sdk/online/liveos.js",
+      "https://static.zhanqi.tv/assets/web/v3/static/j/lib/zqim/Simple.js",
+      "https://static.zhanqi.tv/assets/web/v3/static/j/lib/zqim/Base.js",
+      "https://static.zhanqi.tv/assets/web/v3/static/j/lib/zqim/modules/ZQIM.js",
+      "https://static.zhanqi.tv/assets/web/v3/static/j/lib/md5.js",
+      "https://static.zhanqi.tv/assets/web/v3/static/j/lib/zqim/proto/imdef.js",
+      "https://sdkcdn.videojj.com/liveos-sdk/release/1.1.6-6571102/liveos.config.js",
+      "https://sdkcdn.videojj.com/liveos-sdk/release/1.1.6-6571102/main.js"
+    ],
+    "third": [
+      "https://hm.baidu.com/hm.js"
+    ]
+  },
+  "alipay.com": {
+    "rank": "27",
+    "private": [
+      "https://gw.alipayobjects.com/render/p/yuyan_v/180020010000010426/4.0.1/jquery-e3f24f23.js",
+      "https://ur.alipay.com/tracert_a1911.js"
+    ],
+    "third": []
+  },
+  "bing.com": {
+    "rank": "28",
+    "private": [
+      "https://cn.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js",
+      "https://cn.bing.com/rp/1xoNdSsiOsQnITofHebvgzOZ2HM.br.js"
+    ],
+    "third": []
+  },
+  "csdn.net": {
+    "rank": "29",
+    "private": [],
+    "third": [
+      "https://aeu.alicdn.com/waf/antidomxss_v640.js",
+      "https://aeu.alicdn.com/waf/interfaceacting220819.js",
+      "https://g.csdnimg.cn/tingyun/tingyun.js",
+      "https://g.csdnimg.cn/common/csdn-report/report.js",
+      "https://g.csdnimg.cn/user-ordercart/2.0.1/user-ordercart.js",
+      "https://g.csdnimg.cn/common/csdn-login-box/csdn-login-box.js",
+      "https://g.csdnimg.cn/user-ordertip/3.0.2/user-ordertip.js",
+      "https://g.csdnimg.cn/common/csdn-toolbar/csdn-toolbar.js",
+      "https://g.csdnimg.cn/common/csdn-footer/csdn-footer.js",
+      "https://csdnimg.cn/release/cmsfe/public/js/runtime.e5d77965.js",
+      "https://csdnimg.cn/release/cmsfe/public/js/chunk/common.183737d5.js",
+      "https://csdnimg.cn/release/cmsfe/public/js/chunk/tpl/www-index-new/index.7f04b5ee.js",
+      "https://g.csdnimg.cn/side-toolbar/3.4/side-toolbar.js",
+      "https://hm.baidu.com/hm.js",
+      "https://g.csdnimg.cn/common/csdn-notification/csdn-notification.js",
+      "https://g.csdnimg.cn/asdf/1.1.3/trackad.js",
+      "https://g.alicdn.com/AWSC/AWSC/awsc.js"
+    ]
+  },
+  "myshopify.com": {
+    "rank": "30",
+    "private": [
+      "http://cdn.shopifycdn.net/shopifycloud/shopify/assets/vendor/jquery-2.0.3-eb347740d79a81c7fb7aae2df0c0f1a70afdcb5323a6d89dcabb246e2ce6cbcd.js"
+    ],
+    "third": []
+  },
+  "vk.com": {
+    "rank": "31",
+    "private": [
+      "https://vk.com/js/loader_nav207612448335_3.js",
+      "https://st6-20.vk.com/dist/polyfills.1881adbf36454e07c9c6.js",
+      "https://st6-20.vk.com/dist/common.eac980c95cd1f5ec78d4.js",
+      "https://st6-20.vk.com/dist/web/polyfills/cookie_manager.8cfe6896e33857a19781.js",
+      "https://st6-20.vk.com/dist/web/polyfills/intersection_observer.0062cad0ff26ba906a55.js",
+      "https://st6-20.vk.com/dist/web/polyfills/resize_observer.233e96db629d43de3623.js",
+      "https://st6-20.vk.com/dist/web/polyfills/canvas_to_blob.e77dcc6129127456cc4f.js",
+      "https://st6-20.vk.com/dist/web/polyfills/object_functions.06c76fa223949a027bf2.js",
+      "https://st6-20.vk.com/dist/web/polyfills/promise_functions.66c5719129d3a45c5b29.js",
+      "https://st6-20.vk.com/dist/web/polyfills/string_functions.d2f7aff1dc899fb950c4.js",
+      "https://st6-20.vk.com/dist/web/polyfills/element_functions.7f6f4401ad09c642705f.js",
+      "https://st6-20.vk.com/dist/web/polyfills/other_functions.4de689b5f53cdbdebf7d.js",
+      "https://st6-20.vk.com/dist/web/polyfills/array_functions.5ed53e616feed60bc4e8.js",
+      "https://st6-20.vk.com/dist/react.6d787991b51243317269.js",
+      "https://st6-20.vk.com/dist/palette.c20d42acd670c0754bd5.js",
+      "https://st6-20.vk.com/dist/vkui.e4d670f36de4368e7b1a.js",
+      "https://st6-20.vk.com/dist/vkcom-kit.e367024595873c6f9a08.js",
+      "https://st6-20.vk.com/dist/state-management.03f2031fb0dac9b033ec.js",
+      "https://st6-20.vk.com/dist/audioplayer.cb9c848b303bde64e57f.js",
+      "https://st6-20.vk.com/dist/web/common_web.e538cf731a0590fc2464.js",
+      "https://vk.com/js/lang3_0.js",
+      "https://vk.com/js/lib/px.js",
+      "https://vk.com/js/lib/px.js",
+      "https://st6-20.vk.com/dist/web/index.3caff7848014e9d433a7.js",
+      "https://vk.com/dist/web/language.13cbd4193255cbaaab3a.js",
+      "https://st6-20.vk.com/dist/web/join.08219c9bce123d1ed9d6.js",
+      "https://st6-20.vk.com/js/lib/ui_controls.js",
+      "https://st6-20.vk.com/dist/web/ui_components.46f1504264e64b6ce655.js",
+      "https://st6-20.vk.com/dist/b5c9c491384cad5bff37ba6c51978bcd.938d16b312acee165683.js",
+      "https://st6-20.vk.com/dist/bbd3772e7186114b708bce2cac0c3676.2c113741d5f1ad34116e.js",
+      "https://st6-20.vk.com/dist/web/sentry.36aae8bcde8940b0ade9.js",
+      "https://st6-20.vk.com/dist/web/performance_observers.2498c067f2dd4f142b98.js",
+      "https://st6-20.vk.com/dist/web/css_types.9345eb394b7d4d7e68a9.js",
+      "https://st6-20.vk.com/dist/web/unauthorized.f22c2ee2a66eb7eb0900.js",
+      "https://st6-20.vk.com/dist/web/jobs_devtools_notification.eafd4d4aa0ae5bbfd7e6.js",
+      "https://st6-20.vk.com/dist/web/page_layout.5672d3fc73a320a2be06.js",
+      "https://st6-20.vk.com/dist/web/ui_common.668d60aaa03cd12a203c.js",
+      "https://st6-20.vk.com/dist/web/likes.c1ab80912eb41eb9e606.js",
+      "https://st6-20.vk.com/dist/web/grip.16ff158c2e1e11fd3b80.js",
+      "https://vk.com/dist/web/5b3dc4c432352991578e.js",
+      "https://vk.com/dist/SendUserInfoStats.b8694ef0cf5ddf7c09e8.js"
+    ],
+    "third": [
+      "https://top-fwz1.mail.ru/js/code.js"
+    ]
+  },
+  "yahoo.co.jp": {
+    "rank": "32",
+    "private": [
+      "https://s.yimg.jp/images/yjtop-pc/orion/v147/bundle_v147.js",
+      "https://yads.c.yimg.jp/js/yads-async.js",
+      "https://yads.c.yimg.jp/uadf/yads_vimps.js",
+      "https://s.yimg.jp/images/advertising/common/js/iicon.min.js",
+      "https://s.yimg.jp/images/ds/cl/ds-custom-logger-1.1.0.min.js",
+      "https://s.yimg.jp/images/ds/yas/ual-2.10.2.min.js",
+      "https://s.yimg.jp/images/listing/tool/yads/yads-timeline-ex.js",
+      "https://s.yjtag.jp/tag.js",
+      "https://s.yimg.jp/images/ds/yas/tmual-3.0.0.min.js",
+      "https://s.yimg.jp/images/ds/idet/idet.min.js"
+    ],
+    "third": [
+      "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2023030701.js"
+    ]
+  },
+  "microsoftonline.com": {
+    "rank": "33",
+    "private": [],
+    "third": []
+  },
+  "bongacams.com": {
+    "rank": "34",
+    "private": [],
+    "third": []
+  },
+  "naver.com": {
+    "rank": "35",
+    "private": [
+      "https://ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js",
+      "https://ssl.pstatic.net/tveta/libs/ndpsdk/prod/ndp-loader.js",
+      "https://ssl.pstatic.net/tveta/libs/assets/js/pc/main/min/pc.veta.core.min.js",
+      "https://pm.pstatic.net/dist/js/preload.5fe99fda.js",
+      "https://pm.pstatic.net/dist/js/polyfill.f3c68d2d.js",
+      "https://pm.pstatic.net/dist/js/external.2961eaa5.js",
+      "https://pm.pstatic.net/dist/js/vendors~more~nmain~notice~search~sidebar_notice.40da85e0.js",
+      "https://pm.pstatic.net/dist/js/search.c0c3b1c5.js",
+      "https://pm.pstatic.net/dist/js/vendors~more~nmain~sidebar_notice.7aad5e27.js",
+      "https://pm.pstatic.net/dist/js/nmain.e31af4db.js",
+      "https://ssl.pstatic.net/tveta/libs/glad/prod/2.11.1/gfp-sdk.js",
+      "https://ssl.pstatic.net/tveta/libs/ndpsdk/prod/ndp-core.js",
+      "https://ssl.pstatic.net/tveta/libs/glad/prod/2.11.1/gfp-sentry-bundle-1.0.1.js"
+    ],
+    "third": []
+  },
+  "twitter.com": {
+    "rank": "36",
+    "private": [],
+    "third": []
+  },
+  "twitch.tv": {
+    "rank": "37",
+    "private": [],
+    "third": []
+  },
+  "okezone.com": {
+    "rank": "38",
+    "private": [],
+    "third": []
+  },
+  "aparat.com": {
+    "rank": "39",
+    "private": [
+      "https://www.aparat.com/static/vendor/surtur-web-sdk-1.7.4.js",
+      "https://www.aparat.com/static/js/runtime.f3ee4a8ad5bd366d935a.js",
+      "https://www.aparat.com/static/js/static/vendor.48d6b901faf0d5b48e46.js",
+      "https://www.aparat.com/static/js/main.90e651e6c9fb21c67020.js",
+      "https://www.aparat.com/static/js/309.ed3c12054987c5140205.js",
+      "https://www.aparat.com/static/js/5700.e9ca14b032506e996efc.js",
+      "https://www.aparat.com/static/js/5009.0980f4e7a92f6d45475d.js",
+      "https://www.aparat.com/static/js/3914.c491a9d6844222d13a23.js",
+      "https://www.aparat.com/static/js/6376.32ec36ade9ee3cf1fece.js",
+      "https://plus.sabavision.com/dmp/dox/events.min.js",
+      "https://www.aparat.com/static/js/2328.71bdd5b7108068e5eb0a.js",
+      "https://www.aparat.com/static/vendor/player-sdk/runtime-1.6.22.js",
+      "https://www.aparat.com/static/vendor/player-sdk/vendor-1.6.22.js",
+      "https://www.aparat.com/static/vendor/player-sdk/main-1.6.22.js",
+      "https://www.aparat.com/assets/web/player/romeo/vendors.8bf96783a12e5f1e76b0.bundle.js",
+      "https://www.aparat.com/assets/web/player/romeo/commons.da645bd2bfa231277596.bundle.js",
+      "https://www.aparat.com/assets/web/player/romeo/romeo.5572b15345003033a334.bundle.js",
+      "https://www.aparat.com/static/js/8272.9d52e31a3000d5eb31aa.js",
+      "https://www.aparat.com/static/js/8730.06373f252a9388b53032.js",
+      "https://www.aparat.com/static/js/8211.216d0fc61cfb265f0dc2.js",
+      "https://www.aparat.com/static/js/5218.b8b5753769a2365be803.js",
+      "https://www.aparat.com/static/js/563.5d397cfdc1252ce8b402.js",
+      "https://www.aparat.com/static/js/859.64e7d734bdb80675b755.js",
+      "https://www.aparat.com/static/js/5183.882e2789ccb844dfc789.js",
+      "https://www.aparat.com/static/js/4117.f5e5736fbfb0a468e23f.js"
+    ],
+    "third": [
+      "https://www.googletagmanager.com/gtm.js",
+      "https://mc.yandex.ru/metrika/tag.js"
+    ]
+  },
+  "ebay.com": {
+    "rank": "40",
+    "private": [
+      "https://ir.ebaystatic.com/rs/c/makeebayfasterscript-src-scripts-logger-cbdc5549.js",
+      "https://www.ebay.com/scl/js/ScandalLoader.js",
+      "https://ir.ebaystatic.com/rs/v/dxtuvtkk2q3hpkc1xveeo13iaek.js",
+      "https://ir.ebaystatic.cn/rs/c/inception-DkemzfHt.js",
+      "https://ir.ebaystatic.cn/rs/c/highlnfe-briisG2S.js",
+      "https://ir.ebaystatic.cn/rs/c/jquery-KOuBsJce.js",
+      "https://ir.ebaystatic.com/cr/v/c1/ebay-cookies/1.js",
+      "https://ir.ebaystatic.com/rs/v/10341xh50yz21mhhydueu4m5wad.js",
+      "https://ir.ebaystatic.com/rs/v/s0hteylevy4bpkd12dvkd4yi5ms.js",
+      "https://ir.ebaystatic.com/rs/v/2efv0sibea3ndlwtay2uglisoqh.js",
+      "https://ir.ebaystatic.com/rs/c/desktop_ac_0303.js"
+    ],
+    "third": []
+  },
+  "adobe.com": {
+    "rank": "41",
+    "private": [],
+    "third": []
+  },
+  "amazon.in": {
+    "rank": "42",
+    "private": [
+      "https://images-eu.ssl-images-amazon.com/images/I/01rGP6HIADL.js",
+      "https://images-eu.ssl-images-amazon.com/images/I/11y85pohsPL._RC%7C41jWkdimWrL.js_.js",
+      "https://images-eu.ssl-images-amazon.com/images/S/apesafeframe/ape/sf/desktop/DAsf-1.50.139b902.js",
+      "https://images-eu.ssl-images-amazon.com/images/I/31YI0nnbQAL.js",
+      "https://images-eu.ssl-images-amazon.com/images/I/41AN3YMKFYL._RC%7C714DuZosJiL.js,01F+A05ogQL.js,01phmzCOwJL.js,01eOvPdxG7L.js,71T+UV0Q3mL.js,41gNKoK0s7L.js,115pV8Rl02L.js,01+pnQJuQ0L.js,21+aV0AEB8L.js,11k47yUMOjL.js,41rU9l+NGKL.js,51t-JTxfnwL.js,317BC63dC8L.js,11lEMI5MhIL.js,31c7Fn9h9gL.js,01LEzWzrPZL.js,01AqeWA7PKL.js_.js",
+      "https://images-eu.ssl-images-amazon.com/images/I/01suh3pFoYL.js",
+      "https://images-eu.ssl-images-amazon.com/images/I/215ieazFO0L.js",
+      "https://images-eu.ssl-images-amazon.com/images/I/21pj1OVABnL.js"
+    ],
+    "third": [
+      "https://m.media-amazon.com/images/I/A1IHO43WAGL.js",
+      "https://m.media-amazon.com/images/I/61ZS63EQSsL.js",
+      "https://m.media-amazon.com/images/I/11Y+5x+kkTL._RC%7C51Am7NcREVL.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,516j7qaWchL.js,11kWu3cNjYL.js,11wr1I7-WYL.js,11OREnu1epL.js,11Wm6BwZ+6L.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01pTleTFZOL.js_.js",
+      "https://m.media-amazon.com/images/I/51QTt0kZ0-L.js",
+      "https://m.media-amazon.com/images/G/01/csm/showads.v2.js",
+      "https://player.live-video.net/1.0.0-rc.141/amazon-ivs-videojs-tech.min.js"
+    ]
+  },
+  "aliexpress.com": {
+    "rank": "43",
+    "private": [
+      "https://assets.alicdn.com/g/ae-fe/global/0.0.3/index.js",
+      "https://assets.alicdn.com/g/ae-fe/login-ui/0.0.67/index.js",
+      "https://g.alicdn.com/secdev/entry/index.js",
+      "https://assets.alicdn.com/g/ae-fe/login-ui/0.0.67/module-Nlclc.js",
+      "https://assets.alicdn.com/g/secdev/sufei_data/3.9.0/index.js",
+      "https://assets.alicdn.com/g/ae-fe/login-ui/0.0.67/zoro-gep-sdk-H4PFq.js",
+      "https://assets.alicdn.com/g/retcode/cloud-sdk/bl.js",
+      "https://assets.alicdn.com/g/secdev/sufei_data/3.9.10/index.js",
+      "https://assets.alicdn.com/g/AWSC/et/1.62.7/et_f.js",
+      "https://aeis.alicdn.com/AWSC/WebUMID/1.93.0/um.js",
+      "https://aeis.alicdn.com/AWSC/uab/1.140.0/collina.js",
+      "https://aeis.alicdn.com/AWSC/fireyejs/1.225.0/fireyejs.js",
+      "https://bov0ib.tdum.alibaba.com/dss.js"
+    ],
+    "third": [
+      "https://ae.mmstat.com/eg.js"
+    ]
+  },
+  "yy.com": {
+    "rank": "44",
+    "private": [
+      "https://web.yystatic.com/project/yycom_footer/pc/js/index-bce37b3a.js",
+      "https://web.yystatic.com/project/yycom_header/pc/js/shim-26548289.js",
+      "https://web.yystatic.com/project/yycom_header/pc/js/index-940063a3.js",
+      "https://web.yystatic.com/project/yycom/pc/js/ventors-7ca03badbc.js",
+      "https://cdn.bigda.com/hiido_internal.js",
+      "https://hdjs.bigda.com/hiido_internal.js",
+      "https://web.yystatic.com/project/yycom/pc/js/index-306c9cd378.js",
+      "https://web.yystatic.com/project/yycom_index/pc/js/tofuPreview-8d1fffed.js",
+      "https://web.yystatic.com/project/yycom_index/pc/js/index-84d20eed.js",
+      "https://web.yystatic.com/project/yycom_index/pc/js/sideTool-45b9e3af.js",
+      "https://cdn.bigda.com/sdk/websdk.js",
+      "https://cdn.bigda.com/sdk/websdk.js",
+      "https://web.yystatic.com/project/analysis_next/index.min.js",
+      "https://web.yystatic.com/project/yycom_index/pc/js/async_component/200-1dddac28.js",
+      "https://web.yystatic.com/project/yycom_index/pc/js/async_component/sidetool-81a51b68.js",
+      "https://web.yystatic.com/public/global/legacyBrowser/js/legacyBrowser.js",
+      "https://web.yystatic.com/project/yycom_index/pc/js/async_component/321-65b2efc8.js"
+    ],
+    "third": []
+  },
+  "huanqiu.com": {
+    "rank": "45",
+    "private": [
+      "https://ipengtai.huanqiu.com/resource/js/base_mobile2.js"
+    ],
+    "third": [
+      "https://rs2.huanqiucdn.cn/huanqiu/js/www/browse/browse_ua.js",
+      "https://cpro.baidustatic.com/cpro/ui/c.js",
+      "https://rs2.huanqiucdn.cn/huanqiu/js/www/index/jquery-1.9.1.min.js",
+      "https://rs2.huanqiucdn.cn/huanqiu/js/www/index/pdmi.js",
+      "https://rs2.huanqiucdn.cn/huanqiu/js/www/index/jquery.cookie.js",
+      "https://rs2.huanqiucdn.cn/huanqiu/js/www/common/all_statistics.js",
+      "https://zz.bdstatic.com/linksubmit/push.js",
+      "https://hm.baidu.com/h.js",
+      "https://rev.uar.hubpd.com/agent/pa.js"
+    ]
+  },
+  "chaturbate.com": {
+    "rank": "46",
+    "private": [],
+    "third": []
+  },
+  "tianya.cn": {
+    "rank": "47",
+    "private": [
+      "https://cmsui.tianya.cn/cms_fragments/res/11589/js/main-base.js",
+      "https://cmsui.tianya.cn/cms_fragments/res/11589/js/jujiao.js"
+    ],
+    "third": [
+      "https://static.tianyaui.com/global/ty2.0/TY_m_2.0.js",
+      "https://cms.tianyaui.com/cms_fragments/res/11589/js/main-base.js",
+      "https://static.tianyaui.com/global/ty/stat/stat_20080313.js",
+      "https://hm.baidu.com/h.js",
+      "https://static.tianyaui.com/global/ty2.0/core/core_interface.js",
+      "https://static.tianyaui.com/global/m/v3/static/js/extra.js",
+      "https://static.tianyaui.com/global/m/v3/static/js/nav_ty.js",
+      "https://static.tianyaui.com/global/ty2.0/m/GMU/zepto.ui_0269c80.js",
+      "https://static.tianyaui.com/global/ty2.0/m/lazyload_e23dd69.js",
+      "https://static.tianyaui.com/global/ty2.0/m/openApp/js/TY.ui.openApp_06d3015.js",
+      "https://static.tianyaui.com/global/ty2.0/m/GMU/widget/slider_ff12ec4.js"
+    ]
+  },
+  "amazon.co.jp": {
+    "rank": "48",
+    "private": [],
+    "third": []
+  },
+  "linkedin.com": {
+    "rank": "49",
+    "private": [],
+    "third": []
+  },
+  "canva.com": {
+    "rank": "50",
+    "private": [],
+    "third": [
+      "https://challenges.cloudflare.com/turnstile/v0/api.js"
+    ]
+  },
+  "yandex.ru": {
+    "rank": "51",
+    "private": [
+      "https://yastatic.net/react/17.0.2/react-with-dom-and-polyfills.min.js",
+      "https://yastatic.net/jquery/2.1.4/jquery.min.js",
+      "https://yastatic.net/s3/passport-static/core/v1.81.5/js/react.authv2.lego.ru.js",
+      "https://yastatic.net/s3/passport-static/core/v1.81.5/js/react.authv2.vendors.ru.js",
+      "https://yastatic.net/s3/passport-static/core/v1.81.5/js/react.authv2.react.ru.js",
+      "https://mc.yandex.ru/metrika/watch.js"
+    ],
+    "third": []
+  },
+  "stackoverflow.com": {
+    "rank": "52",
+    "private": [
+      "https://cdn.sstatic.net/Js/third-party/npm/@stackoverflow/stacks/dist/js/stacks.min.js",
+      "https://cdn.sstatic.net/Js/stub.en.js",
+      "https://cdn.sstatic.net/Js/product/animations.en.js",
+      "https://cdn.sstatic.net/Js/product/lazy-load-images.en.js"
+    ],
+    "third": [
+      "https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"
+    ]
+  },
+  "17ok.com": {
+    "rank": "53",
+    "private": [],
+    "third": []
+  },
+  "force.com": {
+    "rank": "54",
+    "private": [
+      "https://www.salesforce.com/etc.bundles/sfdc-www/bundles/vendors~scriptloader~utils.bundle.bdc9d7f21be745e09ebb.js",
+      "https://www.salesforce.com/etc.bundles/sfdc-www/bundles/vendors~scriptloader.bundle.bdc9d7f21be745e09ebb.js",
+      "https://www.salesforce.com/etc.bundles/sfdc-www/bundles/scriptloader.bundle.bdc9d7f21be745e09ebb.js",
+      "https://www.salesforce.com/etc.bundles/sfdc-www/bundles/vendors~utils~webpack-script-manifest-SfdcWwwBaseCnc-js~webpack-script-manifest-commonlyUsed-js~webp~8dbeef75.bundle.bdc9d7f21be745e09ebb.js",
+      "https://www.salesforce.com/etc.bundles/sfdc-www/bundles/utils.bundle.bdc9d7f21be745e09ebb.js",
+      "https://www.salesforce.com/etc/clientlibs/sfdc-aem-master/sfdc_jquery.min.d6ea05d15a13f90cbddc2a00c4eb5f05.js",
+      "https://a.sfdcstatic.com/digital/one-trust/core/stable/scripttemplates/otSDKStub.js",
+      "https://www.salesforce.com/etc/clientlibs/sfdc-aem-master/clientlibs_onetrust.min.d956db948796236838bf4abf44338802.js",
+      "https://www.salesforce.com/etc/clientlibs/granite/lodash/modern.min.3a0ad4c7614495b1cae264dfcb9b9813.js",
+      "https://www.salesforce.com/etc/clientlibs/sfdc-aem-master/clientlibs_analytics_top.min.a7071a6eaaff6e2784975ca63d7e475c.js",
+      "https://www.salesforce.com/etc/clientlibs/sfdc-aem-master/clientlibs_www_tags.min.1b6dbce218e03b78c31afe6479e1dcca.js",
+      "https://www.salesforce.com/etc.clientlibs/foundation/clientlibs/shared.min.d8eee0685f08a5253a1d753a2619a08f.js",
+      "https://www.salesforce.com/etc.clientlibs/cq/personalization/clientlib/personalization/kernel.min.8a9c18eb0f18363f8d0cfd617ab31e44.js",
+      "https://a.sfdcstatic.com/digital/xsf/components/v1-stable/navs.js",
+      "https://www.salesforce.com/etc/clientlibs/sfdc-www/clientlibs_hgf_tbidauth.js",
+      "https://www.salesforce.com/etc/clientlibs/sfdc-aem-master/clientlibs_analytics_bottom.min.41b9ce4aed5ac0eb55735e095fb7b3f5.js",
+      "https://www.salesforce.com/etc/clientlibs/sfdc-aem-master/clientlibs_evergage.min.93d25246841f4d9f30b4589ef0f08b08.js",
+      "https://a.sfdcstatic.com/digital/one-trust/core/stable/scripttemplates/6.17.0/otBannerSdk.js",
+      "https://a.sfdcstatic.com/digital/@sfdc-www/clientlibs-web-components/v1-stable/identity.js",
+      "https://a.sfdcstatic.com/digital/one-trust/ext/v1-stable/gdpr.js",
+      "https://www.salesforce.com/c/public/redirect/auth.js",
+      "https://www.salesforce.com/etc.bundles/sfdc-www/bundles/webpack-script-manifest-linkedData-js.bundle.bdc9d7f21be745e09ebb.js",
+      "https://www.salesforce.com/etc.bundles/sfdc-www/bundles/vendors~webpack-script-manifest-SfdcWwwBaseCnc-js~webpack-script-manifest-commonlyUsed-js~webpack-sc~8ab15162.bundle.bdc9d7f21be745e09ebb.js",
+      "https://www.salesforce.com/etc.bundles/sfdc-www/bundles/vendors~webpack-script-manifest-SfdcWwwBaseCnc-js~webpack-script-manifest-commonlyUsed-js.bundle.bdc9d7f21be745e09ebb.js",
+      "https://www.salesforce.com/etc.bundles/sfdc-www/bundles/webpack-script-manifest-commonlyUsed-js~webpack-script-manifest-globalNavConsolidated-js~webpack-scr~8e1c6a65.bundle.bdc9d7f21be745e09ebb.js",
+      "https://www.salesforce.com/etc.bundles/sfdc-www/bundles/webpack-script-manifest-commonlyUsed-js.bundle.bdc9d7f21be745e09ebb.js",
+      "https://www.salesforce.com/etc.bundles/sfdc-www/bundles/webpack-script-manifest-tileSystemComponent-js.bundle.bdc9d7f21be745e09ebb.js",
+      "https://www.salesforce.com/etc.bundles/sfdc-www/bundles/webpack-script-manifest-pricingComponent-js.bundle.bdc9d7f21be745e09ebb.js",
+      "https://www.salesforce.com/etc.bundles/sfdc-www/bundles/vendors~webpack-script-manifest-liveChat-js.bundle.bdc9d7f21be745e09ebb.js",
+      "https://www.salesforce.com/etc.bundles/sfdc-www/bundles/webpack-script-manifest-formContainerV2-js~webpack-script-manifest-liveChat-js.bundle.bdc9d7f21be745e09ebb.js",
+      "https://www.salesforce.com/etc.bundles/sfdc-www/bundles/webpack-script-manifest-liveChat-js.bundle.bdc9d7f21be745e09ebb.js",
+      "https://a.sfdcstatic.com/digital/@sfdc-www/clientlibs-web-components/v1-stable/clientLogging.js",
+      "https://a.sfdcstatic.com/digital/@sfdc-www/clientlibs-web-components/v1-stable/analytics.js"
+    ],
+    "third": [
+      "https://static.cloud.coveo.com/coveo.analytics.js/coveoua.js",
+      "https://cdn.evgnet.com/beacon/salesforce/sf_shared_prod/scripts/evergage.min.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://cdn.optimizely.com/public/10681260716/17965891249/1343_7d73a1437e0d77641cc9e30ff0ca931b4473466b36cdc6312887904943cfc69f_tracking.js",
+      "https://www.googletagmanager.com/gtm.js"
+    ]
+  },
+  "1688.com": {
+    "rank": "55",
+    "private": [
+      "https://g.alicdn.com/AWSC/uab/1.140.0/collina.js",
+      "https://g.alicdn.com/AWSC/WebUMID/1.93.0/um.js",
+      "https://astyle.alicdn.com/sys/js/universal/alibar/v6/v6.js",
+      "https://polyfill.alicdn.com/modern/polyfill.min.js",
+      "https://astyle.alicdn.com/fdevlib/js/lofty/port/lofty.js",
+      "https://astyle.alicdn.com/fdevlib/js/gallery/jquery/jquery-latest.js",
+      "https://astyle.alicdn.com/fdevlib/js/lofty/port/lofty.js",
+      "https://astyle.alicdn.com/fdevlib/js/lofty/alicn/suggestion/3.0/input.js",
+      "https://g.alicdn.com/AWSC/et/1.62.7/et_f.js",
+      "https://g.alicdn.com/dinamic/barrier-free/0.0.8/aria.js",
+      "https://g.alicdn.com/ihelper/sdk-loader/index.js",
+      "https://g.alicdn.com/AWSC/AWSC/awsc.js",
+      "https://g.alicdn.com/assets-group/pc-home-1688/0.1.377/pages/home/index.js",
+      "https://astyle.alicdn.com/app/home/v2016/common/js/webp.js",
+      "https://astyle.alicdn.com/fdevlib/js/gallery/jquery/jquery-latest.js",
+      "https://o.alicdn.com/mwb/page-entry/index.js",
+      "https://g.alicdn.com/secdev/entry/index.js",
+      "https://air.1688.com/alim-h5/h5-wireless-script/pages/banner-and-poplayer.js",
+      "https://o.alicdn.com/mwb/common-logger/index.js",
+      "https://g.alicdn.com/alilog/mlog/aplus_v2.js",
+      "https://astyle.alicdn.com/fdevlib/js/lofty/alicn/suggestion/3.0/suggestion.js",
+      "https://g.alicdn.com/secdev/sufei_data/3.9.10/index.js",
+      "https://astyle.alicdn.com/fdevlib/js/lofty/alicn/browser-update/1.0/browser-update-v4.js",
+      "https://astyle.alicdn.com/app/home/v2015/js/module/v-bar.js",
+      "https://astyle.alicdn.com/fdevlib/js/lofty/lang/class.js",
+      "https://astyle.alicdn.com/fdevlib/js/lofty/lang/base.js",
+      "https://astyle.alicdn.com/fdevlib/js/lofty/alicn/suggestion/3.0/core.js",
+      "https://astyle.alicdn.com/fdevlib/js/lofty/alicn/suggestion/3.0/noinput.js",
+      "https://astyle.alicdn.com/fdevlib/js/lofty/alicn/suggestion/3.0/history.js",
+      "https://g.alicdn.com/magic-cube/wap-loader/0.0.25/index.js",
+      "https://astyle.alicdn.com/fdevlib/js/lofty/lang/attribute.js",
+      "https://astyle.alicdn.com/fdevlib/js/lofty/lang/observer.js",
+      "https://astyle.alicdn.com/fdevlib/js/lofty/lang/pluginhost.js",
+      "https://astyle.alicdn.com/fdevlib/js/lofty/ui/widget/1.0/widget.js",
+      "https://astyle.alicdn.com/fdevlib/js/lofty/util/misc/2.0/misc.js",
+      "https://astyle.alicdn.com/fdevlib/js/lofty/util/template/2.0/tplhandler.js",
+      "https://astyle.alicdn.com/fdevlib/js/lofty/util/template/2.0/template.js",
+      "https://astyle.alicdn.com/fdevlib/js/lofty/util/cookie/1.0/cookie.js",
+      "https://astyle.alicdn.com/fdevlib/js/lofty/util/json/1.0/json.js",
+      "https://astyle.alicdn.com/fdevlib/js/lofty/ui/tabs/2.0/tabs.js",
+      "https://astyle.alicdn.com/fdevlib/js/lofty/util/storage/2.0/storage.js",
+      "https://astyle.alicdn.com/fdevlib/js/lofty/util/messenger/2.0/messenger.js",
+      "https://astyle.alicdn.com/fdevlib/js/lofty/util/storage/2.0/userdata-storage.js",
+      "https://astyle.alicdn.com/fdevlib/js/lofty/util/webp/1.0/webp.js",
+      "https://astyle.alicdn.com/fdevlib/js/lofty/util/exposure/1.0/exposure.js",
+      "https://astyle.alicdn.com/fdevlib/js/lofty/util/datalazyload/2.0/datalazyload.js",
+      "https://astyle.alicdn.com/pkg/@alife/vbar-core/1.9.x/bundle.js",
+      "https://g.alicdn.com/alilog/s/8.15.21/plugin/aplus_ae.js",
+      "https://g.alicdn.com/sd/baxia-entry/index.js",
+      "https://astyle.alicdn.com/sys/js/side/full-site-help/cn-help-v3.js",
+      "https://g.alicdn.com/sd/baxia/2.2.3/baxiaCommon.js",
+      "https://astyle.alicdn.com/pkg/@alife/vbar-atmo-inverted-app/1.1.5/index.js",
+      "https://astyle.alicdn.com/pkg/@alife/vbar-notification/1.2.13/index.js",
+      "https://astyle.alicdn.com/pkg/@alife/vbar-topline/0.0.12/index.js",
+      "https://astyle.alicdn.com/pkg/@alife/refly-wk-store/0.0.7/index.js",
+      "https://astyle.alicdn.com/pkg/@alife/refly-helpers/0.0.11/index.js",
+      "https://astyle.alicdn.com/pkg/@alife/refly-request/0.2.x/index.js",
+      "https://astyle.alicdn.com/pkg/@alife/vbar-info-renderer/1.1.x/index.js",
+      "https://astyle.alicdn.com/pkg/@alife/csbc-editor-render/0.1.2/bundle.js",
+      "https://astyle.alicdn.com/pkg/@alife/refly-tracelog/0.0.12/index.js",
+      "https://astyle.alicdn.com/pkg/@alife/refly-db/3.x/index.js",
+      "https://astyle.alicdn.com/pkg/@alife/refly-db-mbox/5.x/index.js",
+      "https://astyle.alicdn.com/pkg/@alife/refly-jdata/0.0.4/index.js",
+      "https://astyle.alicdn.com/pkg/@alife/refly-monitor/0.0.x/index.js",
+      "https://astyle.alicdn.com/pkg/@alife/refly-mbox/3.1.2/index.js"
+    ],
+    "third": [
+      "https://log.mmstat.com/eg.js"
+    ]
+  },
+  "mail.ru": {
+    "rank": "56",
+    "private": [
+      "https://static.pulse.mail.ru/pulse-lenta-1.225.0.js",
+      "https://img.imgsmail.ru/hb/e.mail.ru/@mail-core/logger-preset/base.js",
+      "https://home.imgsmail.ru/resplash/136716/j/d-6397686a.js",
+      "https://limg.imgsmail.ru/pkgs/whiteline/2.95.5/inline.modern.js",
+      "https://home.imgsmail.ru/resplash/136716/j/app-dd7e9e39.js",
+      "https://top-fwz1.mail.ru/js/code.js",
+      "https://limg.imgsmail.ru/pkgs/whiteline/2.95.5/external.modern.js",
+      "https://img.imgsmail.ru/hb/e.mail.ru/auth.gate/2.9.5/authGate.js",
+      "https://r.mradx.net/img/8F/66B1E9.js",
+      "https://r.mradx.net/img/83/F6B8B1.js",
+      "https://r.mradx.net/img/48/B97F31.js",
+      "https://r.mradx.net/img/DB/BF0494.js"
+    ],
+    "third": [
+      "https://yandex.ru/ads/system/context.js",
+      "https://yastatic.net/partner-code-bundles/735356/1c0942547d39e10f5f56.js",
+      "https://yastatic.net/partner-code-bundles/735356/1d03278ac2f9f8969dab.js",
+      "https://yastatic.net/safeframe-bundles/0.83/host.js",
+      "https://yastatic.net/partner-code-bundles/735356/07cea2bf8567304efc16.js",
+      "https://yastatic.net/partner-code-bundles/735356/2ec9a88e40a26b53acde.js",
+      "https://yastatic.net/partner-code-bundles/735356/5704af771e8e81d9d70b.js",
+      "https://yastatic.net/partner-code-bundles/735356/02cea12995d91bd47132.js",
+      "https://yastatic.net/partner-code-bundles/735356/a43861a2d5505f0e2a09.js",
+      "https://yastatic.net/partner-code-bundles/735356/8d1a43fc1f1deb2d16bd.js",
+      "https://yastatic.net/partner-code-bundles/735356/011ed828d407c74ebe28.js",
+      "https://yastatic.net/partner-code-bundles/735356/2934e12cbc759fa5ceba.js",
+      "https://mc.yandex.ru/metrika/watch.js",
+      "https://yastatic.net/partner-code-bundles/735356/b887192c4a62fd372984.js"
+    ]
+  },
+  "msn.com": {
+    "rank": "57",
+    "private": [],
+    "third": [
+      "https://static-global-s-msn-com.akamaized.net/hp-ks/_h/975a7d20/webcore/externalscripts/jquery/jquery-2.1.1.min.js"
+    ]
+  },
+  "whatsapp.com": {
+    "rank": "58",
+    "private": [],
+    "third": []
+  },
+  "indeed.com": {
+    "rank": "59",
+    "private": [],
+    "third": [
+      "https://performance.radar.cloudflare.com/beacon.js"
+    ]
+  },
+  "dropbox.com": {
+    "rank": "60",
+    "private": [],
+    "third": []
+  },
+  "so.com": {
+    "rank": "61",
+    "private": [
+      "https://ss1.360tres.com/ssl/7e85df58d1546018/home/foot.js",
+      "https://static.mediav.com/js/mvf_pmp_lawn.js"
+    ],
+    "third": [
+      "https://ss.360tres.com/lib/jquery/183.js",
+      "https://ss1.360tres.com/ssl/f20cbccfdccd22eb/home/main.js",
+      "https://ss1.360tres.com/ssl/dc56902fce194f57/home/sad.js",
+      "https://ss1.360tres.com/static/20d87fcb044b96be.js",
+      "https://ss1.360tres.com/!5a33324b/require.min.js",
+      "https://ss1.360tres.com/ssl/4a30aee3e717c71d/home/card/loader.js"
+    ]
+  },
+  "wordpress.com": {
+    "rank": "62",
+    "private": [
+      "https://wordpress.com/wp-content/js/bilmur.min.js",
+      "https://refer.wordpress.com/wp-content/themes/refer-wordpress/assets/js/referrals.min.js"
+    ],
+    "third": [
+      "https://s1.wp.com/home.logged-out/page-2022-oct-2023-pricing-grid/js/bundle.js",
+      "https://stats.wp.com/w.js",
+      "https://s1.wp.com/wp-content/js/def-queue.js",
+      "https://stats.wp.com/w.js",
+      "https://s0.wp.com/wp-content/mu-plugins/a8c-analytics/a8c-analytics.js",
+      "https://s0.wp.com/wp-content/mu-plugins/a8c-analytics/458.a8c-analytics.js",
+      "https://s0.wp.com/wp-content/mu-plugins/a8c-analytics/217.a8c-analytics.js",
+      "https://s0.wp.com/wp-content/mu-plugins/a8c-analytics/153.a8c-analytics.js",
+      "https://s1.wp.com/wp-content/themes/h4/landing/marketing/js/affiliate-referrals.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://bat.bing.com/bat.js",
+      "https://static.hotjar.com/c/hotjar-227769.js",
+      "https://bat.bing.com/p/action/4074038.js"
+    ]
+  },
+  "google.co.in": {
+    "rank": "63",
+    "private": [],
+    "third": []
+  },
+  "tiktok.com": {
+    "rank": "64",
+    "private": [],
+    "third": []
+  },
+  "apple.com": {
+    "rank": "65",
+    "private": [
+      "https://www.apple.com/v/home/ay/built/scripts/head.built.js",
+      "https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js",
+      "https://www.apple.com/metrics/ac-analytics/2.17.1/scripts/ac-analytics.js",
+      "https://www.apple.com/ac/globalfooter/8/en_US/scripts/ac-globalfooter.built.js",
+      "https://www.apple.com/ac/localeswitcher/4/en_US/scripts/localeswitcher.built.js",
+      "https://www.apple.com/v/home/ay/built/scripts/main.built.js",
+      "https://www.apple.com/ac/ac-films/6.8.2/scripts/autofilms.built.js",
+      "https://www.apple.com/metrics/data-relay/1.1.4/scripts/data-relay.js",
+      "https://www.apple.com/metrics/data-relay/1.1.4/scripts/auto-relay.js"
+    ],
+    "third": []
+  },
+  "ok.ru": {
+    "rank": "66",
+    "private": [],
+    "third": []
+  },
+  "etsy.com": {
+    "rank": "67",
+    "private": [],
+    "third": []
+  },
+  "tradingview.com": {
+    "rank": "68",
+    "private": [],
+    "third": []
+  },
+  "chase.com": {
+    "rank": "69",
+    "private": [
+      "https://www.chase.com/ruxitagentjs_ICA27QVfhqrux_10241220422021336.js",
+      "https://www.chase.com/c/021123/etc/designs/chase-ux/clientlibs/jquery/js/jquery.min.js",
+      "https://www.chase.com/c/021123/etc/designs/chase-ux/clientlibs/require/js/require.min.js",
+      "https://www.chase.com/c/021123/apps/chase/clientlibs/foundation/scripts/Reporting.js",
+      "https://www.chase.com/c/021123/etc/designs/chase-ux/clientlibs/chase-ux/js/dist/index.min.js",
+      "https://www.chase.com/ruxitagentjs_D_10241220422021336.js",
+      "https://www.chase.com/etc/chase/appsconfig/clientconfig.js",
+      "https://static.chasecdn.com/web/marketing-ui/web-configs/prd/marketing-loader.js",
+      "https://static.chasecdn.com/web/marketing-ui/web-fx/2023.02.14-1/web-framework/slotplacement.min.js"
+    ],
+    "third": []
+  },
+  "google.com.br": {
+    "rank": "70",
+    "private": [],
+    "third": []
+  },
+  "imdb.com": {
+    "rank": "71",
+    "private": [],
+    "third": []
+  },
+  "pornhub.com": {
+    "rank": "72",
+    "private": [],
+    "third": []
+  },
+  "pikiran-rakyat.com": {
+    "rank": "73",
+    "private": [
+      "https://assets.pikiran-rakyat.com/www/2019/desktop/js/jquery-1.12.0.min.js",
+      "https://assets.pikiran-rakyat.com/www/2019/desktop/js/slick.min.js",
+      "https://assets.pikiran-rakyat.com/www/2019/desktop/js/jquery.sticky-kit.min.js",
+      "https://assets.pikiran-rakyat.com/www/2019/desktop/js/main.js",
+      "https://assets.pikiran-rakyat.com/www/2019/desktop/js/jquery.magnific-popup.min.js",
+      "https://assets.pikiran-rakyat.com/www/2019/desktop/js/jquery.marquee.min.js",
+      "https://assets.pikiran-rakyat.com/www/2019/desktop/js/sw/app.js",
+      "https://assets.pikiran-rakyat.com/www/2019/desktop/js/lazysizes.min.js"
+    ],
+    "third": [
+      "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "https://www.googletagservices.com/tag/js/gpt.js",
+      "https://www.gstatic.com/firebasejs/6.5.0/firebase-app.js",
+      "https://www.gstatic.com/firebasejs/6.5.0/firebase-messaging.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://ad.impactify.io/static/ad/tag.js",
+      "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2023030901.js",
+      "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202302280101/show_ads_impl.js",
+      "https://ad.impactify.media/static/ad/v5-1.9.78/screen.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://adservice.google.com/adsid/integrator.js",
+      "https://securepubads.g.doubleclick.net/gpt/pubads_impl_page_level_ads_2023030901.js",
+      "https://partner.googleadservices.com/gampad/cookie.js",
+      "https://adservice.google.com/adsid/integrator.js",
+      "https://static.criteo.net/js/ld/publishertag.ids.js",
+      "https://ced.sascdn.com/tag/2974/smart.js",
+      "https://adservice.google.com/adsid/integrator.js",
+      "https://adservice.google.com/adsid/integrator.js"
+    ]
+  },
+  "coinmarketcap.com": {
+    "rank": "74",
+    "private": [],
+    "third": []
+  },
+  "spotify.com": {
+    "rank": "75",
+    "private": [
+      "https://www-growth.scdn.co/_next/static/chunks/main-97f83a3346c90df97755.js",
+      "https://www-growth.scdn.co/_next/static/chunks/pages/_app-559a0523bf59d00b84ae.js",
+      "https://www-growth.scdn.co/_next/static/chunks/pages/%5Blocale%5D/why-not-available-5ccec450e29d5955a54f.js",
+      "https://pixel-static.spotify.com/sync.min.js"
+    ],
+    "third": [
+      "https://www-growth.scdn.co/_next/static/chunks/webpack-b527ac4852441e5a2010.js",
+      "https://www-growth.scdn.co/_next/static/chunks/framework-895f067827ebe11ffe45.js",
+      "https://www-growth.scdn.co/_next/static/chunks/583-a43181d1bef080c16d93.js",
+      "https://www-growth.scdn.co/_next/static/43b0UZLIda6DNrF9hzj4k/_buildManifest.js",
+      "https://www-growth.scdn.co/_next/static/43b0UZLIda6DNrF9hzj4k/_ssgManifest.js",
+      "https://www.googletagmanager.com/gtm.js"
+    ]
+  },
+  "tribunnews.com": {
+    "rank": "76",
+    "private": [],
+    "third": []
+  },
+  "haosou.com": {
+    "rank": "77",
+    "private": [
+      "https://ss1.360tres.com/ssl/dc56902fce194f57/home/sad.js",
+      "https://static.mediav.com/js/mvf_pmp_lawn.js"
+    ],
+    "third": [
+      "https://ss.360tres.com/lib/jquery/183.js",
+      "https://ss1.360tres.com/ssl/f20cbccfdccd22eb/home/main.js",
+      "https://ss1.360tres.com/ssl/7e85df58d1546018/home/foot.js",
+      "https://ss1.360tres.com/static/20d87fcb044b96be.js",
+      "https://ss1.360tres.com/!5a33324b/require.min.js",
+      "https://ss1.360tres.com/ssl/4a30aee3e717c71d/home/card/loader.js"
+    ]
+  },
+  "alibaba.com": {
+    "rank": "78",
+    "private": [
+      "https://s.alicdn.com/@p/polyfill.min.js",
+      "https://s.alicdn.com/@g/sc/image-upload-react/0.0.2/202212-image-hack.bundle.js",
+      "https://g.alicdn.com/assets-group/banner-above-header/1.0.13/pages/index/index.js",
+      "https://s.alicdn.com/@g/sc/pc-home-2022-base/0.0.1/js/index.js",
+      "https://s.alicdn.com/@g/sc/pc-home-2022/0.0.37/js/products.js",
+      "https://s.alicdn.com/@g/sc/global/0.0.1/sc-global/atom.js",
+      "https://s.alicdn.com/@g/icbu-search-assets/cdn-fy23-searchbar-alibaba-home-page/1.0.4/pages/index.js",
+      "https://s.alicdn.com/@g/icbu-fe-arch/wtf/0.0.3/index.js",
+      "https://s.alicdn.com/@g/sc/global/0.0.1/sc-global/base/package.js",
+      "https://s.alicdn.com/@g/msite/gdpr-cookie-notice/0.0.10/index.js",
+      "https://s.alicdn.com/@g/flasher/sw/2.13.23/client/index.js",
+      "https://s.alicdn.com/@g/sc/header-footer/0.1.6/sc-header-footer/header/entrances/global-header-new/header.js",
+      "https://aeis.alicdn.com/AWSC/AWSC/awsc.js",
+      "https://assets.alicdn.com/g/big-brother/sentry/2.x/index.js",
+      "https://s.alicdn.com/@g/sc-assets/bz-evaluate/0.0.67/pages/survey/index.web.js",
+      "https://aeis.alicdn.com/AWSC/WebUMID/1.93.0/um.js",
+      "https://assets.alicdn.com/g/sd/baxia-entry/index.js",
+      "https://assets.alicdn.com/g/secdev/entry/index.js",
+      "https://assets.alicdn.com/g/sd/baxia/2.2.3/baxiaCommon.js",
+      "https://assets.alicdn.com/g/secdev/sufei_data/3.9.10/index.js",
+      "https://assets.alicdn.com/g/AWSC/et/1.62.7/et_f.js"
+    ],
+    "third": [
+      "https://gj.mmstat.com/eg.js"
+    ]
+  },
+  "livejasmin.com": {
+    "rank": "79",
+    "private": [],
+    "third": []
+  },
+  "google.de": {
+    "rank": "80",
+    "private": [],
+    "third": []
+  },
+  "freepik.com": {
+    "rank": "81",
+    "private": [],
+    "third": [
+      "https://freepik.cdnpk.net/js/common.824af57d5d98eea06d8c.js",
+      "https://freepik.cdnpk.net/js/home_global.470e3b3d3de60ac288db.js",
+      "https://freepik.cdnpk.net/js/home.21ef25c3ebfe660f1e08.js",
+      "https://freepik.cdnpk.net/js/translations.js",
+      "https://freepik.cdnpk.net/js/ads.45977a8980ea098b9931.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://freepik.cdnpk.net/js/71.2208b8fb3305dd5103f2.js",
+      "https://freepik.cdnpk.net/js/70.a7b34696754fbf62ad60.js",
+      "https://ssm.codes/smart-tag/freepik.js",
+      "https://freepik.cdnpk.net/js/36.e4b3f17d20ebb90907e0.js",
+      "https://freepik.cdnpk.net/js/9.a46c77a9579b0259b3e7.js",
+      "https://freepik.cdnpk.net/js/10.73cc8957ce93ffc09ece.js",
+      "https://freepik.cdnpk.net/js/32.fe51b17d56ca35d33b97.js",
+      "https://freepik.cdnpk.net/js/55.a4713defdc84f489634f.js",
+      "https://freepik.cdnpk.net/js/103.be72e01ea8d8a35d0540.js",
+      "https://www.googleoptimize.com/optimize.js",
+      "https://510002994.collect.igodigital.com/collect.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "https://scripts.ssm.codes/audience/app.js",
+      "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2023030701.js",
+      "https://c.amazon-adsystem.com/aax2/apstag.js",
+      "https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js",
+      "https://adservice.google.com/adsid/integrator.js",
+      "https://c.amazon-adsystem.com/bao-csm/aps-comm/aps_csm.js",
+      "https://secure.cdn.fastclick.net/js/pubcid/latest/pubcid.min.js",
+      "https://tags.crwdcntrl.net/lt/c/16576/sync.min.js",
+      "https://cdn.id5-sync.com/api/1.0/id5-api.js",
+      "https://freepik.cdnpk.net/js/56.3d25e76459df604035fe.js"
+    ]
+  },
+  "amazonaws.com": {
+    "rank": "82",
+    "private": [],
+    "third": [
+      "https://a0.awsstatic.com/libra/1.0.533/csp/csp-report.js",
+      "https://a0.awsstatic.com/libra/1.0.533/libra-head.js",
+      "https://a0.awsstatic.com/da/js/1.0.50/aws-da.js",
+      "https://a0.awsstatic.com/s_code/js/3.0/awshome_s_code.js",
+      "https://a0.awsstatic.com/libra/1.0.533/libra-bundle.js",
+      "https://a0.awsstatic.com/libra/1.0.533/vendor/require-marketo-munchkin.js",
+      "https://a0.awsstatic.com/eb-csr/1.0.27/orchestrate.js",
+      "https://a0.awsstatic.com/target/1.0.120/aws-target-mediator.js",
+      "https://a0.awsstatic.com/libra/1.0.533/vendor/marketo-munchkin.js",
+      "https://a0.awsstatic.com/libra/1.0.533/components/popover.js",
+      "https://a0.awsstatic.com/libra/1.0.533/components/tabs.js",
+      "https://a0.awsstatic.com/libra/1.0.533/components/cards.js",
+      "https://a0.awsstatic.com/libra/1.0.533/components/sort.js",
+      "https://a0.awsstatic.com/libra/1.0.533/components/gi-map.js",
+      "https://a0.awsstatic.com/libra/1.0.533/components/modal.js",
+      "https://a0.awsstatic.com/libra/1.0.533/components/section-indicator.js",
+      "https://a0.awsstatic.com/libra/1.0.533/components/carousel.js",
+      "https://a0.awsstatic.com/libra/1.0.533/components/modal-mixin.js",
+      "https://a0.awsstatic.com/libra/1.0.533/vendor/owl.carousel.js",
+      "https://a0.awsstatic.com/libra/1.0.533/libra-cardsui/themes/showcase-grid.js",
+      "https://a0.awsstatic.com/libra/1.0.533/components/news-ticker.js"
+    ]
+  },
+  "babytree.com": {
+    "rank": "83",
+    "private": [
+      "http://static02.babytreeimg.com/img/js/myurchin.js"
+    ],
+    "third": [
+      "https://hm.baidu.com/hm.js"
+    ]
+  },
+  "cnblogs.com": {
+    "rank": "84",
+    "private": [
+      "https://common.cnblogs.com/script/jquery.js",
+      "https://www.cnblogs.com/js/aggsite-new.min.js"
+    ],
+    "third": [
+      "https://www.googletagservices.com/tag/js/gpt.js",
+      "https://hm.baidu.com/hm.js",
+      "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2023030901.js",
+      "https://res.wx.qq.com/open/js/jweixin-1.6.0.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://adservice.google.com/adsid/integrator.js"
+    ]
+  },
+  "google.co.jp": {
+    "rank": "85",
+    "private": [],
+    "third": []
+  },
+  "paypal.com": {
+    "rank": "86",
+    "private": [
+      "https://www.paypalobjects.com/webcaptcha/ngrlCaptcha.min.js",
+      "https://www.paypalobjects.com/pa/js/min/pa.js",
+      "https://www.paypalobjects.com/marketing-resources/vendors/react-17_0_1-bundle.js",
+      "https://www.paypalobjects.com/helpcenter/smartchat/sales/v1/open-chat.js",
+      "https://www.paypalobjects.com/activation/js/marketingIntentsV2.js",
+      "https://www.paypalobjects.com/marketing-resources/js/41/0737fc66f6bc1ea1d8bda7d6a8525573bd5e9f.js",
+      "https://www.paypal.com/auth/createchallenge/80d83cf72da55bd2/recaptchav3.js",
+      "https://www.paypalobjects.com/pa/mi/paypal/latmconf.js",
+      "https://www.paypalobjects.com/pa/mi/3p/gtag/gtag.js",
+      "https://www.paypalobjects.com/pa/3pjs/qualtrics/1.64.1/OrchestratorMain.js",
+      "https://www.paypalobjects.com/pa/3pjs/qualtrics/1.64.1/12.2e4d3453d92fa382c1f6.chunk.js",
+      "https://www.paypalobjects.com/pa/mi/3p/gtag/analytics.js"
+    ],
+    "third": [
+      "https://www.googleadservices.com/pagead/conversion_async.js"
+    ]
+  },
+  "instructure.com": {
+    "rank": "87",
+    "private": [],
+    "third": []
+  },
+  "gome.com.cn": {
+    "rank": "88",
+    "private": [],
+    "third": []
+  },
+  "salesforce.com": {
+    "rank": "89",
+    "private": [
+      "https://www.salesforce.com/etc.bundles/sfdc-www/bundles/vendors~scriptloader~utils.bundle.bdc9d7f21be745e09ebb.js",
+      "https://www.salesforce.com/etc.bundles/sfdc-www/bundles/vendors~scriptloader.bundle.bdc9d7f21be745e09ebb.js",
+      "https://www.salesforce.com/etc.bundles/sfdc-www/bundles/scriptloader.bundle.bdc9d7f21be745e09ebb.js",
+      "https://www.salesforce.com/etc.bundles/sfdc-www/bundles/vendors~utils~webpack-script-manifest-SfdcWwwBaseCnc-js~webpack-script-manifest-commonlyUsed-js~webp~8dbeef75.bundle.bdc9d7f21be745e09ebb.js",
+      "https://www.salesforce.com/etc.bundles/sfdc-www/bundles/utils.bundle.bdc9d7f21be745e09ebb.js",
+      "https://www.salesforce.com/etc/clientlibs/sfdc-aem-master/sfdc_jquery.min.19bd356df5b503b44643.js",
+      "https://a.sfdcstatic.com/digital/one-trust/core/stable/scripttemplates/otSDKStub.js",
+      "https://www.salesforce.com/etc/clientlibs/sfdc-aem-master/clientlibs_onetrust.min.19bd356df5b503b44643.js",
+      "https://www.salesforce.com/etc/clientlibs/granite/lodash/modern.min.19bd356df5b503b44643.js",
+      "https://www.salesforce.com/etc/clientlibs/sfdc-aem-master/clientlibs_analytics_top.min.19bd356df5b503b44643.js",
+      "https://www.salesforce.com/etc/clientlibs/sfdc-aem-master/clientlibs_www_tags.min.19bd356df5b503b44643.js",
+      "https://www.salesforce.com/etc.clientlibs/foundation/clientlibs/shared.min.d8eee0685f08a5253a1d753a2619a08f.js",
+      "https://www.salesforce.com/etc.clientlibs/cq/personalization/clientlib/personalization/kernel.min.8a9c18eb0f18363f8d0cfd617ab31e44.js",
+      "https://a.sfdcstatic.com/digital/xsf/components/v1-stable/navs.js",
+      "https://www.salesforce.com/etc/clientlibs/sfdc-www/clientlibs_hgf_tbidauth.js",
+      "https://www.salesforce.com/etc/clientlibs/sfdc-aem-master/clientlibs_analytics_bottom.min.41b9ce4aed5ac0eb55735e095fb7b3f5.js",
+      "https://www.salesforce.com/etc/clientlibs/sfdc-aem-master/clientlibs_evergage.min.93d25246841f4d9f30b4589ef0f08b08.js",
+      "https://a.sfdcstatic.com/digital/@sfdc-www/clientlibs-web-components/v1-stable/identity.js",
+      "https://a.sfdcstatic.com/digital/one-trust/core/stable/scripttemplates/6.17.0/otBannerSdk.js",
+      "https://www.salesforce.com/etc.bundles/sfdc-www/bundles/webpack-script-manifest-optimizely-js.bundle.bdc9d7f21be745e09ebb.js",
+      "https://a.sfdcstatic.com/digital/one-trust/ext/v1-stable/gdpr.js",
+      "https://www.salesforce.com/c/public/redirect/auth.js",
+      "https://www.salesforce.com/etc.bundles/sfdc-www/bundles/webpack-script-manifest-linkedData-js.bundle.bdc9d7f21be745e09ebb.js",
+      "https://www.salesforce.com/etc.bundles/sfdc-www/bundles/vendors~webpack-script-manifest-SfdcWwwBaseCnc-js~webpack-script-manifest-commonlyUsed-js~webpack-sc~8ab15162.bundle.bdc9d7f21be745e09ebb.js",
+      "https://www.salesforce.com/etc.bundles/sfdc-www/bundles/vendors~webpack-script-manifest-SfdcWwwBaseCnc-js~webpack-script-manifest-commonlyUsed-js.bundle.bdc9d7f21be745e09ebb.js",
+      "https://www.salesforce.com/etc.bundles/sfdc-www/bundles/webpack-script-manifest-commonlyUsed-js~webpack-script-manifest-globalNavConsolidated-js~webpack-scr~8e1c6a65.bundle.bdc9d7f21be745e09ebb.js",
+      "https://www.salesforce.com/etc.bundles/sfdc-www/bundles/webpack-script-manifest-commonlyUsed-js.bundle.bdc9d7f21be745e09ebb.js",
+      "https://www.salesforce.com/etc.bundles/sfdc-www/bundles/webpack-script-manifest-jumbotronComponent-js.bundle.bdc9d7f21be745e09ebb.js",
+      "https://www.salesforce.com/etc.bundles/sfdc-www/bundles/vendors~webpack-script-manifest-liveChat-js.bundle.bdc9d7f21be745e09ebb.js",
+      "https://www.salesforce.com/etc.bundles/sfdc-www/bundles/webpack-script-manifest-formContainerV2-js~webpack-script-manifest-liveChat-js.bundle.bdc9d7f21be745e09ebb.js",
+      "https://www.salesforce.com/etc.bundles/sfdc-www/bundles/webpack-script-manifest-liveChat-js.bundle.bdc9d7f21be745e09ebb.js",
+      "https://a.sfdcstatic.com/digital/@sfdc-www/clientlibs-web-components/v1-stable/clientLogging.js",
+      "https://service.force.com/embeddedservice/5.0/utils/common.min.js",
+      "https://service.force.com/embeddedservice/5.0/client/liveagent.esw.min.js"
+    ],
+    "third": [
+      "https://static.cloud.coveo.com/coveo.analytics.js/coveoua.js",
+      "https://cdn.optimizely.com/js/11810450200.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://cdn.krxd.net/controltag/rzfzjhte8.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://cdn3.optimizely.com/js/geo4.js"
+    ]
+  },
+  "booking.com": {
+    "rank": "90",
+    "private": [
+      "https://cf.bstatic.com/libs/privacy-consent/releases/2.1.38/customer/cookie-banner.min.js",
+      "https://cf.bstatic.com/static/js/crossorigin_check_cloudfront_sd/2454015045ef79168d452ff4e7f30bdadff0aa81.js",
+      "https://cf.bstatic.com/static/js/core-deps-inlinedet_cloudfront_sd/6da0bf621035bb8a2f9c756d6a89dda03b2f7864.js",
+      "https://cf.bstatic.com/static/js/jquery_cloudfront_sd/e1e8c0e862309cb4caf3c0d5fbea48bfb8eaad42.js",
+      "https://cf.bstatic.com/static/js/main_cloudfront_sd/2c5b361ae1bd95f6401f87fcacfdc9eab3b210f4.js",
+      "https://cf.bstatic.com/static/js/landingpage_cloudfront_sd/d731e6c6e8c81339337d5fbb6d244a92803397b2.js",
+      "https://cf.bstatic.com/static/js/searchbox_cloudfront_sd/9559ce1436fc4edda283895e133a5ab0397c1ac8.js",
+      "https://cf.bstatic.com/static/js/lazy_load_images_cloudfront_sd/77204d4da4aa41b08b1a4062c8e66e4629550994.js",
+      "https://cf.bstatic.com/static/js/sp-on-maps_cloudfront_sd/d30eef4dc5202875d4c3301b8a0e8ff09f9a0e28.js",
+      "https://cf.bstatic.com/static/js/raf_cloudfront_sd/7a4c03fc6a54bc62485ce3f720a1bd3bb1dd1551.js",
+      "https://cf.bstatic.com/psb/capla/static/js/bui-react.0bda3cf2.js",
+      "https://cf.bstatic.com/psb/capla/static/js/vendors.493d57b8.js",
+      "https://cf.bstatic.com/psb/capla/static/js/client.dd0eb06c.js",
+      "https://cf.bstatic.com/psb/capla/static/js/435.2c7dd6aa.chunk.js",
+      "https://cf.bstatic.com/psb/capla/static/js/513.ec846521.chunk.js",
+      "https://cf.bstatic.com/psb/capla/static/js/514.1cd1de34.chunk.js",
+      "https://cf.bstatic.com/psb/capla/static/js/534.7b853921.chunk.js",
+      "https://cf.bstatic.com/psb/capla/static/js/736.6d693bf6.chunk.js",
+      "https://cf.bstatic.com/psb/capla/static/js/224.e92881da.chunk.js",
+      "https://cf.bstatic.com/psb/capla/static/js/186.c5dd6218.chunk.js",
+      "https://cf.bstatic.com/psb/capla/static/js/527.ff9a58db.chunk.js",
+      "https://cf.bstatic.com/psb/capla/static/js/664.0094f211.chunk.js",
+      "https://cf.bstatic.com/psb/capla/static/js/979.44b563b6.chunk.js",
+      "https://cf.bstatic.com/psb/capla/static/js/541.603ce011.chunk.js",
+      "https://cf.bstatic.com/psb/capla/static/js/76.7ec0fb54.chunk.js",
+      "https://cf.bstatic.com/psb/capla/static/js/665.bed4a4f3.chunk.js"
+    ],
+    "third": [
+      "https://cf.bstatic.com/static/js/index_cloudfront_sd/236ec15ceb1f25aadac01fa72bc01f86a8cc99eb.js",
+      "https://cf.bstatic.com/static/js/error_catcher_bec_cloudfront_sd/0acd2ada6c74d5dec978a04ea837952bdf050cd2.js",
+      "https://cf.bstatic.com/static/js/genius_vip_cloudfront_sd/0fa5ce08d822cfb3e8f892ca799997e5f53cf27d.js",
+      "https://cf.bstatic.com/psb/capla/static/js/348.f35fb0da.chunk.js",
+      "https://cf.bstatic.com/psb/capla/static/js/579.a88d1f68.chunk.js",
+      "https://cf.bstatic.com/psb/capla/static/js/970.d4ce87b4.chunk.js",
+      "https://cf.bstatic.com/psb/capla/static/js/778.7bc7ac19.chunk.js",
+      "https://cf.bstatic.com/psb/capla/static/js/93.d19c21b6.chunk.js"
+    ]
+  },
+  "espn.com": {
+    "rank": "91",
+    "private": [],
+    "third": []
+  },
+  "xvideos.com": {
+    "rank": "92",
+    "private": [],
+    "third": []
+  },
+  "godaddy.com": {
+    "rank": "93",
+    "private": [],
+    "third": []
+  },
+  "xhamster.com": {
+    "rank": "94",
+    "private": [],
+    "third": []
+  },
+  "github.com": {
+    "rank": "95",
+    "private": [],
+    "third": []
+  },
+  "rakuten.co.jp": {
+    "rank": "96",
+    "private": [],
+    "third": []
+  },
+  "flipkart.com": {
+    "rank": "97",
+    "private": [],
+    "third": [
+      "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/js/runtime.22eed50d.js",
+      "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/js/vendor.chunk.e15fff75.js",
+      "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/js/app_modules.chunk.cb523517.js",
+      "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/js/app_common.chunk.735779d7.js",
+      "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/js/app.chunk.ad556f67.js",
+      "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/js/BannerWidget.chunk.ea83b377.js",
+      "https://static-assets-web.flixcart.com/www/linchpin/batman-returns/omni/omni16.js",
+      "https://static-assets-web.flixcart.com/px/gNtTli3A/init.js",
+      "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/js/Home.chunk.3f17d433.js"
+    ]
+  },
+  "fandom.com": {
+    "rank": "98",
+    "private": [
+      "https://www.fandom.com/f2/assets/common.en.js",
+      "https://www.fandom.com/f2/assets/news-and-stories.en.js",
+      "https://static.wikia.nocookie.net/silversurfer/prod/latest/sdk.js",
+      "https://static.wikia.nocookie.net/silversurfer/prod/latest/pathfinder.js",
+      "https://script.wikia.nocookie.net/fandom-ae-assets/tracking-opt-in/v9.4.23/tracking-opt-in.min.js",
+      "https://script.wikia.nocookie.net/fandom-ae-assets/identity-service/v1.0.0/index.js",
+      "https://script.wikia.nocookie.net/fandom-ae-assets/platforms/v130.6.6/f2/main.bundle.js",
+      "https://static.wikia.nocookie.net/silversurfer/prod/latest/6913-pathfinder.js",
+      "https://static.wikia.nocookie.net/silversurfer/prod/latest/4921-pathfinder.js",
+      "https://static.wikia.nocookie.net/silversurfer/prod/latest/1931-pathfinder.js",
+      "https://static.wikia.nocookie.net/silversurfer/prod/latest/haloEffectVerticalModuleUnit-pathfinder.js",
+      "https://static.wikia.nocookie.net/silversurfer/prod/latest/7762-pathfinder.js",
+      "https://static.wikia.nocookie.net/silversurfer/prod/latest/SponsoredWidgetsCountdownClockConsumptionModule-pathfinder.js",
+      "https://static.wikia.nocookie.net/silversurfer/prod/latest/1698-pathfinder.js",
+      "https://static.wikia.nocookie.net/silversurfer/prod/latest/1484-pathfinder.js",
+      "https://static.wikia.nocookie.net/silversurfer/prod/latest/registrationButtonUnit-pathfinder.js"
+    ],
+    "third": [
+      "https://www.googletagservices.com/tag/js/gpt.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://www.fastly-insights.com/static/scout.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://www.googletagmanager.com/gtm.js",
+      "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2023030701.js",
+      "https://script.crazyegg.com/pages/scripts/0097/8082.js",
+      "https://d1z2jf7jlzjs58.cloudfront.net/p.js",
+      "https://sb.scorecardresearch.com/beacon.js",
+      "https://secure.quantserve.com/quant.js",
+      "https://s3.amazonaws.com/ki.js/52510/bgJ.js",
+      "https://ak.sail-horizon.com/spm/spm.v1.min.js",
+      "https://cdn-gl.imrworldwide.com/conf/P26086A07-C7FB-4124-A679-8AC404198BA7.js",
+      "https://cdn.parsely.com/keys/fandom.wikia.com/p.js",
+      "https://cdn.hadronid.net/hadron.js",
+      "https://rules.quantcount.com/rules-p-8bG6eLqkH6Avk.js",
+      "https://cdn-gl.imrworldwide.com/novms/js/2/nlsSDK600.bundle.min.js",
+      "https://www.google-analytics.com/plugins/ua/ecommerce.js",
+      "https://www.google-analytics.com/plugins/ua/ec.js",
+      "https://www.googletagservices.com/tag/js/gpt.js"
+    ]
+  },
+  "google.cn": {
+    "rank": "99",
+    "private": [],
+    "third": []
+  },
+  "walmart.com": {
+    "rank": "100",
+    "private": [
+      "https://i5.walmartimages.com/beacon/beacon.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ui_hero-pov_components_desktop.04aa9e27dbed5dba.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ads_core_hooks_use-load-ivt-60dd9b84c7736760.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ui_hero-pov_components_hero-pov-card-ad-wrapper.23f5bfd885cb5eed.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/node_modules_.pnpm_@walmart+use-safeframe@0.1.10_react@17.0_node_modules_@walmart_use-safeframe_lib_utils_listenForPostMessage.63ef76045585ab5e.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/node_modules_.pnpm_isomorphic-dompurify@0.13_node_modules_isomorphic-dompurify_browser-fa64bcd6cd41ebb5.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ui_product-tile_vertical-d652bca29746dda5.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ui_product-tile_locale_messages-3b6933dea904ea50.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/home_mini-carousel.07dd21d8b1340e70.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ui_calloutWrapper.32e6564d3b5860c9.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ads_core_hooks_use-class-name-container.1d1d7ca320b388dd.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/node_modules_.pnpm_@walmart+use-safeframe@0.1.10_react@17.0_node_modules_@walmart_use-safeframe_lib_index-73db399cc238d48a.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ads_core_components_feature-wrapper-cdf815c381d01758.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ads_ui_btf_brand-box-wrapper-c48e8336f607fc7e.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ads_ui_gallery.25d996d5a8ce4745.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ads_ui_video_video-player-7a8cb3f4f09de21b.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ads_ui_btf_ads-btf-cmp.5867b48313961122.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ads_ui_btf.dc6d2ca736581e9d.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ads_core_fire-pixel.b57f2134127df292.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/global-nav_footer_cookie-checker.9ff9f003ea83e7f8.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/webpack-bc9b67f8b29945cc.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/main-546446ca67a25df1.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/framework-a29671b22cd7f2e1.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/pages/_app-adda0f441ec45398.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ui_horizontal-scroller_horizontal-scroller-81ba6100eb452671.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ads_generic-utils_get-moat-id-44108fa9f6368a84.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/cart_add-to-cart_add-to-cart-663a3d26095b0799.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ui_quantity-stepper_quantity-stepper-ef35d87e0eb40f19.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/home_data-access_utils-51c50089859978cb.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ads_provider_ads-context-provider-992908ee823f8209.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/repurchase_quick-add_repurchase-quick-add-179390f91e97a986.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/pages/index-c43c783754ac7c16.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/production_20230310T093116636Z-en-US/_buildManifest.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/production_20230310T093116636Z-en-US/_ssgManifest.js",
+      "https://i5.walmartimages.com/a14/capabilities.min.js",
+      "https://www.walmart.com/sw-register.js",
+      "https://www.walmart.com/px/PXu6b0qd2S/init.js",
+      "https://beacon.walmart.com/rum.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ui_horizontal-scroller_horizontal-scroller-81ba6100eb452671.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ads_generic-utils_get-moat-id-44108fa9f6368a84.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ui_quantity-stepper_quantity-stepper-ef35d87e0eb40f19.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/cart_add-to-cart_add-to-cart-663a3d26095b0799.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/cart_data-access_hooks_panel-cart-context-8472b0f042a03885.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ui_event-timer_queue-timer-d4ea5f143a7d916c.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ui_collapsed-item-list_collapsed-item-list-cb56fc17240cc2d2.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/cart_data-access_hooks_use-get-cart-query-info-f0fd2196aad215be.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/payments-benefits_benefit-tracker-banners_components_benefit-tracker-nudge-with-benefit-details-0423637542f46ea0.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/cart_data-access_hooks_cart-fsm-581e46fb7fb6f532.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/checkout_bookslot-data-access_transformers-d4e022c7dc80ef68.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/cart_item-updates-container_hooks_price-change-items-0849a08a6f844eed.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/cart_item-updates-container_utils_beacon-payload-d03d1896c295d5c3.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/cart_product-tile-container_cart-product-tile-f7d4a0561ef621d8.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/cart_use-step_use-step-navigation-47010e5e57a587fe.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/cart_data-access_hooks_get-fulfillment-reservation-info-9982b6fc25f3eb9e.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/cart_data-access_hooks_update-fulfillment-option-b6f34ae99c7e318b.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/cart_pos_fees-b2153fba5412e15d.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/cart_data-access_utils_bookslot-slot-price-utils-0abf5ea0df6dd309.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/amends_data-access_hooks_use-amendable-order-query-d8d10cc7ec82805c.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/cart_index-page_empty-cart-8146840608cac605.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/node_modules_.pnpm_debounce@1.2_node_modules_debounce_index-53a46f28140e0bf5.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/us_cart_index-page-86b0a99fa924f6c8.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/us_cart_index-page.eb1ae5f6713ef7b4.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/account_data-access_address-queries-f8a73c1580ec335c.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/cart_data-access-core_hooks_use-show-gifting-copy.ec759d1b20abbc8a.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/account_data-access_get-account-landing-query.670847ae8777f23c.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/checkout_bookslot-fulfillment-details_hooks_use-wplus-member-39cfb05db96c5985.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/cart-bookslot-panel.fec59e5504083b16.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/cart_data-access_hooks_get-fulfillment-reservation-info.ab9df068413bbe51.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/cart-global-assets.fa83c4276ba0a9b4.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/identity-next_one-tap-auth.cebd22871f88625d.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/cart_data-access_hooks_panel-cart-context-8472b0f042a03885.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/checkout_store-chooser_hooks_use-save-store-set-delivery.a2e0c2d6fbbbd7e3.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/checkout_bookslot-data-access_transformers-d4e022c7dc80ef68.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/cart_data-access_hooks_get-fulfillment-reservation-info-9982b6fc25f3eb9e.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/cart_data-access_utils_bookslot-slot-price-utils-0abf5ea0df6dd309.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/node_modules_.pnpm_debounce@1.2_node_modules_debounce_index.4fd9543b9690b8d5.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ui_dialog.7e1370f36cc24b85.js",
+      "https://www.walmart.com/px/PXu6b0qd2S/init.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/item_data-hooks_item-data-hooks-cc66deb2a0724661.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ui_product-carousel_product-carousel-b082b06ac4974cc9.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ui_navigational-modal_navigational-modal-3f26dd57846b60af.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/checkout_store-chooser_hooks_use-get-default-access-types-6da911a0e8bfac26.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/lists_data-access_helpers_add-items-analytics-ff3320746ca55647.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/cart_add-on-services_add-on-services-a7e20ae1d4cbe828.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/item_buy-box_add-to-cart-section-b69adbab169fa190.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/item_hero_hooks_useDeriveVariantInfo-142a4fb05b3ef8c9.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/item_data-access_transforms-7fd8b8bba0eae14d.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/node_modules_.pnpm_debounce@1.2_node_modules_debounce_index-139f74f4bbadfeb3.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ads_core_fire-pixel-00b4cfff79fd4ff5.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/pages/ip/%5B...itemParams%5D-befccbfe411d61e0.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/livingdesign_deprecated-components.235573e7969d26c7.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/item_data-hooks_item-data-hooks-cc66deb2a0724661.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ui_product-carousel_product-carousel-b082b06ac4974cc9.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ui_navigational-modal_navigational-modal-3f26dd57846b60af.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/checkout_store-chooser_hooks_use-get-default-access-types-6da911a0e8bfac26.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/lists_data-access_helpers_add-items-analytics-ff3320746ca55647.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/cart_add-on-services_add-on-services-a7e20ae1d4cbe828.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/item_buy-box_add-to-cart-section-b69adbab169fa190.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/item_hero_hooks_useDeriveVariantInfo-142a4fb05b3ef8c9.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/item_data-access_transforms-7fd8b8bba0eae14d.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/node_modules_.pnpm_debounce@1.2_node_modules_debounce_index-139f74f4bbadfeb3.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ads_core_fire-pixel-00b4cfff79fd4ff5.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/pages/ip/%5B...itemParams%5D-befccbfe411d61e0.js",
+      "https://i5.walmartimages.com/dfw/63fd9f59-655c/176dd5bf-04c8-441a-803c-ce22bfc534c4/v2/en-US/_next/static/chunks/ui_captcha.f3000b902ddcd9fe.js",
+      "https://www.walmart.com/px/PXu6b0qd2S/captcha/captcha.js",
+      "https://www.walmart.com/px/PXu6b0qd2S/init.js",
+      "https://www.walmart.com/px/PXu6b0qd2S/init.js"
+    ],
+    "third": [
+      "https://b.wal.co/rum-mappings.js"
+    ]
+  }
+}

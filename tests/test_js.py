@@ -33,13 +33,40 @@ def test_get_xssed():
 
 def test_get_js_relia(src, dest, start):
     # js_analyze.get_all_ns(src, dest, start)
-    js_analyze.get_all_cdn(src, dest, start)
-    js_analyze.get_all_https(src, dest, start)
+    # js_analyze.get_all_cdn(src, dest, start)
+    js_analyze.get_all_https(src, dest, 501)
     js_analyze.get_trans(src, dest, start)
     js_analyze.get_eval_docwrite(src, dest, start)
     # reli_analyzer = js_analyze.JsReliabilityAnalyzer()
     # reli_analyzer.analyze(all_js_src="./result/loading/xssed_js/all_js.json",js_score_src="./result/loading/xssed_js/js_score.json", dest="./result/loading/analyze/xssed_js_reliability.json")
 
+def test_get_dependence():
+    info = {
+        "rank": 1,
+        "has_cycle": False,
+        "weights": {}
+    }
+    driver = chrome_driver.get_driver()
+    har=js_util.get_har_log(driver, "baidu.com")
+    initiators=js_util.get_initiators(har)
+    for item_ in initiators:
+        for url in item_:
+            if not url.endswith(".js"):
+                root_url = url
+                break
+    root_node = js_util.Node(root_url)
+    edges = js_util.get_edges(initiators)
+    visited = [False] * len(edges)
+    has_cycle = False
+    node_set = set([root_url])
+
+    js_util.build_tree(root_node, edges, visited, node_set)
+    weights = js_util.get_node_weight(root_node)
+    weights = dict(sorted(weights.items(), key=lambda x: x[1], reverse=True))
+    info["has_cycle"] = has_cycle
+    info["weights"] = weights
+
+    return info
 
 if __name__ == "__main__":
     # driver = chrome_driver.get_driver("../resources/chromedriver")
@@ -48,10 +75,11 @@ if __name__ == "__main__":
     # initiators = js_util.get_initiators(har)
     # degree_dict = js_util.get_js_degree(har)
     # print(initiators[10])
-    # test_get_js(start = 901, end = 20000, src="./data/domain_rank.json", dest="./result/js/china_2w/")
+    test_get_js(start = 1, end = 20000, src="./data/domains/global_top2w/formated_website_rank.json", dest="./result/js/global_2w/")
     # test_get_xssed()
-    test_get_js_relia(
-        src="./result/js/malicious/all_js.json",
-        dest="./result/js/malicious/analyze/",
-        start=1,
-    )
+    # test_get_js_relia(
+    #     src="./result/js/china_1k/all_js.json",
+    #     dest="./result/js/china_1k/analyze/",
+    #     start=1,
+    # )
+    # print(test_get_dependence())

@@ -38,7 +38,6 @@ def get_js_data(src: str = path.SRC_PATH, dest = path.DEST_JS_PATH, step_size = 
             if status == "fail":
                 driver = chrome_driver.get_driver()
                 driver.set_page_load_timeout(time_const.DRIVER_LOADING_TIME)
-                continue
             ext = tldextract.extract(domain)
             domain_name = ext.registered_domain
             for js_url in js_urls:
@@ -52,9 +51,6 @@ def get_js_data(src: str = path.SRC_PATH, dest = path.DEST_JS_PATH, step_size = 
                 with open(filename, "w") as f:
                     json.dump(all_js, f, indent = 2)
                 all_js = {}
-            filename="{path}all_js.json".format(path=dest)
-            with open(filename, "w") as f:
-                json.dump(all_js,f,indent=2)
  
 def get_all_xssed_domains(dest = path.SRC_XSS_PATH, target_xssed_domain_size = count.XSSED_DOMAIN_SIZE):
     if not os.path.exists(dest):

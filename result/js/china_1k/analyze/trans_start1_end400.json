@@ -1,0 +1,2402 @@
+{
+  "https://img-vip-ssl.a.88cdn.com/lib/jquery/1.12.4/jquery.min.js": {
+    "rank": "1",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://static.iqiyi.com/pc-suike/js/js.cookie.min.js": {
+    "rank": "2",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://static.iqiyi.com/pc-suike/js/md5.js": {
+    "rank": "3",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://static.iqiyi.com/pc-suike/js/index.js": {
+    "rank": "4",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://zz.bdstatic.com/linksubmit/push.js": {
+    "rank": "5",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://datax.baidu.com/x.js": {
+    "rank": "6",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://hm.baidu.com/hm.js": {
+    "rank": "7",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://act.cmcmcdn.com/js/k/infoc.b.min.js": {
+    "rank": "8",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://siteimproveanalytics.com/js/siteanalyze_6017546.js": {
+    "rank": "9",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://www.google-analytics.com/analytics.js": {
+    "rank": "10",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://www.google-analytics.com/plugins/ua/linkid.js": {
+    "rank": "11",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://lf9-search.searchpstatp.com/obj/rc-web-sdk/acrawler.js": {
+    "rank": "12",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://lf3-static.bytednsdoc.com/obj/eden-cn/fapybjlz_lm_zlp/ljhwZthlaukjlkulzlp/security/secsdk.umd.js": {
+    "rank": "13",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://at.alicdn.com/t/font_2316875_96qa1fos9lb.js": {
+    "rank": "14",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://aeu.alicdn.com/waf/antidomxss_v640.js": {
+    "rank": "15",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://aeu.alicdn.com/waf/interfaceacting220819.js": {
+    "rank": "16",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://j1.58cdn.com.cn/beidou-sdk/browser/bundle.min.js": {
+    "rank": "17",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://g.alicdn.com/AWSC/AWSC/awsc.js": {
+    "rank": "18",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://apps.bdimg.com/libs/jquery-lazyload/1.9.5/jquery.lazyload.js": {
+    "rank": "19",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://apps.bdimg.com/libs/jquery/2.1.4/jquery.js": {
+    "rank": "20",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://rp.baidu.com/rp3w/3w.js": {
+    "rank": "21",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://hm.baidu.com/hm.js": {
+    "rank": "22",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://bdimg.share.baidu.com/static/api/js/share.js": {
+    "rank": "23",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://bdimg.share.baidu.com/static/api/js/share/share_api.js": {
+    "rank": "24",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://bdimg.share.baidu.com/static/api/js/view/share_view.js": {
+    "rank": "25",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://bdimg.share.baidu.com/static/api/js/share/slide_api.js": {
+    "rank": "26",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://bdimg.share.baidu.com/static/api/js/view/slide_view.js": {
+    "rank": "27",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://bdimg.share.baidu.com/static/api/js/base/tangram.js": {
+    "rank": "28",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://bdimg.share.baidu.com/static/api/js/share/api_base.js": {
+    "rank": "29",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://bdimg.share.baidu.com/static/api/js/view/view_base.js": {
+    "rank": "30",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://bdimg.share.baidu.com/static/api/js/component/partners.js": {
+    "rank": "31",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://vwo.com/wp-content/cache/autoptimize/1/js/autoptimize_single_e2baeeae85be84a1a27afc51eea10038.js": {
+    "rank": "32",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://vwo.com/wp-content/cache/autoptimize/1/js/autoptimize_single_75f8808dbb8323b160d674092b26eb90.js": {
+    "rank": "33",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://research.vwo.com/js/forms2/js/forms2.min.js": {
+    "rank": "34",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://js.sentry-cdn.com/b36129c57ba949159a1025ee2321642f.min.js": {
+    "rank": "35",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://vwo.com/wp-content/cache/autoptimize/1/js/autoptimize_single_f0cba76b7742df5f4c51e5b1d106c1a7.js": {
+    "rank": "36",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://vwo.com/wp-content/cache/autoptimize/1/js/autoptimize_single_bd023524e92783f2aef80299ee0ba6e6.js": {
+    "rank": "37",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://vwo.com/wp-content/cache/autoptimize/1/js/autoptimize_single_71903c502d9884f0933f2cd324be7df3.js": {
+    "rank": "38",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://vwo.com/wp-content/cache/autoptimize/1/js/autoptimize_single_9af9ce7b79123caa5969675776904980.js": {
+    "rank": "39",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://vwo.com/wp-content/cache/autoptimize/1/js/autoptimize_single_87e4313ce4103275a9bf7570391f1374.js": {
+    "rank": "40",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://vwo.com/wp-content/cache/autoptimize/1/js/autoptimize_single_c3075b9e4d5a35d19f086929298c4e0d.js": {
+    "rank": "41",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://vwo.com/wp-content/cache/autoptimize/1/js/autoptimize_single_483a3731bbe7046c1da3163da76dbe98.js": {
+    "rank": "42",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://vwo.com/wp-content/cache/autoptimize/1/js/autoptimize_single_3013c3f8ab556604e1daf859f7f8384e.js": {
+    "rank": "43",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://vwo.com/wp-content/themes/vwo/js/vendor/waypoints.min.js": {
+    "rank": "44",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://vwo.com/wp-content/cache/autoptimize/1/js/autoptimize_single_10259c5e6865e68f5e43be67aa5fcc17.js": {
+    "rank": "45",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://vwo.com/wp-content/cache/autoptimize/1/js/autoptimize_single_c73ba86bd67306c5889e9aac41e959e0.js": {
+    "rank": "46",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js": {
+    "rank": "47",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://www.googletagmanager.com/gtm.js": {
+    "rank": "48",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://platform.linkedin.com/in.js": {
+    "rank": "49",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://munchkin.marketo.net/munchkin.js": {
+    "rank": "50",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://munchkin.marketo.net/162/munchkin.js": {
+    "rank": "51",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn.cookielaw.org/scripttemplates/6.32.0/otBannerSdk.js": {
+    "rank": "52",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://www.linkedin.com/pages-extensions/FollowCompany.js": {
+    "rank": "53",
+    "x_xss": false,
+    "csp": true,
+    "x_content_type": true
+  },
+  "https://connect.facebook.net/en_US/fbevents.js": {
+    "rank": "54",
+    "x_xss": true,
+    "csp": true,
+    "x_content_type": true
+  },
+  "https://www.redditstatic.com/ads/pixel.js": {
+    "rank": "55",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn.taboola.com/libtrc/unip/1479272/tfa.js": {
+    "rank": "56",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://snap.licdn.com/li.lms-analytics/insight.min.js": {
+    "rank": "57",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://bat.bing.com/bat.js": {
+    "rank": "58",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://s.adroll.com/j/Y53CLKIUGFBEVPJGGICJYT/roundtrip.js": {
+    "rank": "59",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://bat.bing.com/p/action/6001478.js": {
+    "rank": "60",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://s.adroll.com/j/exp/Y53CLKIUGFBEVPJGGICJYT/index.js": {
+    "rank": "61",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://s.adroll.com/j/sendrolling.js": {
+    "rank": "62",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cse.google.com/cse.js": {
+    "rank": "63",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://www.google.com/cse/static/element/c23214b953e32f29/cse_element__en.js": {
+    "rank": "64",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://www.clarity.ms/eus-b-sc/s/0.7.2/clarity.js": {
+    "rank": "65",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://cse.google.com/adsense/search/async-ads.js": {
+    "rank": "66",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://platform.twitter.com/widgets.js": {
+    "rank": "67",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn-ukwest.onetrust.com/consent/59d1924f-7dda-4e44-b65c-efaddca1abce/OtAutoBlock.js": {
+    "rank": "68",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js": {
+    "rank": "69",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://plausible.io/js/plausible.js": {
+    "rank": "70",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js": {
+    "rank": "71",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.8.1/lottie_light.min.js": {
+    "rank": "72",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.4/TweenLite.min.js": {
+    "rank": "73",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.4/TimelineLite.min.js": {
+    "rank": "74",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.4/easing/EasePack.min.js": {
+    "rank": "75",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.4/plugins/CSSPlugin.min.js": {
+    "rank": "76",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdn-ukwest.onetrust.com/scripttemplates/6.30.0/otBannerSdk.js": {
+    "rank": "77",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn.dingxiang-inc.com/ctu-group/captcha-ui/index.js": {
+    "rank": "78",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn.dingxiang-inc.com/ctu-group/constid-js/index.js": {
+    "rank": "79",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn.dingxiang-inc.com/ctu-group/ctu-greenseer/greenseer.js": {
+    "rank": "80",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://hmcdn.baidu.com/static/tongji/plugins/UrlChangeTracker.js": {
+    "rank": "81",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://g1.tagtic.cn/g.js": {
+    "rank": "82",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://g1.tagtic.cn/v1/xingyou/c/779.js": {
+    "rank": "83",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://g1.tagtic.cn/v1/xingyou/c/201998.js": {
+    "rank": "84",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://img.jiguang.cn/web/stat/grab-api.min.js": {
+    "rank": "85",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://img.jiguang.cn/jiguang/public/11d34b84a59d0583b3af.js": {
+    "rank": "86",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://img.jiguang.cn/jiguang/public/696f15f77d1b08b2ca53.js": {
+    "rank": "87",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://img.jiguang.cn/jiguang/public/daa0793ded9c6df2cdb5.js": {
+    "rank": "88",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://img.jiguang.cn/jiguang/public/29b28dce7d2ee7a549bd.js": {
+    "rank": "89",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://img.jiguang.cn/jiguang/public/e7167bea9ecf94ec7105.js": {
+    "rank": "90",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://img.jiguang.cn/jiguang/public/e9ce489ae64b40d6f10e.js": {
+    "rank": "91",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://img.jiguang.cn/jiguang/public/e61ef85dd2cefc199b24.js": {
+    "rank": "92",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://janalytics.jiguang.cn/v1/web/html/janalytics-p-web.min.js": {
+    "rank": "93",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://img.jiguang.cn/jiguang/public/42ee2e61c62f41ef3d7c.js": {
+    "rank": "94",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://img.jiguang.cn/jiguang/public/d1d997c8a6e1e214f71d.js": {
+    "rank": "95",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://img.jiguang.cn/jiguang/public/71ab04b1d241aeece42f.js": {
+    "rank": "96",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://res.suning.cn/project/cmsWeb/suning/homepage/v8/js/index.js": {
+    "rank": "97",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://res.suning.cn/javascript/sn_da/sa-analytics.js": {
+    "rank": "98",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://res.suning.cn/javascript/sn_da/da_opt.js": {
+    "rank": "99",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://sa.suning.cn/cc.js": {
+    "rank": "100",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://res.suning.cn/javascript/SFE.dialog.js": {
+    "rank": "101",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://res.suning.cn/project/cpf/newactpage/pc/couponrule/assets/js/SFE.new.dialog.js": {
+    "rank": "102",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://res.suning.cn/project/cmsWeb/suning/public/base/ariaJs/aria.js": {
+    "rank": "103",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://static4style.duoduocdn.com/libs/jquery/2.1.4/jquery.min.js": {
+    "rank": "104",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://static4style.duoduocdn.com/static/js/md5.min.js": {
+    "rank": "105",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn.shopifycdn.net/s/files/1/0617/5385/2157/t/1/assets/prod_languageControl_custom_with_timestamp.js": {
+    "rank": "106",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdn.shopifycdn.net/s/files/1/0617/5385/2157/t/1/assets/prod_languageControl_custom.js": {
+    "rank": "107",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js": {
+    "rank": "108",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdn.shopify.com/s/files/1/0692/7397/7136/t/2/assets/jquery.min.js": {
+    "rank": "109",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdn.shopify.com/s/files/1/0692/7397/7136/t/2/assets/jquery-cookie.min.js": {
+    "rank": "110",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdn.shopify.com/s/files/1/0692/7397/7136/t/2/assets/lazysizes.js": {
+    "rank": "111",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-e154599399e6b8b29dcb1102cc76eb199fa33a09af4fa78d15e8f8544ee64fcd.js": {
+    "rank": "112",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js": {
+    "rank": "113",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://code.jquery.com/jquery-2.2.4.min.js": {
+    "rank": "114",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://language-translate.uplinkly-static.com/public/language-translate/amazfit-global-store.myshopify.com/language-translate.js": {
+    "rank": "115",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdn.shopify.com/extensions/975d8415-2b7f-496f-8d48-9c1b50d845ad/0.4.0/assets/omega-cookies-notification.js": {
+    "rank": "116",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js": {
+    "rank": "117",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://fe-cdn.huami.com/shopify/ajax/libs/Swiper/8.4.4/swiper.min.js": {
+    "rank": "118",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.3/gsap.min.js": {
+    "rank": "119",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/TweenMax.min.js": {
+    "rank": "120",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.8/ScrollMagic.min.js": {
+    "rank": "121",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TimelineLite.min.js": {
+    "rank": "122",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/plugins/animation.gsap.min.js": {
+    "rank": "123",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdn.shopify.com/shopifycloud/shopify/assets/themes_support/api.jquery-e94e010e92e659b566dbc436fdfe5242764380e00398907a14955ba301a4749f.js": {
+    "rank": "124",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdn.shopify.com/s/files/1/0692/7397/7136/t/2/assets/vendor.js": {
+    "rank": "125",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdn.shopify.com/s/javascripts/currencies.js": {
+    "rank": "126",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdn.shopify.com/shopifycloud/shopify/assets/themes_support/option_selection-9f517843f664ad329c689020fb1e45d03cac979f64b9eb1651ea32858b0ff452.js": {
+    "rank": "127",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdn.shopify.com/s/files/1/0692/7397/7136/t/2/assets/jquery.currencies.min.js": {
+    "rank": "128",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdn.shopify.com/s/files/1/0692/7397/7136/t/2/assets/luxwatches.min.js": {
+    "rank": "129",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdn.shopify.com/s/files/1/0692/7397/7136/t/2/assets/jquery.sticky.js": {
+    "rank": "130",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdnjs.cloudflare.com/ajax/libs/template7/1.4.0/template7.js": {
+    "rank": "131",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://d1um8515vdn9kb.cloudfront.net/files/gempagev2.js": {
+    "rank": "132",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn.codeblackbelt.com/js/modules/frequently-bought-together/main.min.js": {
+    "rank": "133",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn.shopify.com/s/files/1/0692/7397/7136/t/2/assets/tms-translator.js": {
+    "rank": "134",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdn-client.fueled.io/fueled-client-1.1.0.min.js": {
+    "rank": "135",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn.shopify.com/s/trekkie.storefront.7d0a13153e8bbaa5986cddb6780ade2d67000476.min.js": {
+    "rank": "136",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdn.shopify.com/shopifycloud/shopify/assets/shop_events_listener-65cd0ba3fcd81a1df33f2510ec5bcf8c0e0958653b50e3965ec972dd638ee13f.js": {
+    "rank": "137",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdn.shopify.com/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js": {
+    "rank": "138",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdn.shopify.com/b2ff43f7dw185ecff3pd4db58f6m3af5829fm.js": {
+    "rank": "139",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://bat.bing.com/p/action/134605941.js": {
+    "rank": "140",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://res.etranslate.io/etweb/etanslate.min.js": {
+    "rank": "141",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://eb42afa9716f.cdn4.forter.com/sn/eb42afa9716f/script.js": {
+    "rank": "142",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://res.etranslate.io/etweb/selector.js": {
+    "rank": "143",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn.shopify.com/shopifycloud/consent-tracking-api/v0.1/consent-tracking-api.js": {
+    "rank": "144",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://d1um8515vdn9kb.cloudfront.net/files/vendor.js": {
+    "rank": "145",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://d1um8515vdn9kb.cloudfront.net/libs/js/owl.carousel.min.js": {
+    "rank": "146",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://d1um8515vdn9kb.cloudfront.net/libs/js/gfv2herobanner.js": {
+    "rank": "147",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://d1um8515vdn9kb.cloudfront.net/libs/js/gfyoutube.js": {
+    "rank": "148",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://translate.google.com/translate_a/element.js": {
+    "rank": "149",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://apps3.omegatheme.com/cookies-notification/app.js": {
+    "rank": "150",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://www.youtube.com/s/player/7862ca1f/www-widgetapi.vflset/www-widgetapi.js": {
+    "rank": "151",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdn.shopify.com/s/files/1/0692/7397/7136/t/2/assets/gem-page-index-1671609023.js": {
+    "rank": "152",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdn.shopify.com/shopifycloud/media-analytics/v0.1/analytics.js": {
+    "rank": "153",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://apps3.omegatheme.com/cookies-notification/client/layout/popup.js": {
+    "rank": "154",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://shop-soa-static.nubia.com/v2/js/jquery-1.8.3.min.js": {
+    "rank": "155",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://shop-soa-static.nubia.com/v2/js/bootstrap.min.js": {
+    "rank": "156",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://shop-soa-static.nubia.com/v2/js/swiper-bundle.min.js": {
+    "rank": "157",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://shop-soa-static.nubia.com/res/vue.min.js": {
+    "rank": "158",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://shop-soa-static.nubia.com/res/ajaxUtils.js": {
+    "rank": "159",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://shop-soa-static.nubia.com/res/footer.js": {
+    "rank": "160",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://api-data.nubia.com/v1.1.0/na.js": {
+    "rank": "161",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://shop-soa-static.nubia.com/v2/js/jquery.cookie.js": {
+    "rank": "162",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://log.mmstat.com/eg.js": {
+    "rank": "163",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://we.sdoprofile.com/common/static/lib/element/element-2.12.0.min.js": {
+    "rank": "164",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://we.sdoprofile.com/common/static/static2015/js/logs-mobile-detect.js": {
+    "rank": "165",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://we.sdoprofile.com/common/static/static2015/js/logs.js": {
+    "rank": "166",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://fxgate.baidu.com/angelia/fcagl.js": {
+    "rank": "167",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://jp.juancdn.com/jpwebapp/js/md-h5joa.js": {
+    "rank": "168",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://jp.juancdn.com/juanpi/assets/init/jp.header.js": {
+    "rank": "169",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://jp.juancdn.com/juanpi/assets/init/jp.cart.js": {
+    "rank": "170",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://jp.juancdn.com/juanpi/assets/init/md-viewregistreward.js": {
+    "rank": "171",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://jp.juancdn.com/common/js/bfd.js": {
+    "rank": "172",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://jp.juancdn.com/juanpi/assets/init/md-time.js": {
+    "rank": "173",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://jp.juancdn.com/juanpi/assets/init/jp.getSlideAd.js": {
+    "rank": "174",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://jp.juancdn.com/juanpi/assets/init/zhe/zhe-item.js": {
+    "rank": "175",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://hm.baidu.com/h.js": {
+    "rank": "176",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://ssl-static1.bfdcdn.com/service/juanpiwang/juanpiwang.js": {
+    "rank": "177",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://stat-58home.58che.com/ol_58home.js": {
+    "rank": "178",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://s.qunarzz.com/common/assist/202112151733/qunar-assist.js": {
+    "rank": "179",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://common.qunarzz.com/hf_qzz/prd/scripts/default/header_main@8c67db353ab8cc748e9b9421a10e62bf.js": {
+    "rank": "180",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://common.qunarzz.com/static/header/prd/scripts/index.min.js": {
+    "rank": "181",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://q.qunarzz.com/homenode/prd/scripts/searchbox@55471711dfa05a971243.js": {
+    "rank": "182",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://q.qunarzz.com/jquery/prd/jquery-1.7.2.js": {
+    "rank": "183",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://common.qunarzz.com/lib/prd/handlebars.js/4.0.5/handlebars.min.js": {
+    "rank": "184",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://q.qunarzz.com/homenode/prd/scripts/home@1a04bf06b416f07fb371.js": {
+    "rank": "185",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://q.qunarzz.com/wza/prd/20220112/aria.js": {
+    "rank": "186",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://s.c-ctrip.com/universal-id.js": {
+    "rank": "187",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://q.qunarzz.com/homenode/prd/scripts/release/patch@c1ff8adaead701deaa5b.js": {
+    "rank": "188",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://q.qunarzz.com/usertoolbar/prd/v1.0.0/m-usertoolbar.js": {
+    "rank": "189",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://q.qunarzz.com/usertoolbar/prd/v1.0.0/js/m-usertoolbar@379758ff922e9cf07bbc.js": {
+    "rank": "190",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn.jice.io/js/jice.min.js": {
+    "rank": "191",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cres1.fenqile.cn/home/static/extend/vue.2.6.12--8f1dfd8778.js": {
+    "rank": "192",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cres2.fenqile.cn/home/static/extend/swiper.6.5.0--b069343319.js": {
+    "rank": "193",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cres1.fenqile.cn/home/static/main/index--4fca42482a.js": {
+    "rank": "194",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cert.ebs.org.cn/ebsicon.js": {
+    "rank": "195",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://jspassport.ssl.qhimg.com/11.0.1.js": {
+    "rank": "196",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://s.ssl.qhres2.com/ssl/ab77b6ea7f3fbf79.js": {
+    "rank": "197",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://www.google-analytics.com/ga.js": {
+    "rank": "198",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdn.staticfile.org/vue/2.2.2/vue.min.js": {
+    "rank": "199",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://retcode.alicdn.com/retcode/bl.js": {
+    "rank": "200",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cbjs.baidu.com/js/m.js": {
+    "rank": "201",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://dup.baidustatic.com/js/ds.js": {
+    "rank": "202",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://static.anquan.org/static/outer/js/aq_auth.js": {
+    "rank": "203",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://img.kybimg.com/js/app/pc/celebrate.js": {
+    "rank": "204",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://img.kybimg.com/bangxuetang/js/kyMainbusiness.js": {
+    "rank": "205",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js": {
+    "rank": "206",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://code.kmf.com/dist/libs/sensors@1.15.13/sensorsdata.min.js": {
+    "rank": "207",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://v2.uyan.cc/code/uyan.js": {
+    "rank": "208",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://dup.baidustatic.com/js/ds.js": {
+    "rank": "209",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://sofire.bdstatic.com/js/dfxaf3-635b4cd6.js": {
+    "rank": "210",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://www.scdn.co/www-fallback/_next/static/chunks/webpack-942ef8f24da4934f.js": {
+    "rank": "211",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://www.scdn.co/www-fallback/_next/static/chunks/framework-5f4595e5518b5600.js": {
+    "rank": "212",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://www.scdn.co/www-fallback/_next/static/chunks/main-381d5bf1084364f2.js": {
+    "rank": "213",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://www.scdn.co/www-fallback/_next/static/chunks/b2529d6a-7452292cda4fcbc9.js": {
+    "rank": "214",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://www.scdn.co/www-fallback/_next/static/chunks/337-dbe9de4813485c8f.js": {
+    "rank": "215",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://www.scdn.co/www-fallback/_next/static/chunks/431-2d83636631b34e9d.js": {
+    "rank": "216",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://www.scdn.co/www-fallback/_next/static/chunks/pages/_external-error/502-47510a3898d641ce.js": {
+    "rank": "217",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://www.scdn.co/www-fallback/_next/static/chunks/283-17817a45c1bdd7cd.js": {
+    "rank": "218",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://www.scdn.co/www-fallback/_next/static/mBJzSht-8l5nbt92Ogx7F/_middlewareManifest.js": {
+    "rank": "219",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn.cookielaw.org/scripttemplates/6.26.0/otBannerSdk.js": {
+    "rank": "220",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://static.trafficjunky.com/invocation/embeddedads/production/embeddedads.es6.min.js": {
+    "rank": "221",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://ei.phncdn.com/www-static/js/lib/utils/mg_utils-1.0.0.js": {
+    "rank": "222",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://static.trafficjunky.com/ab/ads_test.js": {
+    "rank": "223",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://ei.phncdn.com/www-static/js/lib/ph-functions.js": {
+    "rank": "224",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://ei.phncdn.com/www-static/js/lib/vue/vue-custom-element.min.js": {
+    "rank": "225",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://ei.phncdn.com/www-static/js/lib/vue/vue.min.js": {
+    "rank": "226",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://ei.phncdn.com/www-static/js/mg_modal-1.0.0.js": {
+    "rank": "227",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://ei.phncdn.com/www-static/js/lib/generated-lib.js": {
+    "rank": "228",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://ei.phncdn.com/www-static/js/lib/networkbar-5.0.0.js": {
+    "rank": "229",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://ei.phncdn.com/www-static/js/front-index.js": {
+    "rank": "230",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://static.trafficjunky.com/invocation/idsync/production/idsync.min.js": {
+    "rank": "231",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://ss.phncdn.com/head/load-1.0.3.js": {
+    "rank": "232",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://a0.awsstatic.com/libra/1.0.531/csp/csp-report.js": {
+    "rank": "233",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://a0.awsstatic.com/libra/1.0.531/libra-head.js": {
+    "rank": "234",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://a0.awsstatic.com/da/js/1.0.50/aws-da.js": {
+    "rank": "235",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://a0.awsstatic.com/s_code/js/3.0/awshome_s_code.js": {
+    "rank": "236",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://a0.awsstatic.com/libra/1.0.531/libra-bundle.js": {
+    "rank": "237",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://a0.awsstatic.com/libra/1.0.531/vendor/require-marketo-munchkin.js": {
+    "rank": "238",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://a0.awsstatic.com/eb-csr/1.0.27/orchestrate.js": {
+    "rank": "239",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://a0.awsstatic.com/target/1.0.120/aws-target-mediator.js": {
+    "rank": "240",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://a0.awsstatic.com/libra/1.0.531/vendor/marketo-munchkin.js": {
+    "rank": "241",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://a0.awsstatic.com/libra/1.0.531/components/popover.js": {
+    "rank": "242",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://a0.awsstatic.com/libra/1.0.531/components/tabs.js": {
+    "rank": "243",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://a0.awsstatic.com/libra/1.0.531/components/cards.js": {
+    "rank": "244",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://a0.awsstatic.com/libra/1.0.531/components/sort.js": {
+    "rank": "245",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://a0.awsstatic.com/libra/1.0.531/components/gi-map.js": {
+    "rank": "246",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://a0.awsstatic.com/libra/1.0.531/components/modal.js": {
+    "rank": "247",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://a0.awsstatic.com/libra/1.0.531/components/section-indicator.js": {
+    "rank": "248",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://a0.awsstatic.com/libra/1.0.531/components/modal-mixin.js": {
+    "rank": "249",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://a0.awsstatic.com/libra/1.0.531/libra-cardsui/themes/showcase-grid.js": {
+    "rank": "250",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://a0.awsstatic.com/libra/1.0.531/components/carousel.js": {
+    "rank": "251",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://a0.awsstatic.com/libra/1.0.531/components/news-ticker.js": {
+    "rank": "252",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://a0.awsstatic.com/libra/1.0.531/vendor/owl.carousel.js": {
+    "rank": "253",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cpro.baidustatic.com/cpro/ui/cm.js": {
+    "rank": "254",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://hubble-js-bucket.nosdn.127.net/DATracker.globals.1.6.12.8.js": {
+    "rank": "255",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://static-card.dushu365.com/static/components/hls@v0.12.4/hls.min.js": {
+    "rank": "256",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://www.dushu365.com/scripts/checkIE.js": {
+    "rank": "257",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://static-card.dushu365.com/static/components/dplayer@v1.25.0/dplayer.min.js": {
+    "rank": "258",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://static-card.dushu365.com/static/components/sa-sdk-javascript@1.14.20/sensorsdata.min.js": {
+    "rank": "259",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://www.dushu365.com/scripts/sensor.js": {
+    "rank": "260",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://www.dushu365.com/_next/static/chunks/webpack-2d6c20b89449f43d.js": {
+    "rank": "261",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://www.dushu365.com/_next/static/chunks/main-010ff0b6bbe5ac8f.js": {
+    "rank": "262",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://www.dushu365.com/_next/static/chunks/framework-114634acb84f8baa.js": {
+    "rank": "263",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://www.dushu365.com/_next/static/chunks/pages/_app-01635c9b7d2c3874.js": {
+    "rank": "264",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://www.dushu365.com/_next/static/chunks/590-6fbcf10da23c8b96.js": {
+    "rank": "265",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://www.dushu365.com/_next/static/chunks/399-c31389867e3ffb64.js": {
+    "rank": "266",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://www.dushu365.com/_next/static/chunks/489-37ae1bf5ecd1d93e.js": {
+    "rank": "267",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://www.dushu365.com/_next/static/chunks/pages/index-86ef462d5cd321a3.js": {
+    "rank": "268",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://www.dushu365.com/_next/static/3u2_yIUgleZ1PyIj2j-U5/_buildManifest.js": {
+    "rank": "269",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://www.dushu365.com/_next/static/3u2_yIUgleZ1PyIj2j-U5/_ssgManifest.js": {
+    "rank": "270",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://static-card.dushu365.com/@web/pc.footer/dist/main.js": {
+    "rank": "271",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://static-card.dushu365.com/@web/info.beian/dist/main.js": {
+    "rank": "272",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://res.orayimg.com/oray/1.0/852a6a4.js": {
+    "rank": "273",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://res.orayimg.com/oray/1.0/0b2dd25.js": {
+    "rank": "274",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://res.orayimg.com/oray/1.0/d5cc549.js": {
+    "rank": "275",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://res.orayimg.com/oray/1.0/96b4a35.js": {
+    "rank": "276",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://res.orayimg.com/oray/1.0/cfdd17e.js": {
+    "rank": "277",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://webchat.7moor.com/javascripts/7moorInit.js": {
+    "rank": "278",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://material.weiling.cn/h5/willing-third-party-js/v1/qrcode-nostyle-comp-v1.min.js": {
+    "rank": "279",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://material.weiling.cn/h5/willing-third-party-js/websiteMonitor.min.js": {
+    "rank": "280",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://webchat.7moor.com/javascripts/QiMoIMSDK-254a511ad6.js": {
+    "rank": "281",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn.cnbj1.fds.api.mi-img.com/mi.com-assets/home/pro-assets/810af95.js": {
+    "rank": "282",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn.cnbj1.fds.api.mi-img.com/mi.com-assets/home/pro-assets/8ceeda7.js": {
+    "rank": "283",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn.cnbj1.fds.api.mi-img.com/mi.com-assets/home/pro-assets/05aab9d.js": {
+    "rank": "284",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn.cnbj1.fds.api.mi-img.com/mi.com-assets/home/pro-assets/d46b672.js": {
+    "rank": "285",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn.cnbj1.fds.api.mi-img.com/mi.com-assets/home/pro-assets/bcc8988.js": {
+    "rank": "286",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn.cnbj1.fds.api.mi-img.com/mi.com-assets/home/pro-assets/2618449.js": {
+    "rank": "287",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn.cnbj1.fds.api.mi-img.com/mi.com-assets/home/pro-assets/14f37bc.js": {
+    "rank": "288",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://static.fengkongcloud.com/dist/web/v3.0.0/fp.min.js": {
+    "rank": "289",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://assets.growingio.com/2.1/gio.js": {
+    "rank": "290",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://s.union.360.cn/335584.js": {
+    "rank": "291",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://e.so.com/search/c.js": {
+    "rank": "292",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://s10.mogucdn.com/__/mfp/meili-base-logger/assets/1.3.23/logger.min.js": {
+    "rank": "293",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://s10.mogucdn.com/__/mfp/meili-all-libs-base/assets/3.0.1/vue.min.js,mfp/meili-all-libs-base/assets/3.0.1/polyfill.js,mfp/meili-m/assets/1.7.4/m.all.js,mfp/meili-trace/assets/1.2.7/trace.min.js,mfp/meili-base-mwp-js-sdk/assets/5.0.7/mwp.all.js,mfp/meili-all-base-constant/assets/1.3.7/index.all.min.js,mfp/meili-all-base-utils/assets/3.8.3/index.all.min.js": {
+    "rank": "294",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://s10.mogucdn.com/__/mfp/mgj-pc-new-home/assets/15/home.js": {
+    "rank": "295",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://ssl.google-analytics.com/ga.js": {
+    "rank": "296",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://j.i8tq.com/weather2020/weatherMap/wyJsonList.js": {
+    "rank": "297",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://i.tq121.com.cn/j/core.js": {
+    "rank": "298",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://i.tq121.com.cn/j/jquery.js": {
+    "rank": "299",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://j.i8tq.com/weather1d/pcvideo.js": {
+    "rank": "300",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://j.i8tq.com/weather2020/search/city.js": {
+    "rank": "301",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://j.i8tq.com/weather2020/search/searchCityList.js": {
+    "rank": "302",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://i.tq121.com.cn/j/data_alarm.js": {
+    "rank": "303",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://j.i8tq.com/index/add_new.js": {
+    "rank": "304",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://j.i8tq.com/index/slide.js": {
+    "rank": "305",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://i.tq121.com.cn/j/weather2015/index/main_0814.js": {
+    "rank": "306",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://i.tq121.com.cn/j/weather2015/index/hb.js": {
+    "rank": "307",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://3gimg.qq.com/lightmap/components/geolocation/geolocation.min.js": {
+    "rank": "308",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://j.i8tq.com/index/idangerous.swiper.js": {
+    "rank": "309",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://j.i8tq.com/mysky/wyMsg.js": {
+    "rank": "310",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://i.tq121.com.cn/j/version.js": {
+    "rank": "311",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://i.tq121.com.cn/j/weather2015/publicHead.js": {
+    "rank": "312",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://hm.baidu.com/h.js": {
+    "rank": "313",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://i.tq121.com.cn/j/jquery-1.8.2.js": {
+    "rank": "314",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://i.tq121.com.cn/j/m_event.js": {
+    "rank": "315",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://i.tq121.com.cn/j/weather2014/terminator2.2.min.js": {
+    "rank": "316",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://captcha.gtimg.com/1/tcaptcha-frame.de838f06.js": {
+    "rank": "317",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://assets.geilicdn.com/v-components/pecker/0.1.1/index.js": {
+    "rank": "318",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://assets.geilicdn.com/v-components/v-collect/11.2.30/index.js": {
+    "rank": "319",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://s.geilicdn.com/pc-new-official/3.0.4/index/index.js": {
+    "rank": "320",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://qiyukf.com/script/65219f58275899ae31ede1fc63c4a54b.js": {
+    "rank": "321",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://ssl.captcha.qq.com/TCaptcha.js": {
+    "rank": "322",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://assets.geilicdn.com/weidian-pc/pc-official-nav/0.2.1/footer.1.0.0.umd.js": {
+    "rank": "323",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://assets.geilicdn.com/weidian-pc/pc-official-nav/0.2.1/officleHeader.1.0.0.umd.js": {
+    "rank": "324",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://www.surveycarrot.com/js/image_view.js": {
+    "rank": "325",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://datax.baidu.com/x.js": {
+    "rank": "326",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://pub.120askimages.com/common/js/jquery-2.min.js": {
+    "rank": "327",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn.120askimages.com/m/js/fingerprint2.min.js": {
+    "rank": "328",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn.120askimages.com/ask/js/q_none.js": {
+    "rank": "329",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn.bootcss.com/babel-polyfill/6.23.0/polyfill.min.js": {
+    "rank": "330",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn-go.cn/tam/aegis-sdk/latest/aegis.min.js": {
+    "rank": "331",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cloudcache.tencent-cloud.com/qcloud/portal/home/assets/vendor.1aad8397.js": {
+    "rank": "332",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cloudcache.tencent-cloud.com/qcloud/main/scripts/release/common/vendors/babel/polyfill.6.26.min.js": {
+    "rank": "333",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cloudcache.tencent-cloud.com/qcloud/main/scripts/release/common/deps.419c3c4536f705cc9688.js": {
+    "rank": "334",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cloudcache.tencent-cloud.com/qcloud/main/scripts/release/common/base.c9f6fc3ef1ac545931f6.js": {
+    "rank": "335",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cloudcache.tencent-cloud.com/qcloud/portal/kit/full.30406205b.js": {
+    "rank": "336",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cloudcache.tencent-cloud.com/qcloud/portal/home/assets/index.996a3f92.js": {
+    "rank": "337",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://dscache.tencent-cloud.cn/ecache/qcstat/qcloud/qcloudStatApi.js": {
+    "rank": "338",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cloudcache.tencent-cloud.com/open/qcloud/common/analytics.js": {
+    "rank": "339",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cloudcache.tencent-cloud.com/qcloud/main/scripts/release/qccomponent/index.266400a8a592002f4394.js": {
+    "rank": "340",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://app.cdn.lookbookhq.com/libraries/overlay/overlay.js": {
+    "rank": "341",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://code.jquery.com/jquery-3.6.0.min.js": {
+    "rank": "342",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn.jsdelivr.net/npm/mobile-select@1.3.3/dist/mobile-select.iife.min.js": {
+    "rank": "343",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://www.ptc.com/css/how-to-buy/js/wow.js": {
+    "rank": "344",
+    "x_xss": true,
+    "csp": true,
+    "x_content_type": true
+  },
+  "https://sfc.leadspace.com/SmartForms.js": {
+    "rank": "345",
+    "x_xss": true,
+    "csp": true,
+    "x_content_type": false
+  },
+  "https://www.ptc.com/dist/ptc/js/main.min.js": {
+    "rank": "346",
+    "x_xss": true,
+    "csp": true,
+    "x_content_type": true
+  },
+  "https://www.ptc.com/css/ptc/bootstrap.min.js": {
+    "rank": "347",
+    "x_xss": true,
+    "csp": true,
+    "x_content_type": true
+  },
+  "https://jscloud.net/ptc/20206/inlinks.js": {
+    "rank": "348",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://js.driftt.com/include/1678109100000/fs4rizkxmwrp.js": {
+    "rank": "349",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://sfc.leadspace.com/51269a73-f911-48bd-a264-25f7160457a7.js": {
+    "rank": "350",
+    "x_xss": true,
+    "csp": true,
+    "x_content_type": false
+  },
+  "https://j.6sc.co/6si.min.js": {
+    "rank": "351",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdn.mouseflow.com/projects/4128d744-d49d-4b3d-a97e-dcf6ee9b8613.js": {
+    "rank": "352",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://static.ads-twitter.com/uwt.js": {
+    "rank": "353",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://img.en25.com/i/elqCfg.min.js": {
+    "rank": "354",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://www.ptc.com/js/scripts/fontloader.built.js": {
+    "rank": "355",
+    "x_xss": true,
+    "csp": true,
+    "x_content_type": true
+  },
+  "https://www.ptc.com/dist/ptc/js/form_all.min.js": {
+    "rank": "356",
+    "x_xss": true,
+    "csp": true,
+    "x_content_type": true
+  },
+  "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.14/js/bootstrap-select.min.js": {
+    "rank": "357",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://sfc.leadspace.com/sf5.js": {
+    "rank": "358",
+    "x_xss": true,
+    "csp": true,
+    "x_content_type": false
+  },
+  "https://jscloud.net/ptc/20204/inlinks.js": {
+    "rank": "359",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://dev.visualwebsiteoptimizer.com/web/djIkdGU6Ny4wOmFzeW5jJWdxdWVyeQ==/tag-43317c46166e1d09bb1f98a80069deb0.js": {
+    "rank": "360",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://bat.bing.com/p/action/20265275.js": {
+    "rank": "361",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn.cookielaw.org/scripttemplates/202211.2.0/otBannerSdk.js": {
+    "rank": "362",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://dev.visualwebsiteoptimizer.com/settings.js": {
+    "rank": "363",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn.matomo.cloud/thingsapp.matomo.cloud/matomo.js": {
+    "rank": "364",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://img0.img.9xiuzb.com/pack/global/202205191557/js/miniplanet.js": {
+    "rank": "365",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://img0.img.9xiuzb.com/public/webImg/ass/cropper.js": {
+    "rank": "366",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://img0.img.9xiuzb.com/public/webImg/ass/html2canvas.min.js": {
+    "rank": "367",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://img0.img.9xiuzb.com/pack/common/202303021014/js/miniplanet.js": {
+    "rank": "368",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://img0.img.9xiuzb.com/pack/newindex/202302091645/js/miniplanet.js": {
+    "rank": "369",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://static.fengkongcloud.com/fpv2.js": {
+    "rank": "370",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cstaticdun.126.net/load.min.js": {
+    "rank": "371",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://castatic.fengkongcloud.com/pr/v1.0.3/smcp.min.js": {
+    "rank": "372",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://www.ofo.so/static/js/manifest.58546709a11e80b5f2cc.js": {
+    "rank": "373",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://www.ofo.so/static/js/vendor.1b9bcf7f2919956f3e9c.js": {
+    "rank": "374",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://www.ofo.so/static/js/app.116b2d07517cbc69a4f7.js": {
+    "rank": "375",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://static.xyimg.net/common/js/jquery-1.8.3.min.js": {
+    "rank": "376",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://static.xyimg.net/cn/static/js/common.js": {
+    "rank": "377",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://static.xyimg.net/cn/static/pcv3/js/home.js": {
+    "rank": "378",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://static.xyimg.net/cn/static/js/xxtea.min.10.10.js": {
+    "rank": "379",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://static.xyimg.net/cn/static/pcv3/js/headerC.js": {
+    "rank": "380",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://static.xyimg.net/cn/static/pcv3/js/jquery.SuperSlide.2.1.3.js": {
+    "rank": "381",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://static.xyimg.net/cn/static/pcv3/js/homeAdd.js": {
+    "rank": "382",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://static.xyimg.net/cn/static/pcv3/js/tn_code.js": {
+    "rank": "383",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://static.xyimg.net/cn/static/pcshumei/js/bindMobile.js": {
+    "rank": "384",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://static.portal101.cn/dist/web/v2.0.0/fp.min.js": {
+    "rank": "385",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://static.kingnetdc.com/sdk.js": {
+    "rank": "386",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://castatic.fengkongcloud.cn/pr/auto-build/v1.0.3-170/captcha-sdk.min.js": {
+    "rank": "387",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://s3a.pstatp.com/toutiao/push.js": {
+    "rank": "388",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://www.google-analytics.com/analytics.js": {
+    "rank": "389",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "http://push.zhanzhang.baidu.com/push.js": {
+    "rank": "390",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://www.htc.com/static/js-htc/vendor/jquery-2.2.2.min.js": {
+    "rank": "391",
+    "x_xss": true,
+    "csp": true,
+    "x_content_type": true
+  },
+  "https://www.htc.com/media/filer_public/htc/shared/ga/gtm_for_pdp.js": {
+    "rank": "392",
+    "x_xss": true,
+    "csp": true,
+    "x_content_type": true
+  },
+  "https://www.htc.com/static/app/htc_dist/vendor_1.js": {
+    "rank": "393",
+    "x_xss": true,
+    "csp": true,
+    "x_content_type": true
+  },
+  "https://www.htc.com/static/js-htc/vendor/purl.js": {
+    "rank": "394",
+    "x_xss": true,
+    "csp": true,
+    "x_content_type": true
+  },
+  "https://www.htc.com/static/app/htc_dist/vendor_2.js": {
+    "rank": "395",
+    "x_xss": true,
+    "csp": true,
+    "x_content_type": true
+  },
+  "https://www.htc.com/static/app/htc_dist/vendor_3.js": {
+    "rank": "396",
+    "x_xss": true,
+    "csp": true,
+    "x_content_type": true
+  },
+  "https://www.htc.com/static/app/htc_dist/app.js": {
+    "rank": "397",
+    "x_xss": true,
+    "csp": true,
+    "x_content_type": true
+  },
+  "https://ds-aksb-a.akamaihd.net/aksb.min.js": {
+    "rank": "398",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://web-sdk-cdn.singular.net/singular-gtm-interface/latest/singular-gtm-interface.js": {
+    "rank": "399",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://web-sdk-cdn.singular.net/singular-sdk/latest/singular-sdk.js": {
+    "rank": "400",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  }
+}

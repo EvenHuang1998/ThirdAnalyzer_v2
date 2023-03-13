@@ -1,0 +1,602 @@
+{
+  "https://img-vip-ssl.a.88cdn.com/lib/jquery/1.12.4/jquery.min.js": {
+    "rank": "1",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://static.iqiyi.com/pc-suike/js/js.cookie.min.js": {
+    "rank": "2",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://static.iqiyi.com/pc-suike/js/md5.js": {
+    "rank": "3",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://static.iqiyi.com/pc-suike/js/index.js": {
+    "rank": "4",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://zz.bdstatic.com/linksubmit/push.js": {
+    "rank": "5",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://datax.baidu.com/x.js": {
+    "rank": "6",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://hm.baidu.com/hm.js": {
+    "rank": "7",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://act.cmcmcdn.com/js/k/infoc.b.min.js": {
+    "rank": "8",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://siteimproveanalytics.com/js/siteanalyze_6017546.js": {
+    "rank": "9",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://www.google-analytics.com/analytics.js": {
+    "rank": "10",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://www.google-analytics.com/plugins/ua/linkid.js": {
+    "rank": "11",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://lf9-search.searchpstatp.com/obj/rc-web-sdk/acrawler.js": {
+    "rank": "12",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://lf3-static.bytednsdoc.com/obj/eden-cn/fapybjlz_lm_zlp/ljhwZthlaukjlkulzlp/security/secsdk.umd.js": {
+    "rank": "13",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://at.alicdn.com/t/font_2316875_96qa1fos9lb.js": {
+    "rank": "14",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://aeu.alicdn.com/waf/antidomxss_v640.js": {
+    "rank": "15",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://aeu.alicdn.com/waf/interfaceacting220819.js": {
+    "rank": "16",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://j1.58cdn.com.cn/beidou-sdk/browser/bundle.min.js": {
+    "rank": "17",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://g.alicdn.com/AWSC/AWSC/awsc.js": {
+    "rank": "18",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://apps.bdimg.com/libs/jquery-lazyload/1.9.5/jquery.lazyload.js": {
+    "rank": "19",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://apps.bdimg.com/libs/jquery/2.1.4/jquery.js": {
+    "rank": "20",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://rp.baidu.com/rp3w/3w.js": {
+    "rank": "21",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://hm.baidu.com/hm.js": {
+    "rank": "22",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://bdimg.share.baidu.com/static/api/js/share.js": {
+    "rank": "23",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://bdimg.share.baidu.com/static/api/js/share/share_api.js": {
+    "rank": "24",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://bdimg.share.baidu.com/static/api/js/view/share_view.js": {
+    "rank": "25",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://bdimg.share.baidu.com/static/api/js/share/slide_api.js": {
+    "rank": "26",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://bdimg.share.baidu.com/static/api/js/view/slide_view.js": {
+    "rank": "27",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://bdimg.share.baidu.com/static/api/js/base/tangram.js": {
+    "rank": "28",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://bdimg.share.baidu.com/static/api/js/share/api_base.js": {
+    "rank": "29",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://bdimg.share.baidu.com/static/api/js/view/view_base.js": {
+    "rank": "30",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://bdimg.share.baidu.com/static/api/js/component/partners.js": {
+    "rank": "31",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://vwo.com/wp-content/cache/autoptimize/1/js/autoptimize_single_e2baeeae85be84a1a27afc51eea10038.js": {
+    "rank": "32",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://vwo.com/wp-content/cache/autoptimize/1/js/autoptimize_single_75f8808dbb8323b160d674092b26eb90.js": {
+    "rank": "33",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://research.vwo.com/js/forms2/js/forms2.min.js": {
+    "rank": "34",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://js.sentry-cdn.com/b36129c57ba949159a1025ee2321642f.min.js": {
+    "rank": "35",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://vwo.com/wp-content/cache/autoptimize/1/js/autoptimize_single_f0cba76b7742df5f4c51e5b1d106c1a7.js": {
+    "rank": "36",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://vwo.com/wp-content/cache/autoptimize/1/js/autoptimize_single_bd023524e92783f2aef80299ee0ba6e6.js": {
+    "rank": "37",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://vwo.com/wp-content/cache/autoptimize/1/js/autoptimize_single_71903c502d9884f0933f2cd324be7df3.js": {
+    "rank": "38",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://vwo.com/wp-content/cache/autoptimize/1/js/autoptimize_single_9af9ce7b79123caa5969675776904980.js": {
+    "rank": "39",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://vwo.com/wp-content/cache/autoptimize/1/js/autoptimize_single_87e4313ce4103275a9bf7570391f1374.js": {
+    "rank": "40",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://vwo.com/wp-content/cache/autoptimize/1/js/autoptimize_single_c3075b9e4d5a35d19f086929298c4e0d.js": {
+    "rank": "41",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://vwo.com/wp-content/cache/autoptimize/1/js/autoptimize_single_483a3731bbe7046c1da3163da76dbe98.js": {
+    "rank": "42",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://vwo.com/wp-content/cache/autoptimize/1/js/autoptimize_single_3013c3f8ab556604e1daf859f7f8384e.js": {
+    "rank": "43",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://vwo.com/wp-content/themes/vwo/js/vendor/waypoints.min.js": {
+    "rank": "44",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://vwo.com/wp-content/cache/autoptimize/1/js/autoptimize_single_10259c5e6865e68f5e43be67aa5fcc17.js": {
+    "rank": "45",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://vwo.com/wp-content/cache/autoptimize/1/js/autoptimize_single_c73ba86bd67306c5889e9aac41e959e0.js": {
+    "rank": "46",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js": {
+    "rank": "47",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://www.googletagmanager.com/gtm.js": {
+    "rank": "48",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://platform.linkedin.com/in.js": {
+    "rank": "49",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://munchkin.marketo.net/munchkin.js": {
+    "rank": "50",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://munchkin.marketo.net/162/munchkin.js": {
+    "rank": "51",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn.cookielaw.org/scripttemplates/6.32.0/otBannerSdk.js": {
+    "rank": "52",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://www.linkedin.com/pages-extensions/FollowCompany.js": {
+    "rank": "53",
+    "x_xss": false,
+    "csp": true,
+    "x_content_type": true
+  },
+  "https://connect.facebook.net/en_US/fbevents.js": {
+    "rank": "54",
+    "x_xss": true,
+    "csp": true,
+    "x_content_type": true
+  },
+  "https://www.redditstatic.com/ads/pixel.js": {
+    "rank": "55",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn.taboola.com/libtrc/unip/1479272/tfa.js": {
+    "rank": "56",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://snap.licdn.com/li.lms-analytics/insight.min.js": {
+    "rank": "57",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://bat.bing.com/bat.js": {
+    "rank": "58",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://s.adroll.com/j/Y53CLKIUGFBEVPJGGICJYT/roundtrip.js": {
+    "rank": "59",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://bat.bing.com/p/action/6001478.js": {
+    "rank": "60",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://s.adroll.com/j/exp/Y53CLKIUGFBEVPJGGICJYT/index.js": {
+    "rank": "61",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://s.adroll.com/j/sendrolling.js": {
+    "rank": "62",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cse.google.com/cse.js": {
+    "rank": "63",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://www.google.com/cse/static/element/c23214b953e32f29/cse_element__en.js": {
+    "rank": "64",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://www.clarity.ms/eus-b-sc/s/0.7.2/clarity.js": {
+    "rank": "65",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://cse.google.com/adsense/search/async-ads.js": {
+    "rank": "66",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://platform.twitter.com/widgets.js": {
+    "rank": "67",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn-ukwest.onetrust.com/consent/59d1924f-7dda-4e44-b65c-efaddca1abce/OtAutoBlock.js": {
+    "rank": "68",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js": {
+    "rank": "69",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://plausible.io/js/plausible.js": {
+    "rank": "70",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js": {
+    "rank": "71",
+    "x_xss": true,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.8.1/lottie_light.min.js": {
+    "rank": "72",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.4/TweenLite.min.js": {
+    "rank": "73",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.4/TimelineLite.min.js": {
+    "rank": "74",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.4/easing/EasePack.min.js": {
+    "rank": "75",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.4/plugins/CSSPlugin.min.js": {
+    "rank": "76",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": true
+  },
+  "https://cdn-ukwest.onetrust.com/scripttemplates/6.30.0/otBannerSdk.js": {
+    "rank": "77",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn.dingxiang-inc.com/ctu-group/captcha-ui/index.js": {
+    "rank": "78",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn.dingxiang-inc.com/ctu-group/constid-js/index.js": {
+    "rank": "79",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://cdn.dingxiang-inc.com/ctu-group/ctu-greenseer/greenseer.js": {
+    "rank": "80",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://hmcdn.baidu.com/static/tongji/plugins/UrlChangeTracker.js": {
+    "rank": "81",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://g1.tagtic.cn/g.js": {
+    "rank": "82",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://g1.tagtic.cn/v1/xingyou/c/779.js": {
+    "rank": "83",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "http://g1.tagtic.cn/v1/xingyou/c/201998.js": {
+    "rank": "84",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://img.jiguang.cn/web/stat/grab-api.min.js": {
+    "rank": "85",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://img.jiguang.cn/jiguang/public/11d34b84a59d0583b3af.js": {
+    "rank": "86",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://img.jiguang.cn/jiguang/public/696f15f77d1b08b2ca53.js": {
+    "rank": "87",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://img.jiguang.cn/jiguang/public/daa0793ded9c6df2cdb5.js": {
+    "rank": "88",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://img.jiguang.cn/jiguang/public/29b28dce7d2ee7a549bd.js": {
+    "rank": "89",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://img.jiguang.cn/jiguang/public/e7167bea9ecf94ec7105.js": {
+    "rank": "90",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://img.jiguang.cn/jiguang/public/e9ce489ae64b40d6f10e.js": {
+    "rank": "91",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://img.jiguang.cn/jiguang/public/e61ef85dd2cefc199b24.js": {
+    "rank": "92",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://janalytics.jiguang.cn/v1/web/html/janalytics-p-web.min.js": {
+    "rank": "93",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://img.jiguang.cn/jiguang/public/42ee2e61c62f41ef3d7c.js": {
+    "rank": "94",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://img.jiguang.cn/jiguang/public/d1d997c8a6e1e214f71d.js": {
+    "rank": "95",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://img.jiguang.cn/jiguang/public/71ab04b1d241aeece42f.js": {
+    "rank": "96",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://res.suning.cn/project/cmsWeb/suning/homepage/v8/js/index.js": {
+    "rank": "97",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://res.suning.cn/javascript/sn_da/sa-analytics.js": {
+    "rank": "98",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://res.suning.cn/javascript/sn_da/da_opt.js": {
+    "rank": "99",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  },
+  "https://sa.suning.cn/cc.js": {
+    "rank": "100",
+    "x_xss": false,
+    "csp": false,
+    "x_content_type": false
+  }
+}

@@ -5,7 +5,7 @@ import requests
 import json
 import os
 
-from depen_analyze.constant import path
+from depen_analyze.constant import path, count
 from depen_analyze.utils import (
     js_util,
     private_analyzer,
@@ -247,7 +247,7 @@ def get_all_cdn(src: str, dest: str, start: int = 1) -> None:
                 "rank": rank,
                 "cdns": cdns
             }
-            if int(rank) % 100 == 0:
+            if int(rank) % count.STEP_SIZE == 0:
                 filename = f"{dest}cdn_start{start}_end{rank}.json"
                 with open(filename, "w") as f:
                     json.dump(result, f, indent=2)
@@ -276,15 +276,15 @@ def get_all_https(src: str, dest: str, start: int = 1) -> None:
                 "https": support_https,
                 "ocsp": support_ocsp
             }
-            if int(rank) % 100 == 0:
+            if int(rank) % count.STEP_SIZE == 0:
                 filename = f"{dest}https_start{start}_end{rank}.json"
                 with open(filename, "w") as f:
                     json.dump(result, f, indent=2)
-    if not os.path.exists(dest):
-        os.makedirs(dest)
-    dest_filename = f"{dest}https_start{start}.json"
-    with open(dest_filename, "w") as f:
-        json.dump(result, f, indent=2)
+        if not os.path.exists(dest):
+            os.makedirs(dest)
+        dest_filename = f"{dest}https_start{start}.json"
+        with open(dest_filename, "w") as f:
+            json.dump(result, f, indent=2)
     # base_util.notify("JS的HTTPS获取完毕")
 
 
@@ -311,7 +311,7 @@ def get_trans(src: str, dest: str, start: int) -> None:
                 "csp": csp,
                 "x_content_type": x_content_type,
             }
-            if int(rank) % 100 == 0:
+            if int(rank) % count.STEP_SIZE== 0:
                 filename = f"{dest}trans_start{start}_end{rank}.json"
                 with open(filename, "w") as f:
                     json.dump(result, f, indent=2)
@@ -344,7 +344,7 @@ def get_eval_docwrite(src: str, dest: str, start: int) -> None:
                 "eval": eval_cnt,
                 "doc_write": doc_write_cnt
             }
-            if int(rank)%100 == 0:
+            if int(rank)%count.STEP_SIZE == 0:
                 filename=f"{dest}eva_start{start}_end{rank}.json"
                 with open(filename,"w") as f:
                     json.dump(result,f,indent=2)
@@ -357,5 +357,57 @@ def get_eval_docwrite(src: str, dest: str, start: int) -> None:
 
 
 def get_dependency(src: str, dest: str, start: int):
+    result={}
+    driver = chrome_driver.get_driver()
     with open(src, "r") as f:
-        js_data = json.load(f)
+        data = json.load(f)
+    with tqdm(total=len(data)) as pbar:
+        pbar.set_description("get js dependency")
+    for rank, domain in data.items():
+        info = {
+            "rank": rank,
+            "has_cycle": False,
+            "weights": {}
+        }
+        root_url = ""
+        try:
+            har = js_util.get_har_log(driver, domain)
+            initiators = js_util.get_initiators(har)
+            for item_ in initiators:
+                for url in item_:
+                    if not url.endswith(".js"):
+                        root_url = url
+                        break
+            if not root_url:
+                if int(rank) % count.STEP_SIZE == 0:
+                    filename=f"{dest}js_depen{start}_end{rank}.json"
+                with open(filename,"w") as f:
+                    json.dump(result,f,indent=2)
+                result = {}
+                continue
+
+            root_node = js_util.Node(root_url)
+            edges = js_util.get_edges(initiators)
+            visited = [False] * len(edges)
+            has_cycle = False
+            node_set = set([root_url])
+
+            js_util.build_tree(root_node, edges, visited, node_set)
+            weights = js_util.get_node_weight(root_node)
+            weights = dict(sorted(weights.items(), key=lambda x: x[1], reverse=True))
+            info["has_cycle"] = has_cycle
+            info["weights"] = weights
+            result[domain] = info
+
+            if int(rank) % count.STEP_SIZE == 0:
+                filename=f"{dest}js_depen{start}_end{rank}.json"
+                with open(filename,"w") as f:
+                    json.dump(result,f,indent=2)
+                result = {}
+        except Exception as e:
+            raise(e)
+        finally:
+            filename=f"{dest}js_depen_error{start}_end{rank}.json"
+            with open(filename,"w") as f:
+                json.dump(result,f,indent=2)
+                
